@@ -4,8 +4,8 @@ date: 2025-05-29
 duration: "22 Days"
 location: "Leh, Ladakh, India"
 featured_image: "/assets/images/leh-main.jpg"
-summary: "An incredible 22-day road trip starting from the southern city of Bangalore in India, passing through atleast 9 different states. Moving through a diverse and often breathtaking landscapes of India, finally to land at Leh, featuring pristine lakes, ancient monasteries, and the world's highest motorable roads in the Indian Himalayas."
-excerpt: "Experience the magic of Little Tibet with stunning mountain passes, crystal-clear lakes, and rich Buddhist culture in one of the world's most spectacular high-altitude destinations."
+summary: "Embark on an extraordinary 22-day adventure beginning from the vibrant southern city of Bangalore, traversing at least nine distinct Indian states, each with its own rich tapestry of culture and scenery. Journey through lush forests, expansive deserts, and bustling towns, witnessing India's incredible diversity first-hand. As you ascend toward the majestic Himalayas, prepare to be awestruck by serene, turquoise lakes, ancient monasteries echoing centuries of history, and breathtaking vistas along some of the world’s highest motorable roads. Finally, immerse yourself in the ethereal beauty and tranquility of Leh, a jewel nestled in the rugged grandeur of the Himalayas, marking a fitting climax to a journey you'll never forget"
+excerpt: "Embarking on a thrilling 22-day road trip from Bangalore to Leh, exploring India's diverse landscapes, cultures, and Himalayan wonders"
 itinerary:
   - day: 1
     title: "Arrival in Pune"
