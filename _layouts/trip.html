@@ -60,7 +60,7 @@ layout: default
             <div class="photo-grid">
               {% for photo in day.photos %}
                 <div class="photo-item">
-                  <img src="{{ photo.url | relative_url }}" alt="{{ photo.caption }}">
+                  <img src="{{ photo.image | relative_url }}" alt="{{ photo.caption }}">
                   {% if photo.caption %}
                     <p class="photo-caption">{{ photo.caption }}</p>
                   {% endif %}
