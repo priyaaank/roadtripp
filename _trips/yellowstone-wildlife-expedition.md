@@ -12,7 +12,7 @@ itinerary:
   - day: 1
     title: "West Entrance and Geyser Country"
     date: "September 10, 2023"
-    featured_image: "/assets/images/yellowstone-day1.jpg"
+    featured_image: "/assets/images/yellowstone-main.jpg"
     description: |
       We entered Yellowstone through the West Entrance and immediately headed to see Old Faithful. The kids were mesmerized by the predictable eruption! We spent the afternoon exploring the Upper Geyser Basin boardwalk, seeing numerous geysers and hot springs.
     highlights:
@@ -21,9 +21,9 @@ itinerary:
       - "Upper Geyser Basin boardwalk"
       - "Visitor education center"
     photos:
-      - url: "/assets/images/old-faithful.jpg"
+      - url: "/assets/images/yellowstone-main.jpg"
         caption: "Perfect timing for Old Faithful eruption"
-      - url: "/assets/images/grand-prismatic.jpg"
+      - url: "/assets/images/yellowstone-main.jpg"
         caption: "Colorful Grand Prismatic Spring"
     accommodation:
       name: "Grant Village Lakehouse"
@@ -33,7 +33,7 @@ itinerary:
   - day: 2
     title: "Lamar Valley - America's Serengeti"
     date: "September 11, 2023"
-    featured_image: "/assets/images/yellowstone-day2.jpg"
+    featured_image: "/assets/images/yellowstone-main.jpg"
     description: |
       Early morning wildlife viewing in the famous Lamar Valley. We saw bison herds, elk, and even spotted a black bear from a safe distance! The kids loved using binoculars and our wildlife field guide to identify different species.
     highlights:
@@ -42,9 +42,9 @@ itinerary:
       - "Elk bugling season observation"
       - "Wolf watching with rangers"
     photos:
-      - url: "/assets/images/bison-herd.jpg"
+      - url: "/assets/images/yellowstone-main.jpg"
         caption: "Massive bison herd crossing the road"
-      - url: "/assets/images/black-bear.jpg"
+      - url: "/assets/images/yellowstone-main.jpg"
         caption: "Black bear with cubs in the distance"
     accommodation:
       name: "Grant Village Lakehouse"

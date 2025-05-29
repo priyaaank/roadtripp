@@ -186,12 +186,17 @@
         .timeline-item {
             position: relative;
             margin-bottom: 4rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         .timeline-content {
             display: flex;
             align-items: center;
             width: 100%;
+            max-width: 1000px;
+            position: relative;
         }
 
         .timeline-marker {
@@ -341,10 +346,14 @@
             transform: translateX(5px);
         }
 
-        /* Left side positioning */
+        /* Left side positioning (card on left, image on right) */
+        .timeline-item.left .timeline-content {
+            justify-content: flex-start;
+        }
+
         .timeline-item.left .timeline-card {
-            margin-right: auto;
-            margin-left: 0;
+            order: 1;
+            margin-right: 10%;
         }
 
         .timeline-item.left .timeline-card::before {
@@ -353,24 +362,28 @@
         }
 
         .timeline-item.left .timeline-visual {
-            margin-left: auto;
-            margin-right: 0;
+            order: 2;
+            margin-left: 10%;
         }
 
-        /* Right side positioning */
+        /* Right side positioning (image on left, card on right) */
+        .timeline-item.right .timeline-content {
+            justify-content: flex-end;
+        }
+
+        .timeline-item.right .timeline-visual {
+            order: 1;
+            margin-right: 10%;
+        }
+
         .timeline-item.right .timeline-card {
-            margin-left: auto;
-            margin-right: 0;
+            order: 2;
+            margin-left: 10%;
         }
 
         .timeline-item.right .timeline-card::before {
             left: -15px;
             border-right-color: white;
-        }
-
-        .timeline-item.right .timeline-visual {
-            margin-right: auto;
-            margin-left: 0;
         }
 
         /* Responsive design */
@@ -405,14 +418,18 @@
                 height: 60px;
             }
 
-            .timeline-card {
-                width: calc(100% - 90px);
-                margin-left: 90px !important;
-                margin-right: 0 !important;
+            .timeline-item {
+                display: block;
             }
 
-            .timeline-visual {
-                display: none;
+            .timeline-content {
+                display: block;
+                padding-left: 90px;
+            }
+
+            .timeline-card {
+                width: 100%;
+                margin: 0 !important;
             }
 
             .timeline-card::before {
@@ -420,6 +437,10 @@
                 right: auto !important;
                 border-right-color: white !important;
                 border-left-color: transparent !important;
+            }
+
+            .timeline-visual {
+                display: none;
             }
         }
     </style>

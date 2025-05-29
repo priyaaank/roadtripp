@@ -38,12 +38,15 @@
         background-color: var(--primary-color);
         transform: translateX(-50%);
         border-radius: 2px;
-        z-index: 1;
+        z-index: 0;
       }
       
       .timeline-item {
         position: relative;
         margin-bottom: 4rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         
         &:last-child {
           margin-bottom: 0;
@@ -53,6 +56,8 @@
           display: flex;
           align-items: center;
           width: 100%;
+          max-width: 1000px;
+          position: relative;
         }
         
         .timeline-marker {
@@ -137,6 +142,7 @@
             gap: 1rem;
             margin-bottom: 1.5rem;
             font-size: 0.9rem;
+            flex-wrap: wrap;
             
             span {
               background: var(--bg-off-white);
@@ -196,11 +202,15 @@
           }
         }
         
-        // Left side positioning
+        // Left side positioning (card on left, image on right)
         &.left {
+          .timeline-content {
+            justify-content: flex-start;
+          }
+          
           .timeline-card {
-            margin-right: auto;
-            margin-left: 0;
+            order: 1;
+            margin-right: 10%;
             
             &::before {
               right: -15px;
@@ -209,26 +219,30 @@
           }
           
           .timeline-visual {
-            margin-left: auto;
-            margin-right: 0;
+            order: 2;
+            margin-left: 10%;
           }
         }
         
-        // Right side positioning
+        // Right side positioning (image on left, card on right)
         &.right {
+          .timeline-content {
+            justify-content: flex-end;
+          }
+          
+          .timeline-visual {
+            order: 1;
+            margin-right: 10%;
+          }
+          
           .timeline-card {
-            margin-left: auto;
-            margin-right: 0;
+            order: 2;
+            margin-left: 10%;
             
             &::before {
               left: -15px;
               border-right-color: white;
             }
-          }
-          
-          .timeline-visual {
-            margin-right: auto;
-            margin-left: 0;
           }
         }
       }
@@ -259,6 +273,9 @@
         }
         
         .timeline-item {
+          display: block;
+          margin-bottom: 3rem;
+          
           .timeline-marker {
             left: 30px;
             
@@ -268,15 +285,20 @@
             }
           }
           
+          .timeline-content {
+            display: block;
+            padding-left: 90px;
+          }
+          
           .timeline-card {
-            width: calc(100% - 90px);
-            margin-left: 90px;
-            margin-right: 0;
+            width: 100%;
+            margin: 0 !important;
             
             &::before {
-              left: -15px;
-              border-right-color: white;
-              border-left-color: transparent;
+              left: -15px !important;
+              right: auto !important;
+              border-right-color: white !important;
+              border-left-color: transparent !important;
             }
           }
           
@@ -284,16 +306,28 @@
             display: none;
           }
           
-          &.left .timeline-card,
-          &.right .timeline-card {
-            margin-left: 90px;
-            margin-right: 0;
+          &.left,
+          &.right {
+            .timeline-content {
+              display: block;
+              padding-left: 90px;
+            }
             
-            &::before {
-              left: -15px;
-              right: auto;
-              border-right-color: white;
-              border-left-color: transparent;
+            .timeline-card {
+              width: 100%;
+              margin: 0 !important;
+              order: initial;
+              
+              &::before {
+                left: -15px !important;
+                right: auto !important;
+                border-right-color: white !important;
+                border-left-color: transparent !important;
+              }
+            }
+            
+            .timeline-visual {
+              display: none;
             }
           }
         }

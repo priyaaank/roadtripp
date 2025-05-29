@@ -12,7 +12,7 @@ itinerary:
   - day: 1
     title: "Arrival and South Rim Exploration"
     date: "January 15, 2024"
-    featured_image: "/assets/images/grand-canyon-day1.jpg"
+    featured_image: "/assets/images/grand-canyon-main.jpg"
     description: |
       We arrived at the Grand Canyon South Rim in the afternoon after a scenic 4-hour drive from Phoenix. The kids were amazed by their first glimpse of this natural wonder! We spent the evening walking along the Rim Trail and watching our first Grand Canyon sunset.
     highlights:
@@ -21,7 +21,7 @@ itinerary:
       - "Visitor center orientation and Junior Ranger program signup"
       - "Evening stargazing session"
     photos:
-      - url: "/assets/images/first-view.jpg"
+      - url: "/assets/images/grand-canyon-main.jpg"
         caption: "The kids' reaction to their first Grand Canyon view"
       - url: "/assets/images/sunset-day1.jpg"
         caption: "Beautiful sunset from Hopi Point"
@@ -33,7 +33,7 @@ itinerary:
   - day: 2
     title: "Desert View Drive and Watchtower"
     date: "January 16, 2024"
-    featured_image: "/assets/images/grand-canyon-day2.jpg"
+    featured_image: "/assets/images/grand-canyon-main.jpg"
     description: |
       Today we took the scenic Desert View Drive, stopping at multiple viewpoints along the way. The highlight was climbing the Desert View Watchtower for incredible 360-degree views. The kids loved the Native American petroglyphs and learning about the area's history.
     highlights:
@@ -53,7 +53,7 @@ itinerary:
   - day: 3
     title: "Bright Angel Trail Hike"
     date: "January 17, 2024"
-    featured_image: "/assets/images/grand-canyon-day3.jpg"
+    featured_image: "/assets/images/grand-canyon-main.jpg"
     description: |
       Our most adventurous day! We hiked down the Bright Angel Trail to the 1.5-mile rest house. The kids did amazing and we packed plenty of snacks and water. The views from inside the canyon were completely different and absolutely stunning.
     highlights:
@@ -75,7 +75,7 @@ itinerary:
   - day: 4
     title: "IMAX Theater and Village Exploration"
     date: "January 18, 2024"
-    featured_image: "/assets/images/grand-canyon-day4.jpg"
+    featured_image: "/assets/images/grand-canyon-main.jpg"
     description: |
       A more relaxed day perfect for the kids. We watched the Grand Canyon IMAX movie, explored the historic village buildings, and did some souvenir shopping. The afternoon was spent at the Kolb Studio learning about early Grand Canyon photography.
     highlights:
@@ -84,7 +84,7 @@ itinerary:
       - "Kolb Studio photography exhibit"
       - "Junior Ranger badge ceremony"
     photos:
-      - url: "/assets/images/historic-village.jpg"
+      - url: "/assets/images/grand-canyon-main.jpg"
         caption: "Exploring the historic Grand Canyon Village"
       - url: "/assets/images/junior-rangers.jpg"
         caption: "Kids receiving their Junior Ranger badges"
