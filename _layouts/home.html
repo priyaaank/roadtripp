@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="hero-section">
+    <h1 class="hero-title">{{ site.title }}</h1>
+    <p class="hero-description">{{ site.description }}</p>
+  </div>
+
+  <div class="timeline-section">
+    <div class="timeline-container">
+      <div class="timeline-line"></div>
+      
+      {%- assign sorted_trips = site.trips | sort: 'date' | reverse -%}
+      {%- for trip in sorted_trips -%}
+        <div class="timeline-item {{ cycle 'left', 'right' }}">
+          <div class="timeline-content">
+            <div class="timeline-marker">
+              <img src="{{ trip.featured_image | relative_url }}" alt="{{ trip.title }}" class="timeline-image">
+            </div>
+            
+            <div class="timeline-card">
+              <div class="timeline-date">{{ trip.date | date: "%B %d, %Y" }}</div>
+              <h3 class="timeline-title">
+                <a href="{{ trip.url | relative_url }}">{{ trip.title }}</a>
+              </h3>
+              <p class="timeline-excerpt">{{ trip.excerpt | strip_html | truncatewords: 20 }}</p>
+              <div class="timeline-meta">
+                <span class="duration">{{ trip.duration }}</span>
+                <span class="location">{{ trip.location }}</span>
+              </div>
+              <a href="{{ trip.url | relative_url }}" class="read-more">Read More →</a>
+            </div>
+          </div>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div> 

@@ -1,0 +1,49 @@
+# Site settings
+title: "RoadTripp Adventures"
+email: your-email@example.com
+description: "Documenting our family road trips and adventures across the country. Join us as we explore new places, create memories, and share our journey with you."
+baseurl: ""
+url: "https://username.github.io"
+twitter_username: yourusername
+github_username: yourusername
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+# Collections
+collections:
+  trips:
+    output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "trips"
+    values:
+      layout: "trip"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post" 

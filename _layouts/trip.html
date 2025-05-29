@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<article class="trip-post">
+  <header class="trip-header">
+    <div class="trip-featured-image">
+      <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    <div class="trip-header-content">
+      <h1 class="trip-title">{{ page.title }}</h1>
+      <div class="trip-meta">
+        <span class="trip-date">{{ page.date | date: "%B %d, %Y" }}</span>
+        <span class="trip-duration">{{ page.duration }}</span>
+        <span class="trip-location">{{ page.location }}</span>
+      </div>
+      <p class="trip-summary">{{ page.summary }}</p>
+    </div>
+  </header>
+
+  <div class="trip-content">
+    <div class="trip-overview">
+      {{ content }}
+    </div>
+
+    {% if page.itinerary %}
+    <div class="itinerary-section">
+      <h2>Day-by-Day Itinerary</h2>
+      {% for day in page.itinerary %}
+        <div class="day-card">
+          <div class="day-header">
+            <h3>Day {{ day.day }}: {{ day.title }}</h3>
+            <span class="day-date">{{ day.date }}</span>
+          </div>
+          
+          {% if day.featured_image %}
+          <div class="day-featured-image">
+            <img src="{{ day.featured_image | relative_url }}" alt="Day {{ day.day }}">
+          </div>
+          {% endif %}
+          
+          <div class="day-content">
+            {{ day.description | markdownify }}
+          </div>
+          
+          {% if day.highlights %}
+          <div class="day-highlights">
+            <h4>Highlights</h4>
+            <ul>
+              {% for highlight in day.highlights %}
+                <li>{{ highlight }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          
+          {% if day.photos %}
+          <div class="day-photos">
+            <h4>Photos</h4>
+            <div class="photo-grid">
+              {% for photo in day.photos %}
+                <div class="photo-item">
+                  <img src="{{ photo.url | relative_url }}" alt="{{ photo.caption }}">
+                  {% if photo.caption %}
+                    <p class="photo-caption">{{ photo.caption }}</p>
+                  {% endif %}
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
+          
+          {% if day.accommodation %}
+          <div class="day-accommodation">
+            <h4>Where We Stayed</h4>
+            <p><strong>{{ day.accommodation.name }}</strong></p>
+            <p>{{ day.accommodation.address }}</p>
+            {% if day.accommodation.notes %}
+              <p class="accommodation-notes">{{ day.accommodation.notes }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  <footer class="trip-footer">
+    <div class="trip-navigation">
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
+          ← {{ page.previous.title }}
+        </a>
+      {% endif %}
+      
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-link next">
+          {{ page.next.title }} →
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="back-to-timeline">
+      <a href="{{ '/' | relative_url }}" class="btn btn-primary">← Back to Timeline</a>
+    </div>
+  </footer>
+</article> 

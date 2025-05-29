@@ -1,0 +1,71 @@
+// Responsive utility classes
+.hidden-mobile {
+  @media (max-width: 768px) {
+    display: none !important;
+  }
+}
+
+.hidden-desktop {
+  @media (min-width: 769px) {
+    display: none !important;
+  }
+}
+
+.text-center-mobile {
+  @media (max-width: 768px) {
+    text-align: center !important;
+  }
+}
+
+// Page content responsive adjustments
+.page-content {
+  .wrapper {
+    @media (max-width: 480px) {
+      padding: 0 10px;
+    }
+  }
+}
+
+// Global responsive typography
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.75rem; }
+  h3 { font-size: 1.4rem; }
+  h4 { font-size: 1.15rem; }
+  
+  body {
+    font-size: 14px;
+  }
+}
+
+// Small mobile adjustments
+@media (max-width: 480px) {
+  .wrapper {
+    padding: 0 10px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+  
+  // Adjust card padding for small screens
+  .timeline-card,
+  .day-card,
+  .trip-overview {
+    padding: 1rem !important;
+  }
+}
+
+// Touch-friendly interactions
+@media (hover: none) and (pointer: coarse) {
+  .timeline-item:hover,
+  .day-card:hover,
+  .photo-item:hover {
+    transform: none;
+  }
+  
+  .btn:hover {
+    transform: none;
+  }
+} 

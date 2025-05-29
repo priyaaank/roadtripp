@@ -1,0 +1,109 @@
+.site-header {
+  background-color: var(--primary-color);
+  box-shadow: var(--shadow-light);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  
+  .site-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+    
+    .nav-brand {
+      .site-title {
+        color: white;
+        font-size: 1.8rem;
+        font-weight: 700;
+        margin: 0;
+        transition: var(--transition-fast);
+        
+        &:hover {
+          transform: scale(1.05);
+        }
+      }
+      
+      a {
+        color: white;
+        text-decoration: none;
+        
+        &:hover {
+          color: white;
+          text-decoration: none;
+        }
+      }
+    }
+    
+    .nav-menu {
+      display: flex;
+      gap: 2rem;
+      
+      .nav-link {
+        color: white;
+        font-weight: 500;
+        padding: 0.5rem 1rem;
+        border-radius: var(--border-radius-small);
+        transition: var(--transition);
+        
+        &:hover {
+          background-color: rgba(255, 255, 255, 0.2);
+          color: white;
+          text-decoration: none;
+          transform: translateY(-2px);
+        }
+        
+        &.active {
+          background-color: rgba(255, 255, 255, 0.3);
+          font-weight: 600;
+        }
+      }
+    }
+    
+    .nav-toggle {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      
+      span {
+        width: 25px;
+        height: 3px;
+        background-color: white;
+        margin: 3px 0;
+        transition: var(--transition);
+        border-radius: 2px;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .site-header {
+    .site-nav {
+      .nav-menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: var(--primary-color);
+        flex-direction: column;
+        padding: 1rem;
+        box-shadow: var(--shadow-medium);
+        
+        &.active {
+          display: flex;
+        }
+        
+        .nav-link {
+          text-align: center;
+          padding: 1rem;
+        }
+      }
+      
+      .nav-toggle {
+        display: flex;
+      }
+    }
+  }
+} 

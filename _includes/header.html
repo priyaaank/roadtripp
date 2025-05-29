@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="wrapper">
+    <nav class="site-nav">
+      <div class="nav-brand">
+        <a href="{{ "/" | relative_url }}">
+          <h1 class="site-title">{{ site.title | escape }}</h1>
+        </a>
+      </div>
+      
+      <div class="nav-menu">
+        <a href="{{ "/" | relative_url }}" class="nav-link {% if page.url == "/" %}active{% endif %}">Home</a>
+        <a href="{{ "/about/" | relative_url }}" class="nav-link {% if page.url == "/about/" %}active{% endif %}">About</a>
+        <a href="{{ "/trips/" | relative_url }}" class="nav-link {% if page.url contains "/trips/" %}active{% endif %}">All Trips</a>
+      </div>
+      
+      <div class="nav-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </div>
+</header> 
