@@ -10,23 +10,23 @@ itinerary:
   - day: 1
     title: "Arrival in Pune"
     date: "May 24, 2025"
-    featured_image: "/assets/images/leh-main.jpg"
-    description: "Landed in Leh at 11,500 feet! First day dedicated to acclimatization. Gentle walks around Leh town, visited the local market, and tried authentic Ladakhi cuisine. The mountain air is crisp and the views are absolutely stunning."
+    featured_image: "/assets/images/day1-pune-main.jpg"
+    description: "Pune was the first pitstop in our journey. This city was special to halt at, because we were married here, purchased our first house and Sara was born here. This is the first time we were visiting Pune as a family. On Day 1, we started at 4:45 am from Bangalore. We drove for two hours and stopped for breakfast at A2B in Sira. The food was ok, nothing to write home about. Our next stop was Big Mishra in Dharwad. Big Mishra is famous for its pedas. Along with the sweets we grabbed a quick bite. While the peda was authentic and scrumptious, food was again ok. We were greeted by heavy traffic near Kolhapur and Malkapur. The roads also had fair amount of construction and diversions along the way after Belgavi. We stopped for an early dinner at Manas restobar. Their Mutton thali is not to be missed. The paya soup was also amazing. We drove non-stop to Pune and were greeted by traffic snarls while entering the city and tool almost 2 hours to cover 25 kilometres. Overall our drive took around 14 hours or so."
     highlights:
-      - "Safe arrival and hotel check-in"
-      - "Acclimatization walk around Leh town"
-      - "First taste of Ladakhi momos and thukpa"
-      - "Shopping for warm clothes at Main Bazaar"
-      - "Early rest to adjust to altitude"
+      - "Rains and pleasant weather"
+      - "Construction and diversions after Belgavi and before Satara"
+      - "Peda at Big Mishra @ Dharwad"
+      - "Traffic snarls near Kohlapur and as we entered the city of Pune"
+      - "The mutton thali at Manas restobar near Satara"
     photos:
-      - image: "/assets/images/leh-main.jpg"
-        caption: "First glimpse of Leh from the aircraft"
-      - image: "/assets/images/leh-market.jpg"
-        caption: "Colorful local market in Leh"
+      - image: "/assets/images/day1-starting-trip.jpg"
+        caption: "Kickstarting our trip at 4:45 am from Bangalore"
+      - image: "/assets/images/day1-pune-main.jpg"
+        caption: "Radina at wheel while we all goof around"
     accommodation:
-      name: "The Grand Dragon Ladakh"
-      location: "Leh Town"
-      notes: "Comfortable hotel with oxygen supply in rooms - essential for first night acclimatization"
+      name: "Taj Vivanta"
+      location: "Hinjewadi, Pune"
+      notes: "Comfortable hotel. Not the best Taj experience, value for money"
 
   - day: 2
     title: "Leh Local Sightseeing"
