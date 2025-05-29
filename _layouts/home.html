@@ -14,7 +14,7 @@ layout: default
       
       {%- assign sorted_trips = site.trips | sort: 'date' | reverse -%}
       {%- for trip in sorted_trips -%}
-        <div class="timeline-item {{ cycle 'left', 'right' }}">
+        <div class="timeline-item {% cycle "left", "right" %}">
           <div class="timeline-content">
             <div class="timeline-marker">
               <img src="{{ trip.featured_image | relative_url }}" alt="{{ trip.title }}" class="timeline-image">
@@ -31,6 +31,10 @@ layout: default
                 <span class="location">{{ trip.location }}</span>
               </div>
               <a href="{{ trip.url | relative_url }}" class="read-more">Read More →</a>
+            </div>
+
+            <div class="timeline-visual">
+              <img src="{{ trip.featured_image | relative_url }}" alt="{{ trip.title }}">
             </div>
           </div>
         </div>

@@ -15,6 +15,63 @@ Your blog now uses the new color scheme:
 
 This is the easiest way to run Jekyll locally without installing Ruby or dealing with dependencies:
 
+#### For Apple M2/M3 (ARM64) Machines:
+
+**Method 1: Using Ruby Alpine with Jekyll (Recommended for M2):**
+```bash
+# Navigate to your project directory
+cd /path/to/roadtripp
+
+# Run Jekyll using Ruby Alpine base image (supports ARM64)
+docker run --rm -it \
+  -v "$PWD":/usr/src/app \
+  -w /usr/src/app \
+  -p 4000:4000 \
+  -p 35729:35729 \
+  ruby:3.1-alpine \
+  sh -c "apk add --no-cache build-base && gem install jekyll bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"
+
+# Your site will be available at: http://localhost:4000
+```
+
+**Method 2: Using Docker Compose (Create once, run many times):**
+Create a `docker-compose.yml` file in your project root:
+```yaml
+version: '3.8'
+services:
+  jekyll:
+    image: ruby:3.1-alpine
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    command: sh -c "apk add --no-cache build-base && gem install jekyll bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"
+```
+
+Then run:
+```bash
+docker-compose up
+```
+
+**Method 3: Allow Emulation (Slower but Simple):**
+```bash
+# Navigate to your project directory
+cd /path/to/roadtripp
+
+# Run with emulation (slower but works)
+docker run --rm -it \
+  -v "$PWD":/usr/src/app \
+  -p 4000:4000 \
+  -p 35729:35729 \
+  jekyll/jekyll:latest \
+  jekyll serve --host 0.0.0.0 --livereload
+
+# Your site will be available at: http://localhost:4000
+```
+
+#### For Intel Macs or Other x86 Machines:
 ```bash
 # Navigate to your project directory
 cd /path/to/roadtripp
@@ -23,6 +80,7 @@ cd /path/to/roadtripp
 docker run --rm -it \
   -v "$PWD":/usr/src/app \
   -p 4000:4000 \
+  -p 35729:35729 \
   jekyll/jekyll:latest \
   jekyll serve --host 0.0.0.0 --livereload
 
@@ -30,10 +88,12 @@ docker run --rm -it \
 ```
 
 **Benefits:**
-- No local Ruby installation required
-- Consistent environment
-- Auto-refresh when files change (--livereload)
-- Works on macOS, Windows, and Linux
+- **Native ARM64 support** with Ruby Alpine image
+- **No local Ruby installation** required
+- **Consistent environment** across different machines
+- **Auto-refresh** when files change (--livereload)
+- **Docker Compose option** for easier repeated use
+- **Works on macOS, Windows, and Linux**
 
 ### Option 2: Using rbenv (macOS/Linux)
 
@@ -89,6 +149,36 @@ bundle exec jekyll serve --livereload
 
 ## Troubleshooting Common Issues
 
+### Docker Platform Issues (Apple Silicon)
+If you get the error "platform (linux/amd64) does not match the specified platform (linux/arm64)":
+
+**Solution 1: Use Ruby Alpine Base Image (Recommended)**
+```bash
+# This works natively on M2 Macs
+docker run --rm -it \
+  -v "$PWD":/usr/src/app \
+  -w /usr/src/app \
+  -p 4000:4000 \
+  ruby:3.1-alpine \
+  sh -c "apk add --no-cache build-base && gem install jekyll bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
+
+**Solution 2: Allow Docker Emulation**
+```bash
+# Remove --platform flag to allow emulation
+docker run --rm -it \
+  -v "$PWD":/usr/src/app \
+  -p 4000:4000 \
+  jekyll/jekyll:latest \
+  jekyll serve --host 0.0.0.0 --livereload
+```
+
+**Solution 3: Check Available Platforms**
+```bash
+# Check what platforms are available for the image
+docker manifest inspect jekyll/jekyll:latest
+```
+
 ### Jekyll Won't Install (macOS)
 If you encounter C++ compiler errors:
 ```bash
@@ -118,13 +208,14 @@ bundle exec jekyll serve
 # Make sure you're using the --livereload flag
 bundle exec jekyll serve --livereload
 
-# Or for Docker:
+# For Docker with both ports exposed:
 docker run --rm -it \
   -v "$PWD":/usr/src/app \
+  -w /usr/src/app \
   -p 4000:4000 \
   -p 35729:35729 \
-  jekyll/jekyll:latest \
-  jekyll serve --host 0.0.0.0 --livereload
+  ruby:3.1-alpine \
+  sh -c "apk add --no-cache build-base && gem install jekyll bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"
 ```
 
 ## Development Workflow
@@ -174,7 +265,7 @@ roadtripp/
 
 ## Next Steps
 
-1. **Start with Docker option** if you want to avoid Ruby setup
+1. **Start with Docker option** (use ARM64 command for M2 Mac)
 2. **Edit `_config.yml`** to customize site title and info
 3. **Add your own trip files** to `_trips/` folder
 4. **Upload your photos** to `assets/images/`
@@ -201,6 +292,7 @@ Your current colors work great, but if you want to experiment:
 ## Support
 
 - **Immediate preview**: Open `demo.html` in browser
+- **M2 Mac users**: Use the ARM64 Docker command above
 - **Docker issues**: Make sure Docker Desktop is running
 - **Ruby issues**: Use Docker option instead
 - **General help**: Check the main `README.md`

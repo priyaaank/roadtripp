@@ -1,3 +1,10 @@
+// Use component styles (must be at the top)
+@use 'header';
+@use 'timeline';
+@use 'trip';
+@use 'footer';
+@use 'responsive';
+
 // Color Palette - Bright and cheerful travel theme
 :root {
   --primary-color: #F25F5C;
@@ -125,11 +132,4 @@ a {
   &.btn-accent {
     background-color: var(--accent-color);
   }
-}
-
-// Import component styles
-@import 'header';
-@import 'timeline';
-@import 'trip';
-@import 'footer';
-@import 'responsive'; 
+} 
