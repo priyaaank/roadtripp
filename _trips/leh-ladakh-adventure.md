@@ -33,25 +33,27 @@ itinerary:
       notes: "Comfortable hotel. Not the best Taj experience, value for money"
 
   - day: 2
-    title: "Leh Local Sightseeing"
-    date: "March 21, 2023"
-    featured_image: "/assets/images/leh-main.jpg"
-    description: "Explored the rich Buddhist heritage of Leh. Visited ancient monasteries and palaces, each offering incredible views and spiritual tranquility. The blend of Tibetan Buddhism and stunning Himalayan backdrop is mesmerizing."
+    title: "Drive to Mumbai after day in Pune"
+    date: "May 25, 2023"
+    featured_image: "/assets/images/day2-family-meet.jpg"
+    description: "We woke up fresh after a goodnight's rest. we had brekfast and went for a drive. Then we stoped in a car wash stop and gave the car for wash. Then we went to meet reletives and then drove to mumbai. The traffic on one of the tolls took at least 45 minutes. Then we reached at another relitives house as we were staying there as we entered mumbai there was heavy rainfall as they were having premonsone."
     highlights:
-      - "Thiksey Monastery morning prayers"
-      - "Hemis Monastery - largest in Ladakh"
-      - "Leh Palace panoramic views"
-      - "Shanti Stupa sunset experience"
-      - "Traditional Ladakhi dinner"
+      - "Got an external car wash with a car-wash service - Paid INR 250"
+      - "Met extended family"
+      - "Drove down to Mumbai"
+      - "Traffic woes at Mumbai Pune expressway toll-gate"
+      - "Crazy rains and thunderstorm enroute and in Mumbai"
     photos:
-      - image: "/assets/images/leh-main.jpg"
-        caption: "Beautiful Thiksey Monastery at sunrise"
-      - image: "/assets/images/shanti-stupa.jpg"
-        caption: "Peaceful Shanti Stupa overlooking Leh"
+      - image: "/assets/images/day2-car-wash.jpg"
+        caption: "Getting the overdue car wash"
+      - image: "/assets/images/day2-family-meet.jpg"
+        caption: "Happy to meet extended family after long"
+      - image: "/assets/images/day2-mumbai-rains.jpg"
+        caption: "Mumbai rains in their full form"
     accommodation:
-      name: "The Grand Dragon Ladakh"
-      location: "Leh Town"
-      notes: "Second night in Leh for complete acclimatization"
+      name: "With family"
+      location: "Navi Mumbai"
+      notes: "Nothing like home"
 
   - day: 3
     title: "Magnetic Hill & Sangam Point"
