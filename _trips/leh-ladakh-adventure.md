@@ -1,15 +1,15 @@
 ---
-title: "Leh Ladakh High Altitude Adventure"
-date: 2023-03-20
-duration: "8 Days"
+title: "Road trip - Bangalore to Leh!"
+date: 2025-05-29
+duration: "22 Days"
 location: "Leh, Ladakh, India"
 featured_image: "/assets/images/leh-main.jpg"
-summary: "An incredible 8-day journey through the breathtaking landscapes of Leh Ladakh, featuring pristine lakes, ancient monasteries, and the world's highest motorable roads in the Indian Himalayas."
+summary: "An incredible 22-day road trip starting from the southern city of Bangalore in India, passing through atleast 9 different states. Moving through a diverse and often breathtaking landscapes of India, finally to land at Leh, featuring pristine lakes, ancient monasteries, and the world's highest motorable roads in the Indian Himalayas."
 excerpt: "Experience the magic of Little Tibet with stunning mountain passes, crystal-clear lakes, and rich Buddhist culture in one of the world's most spectacular high-altitude destinations."
 itinerary:
   - day: 1
-    title: "Arrival in Leh"
-    date: "March 20, 2023"
+    title: "Arrival in Pune"
+    date: "May 24, 2025"
     featured_image: "/assets/images/leh-main.jpg"
     description: "Landed in Leh at 11,500 feet! First day dedicated to acclimatization. Gentle walks around Leh town, visited the local market, and tried authentic Ladakhi cuisine. The mountain air is crisp and the views are absolutely stunning."
     highlights:
