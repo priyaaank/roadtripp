@@ -92,6 +92,7 @@ itinerary:
       name: "The Grand Dragon Ladakh"
       location: "Leh Town"
       notes: "Last night in Leh before heading to higher altitudes"
+---
 
 Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment was filled with wonder.
 
