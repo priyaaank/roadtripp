@@ -73,25 +73,29 @@ itinerary:
       notes: "Nothig like home"
 
   - day: 5
-    title: "Magnetic Hill & Sangam Point"
-    date: "March 22, 2023"
+    title: "Driving Mumbai to Ahemdabad"
+    date: "May 28, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "Day trip to famous attractions around Leh. Experienced the mysterious Magnetic Hill phenomenon and witnessed the stunning confluence of Indus and Zanskar rivers. The landscape is otherworldly!"
+    description: "We drove down from Mumbai to Ahemdabad. The started at 5:40 am, took a break at Vasai at 7 am and resumed at 9 am. We arrived in Ahemdabad at around 6:30 pm. Our route was Vasai, Vapi, Surat, Bharuch, Vadodara and Ahemdabad. The toad till Vadodara was heavy truck traffic and tiring driving experience. From Bharuch, we shifted from NH48 to NE4. The NE4 was amazing to drive on, the speed limit was 120 KM/Hr. It significantly sped up the total travel time and we recommend it. After Vadodara, we joined back NE1 or NH48 and while it was not an expressway, it was a good drive as well and this part of the journey was a pleasent drive. Overall driving time was around 12 hours from Navi Mumbai. We had a quick tea at Hotel Ahura, which we hear is great for Irani delicacies. We grabbed a tea and muska bun. It was nice. The toilets were not that clean but had Indian setup, so could be used. We grabbed our lunch at Thakkar's Hotel Jalaram Kathiyawad after Kamrej. There are many restaurants with the same name along the way, possibly a chain or different ones. While the place felt a bit dark with lack of lighting, the food and thali were fresh and definitely a value for money and tasty! The toilets were not that clean however, but had Indian option so were usable"
     highlights:
-      - "Magnetic Hill gravity-defying experience"
-      - "Gurudwara Pathar Sahib visit"
-      - "Sangam Point - rivers confluence"
-      - "Traditional Ladakhi lunch"
-      - "Photography at Indus Valley viewpoints"
+      - "Truck traffic between Mumbai and Ahemdabad"
+      - "Gujrati Thali at Jalaram Kathiyawad"
+      - "NE4 drive from Bharuch to Vadodara"
     photos:
-      - image: "/assets/images/magnetic-hill.jpg"
-        caption: "Car seemingly rolling uphill at Magnetic Hill"
-      - image: "/assets/images/sangam-point.jpg"
-        caption: "Confluence of Indus and Zanskar rivers"
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+      - image: "/assets/images/day5-kickstarting-journey.jpg"
+        caption: "Seeing off family before we kick start the next leg of the journey"
+      - image: "/assets/images/day5-hotelahura.jpg"
+        caption: "Quick stop for tea and bun muska at a Irani Restautant"
+      - image: "/assets/images/day5-jalaram.jpg"
+        caption: "The Jalaram Kathiaywad stop for lunch"
+      - image: "/assets/images/day5-highway.jpg"
+        caption: "The smooth drive on NE4 after Bharuch"
     accommodation:
-      name: "The Grand Dragon Ladakh"
-      location: "Leh Town"
-      notes: "Last night in Leh before heading to higher altitudes"
+      name: "Renaissance Ahmedabad Hotel"
+      location: "Ahemdabad"
+      notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
 ---
 
 Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment was filled with wonder.
