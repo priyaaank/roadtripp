@@ -56,25 +56,21 @@ itinerary:
       notes: "Nothing like home"
 
   - day: 3 & 4
-    title: "Magnetic Hill & Sangam Point"
-    date: "March 22, 2023"
+    title: "  Days in mumbai  "
+    date: "May 26 and 27, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "Day trip to famous attractions around Leh. Experienced the mysterious Magnetic Hill phenomenon and witnessed the stunning confluence of Indus and Zanskar rivers. The landscape is otherworldly!"
+    description: "We stayed at a relitives house and relaxed deu to the red aleart in mumbai. There was lightning and thunder and it was very scary for a person who is not use to it."
     highlights:
-      - "Magnetic Hill gravity-defying experience"
-      - "Gurudwara Pathar Sahib visit"
-      - "Sangam Point - rivers confluence"
-      - "Traditional Ladakhi lunch"
-      - "Photography at Indus Valley viewpoints"
+      - " Heavy rainafall which was very scary"
     photos:
       - image: "/assets/images/magnetic-hill.jpg"
         caption: "Car seemingly rolling uphill at Magnetic Hill"
       - image: "/assets/images/sangam-point.jpg"
         caption: "Confluence of Indus and Zanskar rivers"
     accommodation:
-      name: "The Grand Dragon Ladakh"
-      location: "Leh Town"
-      notes: "Last night in Leh before heading to higher altitudes"
+      name: "With family"
+      location: "Navi Mumbai"
+      notes: "Nothig like home"
 
   - day: 5
     title: "Magnetic Hill & Sangam Point"
@@ -96,8 +92,6 @@ itinerary:
       name: "The Grand Dragon Ladakh"
       location: "Leh Town"
       notes: "Last night in Leh before heading to higher altitudes"
-
----
 
 Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment was filled with wonder.
 
