@@ -55,7 +55,28 @@ itinerary:
       location: "Navi Mumbai"
       notes: "Nothing like home"
 
-  - day: 3
+  - day: 3 & 4
+    title: "Magnetic Hill & Sangam Point"
+    date: "March 22, 2023"
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: "Day trip to famous attractions around Leh. Experienced the mysterious Magnetic Hill phenomenon and witnessed the stunning confluence of Indus and Zanskar rivers. The landscape is otherworldly!"
+    highlights:
+      - "Magnetic Hill gravity-defying experience"
+      - "Gurudwara Pathar Sahib visit"
+      - "Sangam Point - rivers confluence"
+      - "Traditional Ladakhi lunch"
+      - "Photography at Indus Valley viewpoints"
+    photos:
+      - image: "/assets/images/magnetic-hill.jpg"
+        caption: "Car seemingly rolling uphill at Magnetic Hill"
+      - image: "/assets/images/sangam-point.jpg"
+        caption: "Confluence of Indus and Zanskar rivers"
+    accommodation:
+      name: "The Grand Dragon Ladakh"
+      location: "Leh Town"
+      notes: "Last night in Leh before heading to higher altitudes"
+
+  - day: 5
     title: "Magnetic Hill & Sangam Point"
     date: "March 22, 2023"
     featured_image: "/assets/images/leh-day3.jpg"
