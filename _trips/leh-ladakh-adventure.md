@@ -103,9 +103,10 @@ itinerary:
     featured_image: "/assets/images/leh-day3.jpg"
     description: "We woke up and went for swimming at aroud 9:30 to 10:30. It was around 37 to 40 c. Then we changed and went for breakfast. The food was okay exept for the french toast. The egg in the french toast was raw. We could not do much that afternoon cause of the heat, so we went to the cinema and watched a movie called Lilo and Stitch. It is about a hawain girl called lilo who lives with her sister, nani. One day a space creature comes and lilo acidenttaly adopts it. the movi was very good. In the evening when it got a bit cooler we went to see a flower park and the atul bridge. the place was really nice and you must visit it. We entered from gate number 3. There was no issue with the parking because there is a multylevel parking rightin front of the gate. At dinner tine we stoped at a thali place called Gordhal thal. The food was amazing and must be tried. After the amazig food we had we went to the hotel and got a goodnights rest."
     highlights:
-      - "Truck traffic between Mumbai and Ahemdabad"
+      - "The heat in Ahemdabad"
       - "Gujrati Thali at Jalaram Kathiyawad"
-      - "NE4 drive from Bharuch to Vadodara"
+      - "Atal bridge and flower park walk"
+      - "Goardhan thal meal for the dinner"
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
