@@ -96,9 +96,35 @@ itinerary:
       name: "Renaissance Ahmedabad Hotel"
       location: "Ahemdabad"
       notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+
+  - day: 6
+    title: "our day in ahamdabad"
+    date: "May 29, 2025"
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: "We woke up and went for swimming at aroud 9:30 to 10:30. It was around 37 to 40 c. Then we changed and went for breakfast. The food was okay exept for the french toast. The egg in the french toast was raw. We could not do much that afternoon cause of the heat, so we went to the cinema and watched a movie called Lilo and Stitch. It is about a hawain girl called lilo who lives with her sister, nani. One day a space creature comes and lilo acidenttaly adopts it. the movi was very good. In the evening when it got a bit cooler we went to see a flower park and the atul bridge. the place was really nice and you must visit it. We entered from gate number 3. There was no issue with the parking because there is a multylevel parking rightin front of the gate. At dinner tine we stoped at a thali place called Gordhal thal. The food was amazing and must be tried. After the amazig food we had we went to the hotel and got a goodnights rest."
+    highlights:
+      - "Truck traffic between Mumbai and Ahemdabad"
+      - "Gujrati Thali at Jalaram Kathiyawad"
+      - "NE4 drive from Bharuch to Vadodara"
+    photos:
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+      - image: "/assets/images/day5-kickstarting-journey.jpg"
+        caption: "Seeing off family before we kick start the next leg of the journey"
+      - image: "/assets/images/day5-hotelahura.jpg"
+        caption: "Quick stop for tea and bun muska at a Irani Restautant"
+      - image: "/assets/images/day5-jalaram.jpg"
+        caption: "The Jalaram Kathiaywad stop for lunch"
+      - image: "/assets/images/day5-highway.jpg"
+        caption: "The smooth drive on NE4 after Bharuch"
+    accommodation:
+      name: "Renaissance Ahmedabad Hotel" 
+      location: "Ahemdabad"
+      notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+
 ---
 
-Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment was filled with wonder.
+Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment as filled with wonder.
 
 The stark beauty of the landscape - where barren mountains meet crystal-clear lakes and ancient monasteries dot the valleys - creates a sense of being on another planet. The warmth of the Ladakhi people, despite the harsh climate they call home, touched our hearts deeply.
 
