@@ -123,6 +123,23 @@ itinerary:
       location: "Ahemdabad"
       notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
 
+  - day: 7
+    title: ""
+    date: ""
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: "TO ADD STUFF HERE"
+    highlights:
+      - "👍🏽 "
+      - "👎🏽 "
+    photos:
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+    accommodation:
+      name: "Renaissance Ahmedabad Hotel" 
+      location: "Ahemdabad"
+      notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+
+
 ---
 
 Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment as filled with wonder.
