@@ -136,12 +136,12 @@ itinerary:
 
   - day: 7
     title: "drive to rahjestann"
-    date: ""
+    date: "may 30th, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "we woke up at morning freash and early. Once we were freshend-up we got into the car ready for the drive. We drove for about 4 hours before we stoped at a place called dhabalogy for lunch. Thefood was okay and the innterior of the place was really good. The bathrooms were kind of weiord, espesialy the boys one but ovar all it was good. Once we started the car to countinu the journy, It gave an error saying low df. But we kept drivig. Then it said that it will stop the engine after 400km. We got teriffied and called the nearest serviece center and they said No matter what you do do not turn of the engien. And that is exactly what we did. The df tank had actualy not run out of df, it was just that the sensor was not able to sense the df. We first stopped at the service station, dropped the car and the took a taxi to the hotal. We were stayig at Fairfield marriot. Once we reached we had a light breakfast and went to sleep. "
+    description: "we woke up at morning freash and early. Once we were freshend-up we got into the car ready for the drive. We drove for about 4 hours before we stoped at a place called dhabalogy for lunch. Thefood was great and the innterior of the place was really good. The bathrooms were kind of weiord, espesialy the boys one but ovar all it was good. Once we started the car to countinu the journy, It gave an error saying low df. But we kept drivig. Then it said that it will stop the engine after 400km. We got teriffied and called the nearest serviece center and they said No matter what you do do not turn of the engien. And that is exactly what we did. The df tank had actualy not run out of df, it was just that the sensor was not able to sense the df. We first stopped at the service station, dropped the car and the took a taxi to the hotal. We were stayig at Fairfield marriot. Once we reached we had a light breakfast and went to sleep. "
     highlights:
-      - "👍🏽 "
-      - "👎🏽 "
+      - "👍🏽Food was great "
+      - "👎🏽Faced an issue with the car "
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
