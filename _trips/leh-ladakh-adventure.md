@@ -1,6 +1,6 @@
 ---
 title: "Road trip - Bangalore to Leh!"
-date: 2025-05-29
+date: 2025-05-24
 duration: "22 Days"
 location: "Leh, Ladakh, India"
 featured_image: "/assets/images/leh.jpg"
