@@ -4,13 +4,13 @@ date: 2025-05-29
 duration: "22 Days"
 location: "Leh, Ladakh, India"
 featured_image: "/assets/images/leh.jpg"
-summary: "Embark on an extraordinary 22-day adventure beginning from the vibrant southern city of Bangalore, traversing at least nine distinct Indian states, each with its own rich tapestry of culture and scenery. Journey through lush forests, expansive deserts, and bustling towns, witnessing India's incredible diversity first-hand. As you ascend toward the majestic Himalayas, prepare to be awestruck by serene, turquoise lakes, ancient monasteries echoing centuries of history, and breathtaking vistas along some of the world’s highest motorable roads. Finally, immerse yourself in the ethereal beauty and tranquility of Leh, a jewel nestled in the rugged grandeur of the Himalayas, marking a fitting climax to a journey you'll never forget"
+summary: "An adventure road-trip from Bangalore, crossing nine Indian states and a stunning variety of landscapes—from lush forests to vast deserts. Experiencing the vibrant culture, flavors, and colors of India as you travel through bustling cities and serene countryside. The journey culminated in the majestic Himalayas, where turquoise lakes, ancient monasteries, and soaring passes led us to the tranquil beauty of Leh."
 excerpt: "Embarking on a thrilling 22-day road trip from Bangalore to Leh, exploring India's diverse landscapes, cultures, and Himalayan wonders"
 itinerary:
   - day: 1
     title: "Arrival in Pune"
     date: "May 24, 2025"
-    featured_image: "/assets/images/day1-pune-main.jpg"
+    featured_image: "/assets/images/day1-pune-arrival.jpg"
     description: "We hit the road from Bangalore at the crack of dawn—4:45 AM sharp! The skies were gentle, the breeze cool, and our spirits high. Our car was packed, playlists were ready, and the kids were snuggled in, half asleep and half excited. Our first stop? Breakfast at A2B in Sira after a couple of hours on the highway. The food filled our tummies, but let’s just say it didn’t make it to the highlight reel. With more miles to go, we cruised ahead to Dharwad and dropped by Big Mishra, famous for its legendary pedas. And oh—those soft, sweet bites were worth every calorie! We grabbed a quick snack too, but again, it was the pedas that stole the show. As we approached Kolhapur, traffic slowed us down. Cones, diversions, and roadwork popped up like surprise guests all the way from Belgavi to Satara. It felt like a zigzag obstacle course with a sprinkle of rain to keep things interesting. Hunger struck again just before sunset, and we stopped at Manas Restobar near Satara. Now this was a win! The mutton thali was pure magic, and the paya soup was the kind that warms your soul and makes your eyes roll back in delight. The last stretch into Pune tested our patience—25 km took nearly two hours thanks to the evening traffic madness. But as we finally rolled into the city, a quiet smile spread across our faces. Pune wasn’t just a stop on the map—it was where our story began. We were married here. Bought our first home here. And little Sara was born here. For the first time, we were back—as a family of four. And that made arriving in Pune feel like coming home, with the adventure just beginning."
     highlights:
       - "👍🏽 Rains and pleasant weather"
@@ -22,8 +22,8 @@ itinerary:
     photos:
       - image: "/assets/images/day1-starting-trip.jpg"
         caption: "Kickstarting our trip at 4:45 am from Bangalore"
-      - image: "/assets/images/day1-pune-main.jpg"
-        caption: "Radina at wheel while we all goof around"
+      - image: "/assets/images/day1-tripmeter.jpg"
+        caption: "Noting the values on the odometer before commencing the trip"
       - image: "/assets/images/day1-big-mishra.jpg"
         caption: "The famous Big Mishra Pedas at Dharwad"
       - image: "/assets/images/day1-manas-thali.jpg"
@@ -202,7 +202,7 @@ itinerary:
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
 
-## Ground rules for the road trip
+## Our ground rules for the road trip
 
 **No driving beyond 8 pm preferably**: We planned our travel in a way where we could choose to start early in the morning but we almost never drove after 8 pm
 
