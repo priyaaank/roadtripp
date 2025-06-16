@@ -200,20 +200,16 @@ itinerary:
 
 ---
 
-Our incredible 8-day adventure through Leh Ladakh was a journey that challenged us physically while rewarding us spiritually. From the moment we landed at one of the world's highest airports to crossing the highest motorable roads, every moment as filled with wonder.
+Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
 
-The stark beauty of the landscape - where barren mountains meet crystal-clear lakes and ancient monasteries dot the valleys - creates a sense of being on another planet. The warmth of the Ladakhi people, despite the harsh climate they call home, touched our hearts deeply.
+## Ground rules for the road trip
 
-## Highlights of Our Ladakh Journey
+**No driving beyond 8 pm preferably**: We planned our travel in a way where we could choose to start early in the morning but we almost never drove after 8 pm
 
-**Natural Wonders**: Witnessing the color-changing phenomenon of Pangong Lake, experiencing the surreal Magnetic Hill, and soaking in natural hot springs at Panamik created memories that will last forever.
+**Good hotels for a good night rest**: We did not compromise on the quality of stay at hotels to ensure we always had a good night sleep and comfortable beds. Hotels where basics and hygiene were guranteed
 
-**Cultural Immersion**: From morning prayers at Thiksey Monastery to traditional dance performances in Leh, we gained deep insights into Tibetan Buddhist culture and Ladakhi traditions.
+**Always start driving after a shower**: No matter how cold, start the morning with a warm bath to keep mind and body fresh
 
-**Adventure Thrills**: Crossing two of the world's highest motorable passes, camping at 14,000 feet, and riding Bactrian camels in a cold desert provided the perfect adventure rush.
+**Hydrate, hydrate and hydrate**: We incentivised drinking water for kids and ensured we drank enough ourselves
 
-**Photography Paradise**: Every turn offered frame-worthy landscapes - from prayer flags fluttering against azure skies to the reflection of snow-capped peaks in pristine lakes.
-
-This trip taught us about resilience, spirituality, and the incredible diversity of our beautiful country. Leh Ladakh isn't just a destination; it's a transformative experience that changes how you view the world and your place in it.
-
-*Next time, we're planning to explore the Zanskar Valley and attempt the challenging Chadar Trek on the frozen river!* 
+**Driver switch and small breaks**: We left buffer for traffic snarls and did driver switch. Took enough breaks to enjoy the journey
