@@ -11,13 +11,14 @@ itinerary:
     title: "Arrival in Pune"
     date: "May 24, 2025"
     featured_image: "/assets/images/day1-pune-main.jpg"
-    description: "Pune was the first pitstop in our journey. This city was special to halt at, because we were married here, purchased our first house and Sara was born here. This is the first time we were visiting Pune as a family. On Day 1, we started at 4:45 am from Bangalore. We drove for two hours and stopped for breakfast at A2B in Sira. The food was ok, nothing to write home about. Our next stop was Big Mishra in Dharwad. Big Mishra is famous for its pedas. Along with the sweets we grabbed a quick bite. While the peda was authentic and scrumptious, food was again ok. We were greeted by heavy traffic near Kolhapur and Malkapur. The roads also had fair amount of construction and diversions along the way after Belgavi. We stopped for an early dinner at Manas restobar. Their Mutton thali is not to be missed. The paya soup was also amazing. We drove non-stop to Pune and were greeted by traffic snarls while entering the city and tool almost 2 hours to cover 25 kilometres. Overall our drive took around 14 hours or so."
+    description: "We hit the road from Bangalore at the crack of dawn—4:45 AM sharp! The skies were gentle, the breeze cool, and our spirits high. Our car was packed, playlists were ready, and the kids were snuggled in, half asleep and half excited. Our first stop? Breakfast at A2B in Sira after a couple of hours on the highway. The food filled our tummies, but let’s just say it didn’t make it to the highlight reel. With more miles to go, we cruised ahead to Dharwad and dropped by Big Mishra, famous for its legendary pedas. And oh—those soft, sweet bites were worth every calorie! We grabbed a quick snack too, but again, it was the pedas that stole the show. As we approached Kolhapur, traffic slowed us down. Cones, diversions, and roadwork popped up like surprise guests all the way from Belgavi to Satara. It felt like a zigzag obstacle course with a sprinkle of rain to keep things interesting. Hunger struck again just before sunset, and we stopped at Manas Restobar near Satara. Now this was a win! The mutton thali was pure magic, and the paya soup was the kind that warms your soul and makes your eyes roll back in delight. The last stretch into Pune tested our patience—25 km took nearly two hours thanks to the evening traffic madness. But as we finally rolled into the city, a quiet smile spread across our faces. Pune wasn’t just a stop on the map—it was where our story began. We were married here. Bought our first home here. And little Sara was born here. For the first time, we were back—as a family of four. And that made arriving in Pune feel like coming home, with the adventure just beginning."
     highlights:
-      - "Rains and pleasant weather"
-      - "Construction and diversions after Belgavi and before Satara"
-      - "Peda at Big Mishra @ Dharwad"
-      - "Traffic snarls near Kohlapur and as we entered the city of Pune"
-      - "The mutton thali at Manas restobar near Satara"
+      - "👍🏽 Rains and pleasant weather"
+      - "👍🏽 Peda at Big Mishra @ Dharwad"
+      - "👍🏽 The mutton thali at Manas restobar near Satara"
+      - "👎🏽 Construction and diversions after Belgavi and before Satara"
+      - "👎🏽 Traffic snarls near Kohlapur and as we entered the city of Pune"
+      
     photos:
       - image: "/assets/images/day1-starting-trip.jpg"
         caption: "Kickstarting our trip at 4:45 am from Bangalore"
@@ -30,19 +31,19 @@ itinerary:
     accommodation:
       name: "Taj Vivanta"
       location: "Hinjewadi, Pune"
-      notes: "Comfortable hotel. Not the best Taj experience, value for money"
+      notes: "Comfortable hotel. Not the best Taj experience, value for money given a decent breakfast spread was included. It also worked well as it was closer to Pune exit for Mumbai travel"
 
   - day: 2
     title: "Drive to Mumbai after day in Pune"
     date: "May 25, 2023"
     featured_image: "/assets/images/day2-family-meet.jpg"
-    description: "We woke up fresh after a goodnight's rest. we had brekfast and went for a drive. Then we stoped in a car wash stop and gave the car for wash. Then we went to meet reletives and then drove to mumbai. The traffic on one of the tolls took at least 45 minutes. Then we reached at another relitives house as we were staying there as we entered mumbai there was heavy rainfall as they were having premonsone."
+    description: "We woke up in Pune to the kind of weather that makes you want to sip chai and hum an old Bollywood tune. After a solid night’s rest, the day began slow and sweet—breakfast, banter, and a little drive around the old neighbourhoods that still held whispers of our past. Before hitting the highway, we made a quick pitstop at a car wash. After yesterday’s 14-hour drive, the car definitely deserved a bubble bath. The kids watched the giant brushes spin like a roller coaster ride for vehicles—it was oddly satisfying! Next, it was time for hugs and hellos as we met some relatives in Pune. Smiles, snacks, stories—short but sweet. By afternoon, we were back on the road, this time heading towards Mumbai. But of course, no road trip in India is complete without the infamous toll traffic. One particular toll plaza took 45 minutes to crawl through—cue the sighs, snacks, and singalongs inside the car. As we entered Mumbai, the skies put on a dramatic show. The city was soaking in pre-monsoon showers, and the rain came down like it had a story of its own. Windshield wipers danced, the smell of wet earth filled the air, and the city welcomed us with thunder, traffic, and twinkling lights. By evening, we reached another relative’s home—our cozy nest for the night. Wet shoes at the door, warm food on the table, and familiar faces all around. Day 2 wrapped up with tired smiles, rain-soaked clothes, and hearts full of warmth."
     highlights:
-      - "Got an external car wash with a car-wash service - Paid INR 250"
-      - "Met extended family"
-      - "Drove down to Mumbai"
-      - "Traffic woes at Mumbai Pune expressway toll-gate"
-      - "Crazy rains and thunderstorm enroute and in Mumbai"
+      - "👍🏽 Got an external car wash with a car-wash service - Paid INR 250"
+      - "👍🏽 Met extended family"
+      - "👍🏽 Drove down to Mumbai"
+      - "👎🏽 Traffic woes at Mumbai Pune expressway toll-gate"
+      - "👎🏽 Crazy rains and thunderstorm enroute and in Mumbai"
     photos:
       - image: "/assets/images/day2-car-wash.jpg"
         caption: "Getting the overdue car wash"
@@ -59,9 +60,9 @@ itinerary:
     title: "  Days in mumbai  "
     date: "May 26 and 27, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "We stayed at a relitives house and relaxed deu to the red aleart in mumbai. There was lightning and thunder and it was very scary for a person who is not use to it."
+    description: "Not every day on a road trip has to be go-go-go. Sometimes, the journey pauses—especially when the sky decides to throw a full-blown drama show! We spent two quiet days in Mumbai, staying snug at a relative’s home while the city braced for a red alert. Thunder boomed like a drumroll in the sky, and lightning flashed like someone was flicking the world's biggest light switch on and off. For those of us not used to Mumbai’s wild monsoon mood swings, it was… intense. Even the kids went from wide-eyed excitement to holding onto us during the loudest crackles of thunder. But inside the house, it was warm and cozy. We played card games, told old family stories, and watched the rain turn streets into little rivers. The break gave us time to rest, recharge, and just be with each other—no rush, no alarms, just the rhythm of the rain. Sometimes, the most memorable parts of a trip aren’t the places you see, but the unexpected pauses that help you slow down and soak it all in. Mumbai gave us one such pause—with extra thunder for effect."
     highlights:
-      - " Heavy rainafall which was very scary"
+      - "👎🏽 Heavy rainafall which was very scary"
     photos:
       - image: "/assets/images/magnetic-hill.jpg"
         caption: "Car seemingly rolling uphill at Magnetic Hill"
@@ -76,11 +77,11 @@ itinerary:
     title: "Driving Mumbai to Ahemdabad"
     date: "May 28, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "We drove down from Mumbai to Ahemdabad. The started at 5:40 am, took a break at Vasai at 7 am and resumed at 9 am. We arrived in Ahemdabad at around 6:30 pm. Our route was Vasai, Vapi, Surat, Bharuch, Vadodara and Ahemdabad. The toad till Vadodara was heavy truck traffic and tiring driving experience. From Bharuch, we shifted from NH48 to NE4. The NE4 was amazing to drive on, the speed limit was 120 KM/Hr. It significantly sped up the total travel time and we recommend it. After Vadodara, we joined back NE1 or NH48 and while it was not an expressway, it was a good drive as well and this part of the journey was a pleasent drive. Overall driving time was around 12 hours from Navi Mumbai. We had a quick tea at Hotel Ahura, which we hear is great for Irani delicacies. We grabbed a tea and muska bun. It was nice. The toilets were not that clean but had Indian setup, so could be used. We grabbed our lunch at Thakkar's Hotel Jalaram Kathiyawad after Kamrej. There are many restaurants with the same name along the way, possibly a chain or different ones. While the place felt a bit dark with lack of lighting, the food and thali were fresh and definitely a value for money and tasty! The toilets were not that clean however, but had Indian option so were usable"
+    description: "We kicked off Day 5 before the sun had fully stretched—5:40 AM, wheels rolling and sky still yawning. Leaving behind a rain-drenched Mumbai, we drove through sleepy roads and made our first tea break at Vasai around 7 AM. After a two-hour pause (because: kids, tea, and wandering legs), we were back on the road by 9. Our route for the day was a who’s who of Gujarat's roadways—Vasai, Vapi, Surat, Bharuch, Vadodara, and finally, Ahmedabad. Sounds exciting? Well… not all of it. The stretch till Vadodara was a truck-lover’s dream and a driver’s patience test. Heavy traffic, slow-moving convoys, and enough honking to make a city symphony. But just as we were wondering if this was our fate for the day, we switched from NH48 to NE4 near Bharuch—and oh, what a change! NE4 felt like someone hit the “fast-forward” button. Smooth roads, wide lanes, and a posted speed limit of 120 km/h—the kids called it our personal race track (minus the racing, of course). It sliced down our drive time and gave us a chance to breathe and enjoy the ride. We rejoined NH48/NE1 after Vadodara, which wasn’t an expressway but still gave us a pleasant, easy drive. The scenery opened up, traffic thinned, and the skies played nice. Our foodie breaks deserve a spotlight too. **Tea at Hotel Ahura (near Talasari)**: Famous for Irani food, we settled for chai and maska bun—a soft, buttery hug in bread form. Yum! Toilets? Usable, but could use some love. **Lunch at Jalaram Kathiyawad Hotel, just past Kamrej**, It looked a bit dim and uninviting, but don’t judge a thali by its lighting. The food was fresh, flavorful, and pure Gujarati goodness. Again, toilets were just okay, but functional. By 6:30 PM, after nearly 12 hours on the road, we rolled into Ahmedabad—tired, dusty, but satisfied. This leg of the journey was all about contrasts: slow trucks and zippy expressways, plain tea and rich thalis, and the joy of watching the landscape shift with every hour."
     highlights:
-      - "Truck traffic between Mumbai and Ahemdabad"
-      - "Gujrati Thali at Jalaram Kathiyawad"
-      - "NE4 drive from Bharuch to Vadodara"
+      - "👍🏽 Gujrati Thali at Jalaram Kathiyawad"
+      - "👍🏽 NE4 drive from Bharuch to Vadodara"
+      - "👎🏽 Truck traffic between Mumbai and Ahemdabad"
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
@@ -98,15 +99,14 @@ itinerary:
       notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
 
   - day: 6
-    title: "our day in ahamdabad"
+    title: "A slow day in Ahmedabad"
     date: "May 29, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: "We woke up and went for swimming at aroud 9:30 to 10:30. It was around 37 to 40 c. Then we changed and went for breakfast. The food was okay exept for the french toast. The egg in the french toast was raw. We could not do much that afternoon cause of the heat, so we went to the cinema and watched a movie called Lilo and Stitch. It is about a hawain girl called lilo who lives with her sister, nani. One day a space creature comes and lilo acidenttaly adopts it. the movi was very good. In the evening when it got a bit cooler we went to see a flower park and the atul bridge. the place was really nice and you must visit it. We entered from gate number 3. There was no issue with the parking because there is a multylevel parking rightin front of the gate. At dinner tine we stoped at a thali place called Gordhal thal. The food was amazing and must be tried. After the amazig food we had we went to the hotel and got a goodnights rest."
+    description: "We woke up to a warm Ahmedabad morning—warm, as in nearly 40°C! So naturally, the only sensible thing to do was dive into the pool. From 9:30 to 10:30 AM, the kids splashed, the grown-ups floated, and the sun did its thing from above. A great way to kick off a hot day! Post-swim, we headed for breakfast. It was alright—nothing fancy—but let’s just say the French toast could’ve used a little more love (and cooking). The egg was a bit too raw for our liking, but we chalked it up to the adventure of travel food! By noon, the sun was on full blast. Stepping outside felt like walking into a giant hairdryer. So we found the perfect escape: a cool, dark movie theatre! We watched Lilo & Stitch, a heartwarming tale of Lilo, a Hawaiian girl, and Stitch, a mischievous alien she accidentally adopts. The kids were glued to the screen, and let’s be honest—so were we. There’s something magical about watching found-family stories while traveling with your own. As evening rolled in and the heat took a break, we ventured out to explore Atal Bridge and the Flower Garden by the riverfront. We entered through Gate 3, which had convenient multilevel parking right across—no circling around in frustration! The garden was bursting with color, and the Atal Bridge looked stunning against the evening sky. With the Sabarmati flowing below and a breeze finally in the air, it was the kind of outing that makes you forget the heat ever existed. Dinner took the crown though—Gordhan Thal, a traditional thali place. The food was phenomenal, a real celebration of Gujarati flavors. Each dish was a burst of taste, and we left the place grinning and stuffed. Back at the hotel, bellies full and feet tired, we fell asleep almost instantly. Day 6 in Ahmedabad was hot, sweet, and colorful—just like the city itself."
     highlights:
-      - "The heat in Ahemdabad"
-      - "Gujrati Thali at Jalaram Kathiyawad"
-      - "Atal bridge and flower park walk"
-      - "Goardhan thal meal for the dinner"
+      - "👍🏽 Atal bridge and flower park walk"
+      - "👍🏽 Goardhan thal meal for the dinner"
+      - "👎🏽 The heat in Ahemdabad"
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
