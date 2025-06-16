@@ -150,6 +150,53 @@ itinerary:
       location: "Jaipure"
       notes: "Comfortable and clean rooms althougha bit to small. "
 
+  - day: 8
+    title: "drive to rahjestann"
+    date: "may 30th, 2025"
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: ""
+    highlights:
+      - "👍🏽Food was great "
+      - "👎🏽Faced an issue with the car "
+    photos:
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+    accommodation:
+      name: "Fairfield by marriot" 
+      location: "Jaipure"
+      notes: "Comfortable and clean rooms althougha bit to small. "
+
+  - day: 9
+    title: "drive to rahjestann"
+    date: "may 30th, 2025"
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: ""
+    highlights:
+      - "👍🏽Food was great "
+      - "👎🏽Faced an issue with the car "
+    photos:
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+    accommodation:
+      name: "Fairfield by marriot" 
+      location: "Jaipure"
+      notes: "Comfortable and clean rooms althougha bit to small. "
+
+  - day: 10
+    title: "drive to rahjestann"
+    date: "may 30th, 2025"
+    featured_image: "/assets/images/leh-day3.jpg"
+    description: ""
+    highlights:
+      - "👍🏽Food was great "
+      - "👎🏽Faced an issue with the car "
+    photos:
+      - image: "/assets/images/day5-luggage.jpg"
+        caption: "Playing tetris with the lugguage in the car boot"
+    accommodation:
+      name: "Fairfield by marriot" 
+      location: "Jaipure"
+      notes: "Comfortable and clean rooms althougha bit to small. "
 
 ---
 
