@@ -135,7 +135,7 @@ itinerary:
       notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
 
   - day: 7
-    title: "drive to rahjestann"
+    title: "drive to rahjestan"
     date: "may 30th, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
     description: "we woke up at morning freash and early. Once we were freshend-up we got into the car ready for the drive. We drove for about 4 hours before we stoped at a place called dhabalogy for lunch. Thefood was great and the innterior of the place was really good. The bathrooms were kind of weiord, espesialy the boys one but ovar all it was good. Once we started the car to countinu the journy, It gave an error saying low df. But we kept drivig. Then it said that it will stop the engine after 400km. We got teriffied and called the nearest serviece center and they said No matter what you do do not turn of the engien. And that is exactly what we did. The df tank had actualy not run out of df, it was just that the sensor was not able to sense the df. We first stopped at the service station, dropped the car and the took a taxi to the hotal. We were stayig at Fairfield marriot. Once we reached we had a light breakfast and went to sleep. "
@@ -151,13 +151,13 @@ itinerary:
       notes: "Comfortable and clean rooms althougha bit to small. "
 
   - day: 8
-    title: "drive to rahjestann"
-    date: "may 30th, 2025"
+    title: "Day at jaipure"
+    date: "june 1st, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: ""
+    description: "We woke up at around 10oclock and got ready to start our day with a local breakfast made by our friends. We talked and ate and after an houre it was tme to leave. we went and collected a car before we went back to the room and relaxed for a while. Then we met one more set of friends who took us to pink city in jaipure. Pink city is the beast place in jaipure to do local shopping. After we were done there we said goodbye and went of to our rooms. Yhis day was very tyering but fun. "
     highlights:
       - "👍🏽Food was great "
-      - "👎🏽Faced an issue with the car "
+      - "👍🏽 pink city was really nice place to do shopping. "
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
@@ -167,20 +167,21 @@ itinerary:
       notes: "Comfortable and clean rooms althougha bit to small. "
 
   - day: 9
-    title: "drive to rahjestann"
-    date: "may 30th, 2025"
+    title: "drive from Jaipur to Chandigarh"
+    date: "may 2nd, 2025"
     featured_image: "/assets/images/leh-day3.jpg"
-    description: ""
+    description: "we woke up in the morning and freshen up and went down for breakfast. Then we took off for our drive to Chandigarh. we drove for approximately 4 to 5 hours before we took a detour to our relatives house. there we spent 2 to 3 hours before we said our goodbyes and left to continue our journey. we drove for some more time till we reached Chandigarh. We were staying at a hotel called Radisson in Zirakpur. For dinner we went to Pal Dhaba where we had two different types of chicken and roti. For desert, we went to a softy corner and had softies. The softies were not that great."
     highlights:
-      - "👍🏽Food was great "
-      - "👎🏽Faced an issue with the car "
+      - "👍🏽 Food was great "
+      - "👎🏽 these were not very great quality"
+      - "👍🏽 had a great time, meeting family"
     photos:
       - image: "/assets/images/day5-luggage.jpg"
         caption: "Playing tetris with the lugguage in the car boot"
     accommodation:
-      name: "Fairfield by marriot" 
-      location: "Jaipure"
-      notes: "Comfortable and clean rooms althougha bit to small. "
+      name: "Radisson Hotel, Chandigarh, Zirakpur" 
+      location: "Chandigarh"
+      notes: "comfortable and spacious rooms. Food was okay. "
 
   - day: 10
     title: "drive to rahjestann"
