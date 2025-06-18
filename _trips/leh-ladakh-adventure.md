@@ -188,6 +188,73 @@ itinerary:
       name: "Radisson Hotel, Zirakpur Chandigarh" 
       notes: "Spacious rooms and comfortable. Mixed service experience. Breakfast was not great when we turned up early morning, it got better later"
 
+  - day: 10
+    title: "Title"
+    date: "3 June 2025"
+    featured_image: "/assets/images/"
+    description: ""
+    highlights:
+      - "✅ Food was great "
+      - "✅ had a great time, meeting family"
+      - "❌ these were not very great quality"
+    photos:
+      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
+        caption: "Sampling unimpressive food at the Great Khali Dabha"
+      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
+        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
+      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
+        caption: "Overcrowded softy corner raised our hopes"
+      - image: "/assets/images/day9-chandigarh-softies.jpg"
+        caption: "The taste of actual softies was a bit underwhelming"
+    accommodation:
+      name: "" 
+      notes: ""
+  
+  - day: 11
+    title: "Title"
+    date: "3 June 2025"
+    featured_image: "/assets/images/"
+    description: ""
+    highlights:
+      - "✅ Food was great "
+      - "✅ had a great time, meeting family"
+      - "❌ these were not very great quality"
+    photos:
+      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
+        caption: "Sampling unimpressive food at the Great Khali Dabha"
+      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
+        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
+      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
+        caption: "Overcrowded softy corner raised our hopes"
+      - image: "/assets/images/day9-chandigarh-softies.jpg"
+        caption: "The taste of actual softies was a bit underwhelming"
+    accommodation:
+      name: "" 
+      notes: ""
+
+  - day: 12
+    title: "Title"
+    date: "3 June 2025"
+    featured_image: "/assets/images/"
+    description: ""
+    highlights:
+      - "✅ Food was great "
+      - "✅ had a great time, meeting family"
+      - "❌ these were not very great quality"
+    photos:
+      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
+        caption: "Sampling unimpressive food at the Great Khali Dabha"
+      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
+        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
+      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
+        caption: "Overcrowded softy corner raised our hopes"
+      - image: "/assets/images/day9-chandigarh-softies.jpg"
+        caption: "The taste of actual softies was a bit underwhelming"
+    accommodation:
+      name: "" 
+      notes: ""
+
+
 ---
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
