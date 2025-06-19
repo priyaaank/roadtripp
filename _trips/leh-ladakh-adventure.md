@@ -189,14 +189,13 @@ itinerary:
       notes: "Spacious rooms and comfortable. Mixed service experience. Breakfast was not great when we turned up early morning, it got better later"
 
   - day: 10
-    title: "Title"
+    title: "Our drive from Chandigarh to Jispa"
     date: "3 June 2025"
     featured_image: "/assets/images/"
-    description: ""
-    highlights:
-      - "✅ Food was great "
-      - "✅ had a great time, meeting family"
-      - "❌ these were not very great quality"
+    description: "We startted our drive at around 7:10 7:15. we drove for sometime until we stopped for a break at a shop called The diaig. Then we had tea and a shake and then set up for the rest of our journy. From that point we Started seeing Beas river. The river kept flowing with us and near the end of our journey we were followed by Chenab River. we really wanted to go through Rohtang pass but they weren't issuing passes for beyond Rohtang. due to this issue we had to go through Atal tunnel. It was about 10 km long. as soon as we exited, atal tunnel, it's started getting cold. The river looked amazing, so we got down and took a few photos and also touch the water. Then we drove for some more time and reached our destination. Jispa. This place was not exactly in Jispa, but was in between Keylong and Jispa. We had stopped at a resort called Gemur Khar Banjara."
+    highlights: 
+      - "✅ location is very serine faceing mountains and a river. "
+      - "✅ drive was smooth"
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -206,9 +205,9 @@ itinerary:
         caption: "Overcrowded softy corner raised our hopes"
       - image: "/assets/images/day9-chandigarh-softies.jpg"
         caption: "The taste of actual softies was a bit underwhelming"
-    accommodation:
-      name: "" 
-      notes: ""
+    accommodation: 
+      name: "gamur Khar Banjara" 
+      notes: "Nice property nesteld in nature. Rooms were cozy and food was good. Most of all "
   
   - day: 11
     title: "Title"
