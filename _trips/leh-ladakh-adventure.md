@@ -174,7 +174,7 @@ itinerary:
     highlights:
       - "✅ Food was great "
       - "✅ had a great time, meeting family"
-      - "❌ these were not very great quality"
+      - "❌ Stop at The great Khali Dabha was underwhelming. Food was not great, nor was chai"
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -192,10 +192,10 @@ itinerary:
     title: "Our drive from Chandigarh to Jispa"
     date: "3 June 2025"
     featured_image: "/assets/images/"
-    description: "We startted our drive at around 7:10 7:15. we drove for sometime until we stopped for a break at a shop called The diaig. Then we had tea and a shake and then set up for the rest of our journy. From that point we Started seeing Beas river. The river kept flowing with us and near the end of our journey we were followed by Chenab River. we really wanted to go through Rohtang pass but they weren't issuing passes for beyond Rohtang. due to this issue we had to go through Atal tunnel. It was about 10 km long. as soon as we exited, atal tunnel, it's started getting cold. The river looked amazing, so we got down and took a few photos and also touch the water. Then we drove for some more time and reached our destination. Jispa. This place was not exactly in Jispa, but was in between Keylong and Jispa. We had stopped at a resort called Gemur Khar Banjara."
+    description: "We kicked off the day early, setting out from Chandigarh around 7:10 AM, with the mountains on our mind and adventure in the air. After a few hours on the road, we pulled over for a break at a small roadside café called The Diaig. With steaming tea and a chilled shake to wake us up, we stretched our legs and soaked in the fresh air before setting off again. Soon after, the Beas River joined us on our journey, flowing gracefully alongside the road, twisting and turning just like us. Its constant presence felt like a silent travel companion, keeping us company as we drove deeper into Himachal. As the altitude began to rise, we were excited to take the legendary Rohtang Pass—but to our disappointment, passes for travel beyond Rohtang weren’t being issued that day. So, we took the alternate route through the Atal Tunnel, a 10 km marvel of engineering. The moment we emerged from the tunnel, everything changed—the temperature dropped, the breeze turned chilly, and suddenly, we were surrounded by towering peaks and pine-laced air. The scenery was nothing short of magical. We pulled over by the river—now the Chenab—to take photos and feel the icy water on our hands. It was one of those moments where time slows down, and nature quietly leaves you speechless. After a little more winding through the mountains, we finally reached our stop for the night: Gemur Khar Banjara, a peaceful resort nestled between Keylong and Jispa. Surrounded by valleys, river sounds, and cool mountain air, it felt like we had truly entered the heart of the Himalayas."
     highlights: 
-      - "✅ location is very serine faceing mountains and a river. "
-      - "✅ drive was smooth"
+      - "✅ Location is very serene facing mountains and a river"
+      - "✅ Drive was smooth"
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -206,8 +206,8 @@ itinerary:
       - image: "/assets/images/day9-chandigarh-softies.jpg"
         caption: "The taste of actual softies was a bit underwhelming"
     accommodation: 
-      name: "gamur Khar Banjara" 
-      notes: "Nice property nesteld in nature. Rooms were cozy and food was good. Most of all "
+      name: "Gemoor Khar Banjara" 
+      notes: "Beautiful property, nesteld in nature. Rooms were cozy with electric blankets, beautiful views and food was good. Amazing service by the staff"
   
   - day: 11
     title: "Title"
@@ -215,18 +215,11 @@ itinerary:
     featured_image: "/assets/images/"
     description: ""
     highlights:
-      - "✅ Food was great "
-      - "✅ had a great time, meeting family"
-      - "❌ these were not very great quality"
+      - "✅ Positive here" 
+      - "✅ Negatives here" 
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
-      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
-        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
-      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
-        caption: "Overcrowded softy corner raised our hopes"
-      - image: "/assets/images/day9-chandigarh-softies.jpg"
-        caption: "The taste of actual softies was a bit underwhelming"
     accommodation:
       name: "" 
       notes: ""
@@ -237,18 +230,11 @@ itinerary:
     featured_image: "/assets/images/"
     description: ""
     highlights:
-      - "✅ Food was great "
-      - "✅ had a great time, meeting family"
-      - "❌ these were not very great quality"
+      - "✅ Positive here" 
+      - "✅ Negatives here" 
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
-      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
-        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
-      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
-        caption: "Overcrowded softy corner raised our hopes"
-      - image: "/assets/images/day9-chandigarh-softies.jpg"
-        caption: "The taste of actual softies was a bit underwhelming"
     accommodation:
       name: "" 
       notes: ""
@@ -261,7 +247,6 @@ Our incredible 22 days road trip was more than just a journey across cities. It 
 ## Driving route 
 
 🚘 Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > Pangong Tso > Nubra Valley > Srinagar > Chandigarh > Bengaluru 🏁
-
 
 ## Ground rules for driving safely
 
