@@ -246,7 +246,7 @@ Our incredible 22 days road trip was more than just a journey across cities. It 
 
 ## Driving route 
 
-🚘 Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > Pangong Tso > Nubra Valley > Srinagar > Chandigarh > Bengaluru 🏁
+<img src="../../assets/images/route.jpg" alt="Description" style="width: 40%; margin: 1rem 0;">
 
 ## Ground rules for driving safely
 
