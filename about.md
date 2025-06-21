@@ -7,6 +7,9 @@ permalink: /about/
 <div class="about-page">
   <div class="about-hero">
     <h1>About RoadTripp Adventures</h1>
+    <div class="family-photo">
+      <img src="{{ '/assets/images/us.jpg' | relative_url }}" alt="Our Family - RoadTripp Adventures">
+    </div>
     <p class="lead">Welcome to our family travel blog, where we document our multi-day road trips and share the joy of exploring our beautiful country together.</p>
   </div>
   
@@ -90,6 +93,26 @@ permalink: /about/
   background-clip: text;
 }
 
+.family-photo {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.family-photo img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  box-shadow: var(--shadow-medium);
+  transition: var(--transition);
+}
+
+.family-photo img:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-strong);
+}
+
 .lead {
   font-size: 1.3rem;
   color: var(--text-light);
@@ -153,6 +176,11 @@ blockquote {
 @media (max-width: 768px) {
   .about-hero h1 {
     font-size: 2rem;
+  }
+  
+  .family-photo img {
+    width: 200px;
+    height: 200px;
   }
   
   .lead {
