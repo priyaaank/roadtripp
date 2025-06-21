@@ -107,10 +107,6 @@ docker-compose.override.yml
 # Uncomment if you want to ignore GitHub Pages build files
 # .github/
 
-# Asset compilation
-assets/css/main.css
-assets/js/main.js
-
 # Local configuration overrides
 _config_local.yml
 _config_development.yml
