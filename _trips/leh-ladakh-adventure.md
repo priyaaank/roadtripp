@@ -256,19 +256,33 @@ itinerary:
       notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
 
   - day: 12
-    title: "Title"
-    date: "3 June 2025"
-    featured_image: "/assets/images/leh-main.jpg"
-    description: ""
+    title: "Slow Steps in Leh – Rest, Recovery & Quiet Joys"
+    date: "4 June 2025"
+    featured_image: "/assets/images/day12-view-main.jpg"
+    description: "After the intense drive and high-altitude drama of the past few days, we had intentionally kept our first day in Leh slow and restful. The goal was simple: recover, breathe, and let the body catch up with the mountains. We began with an early breakfast, but no rushing out the door today. Everyone was still recovering—nursing headaches, fighting fatigue, and just learning to be still again. We were told that Sea Buckthorn juice was great for altitude recovery, so we stocked up and started sipping. While the rest of the crew stayed cozy at the hotel, I stepped out to check on our car. After all the error warnings and gear trouble, I was half-expecting more surprises. But to my relief, every system had reset to normal. No alerts, no flashing lights—just peace under the hood. We also found a laundry service and dropped off our growing mountain of dusty clothes. The car got its own spa treatment too—a much-needed internal and external wash after its heroic climb through snow, mud, and Martian landscapes. Later, when energy slowly returned, we strolled down to The Tibetan Kitchen, a cozy local restaurant where we tried some authentic Ladakhi and Tibetan dishes—light, hearty, and just what we needed. Our walk back took us through Leh Market, where the kids peeked into shops, and we all took in the colors, the crafts, and the easy rhythm of mountain town life. By 6:30 PM, with the golden light draping the hills, we decided on a short drive to Shanti Stupa. The winding road up offered postcard views of Leh nestled between rugged ridges, and the stillness at the top was the kind that makes you whisper, even when no one’s around. We wrapped up the day just as gently as it had begun—with khichdi, soup, and warm quilts calling us back. After everything we’d crossed to get here, Day 12 was a breath of still air—quiet, healing, and deeply grounding."
     highlights:
-      - "✅ Positive here" 
-      - "✅ Negatives here" 
+      - "✅ Fantastic local food at The Tibetan Kitchen" 
+      - "✅ Economic laundry at The Dobhi ghat. 24 hour wash and fold cycle" 
+      - "✅ Slow day, leisurely stroll and beautilful views" 
+      - "✅ Many car washes around city. Done in INR 400"
     photos:
-      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
-        caption: "Sampling unimpressive food at the Great Khali Dabha"
+      - image: "/assets/images/day12-car-unclean.jpg"
+        caption: "Getting the car the deserved cleaning after a long drive"
+      - image: "/assets/images/day12-car-clean.jpg"
+        caption: "Finally looking all spruced up. For INR 400"
+      - image: "/assets/images/day12-local-food.jpg"
+        caption: "Thupka and other local cuisines in Leh"
+      - image: "/assets/images/day12-leh-alleys.jpg"
+        caption: "Walking through the local alleys in Leh"
+      - image: "/assets/images/day12-views1.jpg"
+        caption: "Breathtaking views in Leh"
+      - image: "/assets/images/day12-views2.jpg"
+        caption: "Breathtaking views in Leh"
+      - image: "/assets/images/day12-views3.jpg"
+        caption: "Breathtaking views in Leh"
     accommodation:
-      name: "" 
-      notes: ""
+      name: "The Bodhi Tree" 
+      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
 
 
 ---
