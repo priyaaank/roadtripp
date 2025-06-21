@@ -1,3 +1,5 @@
+---
+---
 // Mobile navigation toggle
 console.log('RoadTripp main.js loaded successfully!');
 document.addEventListener('DOMContentLoaded', function() {
