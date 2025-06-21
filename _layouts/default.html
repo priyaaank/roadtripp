@@ -14,7 +14,18 @@
 
   {%- include footer.html -%}
 
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  <script>
+    // Fallback script loader
+    window.addEventListener('load', function() {
+      if (typeof document.querySelector === 'undefined') {
+        console.error('Main script failed to load, loading fallback...');
+        var script = document.createElement('script');
+        script.src = '{{ "/assets/js/main.js" | relative_url }}';
+        script.async = true;
+        document.head.appendChild(script);
+      }
+    });
+  </script>
 </body>
 
 </html> 
