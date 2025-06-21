@@ -111,7 +111,7 @@ itinerary:
   - day: 6
     title: "A slow day in Ahmedabad"
     date: "29 May 2025"
-    featured_image: "/assets/images/leh-day3.jpg"
+    featured_image: "/assets/images/leh-main.jpg"
     description: "We woke up to a warm Ahmedabad morning—warm, as in nearly 40°C! So naturally, the only sensible thing to do was dive into the pool. From 9:30 to 10:30 AM, the kids splashed, the grown-ups floated, and the sun did its thing from above. A great way to kick off a hot day! Post-swim, we headed for breakfast. It was alright—nothing fancy—but let’s just say the French toast could’ve used a little more love (and cooking). The egg was a bit too raw for our liking, but we chalked it up to the adventure of travel food! By noon, the sun was on full blast. Stepping outside felt like walking into a giant hairdryer. So we found the perfect escape: a cool, dark movie theatre! We watched Lilo & Stitch, a heartwarming tale of Lilo, a Hawaiian girl, and Stitch, a mischievous alien she accidentally adopts. The kids were glued to the screen, and let’s be honest—so were we. There’s something magical about watching found-family stories while traveling with your own. As evening rolled in and the heat took a break, we ventured out to explore Atal Bridge and the Flower Garden by the riverfront. We entered through Gate 3, which had convenient multilevel parking right across—no circling around in frustration! The garden was bursting with color, and the Atal Bridge looked stunning against the evening sky. With the Sabarmati flowing below and a breeze finally in the air, it was the kind of outing that makes you forget the heat ever existed. Dinner took the crown though—Gordhan Thal, a traditional thali place. The food was phenomenal, a real celebration of Gujarati flavors. Each dish was a burst of taste, and we left the place grinning and stuffed. Back at the hotel, bellies full and feet tired, we fell asleep almost instantly. Day 6 in Ahmedabad was hot, sweet, and colorful—just like the city itself."
     highlights:
       - "✅ Atal bridge and flower park walk"
@@ -191,7 +191,7 @@ itinerary:
   - day: 10
     title: "Our drive from Chandigarh to Jispa"
     date: "3 June 2025"
-    featured_image: "/assets/images/"
+    featured_image: "/assets/images/leh-main.jpg"
     description: "We kicked off the day early, setting out from Chandigarh around 7:10 AM, with the mountains on our mind and adventure in the air. After a few hours on the road, we pulled over for a break at a small roadside café called The Diaig. With steaming tea and a chilled shake to wake us up, we stretched our legs and soaked in the fresh air before setting off again. Soon after, the Beas River joined us on our journey, flowing gracefully alongside the road, twisting and turning just like us. Its constant presence felt like a silent travel companion, keeping us company as we drove deeper into Himachal. As the altitude began to rise, we were excited to take the legendary Rohtang Pass—but to our disappointment, passes for travel beyond Rohtang weren’t being issued that day. So, we took the alternate route through the Atal Tunnel, a 10 km marvel of engineering. The moment we emerged from the tunnel, everything changed—the temperature dropped, the breeze turned chilly, and suddenly, we were surrounded by towering peaks and pine-laced air. The scenery was nothing short of magical. We pulled over by the river—now the Chenab—to take photos and feel the icy water on our hands. It was one of those moments where time slows down, and nature quietly leaves you speechless. After a little more winding through the mountains, we finally reached our stop for the night: Gemur Khar Banjara, a peaceful resort nestled between Keylong and Jispa. Surrounded by valleys, river sounds, and cool mountain air, it felt like we had truly entered the heart of the Himalayas."
     highlights: 
       - "✅ Location is very serene facing mountains and a river"
@@ -212,7 +212,7 @@ itinerary:
   - day: 11
     title: "Title"
     date: "3 June 2025"
-    featured_image: "/assets/images/"
+    featured_image: "/assets/images/leh-main.jpg"
     description: ""
     highlights:
       - "✅ Positive here" 
@@ -227,7 +227,7 @@ itinerary:
   - day: 12
     title: "Title"
     date: "3 June 2025"
-    featured_image: "/assets/images/"
+    featured_image: "/assets/images/leh-main.jpg"
     description: ""
     highlights:
       - "✅ Positive here" 
