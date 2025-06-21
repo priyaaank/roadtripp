@@ -149,7 +149,7 @@ itinerary:
 
   - day: 8
     title: "Shopping at Jaipur"
-    date: "1 June 2025"
+    date: "31 May 2025"
     featured_image: "/assets/images/day8-jaipur-ferriswheel.jpg"
     description: "We woke up late—10 o’clock, to be precise—and it felt wonderful to ease into the day without alarms or plans chasing us. Our dear friends in Jaipur had cooked up a delicious local breakfast, and we spent the morning chatting, laughing, and filling our plates (and hearts). After a warm farewell, it was time to run a quick errand—picking up a car for the next leg of our journey. Once done, we returned to the room for a short rest. The Jaipur heat was real, and a little downtime was just what we needed. Later in the day, another set of friends whisked us off to explore the Pink City—the bustling heart of Jaipur and a paradise for anyone who loves street shopping. Lanes filled with colorful fabrics, shining bangles, traditional jootis, and the aroma of local snacks tempted us at every turn. As the sun dipped and the shops started shutting their doors, we hugged our friends goodbye and headed back to our hotel, hearts full and hands (maybe a little too) full of shopping bags. It was a day of food, friends, colors, and chaos—the kind that leaves you tired in the best possible way."
     highlights:
@@ -168,7 +168,7 @@ itinerary:
 
   - day: 9
     title: "Driving from Jaipur to Chandigarh"
-    date: "2 June 2025"
+    date: "1 June 2025"
     featured_image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
     description: "The day began bright and early as we woke up, freshened up, and headed down for a quick breakfast to fuel the journey ahead. With full tummies and excited hearts, we set off toward Chandigarh, ready for another stretch of highway stories. About 4 to 5 hours into the drive, we took a detour—because when family is nearby, you don’t just pass by! We spent a lovely few hours at a relative’s home, catching up over conversations, chai, and plenty of laughter. These unplanned pauses always seem to leave the warmest memories. By late afternoon, it was time to say our goodbyes and hit the road again. As evening rolled in, we reached Zirakpur, just on the edge of Chandigarh, and checked into Radisson—our cozy stop for the night. Dinner was a proper Punjabi affair at the iconic Pal Dhaba. We ordered two kinds of chicken (because one is never enough) along with fresh, hot rotis—flavorful, comforting, and just what we needed after a long day. For dessert, we headed to a nearby softy corner. The softies, though, didn’t quite live up to the hype—melty and a bit bland—but hey, not every bite on a road trip is a win! We returned to the hotel tired but happy, ready to rest and recharge for the next chapter of our adventure."
     highlights:
@@ -189,13 +189,16 @@ itinerary:
       notes: "Spacious rooms and comfortable. Mixed service experience. Breakfast was not great when we turned up early morning, it got better later"
 
   - day: 10
-    title: "Our drive from Chandigarh to Jispa"
-    date: "3 June 2025"
+    title: "Chandigarh to Jispa - Into the Heart of the Himalayas – With a Worry Tucked In"
+    date: "2 June 2025"
     featured_image: "/assets/images/leh-main.jpg"
-    description: "We kicked off the day early, setting out from Chandigarh around 7:10 AM, with the mountains on our mind and adventure in the air. After a few hours on the road, we pulled over for a break at a small roadside café called The Diaig. With steaming tea and a chilled shake to wake us up, we stretched our legs and soaked in the fresh air before setting off again. Soon after, the Beas River joined us on our journey, flowing gracefully alongside the road, twisting and turning just like us. Its constant presence felt like a silent travel companion, keeping us company as we drove deeper into Himachal. As the altitude began to rise, we were excited to take the legendary Rohtang Pass—but to our disappointment, passes for travel beyond Rohtang weren’t being issued that day. So, we took the alternate route through the Atal Tunnel, a 10 km marvel of engineering. The moment we emerged from the tunnel, everything changed—the temperature dropped, the breeze turned chilly, and suddenly, we were surrounded by towering peaks and pine-laced air. The scenery was nothing short of magical. We pulled over by the river—now the Chenab—to take photos and feel the icy water on our hands. It was one of those moments where time slows down, and nature quietly leaves you speechless. After a little more winding through the mountains, we finally reached our stop for the night: Gemur Khar Banjara, a peaceful resort nestled between Keylong and Jispa. Surrounded by valleys, river sounds, and cool mountain air, it felt like we had truly entered the heart of the Himalayas."
+    description: "We kicked off the day early, setting out from Chandigarh around 7:10 AM, with the mountains calling and our spirits ready for the adventure ahead. After a few hours on the road, we took a much-needed break at a cozy roadside café called The Diaig. Steaming chai and a chilled shake were the perfect pick-me-ups as we stretched our legs and breathed in the fresh mountain air. Not long after, the Beas River joined our journey—its turquoise waters flowing gracefully beside us, as if guiding the way. The road twisted and climbed through the foothills of Himachal, with the river dancing beside us like a quiet travel companion. We had hoped to cross the famous Rohtang Pass, but to our disappointment, passes for beyond Rohtang weren’t being issued that day. Instead, we took the Atal Tunnel—a 10 km engineering marvel that slices through the mountains. The moment we emerged from its shadowy tunnel walls, it felt like stepping into a different world. The air was cooler, crisper. The landscape had changed—pine trees, snow-capped peaks, and an instant drop in temperature wrapped us in that unmistakable Himalayan embrace. Somewhere along the Chenab River, we stopped to take in the scenery. The icy water begged to be touched, the silence begged to be heard. It was one of those rare moments where time slows down and lets you just be. Eventually, winding through narrow roads and mountain valleys, we arrived at Gemur Khar Banjara, a peaceful resort nestled between Keylong and Jispa. It was picture-perfect—tucked amidst hills, with river sounds in the background and crisp, pine-scented air all around. But the beauty of the place was dulled a little by two unsettling things. First, our daughter’s condition had worsened. The altitude seemed to have triggered gastroenteritis, and she was constantly nauseous, weak, and unable to eat. Second, as if on cue, the car flashed a warning: DEF Sub-System Error. The dreaded alert meant that if we drove another 400 km without resolving it, the car would refuse to start again. And with no phone network, no workshops, and a rough, high-altitude drive to Leh ahead of us the next day, we were faced with a decision: Turn back to Chandigarh, playing it safe but undoing a week’s journey? Or press ahead to Leh, hoping the car (and we) could make it without further trouble? Night fell with more questions than answers. Wrapped in warm quilts and silence, we stared at the ceiling, each of us carrying a pocket of anxiety. Would the car start in the morning? Would our daughter feel better? Could we really make it across some of the highest motorable roads in the world without help? Tomorrow, we’d have to decide. But for tonight, we rested—hoping morning would bring clarity, courage, and a little luck."
     highlights: 
       - "✅ Location is very serene facing mountains and a river"
-      - "✅ Drive was smooth"
+      - "✅ Drive was beautiful. Temprature dropped significantly requiring electric blankets and hoodies"
+      - "✅ Met other fellow travellers who were visiting Jispa on a short trip from Mumbai"
+      - "❌ Day ending with a DEF error in the car"
+      - "❌ Daughter down with gastroenteritis causing nausea and stomach cramps"
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -210,19 +213,47 @@ itinerary:
       notes: "Beautiful property, nesteld in nature. Rooms were cozy with electric blankets, beautiful views and food was good. Amazing service by the staff"
   
   - day: 11
-    title: "Title"
+    title: "A Daring Drive to Leh – Between Grit and Grace"
     date: "3 June 2025"
-    featured_image: "/assets/images/leh-main.jpg"
-    description: ""
+    featured_image: "/assets/images/day11-drive-main.jpg"
+    description: "Morning in the mountains began with worry still lingering in the air. Our daughter hadn’t eaten dinner the night before and skipped breakfast too—her nausea from the altitude hadn’t eased, and she was pale and quiet. We were anxious, but something else had kept me up that night: the DEF system error on the car. Then a thought struck—both times that warning had come up, the car had been parked on an incline. With the DEF tank only about 60% full, maybe the sensor hadn’t been fully dipped. So I’d turned the car around and parked it facing uphill. When we started the engine in the morning… no DEF error. It felt like a small miracle. Though the general system warning light still glowed, we had no new errors. The service center had warned us not to switch off the car once it was running—it might not start again. So we made our decision: We’d drive straight to Leh. No stops. No switching off the ignition. Just one determined run across 350 km of the Himalayas. We rolled out around 7 AM, slightly behind schedule but with nerves of steel. As we climbed out of Jispa, the landscape transformed like a scene from a storybook. Fresh snow lined the roads, a soft white layer on either side, glistening in the morning light. We drove cautiously, watching for hidden ice and flowing streams—meltwater from last night’s snow. Each crossing was a mix of nerves and thrill, and though we never had to engage the 4x4, knowing it was there gave us confidence. The drive was otherworldly. Hills turned to snow-draped ridges Snow gave way to canyon-like cliffs Cliffs became gravel-strewn slopes, then hard stone passes Finally, we rolled across Martian-looking flats between mountains—vast, surreal, and silent We stopped only twice—for water and a comfort break—and each time, the altitude hit hard. Short breaths, dizziness, and pounding heads reminded us we were above 15,000 feet. The kids were pale and limp, drained of energy, and even we struggled to stay sharp. Still, we pushed forward—taking turns at the wheel, managing the road and the little ones in the backseat. Just before Leh, at Tanglang La, the highest point of the drive, we felt hopeful. The DEF error had vanished completely. But then—another twist. *Service Transmission Error*. The car was stuck in 4th gear, refusing to shift. I didn’t panic. I just adjusted—kept my speed steady at 35–40 km/h, and drove with one goal: get us to Leh, no matter what. Later, we’d learn this was “Limp Home Mode”, a safety feature that kicks in when the transmission overheats—common in thin air and steep climbs, where the cooling system can’t keep up. We crawled through the final 80 km, taking two long, tense hours. And then… we saw Leh. We reached our hotel by 5 PM, shut the engine down (finally!), and just sat in silence, breathing deeply. The drive was done. We had made it—against all odds. We ended the day with khichdi and hot soup, the simplest and most comforting meal we could imagine. Tired beyond words, a little shaken but immensely relieved, we sank into bed. That night, there were no alarms, no alerts, no more decisions. Just sleep. A wild, unforgettable chapter had closed. We were in Leh."
     highlights:
-      - "✅ Positive here" 
-      - "✅ Negatives here" 
+      - "✅ The Drive from Jispa to Leh passed through 6-7 types of terrains and was breathtaking" 
+      - "✅ The mountains and the hillsides were covered in fresh snow"
+      - "✅ There was no traffic, but had enough cars and bikes through the way"
+      - "❌ While we didn't need it, there aren't enough food joints on the way. Stock up water"
+      - "❌ Road patch Sarchi from Pang was really bad. Around 80-100 kms"
+      - "❌ AMS started to show its effect as we crossed passes. Kids were reeling with headache and nausea" 
+      - "❌ Everyone not feeling well through the journey added to the distress"
+      - "❌ Car errors with DEF error, transmission error and low tyre pressures"
     photos:
-      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
-        caption: "Sampling unimpressive food at the Great Khali Dabha"
+      - image: "/assets/images/day11-drive1.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive2.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive3.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive4.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive5.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive6.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive7.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-drive8.jpg"
+        caption: "Changing terrains and amazing drive to Leh"
+      - image: "/assets/images/day11-passes1.jpg"
+        caption: "Lachungla pass at 16,4616 feet"
+      - image: "/assets/images/day11-passes2.jpg"
+        caption: "Taglangla pass at 17,482 feet"
+      - image: "/assets/images/day11-carerror.jpg"
+        caption: "Car tyre pressure error at all high passes"
+      - image: "/assets/images/day11-reaching-leh.jpg"
+        caption: "12 hours later finally entering Leh"
     accommodation:
-      name: "" 
-      notes: ""
+      name: "The Bodhi Tree" 
+      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
 
   - day: 12
     title: "Title"
