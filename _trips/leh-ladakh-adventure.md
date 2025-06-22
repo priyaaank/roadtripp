@@ -465,7 +465,7 @@ itinerary:
         caption: "Breathtaking 2 AM stargazing session - unforgettable!"
     accommodation:
       name: "Lachangnag Retreat" 
-      notes: "Completely sustainable eco-property with organic kitchen garden. Beautiful mountain views of Trans-Himalayan and Karakoram ranges. Excellent food and peaceful environment. Only downside is 45-minute distance from Diskit/Hunder attractions."
+      notes: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
 
 ---
 
