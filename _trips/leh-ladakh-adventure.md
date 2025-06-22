@@ -288,9 +288,13 @@ itinerary:
         caption: "Our final stop for the day. Fantastic property nestled in nature"
       - image: "/assets/images/day10-jispa.jpg"
         caption: "The glimpse of the Jispa town from our stay"
-    accommodation: 
+    accommodation:
       name: "Gemoor Khar Banjara" 
-      notes: "Beautiful property, nesteld in nature. Rooms were cozy with electric blankets, beautiful views and food was good. Amazing service by the staff"
+      location: "Gemoor Khar Banjara, Keylong"
+      rating: 4
+      review: "Beautiful property, nesteld in nature. Rooms were cozy with electric blankets, beautiful views and food was good. Amazing service by the staff"
+    additional_considerations: "If your fuel tank is small, then Jerry cans are available in Manali, pick one and the last fuel station is in Tandi, don't miss stocking fuel up there. At Jispa all fuel stations would be behind you"
+    
   
   - day: 11
     title: "A Daring Drive to Leh – Between Grit and Grace"
@@ -333,7 +337,14 @@ itinerary:
         caption: "12 hours later finally entering Leh"
     accommodation:
       name: "The Bodhi Tree" 
-      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+      location: "The Bodhi Tree, Leh"
+      rating: 4
+      review: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+    places_to_eat:
+      - name: "The Tibetan Kitchen"
+        location: "The Tibetan Kitchen, Leh"
+        comment: "Ask for Thupka and other local delicacies. Even Momos were delicious"
+    additional_considerations: "No more fuel stations till Leh. So go back to Tandi if you have space in fuel tank. Start Dimox course 48 hours in advance to avoid sever AMS, for adults"
 
   - day: 12
     title: "Slow Steps in Leh – Rest, Recovery & Quiet Joys"
@@ -362,13 +373,16 @@ itinerary:
         caption: "Breathtaking views in Leh"
     accommodation:
       name: "The Bodhi Tree" 
-      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+      location: "The Bodhi Tree, Leh"
+      rating: 4
+      review: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+    additional_considerations: "Just keep a day to relax and acclamatize. Leh seems to be strict about driving and parking. Look for public parking lots. You can park and walk. Also outside state Taxis and Self Drive may not be allowed in Leh/Ladhak region (except JK and LA numbers)"
 
   - day: 13
     title: "Tributes, Trails & Tibetan Tales in Leh"
     date: "5 June 2025"
     featured_image: "/assets/images/day13-confluence.jpg"
-    description: "After two nights of proper rest and altitude adjustment, we woke up on Day 13 feeling fresh, energized, and ready to explore Leh in full swing. On the agenda: a day packed with patriotism, adventure, history, and a little shopping magic. We began with a visit to the Hall of Fame, a moving tribute to the Indian Army. The museum walked us through the challenges of the Kargil War, and the extreme conditions soldiers face while posted at places like Siachen, where temperatures drop to -40°C to -70°C and dangers like avalanches and crevasses are part of daily life. We read stories of sacrifice and bravery, and by the end, there was a deep sense of respect, emotion, and gratitude within each of us. It was a powerful, grounding experience that left its mark. Next up: Magnetic Hill. While the famous gravity-defying effect didn’t quite pan out for us (optical illusion or not!), we found our own thrill nearby—ATV rides through desert hills! Two adults and two kids paired up and tore through the terrain, laughing and holding on for dear joy. Easily one of the most fun and spontaneous moments of the trip. Driving further, we stumbled upon the confluence of the Zanskar and Indus rivers—a windy, beautiful spot where muddy and blue waters meet. We sat by the banks, slurped down some Maggi noodles, and soaked in the raw, open beauty of Ladakh. We passed the peaceful Guru Pathar Sahib Gurudwara on our way to Likir Monastery, one of the oldest in the region. Legend has it that two serpents once protected the monastery, and as we walked barefoot across the surprisingly warm stone floors, it felt like stepping into another time. A little stream ran beside the monastery, and the kids were mesmerized—tossing pebbles, watching the water ripple, and just being. Lunch en route was a bit of a miss—a basic army-run restaurant with a limited and overly spicy menu. We had hoped for a more local experience but took it in stride and focused on what the day still had to offer. After a short rest at the hotel, we headed out to the Leh Palace in the evening. The views were grand, and the palace itself, rising seven to eight stories high, gave us a glimpse into the regal past of this mountain kingdom. Inside, a modest art and photo gallery shared stories of the region's history. A minor run-in with a group of motorcyclists briefly disturbed our mood, but we shook it off and made our way to the local bazaar, where the evening lights flickered and the stalls began closing. We found parking easily at one of the designated tourist lots, and wandered through the market until we found a lovely Thangka shop, where we picked up gifts and souvenirs for friends and family. As we walked back to our car in the cool, quiet dark of Leh, shopping bags in hand and a full day behind us, the fatigue finally crept in. We had a simple dinner at the hotel, settled our bills, and began packing for the next day’s journey to Pangong Tso Lake. A day full of honor, laughter, discovery, and a touch of shopping delight—the perfect finale to our time in Leh city." 
+    description: "After two nights of proper rest and altitude adjustment, we woke up on Day 13 feeling fresh, energized, and ready to explore Leh in full swing. On the agenda: a day packed with patriotism, adventure, history, and a little shopping magic. We began with a visit to the Hall of Fame, a moving tribute to the Indian Army. The museum walked us through the challenges of the Kargil War, and the extreme conditions soldiers face while posted at places like Siachen, where temperatures drop to -40°C to -70°C and dangers like avalanches and crevasses are part of daily life. We read stories of sacrifice and bravery, and by the end, there was a deep sense of respect, emotion, and gratitude within each of us. It was a powerful, grounding experience that left its mark. Next up: Magnetic Hill. While the famous gravity-defying effect didn’t quite pan out for us (optical illusion or not!), we found our own thrill nearby—ATV rides through desert hills! Two adults and two kids paired up and tore through the terrain, laughing and holding on for dear joy. Easily one of the most fun and spontaneous moments of the trip. Driving further, we stumbled upon the confluence of the Zanskar and Indus rivers—a windy, beautiful spot where muddy and blue waters meet. We sat by the banks, slurped down some Maggi noodles, and soaked in the raw, open beauty of Ladakh. We passed the peaceful Guru Pathar Sahib Gurudwara on our way to Likir Monastery, one of the oldest in the region. Legend has it that two serpents once protected the monastery, and as we walked barefoot across the surprisingly warm stone floors, it felt like stepping into another time. A little stream ran beside the monastery, and the kids were mesmerized—tossing pebbles, watching the water ripple, and just being. Lunch en route was a bit of a miss—a basic  restaurant with a limited and overly spicy menu. We had hoped for a more local experience but took it in stride and focused on what the day still had to offer. After a short rest at the hotel, we headed out to the Leh Palace in the evening. The views were grand, and the palace itself, rising seven to eight stories high, gave us a glimpse into the regal past of this mountain kingdom. Inside, a modest art and photo gallery shared stories of the region's history. A minor run-in with a group of motorcyclists briefly disturbed our mood, but we shook it off and made our way to the local bazaar, where the evening lights flickered and the stalls began closing. We found parking easily at one of the designated tourist lots, and wandered through the market until we found a lovely Thangka shop, where we picked up gifts and souvenirs for friends and family. As we walked back to our car in the cool, quiet dark of Leh, shopping bags in hand and a full day behind us, the fatigue finally crept in. We had a simple dinner at the hotel, settled our bills, and began packing for the next day’s journey to Pangong Tso Lake. A day full of honor, laughter, discovery, and a touch of shopping delight—the perfect finale to our time in Leh city." 
     highlights:
       - "✅ A deeply moving and informative visit to the Hall of Fame" 
       - "✅ Thrilling ATV rides at Magnetic Hill – INR 1200 per pair, and totally worth it" 
@@ -413,7 +427,10 @@ itinerary:
         caption: "Evening shopping at Leh's main bazaar"
     accommodation:
       name: "The Bodhi Tree" 
-      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+      location: "The Bodhi Tree, Leh"
+      rating: 4
+      review: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+    additional_considerations: "Apply lots of sunscreen. Leh has the best food options. Plan your travel such that you have your major meals there. Dhobhi ghat laundry service will deliver washed and folded clothes in 24 hours. They may not take underclothes for women. Others will though"
 
   - day: 14
     title: "Journey to Pangong Tso - Azure Dreams & Starlit Nights"
@@ -464,7 +481,10 @@ itinerary:
         caption: "Simple lakeside moments and quiet contemplation"
     accommodation:
       name: "Desert Blue Pangong Camps" 
-      notes: "Well-designed cabins with skylight, comfortable beds and good amenities. Limited electricity hours but peaceful lakeside location. Oxygen concentrator provided for altitude comfort. The Desert Blue cabin was very expensive, so despite a good experoence, I wouldn't call it value for moeny"
+      location: "Desert Blue, Pangong Tso"
+      rating: 4
+      review: "Well-designed cabins with skylight, comfortable beds and good amenities. Limited electricity hours but peaceful lakeside location. Oxygen concentrator provided for altitude comfort. The Desert Blue cabin was very expensive, so despite a good experoence, I wouldn't call it value for moeny"
+    additional_considerations: "Sunscreen, sunscreen & sunscreen. Ensure ventilation in night when you go to sleep, when room is air tight. Don't overuse oxygen concentrator to loose acclamatization. Lot of mountain workers will ask for food and worker as you drive to Pangong Tso. Carry extra water and food if you intend to disribute"
 
   - day: 15
     title: "Pangong to Nubra - Rivers, Rocks & Starlit Revelations"
@@ -496,7 +516,7 @@ itinerary:
       - image: "/assets/images/day15-rockymountains.jpg"
         caption: "Dramatic rocky mountain landscapes"
       - image: "/assets/images/day15-stay1.jpg"
-        caption: "Arrival at eco-friendly Lachangnag Retreat"
+        caption: "Arrival at eco-friendly Lchang Nang Retreat"
       - image: "/assets/images/day15-stay2.jpg"
         caption: "Beautiful sustainable property with mountain views"
       - image: "/assets/images/day15-stay3.jpg"
@@ -520,14 +540,17 @@ itinerary:
       - image: "/assets/images/day15-stars1.jpg"
         caption: "Breathtaking 2 AM stargazing session - unforgettable!"
     accommodation:
-      name: "Lachangnag Retreat" 
-      notes: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
+      name: "Lchang Nang Retreat" 
+      location: "Lchang Nang Retreat, Nubra"
+      rating: 4
+      review: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions and it is a bit on the expensive side"
+    additional_considerations: "Prefer staying on Diskit and Hunder side if you plan to visit Turtuk. Did not find many good food options. If you are near LChang Nang, then their restaurant is pretty nice. If you are travelling from Pangong Tso via Durbuk, then be prepared for off-roading"
 
   - day: 16
     title: "Nubra Valley Adventures - Camels, Monasteries & Desert Dreams"
     date: "8 June 2025"
     featured_image: "/assets/images/day16-diskitmonstryartwork.jpg"
-    description: "With a two-day stay planned in Nubra, we reserved Day 16 for soaking in the unique wonders this valley holds—from ancient monasteries to rolling sand dunes, and of course, the iconic double-humped Bactrian camels. We had debated making a trip to Turtuk, the last accessible village near the India-Pakistan border. While the idea of Balti cuisine and glimpsing across the Line of Control sounded tempting, the three-hour drive each way for just a view felt a bit too demanding for this stage of the journey. So, we chose rest over rush. The morning was slow and peaceful. We lazed around the eco-friendly comforts of Lchang Nang, letting the mountain stillness and crisp air do their work. By lunchtime, we finally stepped out to explore. Our first stop was the Diskit Monastery—the oldest and largest monastery in Nubra, dating back to the 14th century. We wandered through its ancient corridors and temples tucked into the cliffs, learning about Buddhist philosophy, Tara in her many colored forms, Maitreya (the future Buddha), and the Jataka tales illustrated on the temple walls—stories we had once read as children, now coming alive in mural form. Just nearby stood the 106-foot tall statue of Maitreya Buddha, watching over the valley in serene silence. The kids enjoyed spinning the rows of prayer wheels, while we soaked in the views and the quiet reverence of the place. Hunger struck soon after, and we made our way toward Hunder in search of lunch. We first stopped at a quaint riverside restaurant, but the complete emptiness made us wary of freshness, so we moved on. Eventually, we found a Kashmiri place with a decent crowd, which felt like a safer bet—and it turned out to be exactly what we needed. Bellies full, it was time for the dunes of Nubra. The camel ride area was loosely organized—a little chaotic, with people milling around—but the kids were thrilled to see the famous Bactrian camels, and we decided to let them go for a ride. While we’re usually conscious about animal ethics, this moment was for the children, and their joy was hard to deny. As they rode across the dunes, we watched the sun play with the sand—gold slipping between fingers, shadows stretching long across the desert. After the ride, we all climbed a few dunes together and even slid down a few, laughing like kids ourselves. The day closed with a spectacular sunset, painting the entire Nubra Valley in warm golds and amber—a magical farewell before the long road ahead. Back at the hotel, we settled in for an early dinner and an even earlier bedtime. The next day would be our longest drive yet—nearly 500 km to Srinagar, expected to take over 13 hours. We wanted to be up before sunrise, rested and ready. Nubra gave us space to slow down, learn, play, and breathe—a gentle pause before we hit the winding roads again." 
+    description: "With a two-day stay planned in Nubra, we reserved Day 16 for soaking in the unique wonders this valley holds—from ancient monasteries to rolling sand dunes, and of course, the iconic double-humped Bactrian camels. We had debated making a trip to Turtuk, the last accessible village near the India-Pakistan border. While the idea of Balti cuisine and glimpsing across the Line of Control sounded tempting, the three-hour drive each way for just a view felt a bit too demanding for this stage of the journey. So, we chose rest over rush. The morning was slow and peaceful. We lazed around the eco-friendly comforts of Lchang Nang Retreat, letting the mountain stillness and crisp air do their work. By lunchtime, we finally stepped out to explore. Our first stop was the Diskit Monastery—the oldest and largest monastery in Nubra, dating back to the 14th century. We wandered through its ancient corridors and temples tucked into the cliffs, learning about Buddhist philosophy, Tara in her many colored forms, Maitreya (the future Buddha), and the Jataka tales illustrated on the temple walls—stories we had once read as children, now coming alive in mural form. Just nearby stood the 106-foot tall statue of Maitreya Buddha, watching over the valley in serene silence. The kids enjoyed spinning the rows of prayer wheels, while we soaked in the views and the quiet reverence of the place. Hunger struck soon after, and we made our way toward Hunder in search of lunch. We first stopped at a quaint riverside restaurant, but the complete emptiness made us wary of freshness, so we moved on. Eventually, we found a Kashmiri place with a decent crowd, which felt like a safer bet—and it turned out to be exactly what we needed. Bellies full, it was time for the dunes of Nubra. The camel ride area was loosely organized—a little chaotic, with people milling around—but the kids were thrilled to see the famous Bactrian camels, and we decided to let them go for a ride. While we’re usually conscious about animal ethics, this moment was for the children, and their joy was hard to deny. As they rode across the dunes, we watched the sun play with the sand—gold slipping between fingers, shadows stretching long across the desert. After the ride, we all climbed a few dunes together and even slid down a few, laughing like kids ourselves. The day closed with a spectacular sunset, painting the entire Nubra Valley in warm golds and amber—a magical farewell before the long road ahead. Back at the hotel, we settled in for an early dinner and an even earlier bedtime. The next day would be our longest drive yet—nearly 500 km to Srinagar, expected to take over 13 hours. We wanted to be up before sunrise, rested and ready. Nubra gave us space to slow down, learn, play, and breathe—a gentle pause before we hit the winding roads again." 
     highlights:
       - "✅ Camel safari on double-humped Bactrian camels in Hunder sand dunes" 
       - "✅ Visit to ancient Diskit Monastery with panoramic valley views" 
@@ -576,8 +599,11 @@ itinerary:
       - image: "/assets/images/day16-sand.jpg"
         caption: "Kids enjoying Hunder sand before concluding our Nubra Valley adventure"
     accommodation:
-      name: "Lachangnag Retreat" 
-      notes: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
+      name: "Lchang Nang Retreat" 
+      location: "Lchang Nang Retreat, Nubra"
+      rating: 4
+      review: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
+    additional_considerations: "Road back to Leh was still being constructed, so bad patches. Drive to Srinaga is going to be fairly long. If you want to break the drive, do it at Kargil. They are a decent place for a midsway top"
 
 ---
 
