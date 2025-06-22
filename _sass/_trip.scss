@@ -327,24 +327,252 @@
           }
         }
         
-        .day-accommodation {
-          padding: 0 2rem 2rem;
+        .day-info-sections {
           background: var(--bg-off-white);
           margin-top: 1rem;
+          padding: 0 2rem 2rem;
           
-          h4 {
-            color: var(--primary-color);
-            margin-bottom: 1rem;
-            font-size: 1.2rem;
+          .day-accommodation,
+          .day-things-to-do,
+          .day-places-to-eat,
+          .day-additional-considerations {
+            margin-bottom: 2rem;
+            
+            &:last-child {
+              margin-bottom: 0;
+            }
+            
+            h4 {
+              color: var(--primary-color);
+              margin-bottom: 1.5rem;
+              font-size: 1.2rem;
+              display: flex;
+              align-items: center;
+              gap: 0.5rem;
+              
+              &::before {
+                font-size: 1.4rem;
+              }
+            }
           }
           
-          p {
-            margin-bottom: 0.5rem;
+          .day-accommodation {
+            h4::before {
+              content: '🏨';
+            }
             
-            &.accommodation-notes {
-              font-style: italic;
-              color: var(--text-light);
-              margin-top: 1rem;
+            .accommodation-card {
+              background: white;
+              border-radius: var(--border-radius-small);
+              padding: 1.5rem;
+              box-shadow: var(--shadow-light);
+              border-left: 4px solid var(--primary-color);
+              
+              .accommodation-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                margin-bottom: 1rem;
+                
+                h5 {
+                  margin: 0;
+                  color: var(--text-dark);
+                  font-size: 1.1rem;
+                  font-weight: 600;
+                }
+                
+                .rating {
+                  display: flex;
+                  gap: 2px;
+                  
+                  .star {
+                    font-size: 1.2rem;
+                    
+                    &.filled {
+                      color: #ffd700;
+                    }
+                    
+                    &:not(.filled) {
+                      color: #ddd;
+                    }
+                  }
+                }
+              }
+              
+              .location {
+                color: var(--text-light);
+                font-size: 0.9rem;
+                margin-bottom: 0.8rem;
+                display: flex;
+                align-items: center;
+                gap: 0.3rem;
+                
+                a {
+                  color: var(--primary-color);
+                  text-decoration: none;
+                  transition: var(--transition);
+                  
+                  &:hover {
+                    color: var(--accent-color);
+                    text-decoration: underline;
+                  }
+                }
+              }
+              
+              .review {
+                margin-bottom: 0.8rem;
+                line-height: 1.6;
+                color: var(--text-dark);
+              }
+              
+              .accommodation-notes {
+                font-style: italic;
+                color: var(--text-light);
+                font-size: 0.9rem;
+                margin-top: 1rem;
+                padding-top: 1rem;
+                border-top: 1px solid var(--bg-off-white);
+              }
+            }
+          }
+          
+          .day-things-to-do {
+            h4::before {
+              content: '🎯';
+            }
+            
+            .activities-list {
+              display: grid;
+              gap: 1rem;
+              
+              .activity-card {
+                background: white;
+                border-radius: var(--border-radius-small);
+                padding: 1.2rem;
+                box-shadow: var(--shadow-light);
+                border-left: 4px solid var(--success-color);
+                transition: var(--transition);
+                
+                &:hover {
+                  transform: translateY(-2px);
+                  box-shadow: var(--shadow-medium);
+                }
+                
+                h5 {
+                  margin: 0 0 0.8rem 0;
+                  color: var(--text-dark);
+                  font-size: 1rem;
+                  font-weight: 600;
+                }
+                
+                .location {
+                  color: var(--text-light);
+                  font-size: 0.85rem;
+                  margin-bottom: 0.6rem;
+                  display: flex;
+                  align-items: center;
+                  gap: 0.3rem;
+                  
+                  a {
+                    color: var(--primary-color);
+                    text-decoration: none;
+                    transition: var(--transition);
+                    
+                    &:hover {
+                      color: var(--accent-color);
+                      text-decoration: underline;
+                    }
+                  }
+                }
+                
+                .comment {
+                  color: var(--text-dark);
+                  font-size: 0.9rem;
+                  line-height: 1.5;
+                  margin: 0;
+                }
+              }
+            }
+          }
+          
+          .day-places-to-eat {
+            h4::before {
+              content: '🍽️';
+            }
+            
+            .restaurants-list {
+              display: grid;
+              gap: 1rem;
+              
+              .restaurant-card {
+                background: white;
+                border-radius: var(--border-radius-small);
+                padding: 1.2rem;
+                box-shadow: var(--shadow-light);
+                border-left: 4px solid var(--highlight-color);
+                transition: var(--transition);
+                
+                &:hover {
+                  transform: translateY(-2px);
+                  box-shadow: var(--shadow-medium);
+                }
+                
+                h5 {
+                  margin: 0 0 0.8rem 0;
+                  color: var(--text-dark);
+                  font-size: 1rem;
+                  font-weight: 600;
+                }
+                
+                .location {
+                  color: var(--text-light);
+                  font-size: 0.85rem;
+                  margin-bottom: 0.6rem;
+                  display: flex;
+                  align-items: center;
+                  gap: 0.3rem;
+                  
+                  a {
+                    color: var(--primary-color);
+                    text-decoration: none;
+                    transition: var(--transition);
+                    
+                    &:hover {
+                      color: var(--accent-color);
+                      text-decoration: underline;
+                    }
+                  }
+                }
+                
+                .comment {
+                  color: var(--text-dark);
+                  font-size: 0.9rem;
+                  line-height: 1.5;
+                  margin: 0;
+                }
+              }
+            }
+          }
+          
+          .day-additional-considerations {
+            h4::before {
+              content: '💡';
+            }
+            
+            .considerations-text {
+              background: white;
+              border-radius: var(--border-radius-small);
+              padding: 1.2rem;
+              box-shadow: var(--shadow-light);
+              border-left: 4px solid var(--accent-color);
+              
+              p {
+                margin: 0;
+                color: var(--text-dark);
+                font-size: 0.9rem;
+                line-height: 1.6;
+                font-style: italic;
+              }
             }
           }
         }
@@ -439,8 +667,27 @@
           .day-content,
           .day-highlights,
           .day-photos,
-          .day-accommodation {
+          .day-info-sections {
             padding: 1rem;
+          }
+          
+          .day-info-sections {
+            .accommodation-card,
+            .activity-card,
+            .restaurant-card,
+            .considerations-text {
+              padding: 1rem;
+            }
+            
+            .accommodation-header {
+              flex-direction: column;
+              gap: 0.5rem;
+              align-items: flex-start;
+              
+              .rating {
+                margin-top: 0.2rem;
+              }
+            }
           }
           
           .day-photos {

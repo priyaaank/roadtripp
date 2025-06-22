@@ -33,7 +33,24 @@ itinerary:
     accommodation:
       name: "Taj Vivanta"
       location: "Hinjewadi, Pune"
-      notes: "Comfortable hotel. Not the best Taj experience, value for money given a decent breakfast spread was included. It also worked well as it was closer to Pune exit for Mumbai travel"
+      rating: 4
+      review: "Comfortable hotel with decent amenities. The breakfast spread was good and the location was convenient for our onward journey to Mumbai."
+      notes: "Not the best Taj experience but value for money. Worked well as it was closer to Pune exit for Mumbai travel"
+    things_to_do:
+      - name: "Car Wash Service"
+        location: "Local service center, Pune"
+        comment: "Got a much-needed external car wash after the long drive from Bangalore. The kids enjoyed watching the spinning brushes!"
+      - name: "Family Visit"
+        location: "Pune"
+        comment: "Quick visit with relatives for hugs, snacks, and stories before continuing the journey"
+    places_to_eat:
+      - name: "Big Mishra"
+        location: "Dharwad"
+        comment: "Famous for their soft, milky pedas that melt in your mouth. A must-try detour!"
+      - name: "Manas Restobar"
+        location: "Near Satara"
+        comment: "Excellent mutton thali and soul-warming paya soup. A hidden gem on the highway"
+    additional_considerations: "Start early (4:45 AM) to avoid heavy traffic on major highways. Carry cash for toll booths as some don't accept cards. Check weather conditions especially during monsoon season and keep emergency contact numbers handy for roadside assistance."
 
   - day: 2
     title: "From Pune with Love, to Mumbai in the Rain"

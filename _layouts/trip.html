@@ -95,13 +95,89 @@ layout: default
           </div>
           {% endif %}
           
-          {% if day.accommodation %}
-          <div class="day-accommodation">
-            <h4>Where We Stayed</h4>
-            <p><strong>{{ day.accommodation.name }}</strong></p>
-            <p>{{ day.accommodation.address }}</p>
-            {% if day.accommodation.notes %}
-              <p class="accommodation-notes">{{ day.accommodation.notes }}</p>
+          {% if day.accommodation or day.things_to_do or day.places_to_eat or day.additional_considerations %}
+          <div class="day-info-sections">
+            {% if day.accommodation and day.accommodation.name %}
+            <div class="day-accommodation">
+              <h4>Accommodation</h4>
+              <div class="accommodation-card">
+                <div class="accommodation-header">
+                  <h5>{{ day.accommodation.name }}</h5>
+                  {% if day.accommodation.rating %}
+                  <div class="rating">
+                    {% assign rating = day.accommodation.rating | floor %}
+                    {% for i in (1..5) %}
+                      {% if i <= rating %}
+                        <span class="star filled">★</span>
+                      {% else %}
+                        <span class="star">☆</span>
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                  {% endif %}
+                </div>
+                {% if day.accommodation.location %}
+                <p class="location">📍 <a href="https://www.google.com/maps/search/{{ day.accommodation.location | uri_escape }}" target="_blank" rel="noopener">{{ day.accommodation.location }}</a></p>
+                {% endif %}
+                {% if day.accommodation.review %}
+                <p class="review">{{ day.accommodation.review }}</p>
+                {% endif %}
+                {% if day.accommodation.notes %}
+                <p class="accommodation-notes">{{ day.accommodation.notes }}</p>
+                {% endif %}
+              </div>
+            </div>
+            {% endif %}
+            
+            {% if day.things_to_do and day.things_to_do.size > 0 %}
+            <div class="day-things-to-do">
+              <h4>Things to Do</h4>
+              <div class="activities-list">
+                {% for activity in day.things_to_do %}
+                {% if activity.name %}
+                <div class="activity-card">
+                  <h5>{{ activity.name }}</h5>
+                  {% if activity.location %}
+                  <p class="location">📍 <a href="https://www.google.com/maps/search/{{ activity.location | uri_escape }}" target="_blank" rel="noopener">{{ activity.location }}</a></p>
+                  {% endif %}
+                  {% if activity.comment %}
+                  <p class="comment">{{ activity.comment }}</p>
+                  {% endif %}
+                </div>
+                {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+            {% endif %}
+            
+            {% if day.places_to_eat and day.places_to_eat.size > 0 %}
+            <div class="day-places-to-eat">
+              <h4>Places to Eat</h4>
+              <div class="restaurants-list">
+                {% for restaurant in day.places_to_eat %}
+                {% if restaurant.name %}
+                <div class="restaurant-card">
+                  <h5>{{ restaurant.name }}</h5>
+                  {% if restaurant.location %}
+                  <p class="location">📍 <a href="https://www.google.com/maps/search/{{ restaurant.location | uri_escape }}" target="_blank" rel="noopener">{{ restaurant.location }}</a></p>
+                  {% endif %}
+                  {% if restaurant.comment %}
+                  <p class="comment">{{ restaurant.comment }}</p>
+                  {% endif %}
+                </div>
+                {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+            {% endif %}
+            
+            {% if day.additional_considerations %}
+            <div class="day-additional-considerations">
+              <h4>Additional Considerations</h4>
+              <div class="considerations-text">
+                <p>{{ day.additional_considerations }}</p>
+              </div>
+            </div>
             {% endif %}
           </div>
           {% endif %}
