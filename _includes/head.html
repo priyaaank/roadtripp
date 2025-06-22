@@ -3,6 +3,108 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
+  
+  <!-- Social Media Meta Tags -->
+  {% if page.layout == 'trip' %}
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.summary }}">
+  <meta property="og:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.author }}">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta name="twitter:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta name="twitter:image:alt" content="{{ page.title }} - Road trip adventure">
+  
+  <!-- LinkedIn -->
+  <meta property="og:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:locale" content="en_US">
+  
+  <!-- Instagram / Pinterest -->
+  <meta property="og:rich_attachment" content="true">
+  <meta name="pinterest-rich-pin" content="true">
+  
+  <!-- WhatsApp -->
+  <meta property="og:image:alt" content="{{ page.title }} - Road trip adventure from {{ page.location }}">
+  
+  <!-- Telegram -->
+  <meta name="telegram:channel" content="@roadtripp">
+  
+  <!-- Additional platforms -->
+  <meta property="fb:app_id" content="">
+  <meta name="twitter:site" content="@roadtripp">
+  <meta name="twitter:creator" content="@roadtripp">
+  
+  <!-- Additional Meta Tags -->
+  <meta name="description" content="{{ page.summary }}">
+  <meta name="keywords" content="road trip, travel, India, Leh, Ladakh, adventure, photography, travel blog, {{ page.location }}, {{ page.duration }}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  
+  <!-- Mobile App Links -->
+  <meta property="al:ios:app_name" content="RoadTripp Adventures">
+  <meta property="al:android:app_name" content="RoadTripp Adventures">
+  <meta property="al:web:url" content="{{ page.url | absolute_url }}">
+  
+  <!-- Schema.org for Google -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["BlogPosting", "TravelAction"],
+    "headline": "{{ page.title }}",
+    "name": "{{ page.title }}",
+    "description": "{{ page.summary }}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/images/leh.jpg' | absolute_url }}",
+      "width": 1200,
+      "height": 630
+    },
+    "url": "{{ page.url | absolute_url }}",
+    "mainEntityOfPage": "{{ page.url | absolute_url }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "duration": "{{ page.duration }}",
+    "location": {
+      "@type": "Place",
+      "name": "{{ page.location }}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN"
+      }
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "url": "{{ site.url }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/assets/images/leh.jpg' | absolute_url }}"
+      }
+    },
+    "keywords": "road trip, travel, India, Leh, Ladakh, adventure, photography",
+    "genre": "Travel",
+    "wordCount": "{{ page.content | strip_html | number_of_words }}"
+  }
+  </script>
+  {% endif %}
+  
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
