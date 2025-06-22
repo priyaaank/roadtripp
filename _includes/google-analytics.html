@@ -1,0 +1,93 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  
+  // Set default consent mode
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'wait_for_update': 500
+  });
+  
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}', {
+    {% if page.layout == 'trip' %}
+    custom_map: {
+      'custom_parameter_1': 'trip_location',
+      'custom_parameter_2': 'trip_duration'
+    },
+    trip_location: '{{ page.location }}',
+    trip_duration: '{{ page.duration }}',
+    {% endif %}
+    anonymize_ip: true,
+    allow_google_signals: true,
+    allow_ad_personalization_signals: false
+  });
+
+  {% if page.layout == 'trip' %}
+  // Track trip page views with custom dimensions
+  gtag('event', 'page_view', {
+    page_title: '{{ page.title | escape }}',
+    page_location: window.location.href,
+    content_group1: 'Trip Content',
+    content_group2: '{{ page.location }}',
+    custom_parameter_1: '{{ page.location }}',
+    custom_parameter_2: '{{ page.duration }}'
+  });
+  {% endif %}
+</script>
+
+<!-- Enhanced Travel Blog Analytics -->
+<script>
+  // Track scroll depth for engagement
+  let scrollDepthTracked = false;
+  window.addEventListener('scroll', function() {
+    const scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+    
+    if (scrollPercent >= 75 && !scrollDepthTracked) {
+      gtag('event', 'scroll', {
+        event_category: 'engagement',
+        event_label: 'scroll_depth_75',
+        value: 75
+      });
+      scrollDepthTracked = true;
+    }
+  });
+
+  // Track outbound links (for map links and external references)
+  document.addEventListener('click', function(event) {
+    const link = event.target.closest('a');
+    if (link && link.hostname !== window.location.hostname) {
+      gtag('event', 'click', {
+        event_category: 'outbound_link',
+        event_label: link.href,
+        transport_type: 'sendBeacon'
+      });
+    }
+  });
+
+  // Track image carousel interactions
+  document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('carousel-btn') || 
+        event.target.classList.contains('carousel-dot')) {
+      gtag('event', 'interaction', {
+        event_category: 'photo_carousel',
+        event_label: 'navigation',
+        value: 1
+      });
+    }
+  });
+
+  // Track time spent on page
+  let startTime = Date.now();
+  window.addEventListener('beforeunload', function() {
+    const timeSpent = Math.round((Date.now() - startTime) / 1000);
+    gtag('event', 'timing_complete', {
+      name: 'page_read_time',
+      value: timeSpent
+    });
+  });
+</script>

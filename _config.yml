@@ -55,6 +55,9 @@ future: true
 jailed: false
 gfm_quirks: paragraph_end
 
+# Analytics
+google_analytics: G-LMJ14P8LF8
+
 # SEO settings
 defaults:
   - scope:
