@@ -142,9 +142,9 @@ document.addEventListener('DOMContentLoaded', function() {
             const translateX = -currentSlide * 100;
             track.style.transform = `translateX(${translateX}%)`;
             
-            // Update navigation buttons
-            prevBtn.disabled = currentSlide === 0;
-            nextBtn.disabled = currentSlide === totalSlides - 1;
+            // Navigation buttons are always enabled for infinite cycling
+            prevBtn.disabled = false;
+            nextBtn.disabled = false;
             
             // Update dots
             dots.forEach((dot, index) => {
@@ -152,20 +152,16 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
         
-        // Next slide
+        // Next slide with infinite cycling
         function nextSlide() {
-            if (currentSlide < totalSlides - 1) {
-                currentSlide++;
-                updateCarousel();
-            }
+            currentSlide = (currentSlide + 1) % totalSlides;
+            updateCarousel();
         }
         
-        // Previous slide
+        // Previous slide with infinite cycling
         function prevSlide() {
-            if (currentSlide > 0) {
-                currentSlide--;
-                updateCarousel();
-            }
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            updateCarousel();
         }
         
         // Go to specific slide
@@ -267,11 +263,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         function startAutoPlay() {
             autoPlayInterval = setInterval(() => {
-                if (currentSlide < totalSlides - 1) {
-                    nextSlide();
-                } else {
-                    goToSlide(0); // Loop back to first slide
-                }
+                nextSlide(); // Now uses infinite cycling
             }, autoPlayDelay);
         }
         
@@ -365,7 +357,7 @@ document.addEventListener('DOMContentLoaded', function() {
         height: 50px;
         border: none;
         border-radius: 50%;
-        background: linear-gradient(135deg, #ff6b6b, #45b7d1);
+        background: linear-gradient(135deg, #2E8B57, #4682B4);
         color: white;
         font-size: 20px;
         cursor: pointer;
