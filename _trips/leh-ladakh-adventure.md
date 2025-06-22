@@ -484,7 +484,7 @@ itinerary:
       - image: "/assets/images/day16-bacteriancamel.jpg"
         caption: "Riding the Bactrian camels"
       - image: "/assets/images/day16-ladhakhitea.jpg"
-        caption: "Enjoying a Ladhakhi Tea, also called _gurgur chai_"
+        caption: "Enjoying a Ladhakhi Tea, also called Gurgur chai"
       - image: "/assets/images/day16-chilling.jpg"
         caption: "Chilling in the backyard of the room, enjoying lush views"
       - image: "/assets/images/day16-birding.jpg"
