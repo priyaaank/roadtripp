@@ -509,8 +509,6 @@ itinerary:
         caption: "Picture with the Maitreya Buddha statue"
       - image: "/assets/images/day16-payerwheels.jpg"
         caption: "Prayer wheels at the temple"
-      - image: "/assets/images/day16-stream.jpg"
-        caption: "Enjoying a small flowing stream"
       - image: "/assets/images/day16-hunderdesert.jpg"
         caption: "Entry of Hunder desert before the camel ride"
       - image: "/assets/images/day16-bactriancamel.jpg"
