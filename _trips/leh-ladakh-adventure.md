@@ -359,6 +359,58 @@ itinerary:
       name: "The Bodhi Tree" 
       notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
 
+ - day: 14
+    title: "Tributes, Trails & Tibetan Tales in Leh"
+    date: "5 June 2025"
+    featured_image: "/assets/images/day13-confluence.jpg"
+    description: "On our 14th day we started with intense packing. The drive ahead was not too long. We packed everything and stuffed it into the car. All car errors had gone away, everyone was in high spirits and the mood was relaxed. The only pass between us and PangongTso was Changla pass. WE started around 8:30-9:00 am. The drive, as imagined, was serene, navigating bending roads and going up the pass. Until the pass we trailed a army convoy. Post that we picked up pace and were pretty much by ourselves on the road. Typically people want to go to Nubra valley from Leh and then Pangong Tso, as it goes up in Altitude more gradually. However we decided that we will do a longer drive first and then come back to Nubra valley. So we moved through the pass as a slight head ache came and went. We were mostly acclamatized. The terrains and drive were changing and remained lovely. We spotted some Meerkats and Cows that looked like Yaks. Finally, close to Pangong Tso, the lake reared its head beyond the mountains and boy was it beautiful! It was all shades of blue and emeerld green moving through the shore to the center. We reached our cabin, which I have to say was very smartly done and was very comfortable. Unfortunately until much later in the evening, we were the only people around and it was peaceful but a bit eerie as well. Finally we saw some people showing up towards later in the evening. We spent time close to lake taking a stroll, however despite chilly climate, the Sun was unforgivingly harsh. We applied layers of Sunscreen and ate some delicacies that we were carrying. The evening sunset happened from glaring sun to almost dark in just 20-35 minutes as Sun went behind one of the high mountains. We stepped out and took a stroll, checked out the night sky and then post dinner in a common hall, settled in the cabin. It was air tight one with a large window and a skylight. We gazed until slowly everyone drifted off to sleep. The temperature in the night dipped as low as -4 degrees and we all could feel the chilly night as well as rising carbon di oxide in the cabin with no ventilation. Thats when we switched on the oxygen concentrator and the headache that was creeping in slowly disappeared. Meanwhile we peeped out of the window at 3 am and regretted later not going out and check the night sky and stars in their full bloom. We resolvedto do that in Nubra valley for sure. However even from Window, all constellations seemed so close. It was surreal. There is limited electricity at Pangong Tso, so you get it from evening 6pm to 12 am via generator but otherwise natural breeze, light is more than sufficient and there is battery backup to charge the phone. All in all it was a relaxed peaceful stay we all were craving next to the lake." 
+    highlights:
+      - "✅ Well designed and furnished Cabin by Desert Blue" 
+      - "✅ The shifting colors of the lake. Unbelievable" 
+      - "✅ Glimpse of the night sky"
+      - "❌ Missed planning for proper ventilation before going to sleep in the night" 
+      - "❌ Missed watching night sky properly" 
+      - "❌ Harsh Sun despite it being cold" 
+    photos:
+      - image: "/assets/images/day13-halloffame.jpg"
+        caption: "Visiting the Hall of Fame - a tribute to the Indian Army"
+      - image: "/assets/images/day13-halloffame2.jpg"
+        caption: "Inside the Hall of Fame museum"
+      - image: "/assets/images/day13-magnetichill.jpg"
+        caption: "At the famous Magnetic Hill"
+      - image: "/assets/images/day13-magnetichill2.jpg"
+        caption: "Magnetic Hill road and surroundings"
+      - image: "/assets/images/day13-magnetichill3.jpg"
+        caption: "Views from Magnetic Hill area"
+      - image: "/assets/images/day13-atv.jpg"
+        caption: "Thrilling ATV rides through the desert hills"
+      - image: "/assets/images/day13-confluence.jpg"
+        caption: "Confluence of Zanskar and Indus rivers"
+      - image: "/assets/images/day13-maggie.jpg"
+        caption: "Enjoying Maggi noodles by the river confluence"
+      - image: "/assets/images/day13-drive.jpg"
+        caption: "Beautiful drive through Ladakh countryside"
+      - image: "/assets/images/day13-likirgate.jpg"
+        caption: "Entrance gate to Likir Monastery"
+      - image: "/assets/images/day13-likirmonatry.jpg"
+        caption: "Ancient Likir Monastery with its legendary history"
+      - image: "/assets/images/day13-likirmonastry2.jpg"
+        caption: "Inside the peaceful Likir Monastery complex"
+      - image: "/assets/images/day13-lunch.jpg"
+        caption: "Underwhelming lunch stop near Nimmoo"
+      - image: "/assets/images/day13-lehpalace.jpg"
+        caption: "The majestic Leh Palace rising above the city"
+      - image: "/assets/images/day13-lehpalace2.jpg"
+        caption: "Another view of the historic Leh Palace"
+      - image: "/assets/images/day13-lehpalaceviews.jpg"
+        caption: "Panoramic views from Leh Palace"
+      - image: "/assets/images/day13-marketshopping.jpg"
+        caption: "Evening shopping at Leh's main bazaar"
+    accommodation:
+      name: "The Bodhi Tree" 
+      notes: "Fantastic property, great deals on stay. Nice views and good service. Breakfast buffet, was not the best. Sea buckthorn juice was new introduction though."
+
+
 
 ---
 
