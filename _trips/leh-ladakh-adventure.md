@@ -414,9 +414,7 @@ itinerary:
     title: "Pangong to Nubra - Rivers, Rocks & Starlit Revelations"
     date: "7 June 2025"
     featured_image: "/assets/images/day15-nubra-main.jpg"
-    description: "We started Day 15 on a relaxed note, expecting a relatively short drive. But as always, Ladakh had its own plans—and three routes to choose from.
-
-The first was via Leh, long but safe, looping back before heading to Nubra. That felt counterproductive. The second, a scenic route along the Shyok River via Tangtse, came with a fair warning: rough roads, landslide-prone stretches, but no high-altitude passes. It also offered the only fuel stop in the region. We picked this route, chasing adventure and beauty over convenience. And scenic it was. The Shyok River accompanied us like a silvery ribbon, weaving through the valley with sparkling waters and quiet strength. We stopped a few times to dip our feet in its icy shallows, savoring the stillness. But serenity met reality soon—landslide detours nudged us onto dry riverbeds and bumpy off-road paths, the terrain raw and thrilling in equal measure. Luckily, monsoons hadn’t hit yet, so the dry beds were still safe to navigate. What we’d thought would be a quick hop turned into a 5–6 hour journey. There weren’t any worthwhile food stops, so we pressed on, stomachs growling, eyes on the road. We finally reached our destination—Lchang Nang Retreat, a truly sustainable eco-property tucked away in a peaceful part of Nubra. With its own organic kitchen garden, breathtaking views of both the Trans-Himalayan and Karakoram ranges, and a restaurant that impressed from the first bite, it was well worth the wait. We devoured a fantastic lunch and let ourselves sink into comfort. The only tradeoff? Lchang Nang is a good 45-minute drive from Diskit and Hunder, making it slightly less convenient for daily outings. But we didn’t mind. Later in the evening, we drove to the Panamik hot springs, about an hour away. The landscape en route was uniquely stark and peaceful. After that, we stopped at Himalayan Desert Adventure Camp near Diskit to check out a 2 km zipline—which, though impressive in claim, didn’t quite wow us with either safety setup or scenic views. At ₹2500, we skipped it. Instead, we returned to a tried and trusted thrill—ATV rides! This time, with a different route and setup, it felt even more rewarding than our previous one. We rode across sand dunes, this time ₹1500 for an adult and child—a fair price for the sheer joy of it. Back at our retreat, we strolled through the peaceful property, soaked in the mountain air, and ended the day with another unforgettable dinner. As the lights dimmed, the sky overhead deepened into a velvet dome, and we set our alarm for 2:00 AM—star-gazing time. And what a reward that was. The night sky came alive in a way we had never seen before. Stars, constellations, galaxies, all bright and impossibly close. We stared in awe through our cabin skylight, letting the silence and starlight wash over us. It was a quiet, humbling reminder of how easy it is to forget the vastness above in our screen-filled daily lives. That night, with tired limbs, full hearts, and star-dusted memories, we drifted into one of the deepest sleeps of our journey so far." 
+    description: "We started Day 15 on a relaxed note, expecting a relatively short drive. But as always, Ladakh had its own plans—and three routes to choose from. The first was via Leh, long but safe, looping back before heading to Nubra. That felt counterproductive. The second, a scenic route along the Shyok River via Tangtse, came with a fair warning: rough roads, landslide-prone stretches, but no high-altitude passes. It also offered the only fuel stop in the region. We picked this route, chasing adventure and beauty over convenience. And scenic it was. The Shyok River accompanied us like a silvery ribbon, weaving through the valley with sparkling waters and quiet strength. We stopped a few times to dip our feet in its icy shallows, savoring the stillness. But serenity met reality soon—landslide detours nudged us onto dry riverbeds and bumpy off-road paths, the terrain raw and thrilling in equal measure. Luckily, monsoons hadn’t hit yet, so the dry beds were still safe to navigate. What we’d thought would be a quick hop turned into a 5–6 hour journey. There weren’t any worthwhile food stops, so we pressed on, stomachs growling, eyes on the road. We finally reached our destination—Lchang Nang Retreat, a truly sustainable eco-property tucked away in a peaceful part of Nubra. With its own organic kitchen garden, breathtaking views of both the Trans-Himalayan and Karakoram ranges, and a restaurant that impressed from the first bite, it was well worth the wait. We devoured a fantastic lunch and let ourselves sink into comfort. The only tradeoff? Lchang Nang is a good 45-minute drive from Diskit and Hunder, making it slightly less convenient for daily outings. But we didn’t mind. Later in the evening, we drove to the Panamik hot springs, about an hour away. The landscape en route was uniquely stark and peaceful. After that, we stopped at Himalayan Desert Adventure Camp near Diskit to check out a 2 km zipline—which, though impressive in claim, didn’t quite wow us with either safety setup or scenic views. At ₹2500, we skipped it. Instead, we returned to a tried and trusted thrill—ATV rides! This time, with a different route and setup, it felt even more rewarding than our previous one. We rode across sand dunes, this time ₹1500 for an adult and child—a fair price for the sheer joy of it. Back at our retreat, we strolled through the peaceful property, soaked in the mountain air, and ended the day with another unforgettable dinner. As the lights dimmed, the sky overhead deepened into a velvet dome, and we set our alarm for 2:00 AM—star-gazing time. And what a reward that was. The night sky came alive in a way we had never seen before. Stars, constellations, galaxies, all bright and impossibly close. We stared in awe through our cabin skylight, letting the silence and starlight wash over us. It was a quiet, humbling reminder of how easy it is to forget the vastness above in our screen-filled daily lives. That night, with tired limbs, full hearts, and star-dusted memories, we drifted into one of the deepest sleeps of our journey so far." 
     highlights:
       - "✅ Drive to Nubra from Panging Tso (Shyok Route via Durbuk–Shyok–Agham)" 
       - "✅ Filling fuel at Tangtse Petrol Station (The only one in the area, may require detour)" 
@@ -469,9 +467,73 @@ The first was via Leh, long but safe, looping back before heading to Nubra. That
       name: "Lachangnag Retreat" 
       notes: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
 
+  - day: 16
+    title: "Nubra Valley Adventures - Camels, Monasteries & Desert Dreams"
+    date: "8 June 2025"
+    featured_image: "/assets/images/day16-_9871.jpg"
+    description: "Day 16 was all about exploring the unique wonders of Nubra Valley - from double-humped Bactrian camels in the sand dunes of Hunder to ancient monasteries perched on clifftops. We started with camel rides through the high-altitude desert, a surreal experience surrounded by snow-capped peaks. The Diskit Monastery offered breathtaking panoramic views and a chance to connect with local Buddhist culture. We explored traditional villages, visited local markets, and witnessed the incredible contrast of this high-altitude desert valley. The day ended with spectacular sunset views over the dunes, painting the entire valley in golden hues." 
+    highlights:
+      - "✅ Camel safari on double-humped Bactrian camels in Hunder sand dunes" 
+      - "✅ Visit to ancient Diskit Monastery with panoramic valley views" 
+      - "✅ Exploring traditional Ladakhi villages and local culture" 
+      - "✅ Spectacular sunset over the Nubra Valley desert landscape"
+      - "✅ Photography opportunities with unique desert-mountain combination"
+    photos:
+      - image: "/assets/images/day16-_8628.jpg"
+        caption: "Morning views of Nubra Valley's unique desert landscape"
+      - image: "/assets/images/day16-_8659.jpg"
+        caption: "Traditional Ladakhi architecture in Nubra villages"
+      - image: "/assets/images/day16-_9774.jpg"
+        caption: "Double-humped Bactrian camels in Hunder sand dunes"
+      - image: "/assets/images/day16-_9800.jpg"
+        caption: "Camel safari adventure through the high-altitude desert"
+      - image: "/assets/images/day16-_9811.jpg"
+        caption: "Family enjoying the unique camel riding experience"
+      - image: "/assets/images/day16-_9816.jpg"
+        caption: "Sand dunes contrasting with snow-capped mountain peaks"
+      - image: "/assets/images/day16-_9822.jpg"
+        caption: "Exploring the vast expanse of Nubra Valley's desert"
+      - image: "/assets/images/day16-_9828.jpg"
+        caption: "Ancient Diskit Monastery perched on the hillside"
+      - image: "/assets/images/day16-_9837.jpg"
+        caption: "Panoramic views from Diskit Monastery"
+      - image: "/assets/images/day16-_9844.jpg"
+        caption: "Traditional prayer flags fluttering in the mountain breeze"
+      - image: "/assets/images/day16-_9857.jpg"
+        caption: "Local market scene in Diskit village"
+      - image: "/assets/images/day16-_9868.jpg"
+        caption: "Children playing in the monastery courtyard"
+      - image: "/assets/images/day16-_9871.jpg"
+        caption: "Intricate Buddhist art and sculptures in the monastery"
+      - image: "/assets/images/day16-_9878.jpg"
+        caption: "Peaceful meditation halls with mountain views"
+      - image: "/assets/images/day16-_9888.jpg"
+        caption: "Local Ladakhi people in traditional dress"
+      - image: "/assets/images/day16-_9891.jpg"
+        caption: "Stunning landscape photography of valley and peaks"
+      - image: "/assets/images/day16-_9895.jpg"
+        caption: "Traditional Ladakhi home architecture and lifestyle"
+      - image: "/assets/images/day16-_9898.jpg"
+        caption: "Village life in remote Nubra Valley"
+      - image: "/assets/images/day16-_9915.jpg"
+        caption: "Afternoon light creating magical shadows on dunes"
+      - image: "/assets/images/day16-_9932.jpg"
+        caption: "Golden hour views over the desert valley"
+      - image: "/assets/images/day16-_9951.jpg"
+        caption: "Spectacular sunset concluding our Nubra Valley adventure"
+    accommodation:
+      name: "Lachangnag Retreat" 
+      notes: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
+
 ---
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
+
+## Planning resources
+
+[Leh Trip - Planning Sheet](https://docs.google.com/spreadsheets/d/1fql6Rz5rNlmB9kRUjXZZ7X3h2O-5RzCZuob3NLgymto/edit?gid=639703312#gid=639703312)
+
+We used a google sheet for our Trip planning and hotel booking tracking. This also helped us project the total cost of the trip. A public version of the sheet is available for anyone to reference. The hotel cost has been left empty, as everyone has their own preference and thought process to book it based on their need. 
 
 ## Driving route 
 
