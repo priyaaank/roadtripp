@@ -20,8 +20,10 @@ itinerary:
       - "❌ Traffic snarls near Kohlapur and as we entered the city of Pune"
       
     photos:
-      - image: "/assets/images/day1-starting-trip.jpg"
+      - image: "/assets/images/day1-kickingoff.jpg"
         caption: "Kickstarting our trip at 4:45 am from Bangalore"
+      - image: "/assets/images/day1-starting-trip.jpg"
+        caption: "Playing tetris with the luggage in the boot"
       - image: "/assets/images/day1-tripmeter.jpg"
         caption: "Noting the values on the odometer before commencing the trip"
       - image: "/assets/images/day1-big-mishra.jpg"
@@ -135,16 +137,28 @@ itinerary:
       notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
 
   - day: 7
-    title: "drive to rahjestan"
+    title: "Smooth Roads, a Sensor Scare & a Silent Engine"
     date: "30 May 2025"
-    featured_image: "/assets/images/leh-day3.jpg"
-    description: "we woke up at morning freash and early. Once we were freshend-up we got into the car ready for the drive. We drove for about 4 hours before we stoped at a place called dhabalogy for lunch. Thefood was great and the innterior of the place was really good. The bathrooms were kind of weiord, espesialy the boys one but ovar all it was good. Once we started the car to countinu the journy, It gave an error saying low df. But we kept drivig. Then it said that it will stop the engine after 400km. We got teriffied and called the nearest serviece center and they said No matter what you do do not turn of the engien. And that is exactly what we did. The df tank had actualy not run out of df, it was just that the sensor was not able to sense the df. We first stopped at the service station, dropped the car and the took a taxi to the hotal. We were stayig at Fairfield marriot. Once we reached we had a light breakfast and went to sleep. "
+    featured_image: "/assets/images/day7-dhabalogy-main.jpg"
+    description: "We woke up fresh and early, ready to leave Ahmedabad behind and roll into the next chapter of our journey. With the sun barely stretching, we packed up, hopped into the car, and began our drive toward Jaipur. About four hours in, stomachs began to growl, and we pulled into a quirky little place called Dhabalogy for lunch. The food hit all the right notes—delicious, flavorful, and just the break we needed. The interiors were surprisingly stylish for a roadside stop, though the bathrooms (especially the boys’ one) were a bit... unusual. Let’s call it character. After the meal, we got back into the car, ready to continue cruising—until the car threw a curveball. Low DEF warning. Then, another message: Engine will stop after 400 km. Cue panic. We immediately called the nearest service center, who gave us clear instructions: “Whatever you do, don’t switch off the engine.” Apparently, the DEF tank wasn’t actually empty—the sensor just couldn’t read it properly. So with hearts racing, we decided to keep moving and not take any chances. Our next stop was the service center in Jaipur, where we dropped off the car for diagnostics and repairs. From there, we hopped into a taxi and headed to our hotel—Fairfield by Marriott—a calm, welcoming space we were more than ready to collapse into. Once checked in, we grabbed a light dinner, breathed a sigh of relief, and called it a night. After a day of great food, open roads, and a surprise car drama, sleep came easily—the kind you only get after a day full of unexpected turns."
     highlights:
       - "✅ Food was great "
       - "❌ Faced an issue with the car "
     photos:
-      - image: "/assets/images/day5-luggage.jpg"
-        caption: "Playing tetris with the lugguage in the car boot"
+      - image: "/assets/images/day7-arsh-raavan.jpg"
+        caption: "Arsh trying Ravan headgear"
+      - image: "/assets/images/day7-sara-raavan.jpg"
+        caption: "Sara trying Ravan headgear"
+      - image: "/assets/images/day7-gandhinagar-thermal-pp.jpg"
+        caption: "Gandhinagar Thermal Power plant as we exit Ahemdabad"
+      - image: "/assets/images/day7-dabhalogy-bathroom.jpg"
+        caption: "A hidden gem of a bathroom at Dabhalogy on Udaipur to Jaipur highway"
+      - image: "/assets/images/day7-car-error-distance.jpg"
+        caption: "The DEF error that took us by surprise"
+      - image: "/assets/images/day7-car-error.jpg"
+        caption: "Car warning that it won't start after 400 kms"
+      - image: "/assets/images/day7-carservicecenter.jpg"
+        caption: "Dropping car for the service in Jaipur at the end of the day"
     accommodation:
       name: "Fairfield by Mariott, Bani Park, Jaipur" 
       notes: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
