@@ -164,7 +164,7 @@ itinerary:
       notes: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
 
   - day: 8
-    title: "Shopping at Jaipur"
+    title: "Lazy Mornings, Street Food & Lively Bazaars in Jaipur"
     date: "31 May 2025"
     featured_image: "/assets/images/day8-jaipur-ferriswheel.jpg"
     description: "We woke up late—10 o’clock, to be precise—and it felt wonderful to ease into the day without alarms or plans chasing us. Our dear friends in Jaipur had cooked up a delicious local breakfast, and we spent the morning chatting, laughing, and filling our plates (and hearts). After a warm farewell, it was time to run a quick errand—picking up a car for the next leg of our journey. Once done, we returned to the room for a short rest. The Jaipur heat was real, and a little downtime was just what we needed. Later in the day, another set of friends whisked us off to explore the Pink City—the bustling heart of Jaipur and a paradise for anyone who loves street shopping. Lanes filled with colorful fabrics, shining bangles, traditional jootis, and the aroma of local snacks tempted us at every turn. As the sun dipped and the shops started shutting their doors, we hugged our friends goodbye and headed back to our hotel, hearts full and hands (maybe a little too) full of shopping bags. It was a day of food, friends, colors, and chaos—the kind that leaves you tired in the best possible way."
@@ -183,7 +183,7 @@ itinerary:
       notes: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
 
   - day: 9
-    title: "Driving from Jaipur to Chandigarh"
+    title: "Detours, Dhabas & the Road to Chandigarh"
     date: "1 June 2025"
     featured_image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
     description: "The day began bright and early as we woke up, freshened up, and headed down for a quick breakfast to fuel the journey ahead. With full tummies and excited hearts, we set off toward Chandigarh, ready for another stretch of highway stories. About 4 to 5 hours into the drive, we took a detour—because when family is nearby, you don’t just pass by! We spent a lovely few hours at a relative’s home, catching up over conversations, chai, and plenty of laughter. These unplanned pauses always seem to leave the warmest memories. By late afternoon, it was time to say our goodbyes and hit the road again. As evening rolled in, we reached Zirakpur, just on the edge of Chandigarh, and checked into Radisson—our cozy stop for the night. Dinner was a proper Punjabi affair at the iconic Pal Dhaba. We ordered two kinds of chicken (because one is never enough) along with fresh, hot rotis—flavorful, comforting, and just what we needed after a long day. For dessert, we headed to a nearby softy corner. The softies, though, didn’t quite live up to the hype—melty and a bit bland—but hey, not every bite on a road trip is a win! We returned to the hotel tired but happy, ready to rest and recharge for the next chapter of our adventure."
@@ -207,7 +207,7 @@ itinerary:
   - day: 10
     title: "Chandigarh to Jispa - Into the Heart of the Himalayas – With a Worry Tucked In"
     date: "2 June 2025"
-    featured_image: "/assets/images/leh-main.jpg"
+    featured_image: "/assets/images/day10-crossing-manali.jpg"
     description: "We kicked off the day early, setting out from Chandigarh around 7:10 AM, with the mountains calling and our spirits ready for the adventure ahead. After a few hours on the road, we took a much-needed break at a cozy roadside café called The Diaig. Steaming chai and a chilled shake were the perfect pick-me-ups as we stretched our legs and breathed in the fresh mountain air. Not long after, the Beas River joined our journey—its turquoise waters flowing gracefully beside us, as if guiding the way. The road twisted and climbed through the foothills of Himachal, with the river dancing beside us like a quiet travel companion. We had hoped to cross the famous Rohtang Pass, but to our disappointment, passes for beyond Rohtang weren’t being issued that day. Instead, we took the Atal Tunnel—a 10 km engineering marvel that slices through the mountains. The moment we emerged from its shadowy tunnel walls, it felt like stepping into a different world. The air was cooler, crisper. The landscape had changed—pine trees, snow-capped peaks, and an instant drop in temperature wrapped us in that unmistakable Himalayan embrace. Somewhere along the Chenab River, we stopped to take in the scenery. The icy water begged to be touched, the silence begged to be heard. It was one of those rare moments where time slows down and lets you just be. Eventually, winding through narrow roads and mountain valleys, we arrived at Gemur Khar Banjara, a peaceful resort nestled between Keylong and Jispa. It was picture-perfect—tucked amidst hills, with river sounds in the background and crisp, pine-scented air all around. But the beauty of the place was dulled a little by two unsettling things. First, our daughter’s condition had worsened. The altitude seemed to have triggered gastroenteritis, and she was constantly nauseous, weak, and unable to eat. Second, as if on cue, the car flashed a warning: DEF Sub-System Error. The dreaded alert meant that if we drove another 400 km without resolving it, the car would refuse to start again. And with no phone network, no workshops, and a rough, high-altitude drive to Leh ahead of us the next day, we were faced with a decision: Turn back to Chandigarh, playing it safe but undoing a week’s journey? Or press ahead to Leh, hoping the car (and we) could make it without further trouble? Night fell with more questions than answers. Wrapped in warm quilts and silence, we stared at the ceiling, each of us carrying a pocket of anxiety. Would the car start in the morning? Would our daughter feel better? Could we really make it across some of the highest motorable roads in the world without help? Tomorrow, we’d have to decide. But for tonight, we rested—hoping morning would bring clarity, courage, and a little luck."
     highlights: 
       - "✅ Location is very serene facing mountains and a river"
@@ -216,14 +216,22 @@ itinerary:
       - "❌ Day ending with a DEF error in the car"
       - "❌ Daughter down with gastroenteritis causing nausea and stomach cramps"
     photos:
-      - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
-        caption: "Sampling unimpressive food at the Great Khali Dabha"
-      - image: "/assets/images/day9-chandigarh-oldpaldabha.jpg"
-        caption: "Fantastic chicken and fresh tandoori rotis at Old Pal Dabha"
-      - image: "/assets/images/day9-chandigarh-softycorner.jpg"
-        caption: "Overcrowded softy corner raised our hopes"
-      - image: "/assets/images/day9-chandigarh-softies.jpg"
-        caption: "The taste of actual softies was a bit underwhelming"
+      - image: "/assets/images/day10-lunchstop.jpg"
+        caption: "Pitstop for lunch and views"
+      - image: "/assets/images/day10-drive.jpg"
+        caption: "Approaching Mandi on our drive. Temperature slowing dipping down"
+      - image: "/assets/images/day10-kullu.jpg"
+        caption: "Taking a quick break near Kullu on the riverbanks"
+      - image: "/assets/images/day10-ataltunnel.jpg"
+        caption: "Engineering marvel that is Atal Tunnel. 10 kms long"
+      - image: "/assets/images/day10-crossing-manali.jpg"
+        caption: "The beginning of lush views right after Atal Tunnel"
+      - image: "/assets/images/day10-indusriver.jpg"
+        caption: "The early views of the Indus river"
+      - image: "/assets/images/day10-gemoorkhar.jpg"
+        caption: "Our final stop for the day. Fantastic property nestled in nature"
+      - image: "/assets/images/day10-jispa.jpg"
+        caption: "The glimpse of the Jispa town from our stay"
     accommodation: 
       name: "Gemoor Khar Banjara" 
       notes: "Beautiful property, nesteld in nature. Rooms were cozy with electric blankets, beautiful views and food was good. Amazing service by the staff"
