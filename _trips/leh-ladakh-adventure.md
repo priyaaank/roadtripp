@@ -32,25 +32,17 @@ itinerary:
         caption: "Mutton Thali at Manas Restobar after Satara"
     accommodation:
       name: "Taj Vivanta"
-      location: "Hinjewadi, Pune"
-      rating: 4
-      review: "Comfortable hotel with decent amenities. The breakfast spread was good and the location was convenient for our onward journey to Mumbai."
-      notes: "Not the best Taj experience but value for money. Worked well as it was closer to Pune exit for Mumbai travel"
-    things_to_do:
-      - name: "Car Wash Service"
-        location: "Local service center, Pune"
-        comment: "Got a much-needed external car wash after the long drive from Bangalore. The kids enjoyed watching the spinning brushes!"
-      - name: "Family Visit"
-        location: "Pune"
-        comment: "Quick visit with relatives for hugs, snacks, and stories before continuing the journey"
+      location: "Vivanta Pune, Hinjawadi"
+      rating: 3
+      review: "Not the best Taj experience but value for money. Worked well as it was closer to Pune exit for Mumbai travel"
     places_to_eat:
       - name: "Big Mishra"
-        location: "Dharwad"
+        location: "Big Mishra Pedha, Joga Yellapur, Karnataka"
         comment: "Famous for their soft, milky pedas that melt in your mouth. A must-try detour!"
       - name: "Manas Restobar"
-        location: "Near Satara"
+        location: "Manas Resto Lounge, Satara"
         comment: "Excellent mutton thali and soul-warming paya soup. A hidden gem on the highway"
-    additional_considerations: "Start early (4:45 AM) to avoid heavy traffic on major highways. Carry cash for toll booths as some don't accept cards. Check weather conditions especially during monsoon season and keep emergency contact numbers handy for roadside assistance."
+    additional_considerations: "Start early (4:00 - 5:00 AM) to avoid heavy traffic on major highways. Carry cash for toll booths as some don't accept cards. Check weather conditions especially during monsoon season and keep emergency contact numbers handy for roadside assistance. Additionally there are car wash places in Hinjewadi/Wakad if you are looking for one"
 
   - day: 2
     title: "From Pune with Love, to Mumbai in the Rain"
@@ -125,7 +117,14 @@ itinerary:
         caption: "Really good ice cream that was a mix of everything on the menu"
     accommodation:
       name: "Renaissance Ahmedabad Hotel"
-      notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+      location: "Renaissance Ahmedabad Hotel"
+      rating: 3
+      review: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+    places_to_eat:
+      - name: "Swati Snacks"
+        location: "Swati Snacks, Law college garden, Ahmedabad"
+        comment: "Fantastic assortment of local delicacies. Also Asharfi ice cream truck across the street"
+    additional_considerations: "Start drive early and try to beat the traffic. Switching to NE4 from Bharuch is recommended"
 
   - day: 6
     title: "Splash, Screen & Sabarmati – A Hot Day in Colorful Ahmedabad"
@@ -150,8 +149,15 @@ itinerary:
       - image: "/assets/images/day6-working.jpg"
         caption: "Beating the heat and staying indoors. Some working for office, others keeping themselves busy"
     accommodation:
-      name: "Renaissance Ahmedabad Hotel" 
-      notes: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+      name: "Renaissance Ahmedabad Hotel"
+      location: "Renaissance Ahmedabad Hotel"
+      rating: 3
+      review: "Comfortable and clean rooms. Executive lounge if you are working. Some service from staff was great, other was just sub-par"
+    places_to_eat:
+      - name: "Gordhan thal"
+        location: "Gordhan Thal, Ahmedabad"
+        comment: "Famous for their elaborate Gujrati thali"
+    additional_considerations: "If you are staying at Renaissance hotel, then top floor has a lounge that is accessible. You can quietly work there and also enjoy view to the city"
 
   - day: 7
     title: "Smooth Roads, a Sensor Scare & a Silent Engine"
@@ -159,8 +165,10 @@ itinerary:
     featured_image: "/assets/images/day7-dhabalogy-main.jpg"
     description: "We woke up fresh and early, ready to leave Ahmedabad behind and roll into the next chapter of our journey. With the sun barely stretching, we packed up, hopped into the car, and began our drive toward Jaipur. About four hours in, stomachs began to growl, and we pulled into a quirky little place called Dhabalogy for lunch. The food hit all the right notes—delicious, flavorful, and just the break we needed. The interiors were surprisingly stylish for a roadside stop, though the bathrooms (especially the boys’ one) were a bit... unusual. Let’s call it character. After the meal, we got back into the car, ready to continue cruising—until the car threw a curveball. Low DEF warning. Then, another message: Engine will stop after 400 km. Cue panic. We immediately called the nearest service center, who gave us clear instructions: “Whatever you do, don’t switch off the engine.” Apparently, the DEF tank wasn’t actually empty—the sensor just couldn’t read it properly. So with hearts racing, we decided to keep moving and not take any chances. Our next stop was the service center in Jaipur, where we dropped off the car for diagnostics and repairs. From there, we hopped into a taxi and headed to our hotel—Fairfield by Marriott—a calm, welcoming space we were more than ready to collapse into. Once checked in, we grabbed a light dinner, breathed a sigh of relief, and called it a night. After a day of great food, open roads, and a surprise car drama, sleep came easily—the kind you only get after a day full of unexpected turns."
     highlights:
-      - "✅ Food was great "
-      - "❌ Faced an issue with the car "
+      - "✅ Good highways to drive in Rajasthan"
+      - "✅ Good food and restaurant near Nathdwara between Udaipur and Jaipur"
+      - "❌ Faced technical issues with Jeep"
+      - "❌ Extreme heat in the month of May/June"
     photos:
       - image: "/assets/images/day7-arsh-raavan.jpg"
         caption: "Arsh trying Ravan headgear"
@@ -178,7 +186,14 @@ itinerary:
         caption: "Dropping car for the service in Jaipur at the end of the day"
     accommodation:
       name: "Fairfield by Mariott, Bani Park, Jaipur" 
-      notes: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
+      location: "Fairfield by Mariott, Bani Park, Jaipur"
+      rating: 3
+      review: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
+    places_to_eat:
+      - name: "Dhabalogy"
+        location: "Dhabalogy, Nathdwara Rajasthan"
+        comment: "Great food options, including local food. Fantastic ambience. Can also check out old car collection and graffiti inside the restaurant"
+    additional_considerations: "The highways are fantastic in Rajasthan. However there is often speed checking. Watch out speed limits"
 
   - day: 8
     title: "Lazy Mornings, Street Food & Lively Bazaars in Jaipur"
@@ -197,7 +212,17 @@ itinerary:
         caption: "Passing by Albert Hall"
     accommodation:
       name: "Fairfield by Mariott, Bani Park, Jaipur" 
-      notes: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
+      location: "Fairfield by Mariott, Bani Park, Jaipur"
+      rating: 3
+      review: "Comfortable and clean rooms but a bit too small for 2 kids and 2 adults. Service was good, apart from size they were value for money"
+    places_to_eat:
+      - name: "Lassiwala"
+        location: "Lassiwala ®️ Kishan lal Govind Narain Agarwal, Jaipur"
+        comment: "Fantastic Lassi. Take the big one. Might have flavors to try. But original itself was great"
+      - name: "Roadside Pani puri, next to Laxmi Chat Bhandar"
+        location: "Laxmi Chat Bhandar, Link Road, Jaipur"
+        comment: "Delicious Pani Puri and chat"
+    additional_considerations: "A new ring road around Jaipur help us beat city traffic while entering the city. We took that from Sitapura industrial area"
 
   - day: 9
     title: "Detours, Dhabas & the Road to Chandigarh"
@@ -208,6 +233,7 @@ itinerary:
       - "✅ Food was great "
       - "✅ had a great time, meeting family"
       - "❌ Stop at The great Khali Dabha was underwhelming. Food was not great, nor was chai"
+      - "❌ Breakfast at Radisson was a bit disappointing. This turned out to be better during return journey"
     photos:
       - image: "/assets/images/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -219,7 +245,20 @@ itinerary:
         caption: "The taste of actual softies was a bit underwhelming"
     accommodation:
       name: "Radisson Hotel, Zirakpur Chandigarh" 
-      notes: "Spacious rooms and comfortable. Mixed service experience. Breakfast was not great when we turned up early morning, it got better later"
+      location: "Radisson Hotel, Zirakpur Chandigarh"
+      rating: 2
+      review: "Spacious rooms and comfortable. Mixed service experience. Breakfast was not great when we turned up early morning, it got better later. Between Sakshi and Sahil, prefer Sakshi on front desk. Sahil was arrogant and apathetic. Ignored issues and was not great to talk to"
+    places_to_eat:
+      - name: "Old Pal Dabha"
+        location: "Old Pal Dhaba, Sector 28, Chandigarh"
+        comment: "Fantastic Non-Veg (Chicken, Mutton and Tandoori Roti)"
+      - name: "Softy Corner"
+        location: "Softy Corner, 87-88 Jan Marg, Chandigarh"
+        comment: "Options for snacks and ice cream. While we didn't like softy as much they are quite popular and can be checked out"
+      - name: "Ram Chaat Bhandar and other food joints"
+        location: "Ram Chaat Bhandar (Ambala wale), Chandigarh"
+        comment: "The whole block is foodie heaven and lot of options available"
+    additional_considerations: "Chandigarh is very well planned as a city. Fairly decent drivers, ample parking and lot of foodie joints. Prefer hotel in Chandigarh rather than Zirakpur"
 
   - day: 10
     title: "Chandigarh to Jispa - Into the Heart of the Himalayas – With a Worry Tucked In"
