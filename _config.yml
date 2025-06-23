@@ -1,12 +1,12 @@
 # Site settings
 title: "RoadTripp Adventures"
 description: "Documenting our family road trips and adventures across the country. Join us as we explore new places, create memories, and share our journey with you."
-author: "RoadTrippers"
+author: "Roadtripp.in"
 email: priyaaank@gmail.com
 
 # GitHub Pages / Production settings
-url: "https://priyaaank.github.io" # Change this to your GitHub username
-baseurl: "/roadtripp" # Change this to your repository name
+url: "https://roadtripp.in" # Your custom domain
+baseurl: "" # Empty for apex domain
 repository: "priyaaank/roadtripp" # Change this to your GitHub username/repoa
 
 # Jekyll settings
@@ -65,13 +65,13 @@ defaults:
       type: "trips"
     values:
       layout: "trip"
-      author: "Your Family Name"
+      author: "Roadtrippers"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      author: "Your Family Name"
+      author: "Roadtrippers"
   - scope:
       path: ""
     values:
