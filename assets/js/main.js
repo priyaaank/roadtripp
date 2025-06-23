@@ -64,62 +64,67 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(item);
     });
     
-    // Photo gallery lightbox effect (for both grid and carousel)
+    // Photo gallery lightbox effect (for grid images only)
     function initLightbox() {
-        const photoItems = document.querySelectorAll('.photo-item img, .carousel-item img');
+        const photoItems = document.querySelectorAll('.photo-item img');
         photoItems.forEach(img => {
             img.style.cursor = 'pointer';
             img.addEventListener('click', function(e) {
-                e.stopPropagation(); // Prevent carousel navigation when clicking image
-                const lightbox = document.createElement('div');
-                lightbox.className = 'lightbox';
-                
-                // Get caption from either grid or carousel
-                let caption = '';
-                const captionElement = this.parentElement.querySelector('.photo-caption');
-                if (captionElement) {
-                    caption = `<p class="lightbox-caption">${captionElement.textContent}</p>`;
-                }
-                
-                lightbox.innerHTML = `
-                    <div class="lightbox-content">
-                        <img src="${this.src}" alt="${this.alt}">
-                        ${caption}
-                        <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
-                    </div>
-                `;
-                
-                document.body.appendChild(lightbox);
-                document.body.style.overflow = 'hidden';
-                
-                // Close lightbox function
-                const closeLightbox = () => {
-                    if (document.body.contains(lightbox)) {
-                        document.body.removeChild(lightbox);
-                        document.body.style.overflow = 'auto';
-                    }
-                };
-                
-                // Close lightbox event listeners
-                const closeBtn = lightbox.querySelector('.lightbox-close');
-                closeBtn.addEventListener('click', closeLightbox);
-                
-                lightbox.addEventListener('click', function(e) {
-                    if (e.target === lightbox) {
-                        closeLightbox();
-                    }
-                });
-                
-                // ESC key to close
-                const handleEscape = (e) => {
-                    if (e.key === 'Escape') {
-                        closeLightbox();
-                        document.removeEventListener('keydown', handleEscape);
-                    }
-                };
-                document.addEventListener('keydown', handleEscape);
+                e.stopPropagation();
+                createLightbox(this);
             });
         });
+    }
+    
+    // Create lightbox function (reusable)
+    function createLightbox(imgElement) {
+        const lightbox = document.createElement('div');
+        lightbox.className = 'lightbox';
+        
+        // Get caption from either grid or carousel
+        let caption = '';
+        const captionElement = imgElement.parentElement.querySelector('.photo-caption');
+        if (captionElement) {
+            caption = `<p class="lightbox-caption">${captionElement.textContent}</p>`;
+        }
+        
+        lightbox.innerHTML = `
+            <div class="lightbox-content">
+                <img src="${imgElement.src}" alt="${imgElement.alt}">
+                ${caption}
+                <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
+            </div>
+        `;
+        
+        document.body.appendChild(lightbox);
+        document.body.style.overflow = 'hidden';
+        
+        // Close lightbox function
+        const closeLightbox = () => {
+            if (document.body.contains(lightbox)) {
+                document.body.removeChild(lightbox);
+                document.body.style.overflow = 'auto';
+            }
+        };
+        
+        // Close lightbox event listeners
+        const closeBtn = lightbox.querySelector('.lightbox-close');
+        closeBtn.addEventListener('click', closeLightbox);
+        
+        lightbox.addEventListener('click', function(e) {
+            if (e.target === lightbox) {
+                closeLightbox();
+            }
+        });
+        
+        // ESC key to close
+        const handleEscape = (e) => {
+            if (e.key === 'Escape') {
+                closeLightbox();
+                document.removeEventListener('keydown', handleEscape);
+            }
+        };
+        document.addEventListener('keydown', handleEscape);
     }
     
     // Initialize lightbox on page load
@@ -284,64 +289,14 @@ document.addEventListener('DOMContentLoaded', function() {
             startAutoPlay();
         }
         
-        // Reinitialize lightbox for carousel images
+        // Initialize lightbox for carousel images
         const carouselImages = carousel.querySelectorAll('.carousel-item img');
         carouselImages.forEach(img => {
             img.style.cursor = 'pointer';
-            if (!img.hasAttribute('data-lightbox-initialized')) {
-                img.setAttribute('data-lightbox-initialized', 'true');
-                img.addEventListener('click', function(e) {
-                    e.stopPropagation(); // Prevent carousel navigation when clicking image
-                    
-                    const lightbox = document.createElement('div');
-                    lightbox.className = 'lightbox';
-                    
-                    // Get caption from carousel
-                    let caption = '';
-                    const captionElement = this.parentElement.querySelector('.photo-caption');
-                    if (captionElement) {
-                        caption = `<p class="lightbox-caption">${captionElement.textContent}</p>`;
-                    }
-                    
-                    lightbox.innerHTML = `
-                        <div class="lightbox-content">
-                            <img src="${this.src}" alt="${this.alt}">
-                            ${caption}
-                            <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
-                        </div>
-                    `;
-                    
-                    document.body.appendChild(lightbox);
-                    document.body.style.overflow = 'hidden';
-                    
-                    // Close lightbox function
-                    const closeLightbox = () => {
-                        if (document.body.contains(lightbox)) {
-                            document.body.removeChild(lightbox);
-                            document.body.style.overflow = 'auto';
-                        }
-                    };
-                    
-                    // Close lightbox event listeners
-                    const closeBtn = lightbox.querySelector('.lightbox-close');
-                    closeBtn.addEventListener('click', closeLightbox);
-                    
-                    lightbox.addEventListener('click', function(e) {
-                        if (e.target === lightbox) {
-                            closeLightbox();
-                        }
-                    });
-                    
-                    // ESC key to close
-                    const handleEscape = (e) => {
-                        if (e.key === 'Escape') {
-                            closeLightbox();
-                            document.removeEventListener('keydown', handleEscape);
-                        }
-                    };
-                    document.addEventListener('keydown', handleEscape);
-                });
-            }
+            img.addEventListener('click', function(e) {
+                e.stopPropagation(); // Prevent carousel navigation when clicking image
+                createLightbox(this);
+            });
         });
     });
     
