@@ -41,7 +41,6 @@ permalink: /about/
         <li>Accommodation recommendations and reviews</li>
         <li>Family-friendly activity suggestions</li>
         <li>Tips for traveling with kids</li>
-        <li>Budget breakdowns and money-saving tips</li>
         <li>Packing lists and travel essentials</li>
         <li>Route recommendations and scenic stops</li>
       </ul>

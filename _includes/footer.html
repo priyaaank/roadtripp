@@ -7,30 +7,18 @@
       </div>
       
       <div class="footer-section">
-        <h4>Connect With Us</h4>
-        <div class="social-links">
-          {%- if site.github_username -%}
-            <a href="https://github.com/{{ site.github_username }}">
-              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
-              <span class="username">{{ site.github_username }}</span>
-            </a>
-          {%- endif -%}
-          {%- if site.twitter_username -%}
-            <a href="https://www.twitter.com/{{ site.twitter_username }}">
-              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
-              <span class="username">{{ site.twitter_username }}</span>
-            </a>
-          {%- endif -%}
-        </div>
-      </div>
-      
-      <div class="footer-section">
         <h4>Quick Links</h4>
         <ul>
           <li><a href="{{ "/" | relative_url }}">Home</a></li>
           <li><a href="{{ "/about/" | relative_url }}">About</a></li>
-          <li><a href="{{ "/trips/" | relative_url }}">All Trips</a></li>
         </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Contact Us</h4>
+        <div class="contact-info">
+          <p>📧 <a href="mailto:priyaaank@gmail.com">priyaaank@gmail.com</a></p>
+        </div>
       </div>
     </div>
     

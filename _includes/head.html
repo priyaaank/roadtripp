@@ -35,8 +35,11 @@
   <meta property="og:rich_attachment" content="true">
   <meta name="pinterest-rich-pin" content="true">
   
-  <!-- WhatsApp -->
+  <!-- WhatsApp Essential Meta Tags -->
+  <meta property="og:image:secure_url" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:alt" content="{{ page.title }} - Road trip adventure from {{ page.location }}">
+  <meta property="og:updated_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
   
   <!-- Telegram -->
   <meta name="telegram:channel" content="@roadtripp">
@@ -106,6 +109,10 @@
   {% endif %}
   
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {% if page.layout == 'trip' %}
+  <!-- Preload social sharing image for faster WhatsApp preview -->
+  <link rel="preload" as="image" href="{{ '/assets/images/leh.jpg' | absolute_url }}" crossorigin="anonymous">
+  {% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
