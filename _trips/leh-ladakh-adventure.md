@@ -77,7 +77,7 @@ itinerary:
       - name: "Kalyani Tiffin Room"
         location: "Kalyani Tiffin room, Kalyani Nagar Pune"
         comment: "Good south Indian breakfast with filter coffee"
-    additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old). Extra bed costed approx INR 1000 plus GST. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around"
+    additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old) at Taj Vivanta. Extra bed costed approx INR 1000 plus GST. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around"
 
   - day: 3 & 4
     title: "Rain Songs and Quiet Days in Mumbai"
@@ -102,13 +102,12 @@ itinerary:
     title: "From Mumbai to Ahmedabad – Trucks, Tea & Turbo Lanes"
     date: "28 May 2025"
     featured_image: "/assets/images/day5-ahmedabad-gandhi.jpg"
-    description: "We kicked off Day 5 before the sun had even had a chance to stretch—5:40 AM, with sleepy eyes, packed bags, and wheels already in motion. Mumbai, soaked from pre-monsoon showers, faded behind us as we zipped through early morning roads, chasing dry skies and new landscapes. Our first stop came around 7 AM at Vasai, where a much-needed tea break turned into a two-hour pause. Blame it on the kids, wandering legs, and the slow magic of mornings on the road. By 9 AM, we were back in motion. The route was a full tour of Gujarat’s highways—Vasai → Vapi → Surat → Bharuch → Vadodara → Ahmedabad. Sounds glamorous? Not quite. The stretch till Vadodara was a trucker’s paradise and a driver’s patience test—slow convoys, endless honking, and the kind of traffic that makes you question all your life decisions. But just when we thought we’d be stuck in honk-land forever, we took a sharp turn for the better—switching from NH48 to NE4 near Bharuch. It felt like someone had pressed fast-forward: smooth tarmac, wide lanes, and a 120 km/h speed limit that made the kids giggle and call it “our race track” (don’t worry, no actual racing happened). The expressway cut our drive time significantly and gave us a chance to breathe, cruise, and enjoy the changing scenery. After Vadodara, we merged back onto NH48/NE1. It wasn’t an expressway, but with lighter traffic and open skies, it was a pleasant, unhurried drive. Our foodie moments deserve a little spotlight: Hotel Ahura (Talasari): Famous for Irani fare, we kept it simple with chai and maska bun—comfort food at its finest. The toilets? Functional, but not winning any awards. Jalaram Kathiyawad Hotel (after Kamrej): A bit dark and modest-looking at first glance, but the Gujarati thali was fresh, flavorful, and soul-satisfying. Toilets? Just okay, but usable. By 6:30 PM, we finally rolled into Ahmedabad—tired, dusty, and entirely satisfied. This leg of our journey was all about contrasts: Truck traffic to smooth expressways. Quick tea to hearty thalis. And the joy of watching landscapes shift from coastal humidity to Gujarat’s dry plains—one toll gate at a time."
+    description: "We kicked off Day 5 before the sun had risen, with sleepy eyes, packed bags, and wheels already rolling. Mumbai, soaked from pre-monsoon showers, faded behind us soon. Our first stop came around 7 AM at Vasai, where a much-needed tea break turned into a two-hour pause. Blame it on the kids, or promised time to family, but it was a good break. By 9 AM, we were back on the road. The route was a full tour of Gujarat’s highways. Vasai → Vapi → Surat → Bharuch → Vadodara → Ahmedabad. The stretch till Vadodara was a trucker’s paradise and a driver’s patience test—slow convoys, endless honking, and the kind of traffic that makes you question all your life decisions. Finally near Bharuch we took a sharp turn for the better—switching from NH48 to NE4. The road opened up in front of us: smooth tarmac, wide lanes, and a 120 km/h speed limit. The expressway cut our drive time significantly and gave us a chance to breathe, cruise, and enjoy the changing scenery. After Vadodara, we merged back onto NH48/NE1. It wasn’t an expressway, but with lighter traffic, it was a pleasant, unhurried drive. As we entered Ahmedabad, we were stopped by copes to check if we were bringing in liquor into Gujrat (it being a dry state). Along the way our food excursions involved: Hotel Ahura (Talasari) - Famous for Irani fare, we kept it simple with chai and maska bun. The toilets? Functional, but not winning any awards. Jalaram Kathiyawad Hotel (after Kamrej) - A bit dark and modest-looking at first glance, but the Gujarati thali was fresh, flavorful, and soul-satisfying. Toilets? Just okay, but usable. By 6:30 PM, we finally rolled into Ahmedabad—tired, dusty, and entirely satisfied. This leg of our journey was all about contrasts: Truck traffic to smooth expressways. Quick tea to hearty thalis. And the joy of watching landscapes shift from coastal humidity to Gujarat’s dry plains—one toll gate at a time and intense heat. But we had reached our destination and kids didn't skip a beat before pluging into the pool. Despite the long drive, we ventured out for Dinner at Swati Snacks and we didn't regret it. Ordered a bunch of local delicacies from the menu and none of them were a decision we regretted. We topped that up with roadside Asharfi Kulfi and it was a fantastic decision as well. Finally, tired and bellies full, we crashed back into our beds and thus came our day to an end"
     highlights:
       - "✅ Gujrati Thali at Jalaram Kathiyawad"
-      - "✅ Scrumptious dinner - Swati Snacks at Law Garden Road"
-      - "✅ Ice cream at Law Garden Roadside"
-      - "✅ NE4 drive from Bharuch to Vadodara"
       - "✅ Dinner at Swati's snack on Law college road"
+      - "✅ Asharfi Kulfi at Law Garden Roadside"
+      - "✅ NE4 drive from Bharuch to Vadodara"
       - "❌ Truck traffic between Mumbai and Ahemdabad"
     photos:
       - image: "/assets/images/day5-cafe-ahura.jpg"
@@ -124,9 +123,9 @@ itinerary:
       - image: "/assets/images/day5-swati-snacks-order.jpg"
         caption: "The order at Swati Snacks. Everything was finger licking good."
       - image: "/assets/images/day5-roadside-icecream.jpg"
-        caption: "The roadside setup for the ice cream near Swati Snacks at Law Garden"
+        caption: "The roadside setup for the Asharfi Kulfi near Swati Snacks at Law Garden"
       - image: "/assets/images/day5-icecream.jpg"
-        caption: "Really good ice cream that was a mix of everything on the menu"
+        caption: "Really good Kulfi that was a mix of everything on the menu"
     accommodation:
       name: "Renaissance Ahmedabad Hotel"
       location: "Renaissance Ahmedabad Hotel"
