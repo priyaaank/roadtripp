@@ -74,9 +74,9 @@ itinerary:
       - name: "Savya Rasa"
         location: "Savya Rasa, Pune"
         comment: "Famous for their authentic Chettinad cuisine"
-      - name: "Manas Restobar"
-        location: "Manas Resto Lounge, Satara"
-        comment: "Excellent mutton thali and soul-warming paya soup. A hidden gem on the highway"
+      - name: "Kalyani Tiffin Room"
+        location: "Kalyani Tiffin room, Kalyani Nagar Pune"
+        comment: "Good south Indian breakfast with filter coffee"
     additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old). Extra bed costed approx INR 1000 plus GST. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around"
 
   - day: 3 & 4
