@@ -47,8 +47,8 @@ itinerary:
   - day: 2
     title: "From Pune with Love, to Mumbai in the Rain"
     date: "25 May 2023"
-    featured_image: "/assets/images/day2-family-meet.jpg"
-    description: "We woke up in Pune to that kind of weather that instantly makes you want to wrap your hands around a cup of chai and hum an old Bollywood tune. After a restful night, the morning moved gently—a slow, comforting start filled with breakfast, banter, and a drive through old neighborhoods that still echoed with memories of another time. Before we hit the highway, we made a quick detour to a car wash—a reward for our car after the 14-hour marathon from Bangalore. The kids watched the giant spinning brushes with fascination, giggling as they described it as a _vehicle roller coaster_. Honestly, they weren’t wrong. With the car gleaming again, we visited some relatives in Pune—a quick round of hugs, snacks, and stories before it was time to roll again. These were short but heartwarming moments, the kind you tuck away in your travel memory box. The journey to Mumbai was as expected—toll booth chaos included. One toll plaza took nearly 45 minutes to cross, giving us plenty of time for snacks, singalongs, and sighs. But as we neared the city, Mumbai decided to welcome us in true filmy style: Pre-monsoon showers. Rain fell like poetry on the windshield, the smell of wet earth rising, and city lights blinking through the drizzle. Thunder rumbled, traffic thickened, and yet, there was a strange beauty to it all—Mumbai, loud and alive, even in the rain. By evening, we reached another relative’s home, our nest for the night. We left our soggy shoes at the door, tucked into hot food, and settled into the comforting familiarity of being surrounded by family. Day 2 ended the way all good road trip days should—with full bellies, tired smiles, and stories waiting to be told."
+    featured_image: "/assets/images/day2-pune-desert.jpg"
+    description: "We started the day in Pune after a much-needed night’s rest. The weather was cool and overcast—perfect for a slow morning. After breakfast at our hotel, we took a short drive around some older parts of the city reminiscing about our time in the city. It was mostly about soaking in the quiet before before meeting extended family in the city. Before leaving town, we stopped for a quick car wash in Hinjewadi and costed us only INR 250. After the long drive from Bangalore the previous day, the car needed a refresh. The drive from Pune to Mumbai was mostly straightforward, except for the expected traffic snarl at the toll plazas. One of them took nearly 45 minutes to cross, which slowed us down quite a bit. As we approached Mumbai, pre-monsoon rain kicked in. Visibility dropped a bit, and traffic got heavier, especially around the outskirts. The roads were manageable, but progress was slow. By early evening, we reached our stop. The plan was to do a 2 day halt in the city and spend time with family. Dinner was simple and homemade, and everyone was tired from the day. We unpacked, got the kids settled, and wrapped up the day quietly. It wasn’t a very long driving day, but it had its share of delays and transitions"
     highlights:
       - "✅ Got an external car wash with a car-wash service - Paid INR 250"
       - "✅ Met extended family"
@@ -56,22 +56,34 @@ itinerary:
       - "❌ Traffic woes at Mumbai Pune expressway toll-gate"
       - "❌ Crazy rains and thunderstorm enroute and in Mumbai"
     photos:
+      - image: "/assets/images/day2-vivanta-room.jpg"
+        caption: "Hotel room"
+      - image: "/assets/images/day2-dirty-car.jpg"
+        caption: "Car screaming for a cleaning session"
       - image: "/assets/images/day2-car-wash.jpg"
         caption: "Getting the overdue car wash"
-      - image: "/assets/images/day2-family-meet.jpg"
-        caption: "Happy to meet extended family after long"
+      - image: "/assets/images/day2-hinjewadi-mall.jpg"
+        caption: "Mall nearby hotel to kill time if needed. We idled here during car wash"
       - image: "/assets/images/day2-mumbai-rains.jpg"
         caption: "Mumbai rains in their full form"
     accommodation:
       name: "With family"
       location: "Navi Mumbai"
       notes: "Nothing like home"
+    places_to_eat:
+      - name: "Savya Rasa"
+        location: "Savya Rasa, Pune"
+        comment: "Famous for their authentic Chettinad cuisine"
+      - name: "Manas Restobar"
+        location: "Manas Resto Lounge, Satara"
+        comment: "Excellent mutton thali and soul-warming paya soup. A hidden gem on the highway"
+    additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old). Extra bed costed approx INR 1500. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around"
 
   - day: 3 & 4
     title: "Rain Songs and Quiet Days in Mumbai"
     date: "26 and 27 May 2025"
     featured_image: "/assets/images/day3-mumbai-rains.jpg"
-    description: "Not every day on a road trip needs to be packed with sights and miles. Sometimes, the journey gently taps the brakes—especially when the sky turns theatrical. We spent two slow, quiet days in Mumbai, tucked away in the comfort of a relative’s home while the city braced for a red alert. The monsoon had arrived in full drama—thunder like a rolling drumline, and lightning flickering across the sky like a celestial disco. For us, not used to Mumbai’s electric mood swings, it was as awe-inspiring as it was a little unnerving. Even the kids, who started off thrilled by the stormy soundtrack, ended up snuggling close during the loudest cracks of thunder. But inside the house, things were warm and grounding. Card games, old family stories, laughter echoing down the halls, and a whole lot of chai. Outside, the streets turned into rivers. Thankfully our plan included a brief stay with family in Mumbai, and that planned break provided needed buffer with weather uncertainity in Mumbai."
+    description: "Not every day on a road trip needs to be packed with a planned itinerary. We spent two slow, quiet days in Mumbai, tucked away in the comfort of a relative’s home while the city braced for a rain red alert. The monsoon had arrived early, and Mumbai was being Mumbai in rains. For us, not used to Mumbai’s electric mood swings, it was a little unnerving. Even the kids, who started off thrilled by the stormy soundtrack, ended anxious at the loudest cracks of thunder. But inside the house, things were warm and grounding. Lego sets, catch up with family, laughter and chai. Outside, the streets turned into rivers. Thankfully our plan included a brief stay with family in Mumbai and that planned break provided needed buffer with weather uncertainity in Mumbai"
     highlights:
       - "❌ Heavy rainafall which was very scary"
     photos:
