@@ -6,11 +6,11 @@ permalink: /about/
 
 <div class="about-page">
   <div class="about-hero">
-    <h1>About RoadTripp Adventures</h1>
+    <h1>About RoadTripp.in</h1>
     <div class="family-photo">
       <img src="{{ '/assets/images/us.jpg' | relative_url }}" alt="Our Family - RoadTripp Adventures">
     </div>
-    <p class="lead">Welcome to our family travel blog, where we document our multi-day road trips and share the joy of exploring our beautiful country together.</p>
+    <p class="lead">Welcome to our family travel blog. Here we capture everything that we want to remember about our trips as they become a distant memory in the past. And while we hope people see the world from our experiences as well as with their own, knowing what we learnt.</p>
   </div>
   
   <div class="about-content">
@@ -18,7 +18,14 @@ permalink: /about/
       <h2>Our Family</h2>
       <p>We're a family of four who believes that the best way to see the world is from the road. With two kids who love adventure and parents who cherish quality time away from the daily hustle, road trips have become our favorite way to explore, learn, and create lasting memories together.</p>
       
-      <p>What started as weekend getaways has evolved into epic multi-day adventures that have taken us to some of the most incredible places in the country. From national parks to hidden gems, quirky roadside attractions to breathtaking natural wonders, we're always planning our next adventure.</p>
+      <p>A zeal that started as weekend getaways or short trips has evolved into epic multi-day adventures that have taken us to some of the most incredible places in the country. From national parks to hidden gems, quirky roadside attractions to breathtaking natural wonders, we're always dreaming about our next adventure.</p>
+    </div>
+
+    <div class="about-section">
+      <h2>Our Travel Philosophy</h2>
+      <blockquote>
+        "The journey matters as much as the destination. It's not about checking boxes or seeing everything - it's about connecting with each other, appreciating the incredible diversity of our country, and creating stories we'll tell for years to come."
+      </blockquote>
     </div>
     
     <div class="about-section">
@@ -51,13 +58,6 @@ permalink: /about/
       <p>We hope our experiences inspire you to hit the road with your own family! Every trip we share includes practical information you can use to plan your own version of the adventure. Remember, the best family road trip is the one that works for YOUR family - adapt our suggestions to fit your interests, budget, and timeline.</p>
       
       <p>Have questions about any of our trips? Want specific recommendations for traveling to a destination we've visited? Feel free to reach out - we love helping other families plan their own road trip adventures!</p>
-    </div>
-    
-    <div class="about-section">
-      <h2>Our Travel Philosophy</h2>
-      <blockquote>
-        "The journey matters as much as the destination. It's not about checking boxes or seeing everything - it's about connecting with each other, appreciating the incredible diversity of our country, and creating stories we'll tell for years to come."
-      </blockquote>
     </div>
     
     <div class="about-cta">
@@ -149,7 +149,7 @@ permalink: /about/
 }
 
 .about-section li::before {
-  content: '✈️';
+  content: '🚙';
   position: absolute;
   left: 0;
   top: 0.5rem;
