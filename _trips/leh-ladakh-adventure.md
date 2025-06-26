@@ -616,7 +616,6 @@ itinerary:
       review: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
     additional_considerations: "Road back to Leh was still being constructed, so bad patches. Drive to Srinaga is going to be fairly long. If you want to break the drive, do it at Kargil. They are a decent place for a midsway top"
 
-
   - day: 17
     title: "The Long Drive - Nubra to Srinagar via Khardung La"
     date: "9 June 2025"
@@ -626,6 +625,7 @@ itinerary:
       - "✅ Weather and beauty of Sonmarg as we passed by"
       - "✅ Well engineered Sonmarg Tunnel"
       - "✅ Drive and terrain between Leh and Srinagar"
+      - "❌ Far too long a drive for a single day"
       - "❌ Road through Khardungla and Zojilla pass"
       - "❌ Traffic before Srinagar due to recent Eid holidays and military checkpoints"
     photos:
@@ -652,6 +652,47 @@ itinerary:
         comment: "Fresh tandoori rotis and decently prepared food. Fresh and quite delicious. Good pitstop for lunch"
     additional_considerations: "Account for some delays in Zojilla pass as well as traffic in Srinagar"
 
+  - day: 18
+    title: "Exploring the Beauty of Kashmir - Srinagar Sightseeing"
+    date: "10 June 2025"
+    featured_image: "/assets/images/leh/day18-view.jpg"
+    description: "After the exhausting 15-hour drive the previous day, we decided to take it slow and explore the beautiful city of Srinagar at a leisurely pace. The day was dedicated to discovering the famous attractions of Kashmir's summer capital. We visited the stunning Pari Mahal, also known as the 'Palace of Fairies', which offered breathtaking panoramic views of Dal Lake and the surrounding mountains. It had a multi-level terraced garden. Not too far was Chashme Shahi. We also took a peaceful shikara ride on Dal Lake in eveving, gliding through the waters visited the lake bazaar on the lake. Other Shikaras selling food, souverniers were a bit too much. Only if there was a way to avoid them. The day included lunch at Adhoo's restaurant. We tried Trami, a traditional thali with mutton dishes. It was a fantastic set of dishes, could have been shared by 2 people but the restaurant won't allow. Finally ended the day with a bit of shopping on the main street for dry fruits and clothes. Don't recommend buying dry fruits like Walnuts and almonds unless you know someone, most shops were cheating with bad quality product. We later saw bad reviews all around where people were shown something and were given something else. This was especially true for Nishat dry fruits."
+    highlights:
+      - "✅ Visited Pari Mahal with stunning views of Dal Lake and mountains"
+      - "✅ Peaceful shikara ride on the famous Dal Lake"
+      - "✅ Explored traditional Kashmiri culture and local cuisine - Trami"
+      - "✅ Shopping and stroll through the main market - Residency Road"
+      - "❌ Cheated by Nishat dry fruits with bad quality product given"
+    photos:
+      - image: "/assets/images/leh/day18-parimahal.jpg"
+        caption: "The beautiful Pari Mahal (Palace of Fairies) with its Mughal architecture"
+      - image: "/assets/images/leh/day18-parimahalview.jpg"
+        caption: "Breathtaking views of Dal Lake from Pari Mahal terraced gardens"
+      - image: "/assets/images/leh/day18-srinagar-view.jpg"
+        caption: "Scenic view of Srinagar city nestled in the Kashmir valley"
+      - image: "/assets/images/leh/day18-shikara.jpg"
+        caption: "Traditional shikara boats on the serene waters of Dal Lake"
+      - image: "/assets/images/leh/day18-ghat.jpg"
+        caption: "Numbered ghats along the shore of Dal lake for Shikara rides"
+      - image: "/assets/images/leh/day18-stairs.jpg"
+        caption: "Stone steps inside Parimahal for exploration of different levels"
+      - image: "/assets/images/leh/day18-trami.jpg"
+        caption: "Local Kashmiri restaurant serving authentic regional cuisine - Trami @ Adhoo's"
+      - image: "/assets/images/leh/day18-tramimenu.jpg"
+        caption: "Traditional Kashmiri menu detailing out Trami"
+    accommodation:
+      name: "Four Points Shereton, Srinagar" 
+      location: "Four Points Shereton, Srinagar"
+      rating: 2
+      review: "Located in city center so close to most places. Just a stand alone building with decent rooms. Restaurants was not great, neither was restaurant service. It felt like there was severe cost cutting. Overall decent for a short business stay, won't recommend for vacation. Charged 3000 INR per day for extra matress. Discounted it for 2 days when we complained about it being 60% of the room cost itself. Would have given it 3 stars but due to exorbitant pricing for extra matress not at all value for money for us"
+    places_to_eat:
+      - name: "Ahdoo's Restaurant, Residency Road"
+        location: "Ahdoo's Restaurant, Residency Road Srinagar"
+        comment: "The traditional Trami thali, if you are ok with mutton. It is too much for one person and a bit expensive, but highly recommended"
+      - name: "Crème by Ahdoos, Srinagar"
+        location: "Crème by Ahdoos, Srinagar"
+        comment: "Absolutely must try fresh Desserts, biscuits and cakes"
+    additional_considerations: "When you shop be careful. Dry fruit and spices experience was not great. Shown something else and given something else. Reviews were same all around. Buy from recommendations and check product after being packed"
 ---
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
