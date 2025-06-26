@@ -102,7 +102,7 @@ itinerary:
     title: "From Mumbai to Ahmedabad – Trucks, Tea & Turbo Lanes"
     date: "28 May 2025"
     featured_image: "/assets/images/leh/day5-ahmedabad-gandhi.jpg"
-    description: "We kicked off Day 5 before the sun had risen, with sleepy eyes, packed bags, and wheels already rolling. Mumbai, soaked from pre-monsoon showers, faded behind us soon. Our first stop came around 7 AM at Vasai, where a much-needed tea break turned into a two-hour pause. Blame it on the kids, or promised time to family, but it was a good break. By 9 AM, we were back on the road. The route was a full tour of Gujarat’s highways. Vasai → Vapi → Surat → Bharuch → Vadodara → Ahmedabad. The stretch till Vadodara was a trucker’s paradise and a driver’s patience test—slow convoys, endless honking, and the kind of traffic that makes you question all your life decisions. Finally near Bharuch we took a sharp turn for the better—switching from NH48 to NE4. The road opened up in front of us: smooth tarmac, wide lanes, and a 120 km/h speed limit. The expressway cut our drive time significantly and gave us a chance to breathe, cruise, and enjoy the changing scenery. After Vadodara, we merged back onto NH48/NE1. It wasn’t an expressway, but with lighter traffic, it was a pleasant, unhurried drive. As we entered Ahmedabad, we were stopped by copes to check if we were bringing in liquor into Gujrat (it being a dry state). Along the way our food excursions involved: Hotel Ahura (Talasari) - Famous for Irani fare, we kept it simple with chai and maska bun. The toilets? Functional, but not winning any awards. Jalaram Kathiyawad Hotel (after Kamrej) - A bit dark and modest-looking at first glance, but the Gujarati thali was fresh, flavorful, and soul-satisfying. Toilets? Just okay, but usable. By 6:30 PM, we finally rolled into Ahmedabad—tired, dusty, and entirely satisfied. This leg of our journey was all about contrasts: Truck traffic to smooth expressways. Quick tea to hearty thalis. And the joy of watching landscapes shift from coastal humidity to Gujarat’s dry plains—one toll gate at a time and intense heat. But we had reached our destination and kids didn't skip a beat before pluging into the pool. Despite the long drive, we ventured out for Dinner at Swati Snacks and we didn't regret it. Ordered a bunch of local delicacies from the menu and none of them were a decision we regretted. We topped that up with roadside Asharfi Kulfi and it was a fantastic decision as well. Finally, tired and bellies full, we crashed back into our beds and thus came our day to an end"
+    description: "We kicked off Day 5 before the sun had risen, with sleepy eyes, packed bags, and wheels already rolling. Mumbai, soaked from pre-monsoon showers, faded behind us soon. Our first stop came around 7 AM at Vasai, where a much-needed tea break turned into a two-hour pause. Blame it on the kids, or promised time to family, but it was a good break. By 9 AM, we were back on the road. The route was a full tour of Gujarat’s highways. Vasai → Vapi → Surat → Bharuch → Vadodara → Ahmedabad. The stretch till Vadodara was a trucker’s paradise and a driver’s patience test—slow convoys, endless honking, and the kind of traffic that makes you question all your life decisions. Finally near Bharuch we took a sharp turn for the better—switching from NH48 to NE4. The road opened up in front of us: smooth tarmac, wide lanes, and a 120 km/h speed limit. The expressway cut our drive time significantly and gave us a chance to breathe, cruise, and enjoy the changing scenery. After Vadodara, we merged back onto NH48/NE1. It wasn’t an expressway, but with lighter traffic, it was a pleasant, unhurried drive. As we entered Ahmedabad, we were stopped by cops to check if we were bringing in liquor into Gujrat (it being a dry state). Along the way our food excursions involved: Hotel Ahura (Talasari) - Famous for Irani fare, we kept it simple with chai and maska bun. The toilets? Functional, but not winning any awards. Jalaram Kathiyawad Hotel (after Kamrej) - A bit dark and modest-looking at first glance, but the Gujarati thali was fresh, flavorful, and soul-satisfying. Toilets? Just okay, but usable. By 6:30 PM, we finally rolled into Ahmedabad—tired, dusty, and entirely satisfied. This leg of our journey was all about contrasts: Truck traffic to smooth expressways. Quick tea to hearty thalis. And the joy of watching landscapes shift from coastal humidity to Gujarat’s dry plains—one toll gate at a time and intense heat. But we had reached our destination and kids didn't skip a beat before pluging into the pool. Despite the long drive, we ventured out for Dinner at Swati Snacks and we didn't regret it. Ordered a bunch of local delicacies from the menu and none of them were a decision we regretted. We topped that up with roadside Asharfi Kulfi and it was a fantastic decision as well. Finally, tired and bellies full, we crashed back into our beds and thus came our day to an end"
     highlights:
       - "✅ Gujrati Thali at Jalaram Kathiyawad"
       - "✅ Dinner at Swati's snack on Law college road"
@@ -615,6 +615,42 @@ itinerary:
       rating: 4
       review: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
     additional_considerations: "Road back to Leh was still being constructed, so bad patches. Drive to Srinaga is going to be fairly long. If you want to break the drive, do it at Kargil. They are a decent place for a midsway top"
+
+
+  - day: 17
+    title: "The Long Drive - Nubra to Srinagar via Khardung La"
+    date: "9 June 2025"
+    featured_image: "/assets/images/leh/day17-carkhardungla.jpg"
+    description: "Day 17 was going to be our longest drive, so we mentally geared up and started early at 6:30 am. The kids were still half-asleep when we packed up the car and began our journey to Srinagar. As expected, much of the drive was beautiful. We crossed Khardung La on our way to Leh, but the climb made our daughter feel nauseous, so we had to take more breaks than planned. The road from Nubra to Leh was a mix of smooth stretches and ongoing construction. We reached Leh between 10:30 and 11 am, right in the middle of city traffic. It took us almost an hour to get through and continue our journey. About three hours after leaving Leh, the barren desert gave way to lush, green hills and a gushing river. We reached Kargil around 3 pm and stopped at a roadside café called PitStop, just outside the town. It was next to an old, unused bridge and had a lovely view. After a quick tea break, we moved on. The road remained good until we hit the toll gate marking the start of Zojila Pass. From there, it got quite rough and took much longer than we expected. The Sonmarg tunnel came as a huge relief—it was both impressive and a major time-saver. As we approached Srinagar, we ran into a heavy traffic jam. A 40-50 km stretch was estimated to take 3 hours. Our planned arrival by 5:30–6 pm kept getting delayed. Eventually, Google Maps suggested a detour, which we followed. It had already turned dark, and we found ourselves driving through narrow village roads on the outskirts, which made us uneasy—especially given the recent unrest in the region. We were stopped by army personnel, who advised us to stick to the highways for safety, but let us proceed. After navigating more dark and winding roads—some of which felt like we were driving through a jungle—we finally reached our hotel at 9:30 pm. It had been a 15–16 hour drive, the longest of our trip. Exhausted and starving, we ordered dinner at the hotel. The food wasn’t great, but we didn’t mind. After long hot showers, we collapsed into bed. With three days in Srinagar left, we planned to take it easy the next day. We fell asleep almost instantly."
+    highlights:
+      - "✅ Weather and beauty of Sonmarg as we passed by"
+      - "✅ Well engineered Sonmarg Tunnel"
+      - "✅ Drive and terrain between Leh and Srinagar"
+      - "❌ Road through Khardungla and Zojilla pass"
+      - "❌ Traffic before Srinagar due to recent Eid holidays and military checkpoints"
+    photos:
+      - image: "/assets/images/leh/day17-khardungla.jpg"
+        caption: "At Khardung La pass - one of the world's highest motorable road at 17,982 feet"
+      - image: "/assets/images/leh/day17-roadboard.jpg"
+        caption: "Road signboard on the way to Srinagar"
+      - image: "/assets/images/leh/day17-views1.jpg"
+        caption: "Breathtaking mountain views during the descent from Khardung La"
+      - image: "/assets/images/leh/day17-kargilbridge.jpg"
+        caption: "Crossing the bridge over Kargil river in the historic town"
+      - image: "/assets/images/leh/day17-kargilriver.jpg"
+        caption: "The flowing waters of Kargil river through the valley"
+      - image: "/assets/images/leh/day17-sonmargtunnel.jpg"
+        caption: "The impressive Sonmarg tunnel - an engineering marvel in the mountains"
+    accommodation:
+      name: "Four Points Shereton, Srinagar" 
+      location: "Four Points Shereton, Srinagar"
+      rating: 2
+      review: "Located in city center so close to most places. Just a stand alone building with decent rooms. Restaurants was not great, neither was restaurant service. It felt like there was severe cost cutting. Overall decent for a short business stay, won't recommend for vacation. Charged 3000 INR per day for extra matress. Discounted it for 2 days when we complained about it being 60% of the room cost itself. Would have given it 3 stars but due to exorbitant pricing for extra matress not at all value for money for us"
+    places_to_eat:
+      - name: "Samyas Garden Restaurant"
+        location: "Samyas Garden Restaurant, Khalsi"
+        comment: "Fresh tandoori rotis and decently prepared food. Fresh and quite delicious. Good pitstop for lunch"
+    additional_considerations: "Account for some delays in Zojilla pass as well as traffic in Srinagar"
 
 ---
 
