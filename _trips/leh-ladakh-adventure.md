@@ -62,7 +62,7 @@ itinerary:
         caption: "Car screaming for a cleaning session"
       - image: "/assets/images/leh/day2-car-wash.jpg"
         caption: "Getting the overdue car wash"
-      - image: "/assets/images/leh/day2-hinjewadi-mall.jpg"
+      - image: "/assets/images/leh/day2-hinjewadimall.jpg"
         caption: "Mall nearby hotel to kill time if needed. We idled here during car wash"
       - image: "/assets/images/leh/day2-mumbai-rains.jpg"
         caption: "Mumbai rains in their full form"
