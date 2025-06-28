@@ -81,31 +81,111 @@ document.addEventListener('DOMContentLoaded', function() {
         const lightbox = document.createElement('div');
         lightbox.className = 'lightbox';
         
-        // Get caption from either grid or carousel
-        let caption = '';
-        const captionElement = imgElement.parentElement.querySelector('.photo-caption');
-        if (captionElement) {
-            caption = `<p class="lightbox-caption">${captionElement.textContent}</p>`;
+        // Check if image is from a carousel
+        const carouselItem = imgElement.closest('.carousel-item');
+        const carousel = carouselItem ? carouselItem.closest('[data-carousel]') : null;
+        let allImages = [];
+        let currentIndex = 0;
+        
+        if (carousel) {
+            // Get all carousel images for navigation
+            allImages = Array.from(carousel.querySelectorAll('.carousel-item img'));
+            currentIndex = allImages.indexOf(imgElement);
+        } else {
+            // For grid images, get all grid images
+            allImages = Array.from(document.querySelectorAll('.photo-item img'));
+            currentIndex = allImages.indexOf(imgElement);
         }
+        
+        // Get caption from either grid or carousel
+        function getCaption(img) {
+            let caption = '';
+            const captionElement = img.parentElement.querySelector('.photo-caption');
+            if (captionElement) {
+                caption = `<p class="lightbox-caption">${captionElement.textContent}</p>`;
+            }
+            return caption;
+        }
+        
+        function updateLightboxContent(img) {
+            const lightboxImg = lightbox.querySelector('.lightbox-content img');
+            const lightboxCaption = lightbox.querySelector('.lightbox-caption');
+            
+            lightboxImg.src = img.src;
+            lightboxImg.alt = img.alt;
+            
+            const newCaption = getCaption(img);
+            if (lightboxCaption) {
+                if (newCaption) {
+                    lightboxCaption.outerHTML = newCaption;
+                } else {
+                    lightboxCaption.remove();
+                }
+            } else if (newCaption) {
+                const captionDiv = document.createElement('div');
+                captionDiv.innerHTML = newCaption;
+                lightboxImg.parentElement.insertBefore(captionDiv.firstChild, lightbox.querySelector('.lightbox-close'));
+            }
+        }
+        
+        // Navigation arrows for multiple images
+        const hasMultipleImages = allImages.length > 1;
+        const navigationHTML = hasMultipleImages ? `
+            <button class="lightbox-nav lightbox-prev" aria-label="Previous image">‹</button>
+            <button class="lightbox-nav lightbox-next" aria-label="Next image">›</button>
+        ` : '';
         
         lightbox.innerHTML = `
             <div class="lightbox-content">
                 <img src="${imgElement.src}" alt="${imgElement.alt}">
-                ${caption}
+                ${getCaption(imgElement)}
                 <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
+                ${navigationHTML}
             </div>
         `;
         
         document.body.appendChild(lightbox);
         document.body.style.overflow = 'hidden';
         
+        // Navigation functions
+        function showPrevImage() {
+            if (hasMultipleImages) {
+                currentIndex = (currentIndex - 1 + allImages.length) % allImages.length;
+                updateLightboxContent(allImages[currentIndex]);
+            }
+        }
+        
+        function showNextImage() {
+            if (hasMultipleImages) {
+                currentIndex = (currentIndex + 1) % allImages.length;
+                updateLightboxContent(allImages[currentIndex]);
+            }
+        }
+        
         // Close lightbox function
         const closeLightbox = () => {
             if (document.body.contains(lightbox)) {
                 document.body.removeChild(lightbox);
                 document.body.style.overflow = 'auto';
+                document.removeEventListener('keydown', handleKeydown);
             }
         };
+        
+        // Navigation event listeners
+        if (hasMultipleImages) {
+            const prevBtn = lightbox.querySelector('.lightbox-prev');
+            const nextBtn = lightbox.querySelector('.lightbox-next');
+            
+            prevBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                showPrevImage();
+            });
+            
+            nextBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                showNextImage();
+            });
+        }
         
         // Close lightbox event listeners
         const closeBtn = lightbox.querySelector('.lightbox-close');
@@ -117,14 +197,19 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
         
-        // ESC key to close
-        const handleEscape = (e) => {
+        // Keyboard navigation
+        const handleKeydown = (e) => {
             if (e.key === 'Escape') {
                 closeLightbox();
-                document.removeEventListener('keydown', handleEscape);
+            } else if (hasMultipleImages) {
+                if (e.key === 'ArrowLeft') {
+                    showPrevImage();
+                } else if (e.key === 'ArrowRight') {
+                    showNextImage();
+                }
             }
         };
-        document.addEventListener('keydown', handleEscape);
+        document.addEventListener('keydown', handleKeydown);
     }
     
     // Initialize lightbox on page load
@@ -405,6 +490,66 @@ const lightboxStyles = `
         display: flex;
         align-items: center;
         justify-content: center;
+        transition: opacity 0.2s ease;
+    }
+    
+    .lightbox-close:hover {
+        opacity: 0.7;
+    }
+    
+    .lightbox-nav {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: rgba(0, 0, 0, 0.5);
+        border: none;
+        color: white;
+        font-size: 36px;
+        cursor: pointer;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        transition: all 0.2s ease;
+        user-select: none;
+    }
+    
+    .lightbox-nav:hover {
+        background: rgba(0, 0, 0, 0.8);
+        transform: translateY(-50%) scale(1.1);
+    }
+    
+    .lightbox-prev {
+        left: -60px;
+    }
+    
+    .lightbox-next {
+        right: -60px;
+    }
+    
+    /* Mobile responsive navigation */
+    @media (max-width: 768px) {
+        .lightbox-nav {
+            width: 40px;
+            height: 40px;
+            font-size: 24px;
+        }
+        
+        .lightbox-prev {
+            left: 10px;
+        }
+        
+        .lightbox-next {
+            right: 10px;
+        }
+        
+        .lightbox-close {
+            font-size: 24px;
+            width: 32px;
+            height: 32px;
+        }
     }
     
     @keyframes fadeIn {
