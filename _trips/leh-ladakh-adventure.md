@@ -820,7 +820,7 @@ Our incredible 22 days road trip was more than just a journey across cities. It 
 
 ## Planning resources
 
-[Leh Trip - Planning Sheet](https://docs.google.com/spreadsheets/d/1fql6Rz5rNlmB9kRUjXZZ7X3h2O-5RzCZuob3NLgymto/edit?gid=639703312#gid=639703312)
+<a href="https://docs.google.com/spreadsheets/d/1fql6Rz5rNlmB9kRUjXZZ7X3h2O-5RzCZuob3NLgymto/edit?gid=639703312#gid=639703312" target="new">Leh Trip - Planning Sheet</a>
 
 We used a google sheet for our Trip planning and hotel booking tracking. This also helped us project the total cost of the trip. A public version of the sheet is available for anyone to reference. The hotel cost has been left empty, as everyone has their own preference and thought process to book it based on their need. 
 
