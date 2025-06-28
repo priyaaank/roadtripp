@@ -696,7 +696,7 @@ itinerary:
 
   - day: 19
     title: "Gondolas, Greenery, and Gulmarg Glimpses"
-    date: "10 June 2025"
+    date: "11 June 2025"
     featured_image: "/assets/images/leh/day19-gulmargmain.jpg"
     description: "After taking a slow day to rest, we were ready for a short drive to Gulmarg. We left early to avoid traffic and long queues at the Gulmarg Gondola. The plan was to take the cable car to both Phase I and II and enjoy the views. We started around 7 am and managed to skip most of the city traffic. The drive took about 2–3 hours, and we reached Gulmarg by 9:30 am. It was not crowded, and many guides kept pestering us, even blocking the road near the parking area, falsely claiming that private cars weren’t allowed unless you hired a guide. We ignored them and walked directly to the Gondola station. Surprisingly, there were no queues, and we got tickets on the spot—a rare thing, as people usually line up from 5 am. We took the Gondola all the way to the top. The views were nice—blue skies, a chill in the air, and some snow—but honestly, after seeing Leh, it didn’t feel that special. We tried snow sledging, which turned out to be a bad decision. The snow was more slush than snow, and dragging the sled uphill was tough. It cost ₹1000 per person, and the ride down lasted just a few seconds. It was uncomfortable and not worth the effort—maybe better in peak winter, but definitely not now. As the place got more crowded, we enjoyed the views, had some overpriced Maggi, and rode the cable car back down. The best part of the whole visit was the Gondola ride itself. Next, we visited the Valley of Strawberries. After crossing a small stream—which was fun but a bit tricky—we found a shaded spot, sat down, and took in the views. We stayed for about an hour before deciding to head back to Srinagar for lunch. We went to a popular restaurant called Stream, right across from Dal Lake. The food was delicious and the setting felt authentic. We ate to our heart’s content and then took some rest. In the evening, we visited Nishat Garden. It was peaceful, full of greenery, birds chirping, and kids playing. After that, we did a bit of shopping nearby and treated ourselves to dessert at Ahdoos, followed by a stroll through the Residency Road market. That wrapped up our Day 19—with a mix of sightseeing, local experiences, and some great food. We returned to the hotel and quickly drifted off to sleep."
     highlights:
@@ -736,7 +736,7 @@ itinerary:
 
   - day: 20
     title: "A Gentle Goodbye: Sonmarg Riverbanks, Rest, and One Last Ahdoos Feast"
-    date: "10 June 2025"
+    date: "12 June 2025"
     featured_image: "/assets/images/leh/day20-sonmargmain.jpg"
     description: "This was our last day in Srinagar before we began our drive back to Chandigarh. In the morning, our daughter wasn’t feeling well—we suspected it was due to dehydration or a weak stomach. After some discussion, we decided to go ahead with a short visit to Sonmarg, keeping in mind whether the kids were up for the trek to Thajiwas Glacier. We talked it over with them and agreed that they could take horses while the two of us would walk. The drive to Sonmarg took about 2–3 hours. After passing through the Sonmarg tunnel, we stopped just beyond the exit. Following a chat with the security staff, we took a narrow path that led down from the tunnel exit and did a bit of off-roading. We parked near the river, dipped our feet in the water, and enjoyed the crisp mountain air under the bright sun. After relaxing by the river for about an hour, we decided it was time for lunch. We searched for a good place to eat, but since it was off-season, most of the popular restaurants had limited food options, and the smaller ones seemed unreliable and overly spicy. With our daughter still feeling unwell, we played it safe and grabbed a quick, light meal. We had originally planned to do the glacier trek after lunch, but her condition worsened, and we felt it was best to head back to Srinagar to rest, especially with a long drive ahead the next day. We returned to the hotel and spent the rest of the afternoon relaxing in the room. In the evening, we stepped out for one last dinner at Ahdoos and ordered à la carte. As always, the food was excellent. We took a short walk around the market afterward and then began packing for the journey ahead. And just like that, our time in Srinagar came to an end."
     highlights:
@@ -764,22 +764,24 @@ itinerary:
 
   - day: 21
     title: "The Final Stretch: Srinagar to Chandigarh - A Long Drive Home"
-    date: "11 June 2025"
-    featured_image: "/assets/images/leh/day21-finaltripdistance.jpg"
+    date: "13 June 2025"
+    featured_image: "/assets/images/leh/day21-peaches.jpg"
     description: "Day 21 was our last long drive—from Srinagar to Chandigarh. We started early at 7 am, expecting a relatively smooth journey. For most of the route, we followed NH44, except for a stretch between Udhampur and Chak Dayala. That part of the road wasn’t in great shape, with varying surface quality, but Google Maps suggested it as it shortened the distance compared to the longer route via Jammu. Up to Udhampur, the road was under heavy construction and quite rough. Luckily, we avoided a two-hour traffic jam by skipping the bypass and driving through a nearby town. Along NH44, we passed several long tunnels, some as long as 6–7 kilometers. We were impressed by the scale of construction and the engineering efforts to carve through the mountains. At the same time, it was a little disheartening to see the ecological disruption caused by such development. After Phagwara, we left NH44 and spent the last hour and a half on state roads, dealing with traffic jams and diversions. We reached Chandigarh around 7 pm. For lunch, we stopped at a Haldiram’s just after Sujanpur—it didn’t show up on Google Maps, which was surprising. The food was average and caused acidity for most of us. While it seemed like the better option at the time, it wasn’t good enough to recommend. The drive took nearly 12 hours and marked the end of our road trip. Unfortunately, our stay at Radisson didn’t go well. The air conditioning wasn’t working in peak summer, and the front desk staff showed little concern. No one came to check until 11 pm, and only after I went down and complained in person. Even then, they just increased the fan speed. We were too exhausted to push further, so we made do with the fan and went to sleep."
     highlights:
       - "✅ Series of tunnels on NH44"
       - "❌ Construction and bad roads until Chak Darya"
       - "❌ Service at Radisson Zirakpur"
     photos:
-      - image: "/assets/images/leh/day21-finaltripdistance.jpg"
-        caption: "Final trip distance milestone - completing our epic 22-day journey"
+      - image: "/assets/images/leh/day21-ramjichat.jpg"
+        caption: "Foodie corner in Changigarh"
+      - image: "/assets/images/leh/day21-kms.jpg"
+        caption: "Recording kms in Chandigarh as we finished our drive"
       - image: "/assets/images/leh/day21-carride.jpg"
         caption: "On the road during our long drive from Srinagar to Chandigarh"
       - image: "/assets/images/leh/day21-peaches.jpg"
         caption: "Fresh peaches enjoyed during a break on our journey"
       - image: "/assets/images/leh/day21-tripend.jpg"
-        caption: "Celebrating the successful completion of our incredible road trip"
+        caption: "All of us a bit sad about the trip coming to an end"
       
     accommodation:
       name: "Radisson Hotel, Zirakpur Chandigarh" 
@@ -787,6 +789,27 @@ itinerary:
       rating: 2
       review: "Poor service experience on this stay. AC was not working in peak summer and front desk was unempathetic. No one came to look at the issue until 11pm after actively complaining. Even then, they just increased fan speed. Too tired to complain further but disappointing end to our journey."
     additional_considerations: "Start early for NH44 and be prepared for bad traffic and bad roads till Chak Daraya. Haldiram is near Sujanpur however not a recommended place for food. There are other good options at this stop though."
+
+  - day: 22
+    title: "Homeward Bound: The Final Chapter of an Unforgettable Journey"
+    date: "14 June 2025"
+    featured_image: "/assets/images/leh/day21-finaltripdistance.jpg"
+    description: "Day 22 was the final day of our journey. We had a slow, relaxed start and had breakfast at the hotel, which was much better than our previous stay at the same place. We then dropped off our car with Agarwal Movers and Packers. It cost us around ₹30,000 to ship it from Chandigarh to Bangalore. While slightly more expensive than other options, we've had good experiences with them in the past. (And as I write this, I’m happy to share that the car reached Bangalore safely in about 11 days—exactly as promised). After that, we took a taxi to the airport with all our luggage. Chandigarh airport is quite small, so there wasn’t much to do. We had a quick bite in the lounge and boarded our flight. By 9:30 pm on June 14th, we were finally home. We cleaned up and went to bed—tired, content, and full of memories from an amazing trip. Over the next few days, we were still in a bit of a trip hangover, reminiscing about the fun we had and the constant planning and re-planning we’d grown used to. It was truly a once-in-a-lifetime experience—and now, we wait for our next adventure."
+    highlights:
+      - "✅ Drop off process at Agarwal Movers and Packers"
+      - "❌ Lounge at Chandigarh airport"
+      - "❌ Trip came to an end"
+    photos:
+      - image: "/assets/images/leh/day22-kms.jpg"
+        caption: "Final kilometers reading on our car after the incredible journey"
+      - image: "/assets/images/leh/day22-dropoff.jpg"
+        caption: "Dropping off our faithful car at Agarwal Movers and Packers for shipping back to Bangalore"
+      - image: "/assets/images/leh/day22-luggage.jpg"
+        caption: "All packed up with our luggage ready for the journey home"
+      - image: "/assets/images/leh/day22-blrairport.jpg"
+        caption: "Finally back home at Bangalore airport - the end of our amazing 22-day adventure"
+    additional_considerations: "Along with car shipping, Agarwal movers and packers were happy to take some lugguage in the car, which helped as it reduced our flight lugguage"
+
 
 ---
 
