@@ -824,7 +824,15 @@ Our incredible 22 days road trip was more than just a journey across cities. It 
 
 We used a google sheet for our Trip planning and hotel booking tracking. This also helped us project the total cost of the trip. A public version of the sheet is available for anyone to reference. The hotel cost has been left empty, as everyone has their own preference and thought process to book it based on their need. 
 
-## Driving route 
+## Travel details
+
+**Total distance** 5749 kilometers
+
+**Total driving time** 136 hours approximately
+
+**Total fuel consumed** 430 litres of diesel costing around INR 35,000
+
+**Driving route** Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > PangongTso > Nubra > Srinagar > Chandigargh > Bangalore
 
 <img src="../../assets/images/route.jpg" alt="Description" style="width: 40%; margin: 1rem 0;">
 
