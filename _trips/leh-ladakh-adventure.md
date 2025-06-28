@@ -693,6 +693,46 @@ itinerary:
         location: "Crème by Ahdoos, Srinagar"
         comment: "Absolutely must try fresh Desserts, biscuits and cakes"
     additional_considerations: "When you shop be careful. Dry fruit and spices experience was not great. Shown something else and given something else. Reviews were same all around. Buy from recommendations and check product after being packed"
+
+  - day: 19
+    title: "Gondolas, Greenery, and Gulmarg Glimpses"
+    date: "10 June 2025"
+    featured_image: "/assets/images/leh/day19-gulmarg.jpg"
+    description: "After taking a slow day to rest, we were ready for a short drive to Gulmarg. We left early to avoid traffic and long queues at the Gulmarg Gondola. The plan was to take the cable car to both Phase I and II and enjoy the views. We started around 7 am and managed to skip most of the city traffic. The drive took about 2–3 hours, and we reached Gulmarg by 9:30 am. It was not crowded, and many guides kept pestering us, even blocking the road near the parking area, falsely claiming that private cars weren’t allowed unless you hired a guide. We ignored them and walked directly to the Gondola station. Surprisingly, there were no queues, and we got tickets on the spot—a rare thing, as people usually line up from 5 am. We took the Gondola all the way to the top. The views were nice—blue skies, a chill in the air, and some snow—but honestly, after seeing Leh, it didn’t feel that special. We tried snow sledging, which turned out to be a bad decision. The snow was more slush than snow, and dragging the sled uphill was tough. It cost ₹1000 per person, and the ride down lasted just a few seconds. It was uncomfortable and not worth the effort—maybe better in peak winter, but definitely not now. As the place got more crowded, we enjoyed the views, had some overpriced Maggi, and rode the cable car back down. The best part of the whole visit was the Gondola ride itself. Next, we visited the Valley of Strawberries. After crossing a small stream—which was fun but a bit tricky—we found a shaded spot, sat down, and took in the views. We stayed for about an hour before deciding to head back to Srinagar for lunch. We went to a popular restaurant called Stream, right across from Dal Lake. The food was delicious and the setting felt authentic. We ate to our heart’s content and then took some rest. In the evening, we visited Nishat Garden. It was peaceful, full of greenery, birds chirping, and kids playing. After that, we did a bit of shopping nearby and treated ourselves to dessert at Ahdoos, followed by a stroll through the Residency Road market. That wrapped up our Day 19—with a mix of sightseeing, local experiences, and some great food. We returned to the hotel and quickly drifted off to sleep."
+    highlights:
+      - "✅ Absent queues and crowds at Gandola"
+      - "✅ Lunch at Stream restaurant"
+      - "✅ Market stroll on Residency Road"
+      - "✅ Gulmarg - Valley of strawberries"
+      - "❌ Sledging in Gulmarg"
+      - "❌ Constant harrassment by local guides and service providers"
+    photos:
+      - image: "/assets/images/leh/day19-5000kms.jpg"
+        caption: "Celebrating 5000 kms milestone of our epic road trip"
+      - image: "/assets/images/leh/day19-cablecar.jpg"
+        caption: "Views from inside the gondola during the ride"
+      - image: "/assets/images/leh/day19-cablecar2.jpg"
+        caption: "Taking the Gulmarg Gondola cable car up the mountain"
+      - image: "/assets/images/leh/day19-gulmarg.jpg"
+        caption: "Beautiful mountain views from Gulmarg"
+      - image: "/assets/images/leh/day19-gulmargviews.jpg"
+        caption: "Panoramic views of the Kashmir valley from Gulmarg"
+      - image: "/assets/images/leh/day19-lazing.jpg"
+        caption: "Taking a relaxing break during our Gulmarg visit"
+      - image: "/assets/images/leh/day19-nishatgarden.jpg"
+        caption: "Evening stroll through the beautiful Nishat Garden"
+      - image: "/assets/images/leh/day19-strawberryvalley.jpg"
+        caption: "Exploring the scenic Valley of Strawberries near Gulmarg"
+    accommodation:
+      name: "Four Points Shereton, Srinagar" 
+      location: "Four Points Shereton, Srinagar"
+      rating: 2
+      review: "Located in city center so close to most places. Just a stand alone building with decent rooms. Restaurants was not great, neither was restaurant service. It felt like there was severe cost cutting. Overall decent for a short business stay, won't recommend for vacation. Charged 3000 INR per day for extra matress. Discounted it for 2 days when we complained about it being 60% of the room cost itself. Would have given it 3 stars but due to exorbitant pricing for extra matress not at all value for money for us"
+    places_to_eat:
+      - name: "Stream Restaurant, Srinagar"
+        location: "Stream Restaurant, Srinagar"
+        comment: "Authentic local food and nice ambience. Try chicken and mutton dishes"
+    additional_considerations: "Take feedback for activity like snow skiing, sledging etc from others in Gulmarg before you try it. If it is not peak tourist season you can drive upto Gandola office and park nearby."
 ---
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
