@@ -761,6 +761,33 @@ itinerary:
       rating: 2
       review: "Located in city center so close to most places. Just a stand alone building with decent rooms. Restaurants was not great, neither was restaurant service. It felt like there was severe cost cutting. Overall decent for a short business stay, won't recommend for vacation. Charged 3000 INR per day for extra matress. Discounted it for 2 days when we complained about it being 60% of the room cost itself. Would have given it 3 stars but due to exorbitant pricing for extra matress not at all value for money for us"
     additional_considerations: "Plan for lunch ahead of time in Sonmarg, we didn't find good options. We heard that all the horse rides go up and down Thajiwas glaciar the same route, however thre is a longer walking trek that is more scenic for the way back. We suggest exploring that if you go up on foot."
+
+  - day: 21
+    title: "The Final Stretch: Srinagar to Chandigarh - A Long Drive Home"
+    date: "11 June 2025"
+    featured_image: "/assets/images/leh/day21-finaltripdistance.jpg"
+    description: "Day 21 was our last long drive—from Srinagar to Chandigarh. We started early at 7 am, expecting a relatively smooth journey. For most of the route, we followed NH44, except for a stretch between Udhampur and Chak Dayala. That part of the road wasn’t in great shape, with varying surface quality, but Google Maps suggested it as it shortened the distance compared to the longer route via Jammu. Up to Udhampur, the road was under heavy construction and quite rough. Luckily, we avoided a two-hour traffic jam by skipping the bypass and driving through a nearby town. Along NH44, we passed several long tunnels, some as long as 6–7 kilometers. We were impressed by the scale of construction and the engineering efforts to carve through the mountains. At the same time, it was a little disheartening to see the ecological disruption caused by such development. After Phagwara, we left NH44 and spent the last hour and a half on state roads, dealing with traffic jams and diversions. We reached Chandigarh around 7 pm. For lunch, we stopped at a Haldiram’s just after Sujanpur—it didn’t show up on Google Maps, which was surprising. The food was average and caused acidity for most of us. While it seemed like the better option at the time, it wasn’t good enough to recommend. The drive took nearly 12 hours and marked the end of our road trip. Unfortunately, our stay at Radisson didn’t go well. The air conditioning wasn’t working in peak summer, and the front desk staff showed little concern. No one came to check until 11 pm, and only after I went down and complained in person. Even then, they just increased the fan speed. We were too exhausted to push further, so we made do with the fan and went to sleep."
+    highlights:
+      - "✅ Series of tunnels on NH44"
+      - "❌ Construction and bad roads until Chak Darya"
+      - "❌ Service at Radisson Zirakpur"
+    photos:
+      - image: "/assets/images/leh/day21-finaltripdistance.jpg"
+        caption: "Final trip distance milestone - completing our epic 22-day journey"
+      - image: "/assets/images/leh/day21-carride.jpg"
+        caption: "On the road during our long drive from Srinagar to Chandigarh"
+      - image: "/assets/images/leh/day21-peaches.jpg"
+        caption: "Fresh peaches enjoyed during a break on our journey"
+      - image: "/assets/images/leh/day21-tripend.jpg"
+        caption: "Celebrating the successful completion of our incredible road trip"
+      
+    accommodation:
+      name: "Radisson Hotel, Zirakpur Chandigarh" 
+      location: "Radisson Hotel, Zirakpur Chandigarh"
+      rating: 2
+      review: "Poor service experience on this stay. AC was not working in peak summer and front desk was unempathetic. No one came to look at the issue until 11pm after actively complaining. Even then, they just increased fan speed. Too tired to complain further but disappointing end to our journey."
+    additional_considerations: "Start early for NH44 and be prepared for bad traffic and bad roads till Chak Daraya. Haldiram is near Sujanpur however not a recommended place for food. There are other good options at this stop though."
+
 ---
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
