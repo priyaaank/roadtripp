@@ -367,6 +367,8 @@ itinerary:
       - "✅ Economic laundry at The Dobhi ghat. 24 hour wash and fold cycle" 
       - "✅ Slow day, leisurely stroll and beautilful views" 
       - "✅ Many car washes around city. Done in INR 400"
+      - "❌ Don’t blindly trust Google Maps! On our way back from the Stupa, it took us through some really narrow roads that clearly weren’t meant for cars."
+      - "❌ Even if it’s cold outside, avoid setting the AC to a temperature higher than the outside just to feel warm and cozy in a hotel room — you might wake up with a lingering headache and a bit of nausea."
     photos:
       - image: "/assets/images/leh/day12-car-unclean.jpg"
         caption: "Getting the car the deserved cleaning after a long drive"
@@ -495,7 +497,7 @@ itinerary:
       location: "Desert Blue, Pangong Tso"
       rating: 4
       review: "Well-designed cabins with skylight, comfortable beds and good amenities. Limited electricity hours but peaceful lakeside location. Oxygen concentrator provided for altitude comfort. The Desert Blue cabin was very expensive, so despite a good experoence, I wouldn't call it value for moeny"
-    additional_considerations: "Sunscreen, sunscreen & sunscreen. Ensure ventilation in night when you go to sleep, when room is air tight. Don't overuse oxygen concentrator to loose acclamatization. Lot of mountain workers will ask for food and worker as you drive to Pangong Tso. Carry extra water and food if you intend to disribute"
+    additional_considerations: "Sunscreen, sunscreen & sunscreen. Ensure ventilation in night when you go to sleep, when room is air tight. Don't overuse oxygen concentrator to loose acclamatization. Lot of mountain workers will ask for food and water as you drive to Pangong Tso. Carry extra water and food if you intend to disribute"
 
   - day: 15
     title: "Pangong to Nubra - Rivers, Rocks & Starlit Revelations"
@@ -614,7 +616,7 @@ itinerary:
       location: "Lchang Nang Retreat, Nubra"
       rating: 4
       review: "A fully sustainable eco-stay featuring an organic kitchen garden, offering stunning views of the Trans-Himalayan and Karakoram ranges. The food is exceptional, and the atmosphere is serene—ideal for unwinding. The only drawback is its location, about 45 minutes away from Diskit and Hunder attractions"
-    additional_considerations: "Road back to Leh was still being constructed, so bad patches. Drive to Srinaga is going to be fairly long. If you want to break the drive, do it at Kargil. They are a decent place for a midsway top"
+    additional_considerations: "Road back to Leh was still being constructed, so bad patches. Drive to Srinagar is going to be fairly long. If you want to break the drive, do it at Kargil. They are a decent place for a midsway stop"
 
   - day: 17
     title: "The Long Drive - Nubra to Srinagar via Khardung La"
@@ -766,9 +768,10 @@ itinerary:
     title: "The Final Stretch: Srinagar to Chandigarh - A Long Drive Home"
     date: "13 June 2025"
     featured_image: "/assets/images/leh/day21-peaches.jpg"
-    description: "Day 21 was our last long drive—from Srinagar to Chandigarh. We started early at 7 am, expecting a relatively smooth journey. For most of the route, we followed NH44, except for a stretch between Udhampur and Chak Dayala. That part of the road wasn’t in great shape, with varying surface quality, but Google Maps suggested it as it shortened the distance compared to the longer route via Jammu. Up to Udhampur, the road was under heavy construction and quite rough. Luckily, we avoided a two-hour traffic jam by skipping the bypass and driving through a nearby town. Along NH44, we passed several long tunnels, some as long as 6–7 kilometers. We were impressed by the scale of construction and the engineering efforts to carve through the mountains. At the same time, it was a little disheartening to see the ecological disruption caused by such development. After Phagwara, we left NH44 and spent the last hour and a half on state roads, dealing with traffic jams and diversions. We reached Chandigarh around 7 pm. For lunch, we stopped at a Haldiram’s just after Sujanpur—it didn’t show up on Google Maps, which was surprising. The food was average and caused acidity for most of us. While it seemed like the better option at the time, it wasn’t good enough to recommend. The drive took nearly 12 hours and marked the end of our road trip. Unfortunately, our stay at Radisson didn’t go well. The air conditioning wasn’t working in peak summer, and the front desk staff showed little concern. No one came to check until 11 pm, and only after I went down and complained in person. Even then, they just increased the fan speed. We were too exhausted to push further, so we made do with the fan and went to sleep."
+    description: "Day 21 was our last long drive—from Srinagar to Chandigarh. We started early at 7 am, expecting a relatively smooth journey. For most of the route, we followed NH44, except for a stretch between Udhampur and Chak Dayala. That part of the road wasn’t in great shape, with varying surface quality, but Google Maps suggested it as it shortened the distance compared to the longer route via Jammu. Up to Udhampur, the road was under heavy construction and quite rough. Luckily, we avoided a two-hour traffic jam by skipping the bypass and driving through a nearby town. Along NH44, we passed several long tunnels, some as long as 6–7 kilometers. We were impressed by the scale of construction and the engineering efforts to carve through the mountains. At the same time, it was a little disheartening to see the ecological disruption caused by such development. After Phagwara, we left NH44 and spent the last hour and a half on state roads, dealing with traffic jams and diversions. We reached Chandigarh around 7 pm. For lunch, we stopped at a Haldiram’s just after Sujanpur—it didn’t show up on Google Maps, which was surprising. The food was average and caused acidity for most of us. While it seemed like the better option at the time, it wasn’t good enough to recommend. The drive took nearly 12 hours and marked the end of our road trip. After reaching Chandigarh, we decided to grab a bite and explore the city’s street food before checking into the hotel — and honestly, it turned out to be the best decision! A quick Google search led us to Sector 34C, and as soon as we arrived, the tempting aroma from the food stalls made us feel hungry even though we weren’t (at least, that’s what we thought).We kicked things off with pani puri and tikki chaat from Ram Chaat Bhandar (Ambale Wale) — saying it didn’t disappoint would be a huge understatement. Next up was a cheesy delight from a local pizza stall, followed by a colourful ice gola from the same shop. We really wished we had a little more room to try the momos from Toshib, which looked super popular and was drawing quite a crowd. Finally, a refreshing lemon soda wrapped up our lip-smacking dinner, and with happy hearts and fuller stomachs, we headed to the hotel to call it a night. Unfortunately, our stay at Radisson didn’t go well. The air conditioning wasn’t working in peak summer, and the front desk staff showed little concern. No one came to check until 11 pm, and only after I went down and complained in person. Even then, they just increased the fan speed. We were too exhausted to push further, so we made do with the fan and went to sleep."
     highlights:
       - "✅ Series of tunnels on NH44"
+      - "✅ Super street food at sector 34 in Chandigarh"
       - "❌ Construction and bad roads until Chak Darya"
       - "❌ Service at Radisson Zirakpur"
     photos:
