@@ -830,7 +830,7 @@ We used a google sheet for our Trip planning and hotel booking tracking. This al
 
 **Total driving time** 136 hours approximately
 
-**Total fuel consumed** 430 litres of diesel costing around INR 35,000
+**Total fuel consumed** 400 litres of diesel costing around INR 35,000
 
 **Driving route** Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > PangongTso > Nubra > Srinagar > Chandigargh > Bangalore
 
