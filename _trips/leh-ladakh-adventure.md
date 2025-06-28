@@ -793,7 +793,7 @@ itinerary:
   - day: 22
     title: "Homeward Bound: The Final Chapter of an Unforgettable Journey"
     date: "14 June 2025"
-    featured_image: "/assets/images/leh/day21-finaltripdistance.jpg"
+    featured_image: "/assets/images/leh/day22-finaltripdistance.jpg"
     description: "Day 22 was the final day of our journey. We had a slow, relaxed start and had breakfast at the hotel, which was much better than our previous stay at the same place. We then dropped off our car with Agarwal Movers and Packers. It cost us around ₹30,000 to ship it from Chandigarh to Bangalore. While slightly more expensive than other options, we've had good experiences with them in the past. (And as I write this, I’m happy to share that the car reached Bangalore safely in about 11 days—exactly as promised). After that, we took a taxi to the airport with all our luggage. Chandigarh airport is quite small, so there wasn’t much to do. We had a quick bite in the lounge and boarded our flight. By 9:30 pm on June 14th, we were finally home. We cleaned up and went to bed—tired, content, and full of memories from an amazing trip. Over the next few days, we were still in a bit of a trip hangover, reminiscing about the fun we had and the constant planning and re-planning we’d grown used to. It was truly a once-in-a-lifetime experience—and now, we wait for our next adventure."
     highlights:
       - "✅ Drop off process at Agarwal Movers and Packers"
