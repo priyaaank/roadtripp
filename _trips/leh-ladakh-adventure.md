@@ -14,8 +14,8 @@ itinerary:
     description: "We hit the road at 4:45 AM, and it helped us beat the Bangalore traffic. Our playlist kicked in, and with the click of a seatbelt, the journey had begun. Our first pit stop came a few hours later at A2B in Sira. The breakfast was functional, not memorable—but it filled our bellies and bought us time to stretch our legs before hitting the road again. By mid-morning, we reached Dharwad, where a quick stop at Big Mishra. Their famous pedas were a delight. We grabbed some snacks too, but honestly, the pedas stole the spotlight. Between Belgavi and Satara, we were greeted with heavy traffic, never-ending construction, and surprise diversions that made the route feel more like an obstacle course. A gentle drizzle added to the chaos, but the scenery—and the promise of dinner—kept us going. By the time the sun dipped, hunger struck again. We stopped at Manas Restobar, just before Satara. The mutton thali was hearty and unforgettable, and the paya soup was great. The final stretch into Pune tested our patience. Twenty-five kilometers in two hours! We reached our hotel much later than planned, but when we hit the bed we were brimming with excitement as all our planning for the last few months was going to be real. The adventure had officially begun!"
     highlights:
       - "✅ Rains and pleasant weather"
-      - "✅ Peda at <a href=\"https://www.google.com/maps?q=loc:15.3945667,75.0079278\" target=\"new\">Big Mishra @ Dharwad</a>"
-      - "✅ The mutton thali at <a href=\"https://www.google.com/maps?q=loc:17.7480278,73.9990139\" target=\"new\">Manas restobar near Satara</a>"
+      - "✅ Peda at Big Mishra - Dharwad"
+      - "✅ The mutton thali at Manas restobar near Satara"
       - "❌ Construction and diversions after Belgavi and before Satara"
       - "❌ Traffic snarls near Kohlapur and as we entered the city of Pune"
       
@@ -42,7 +42,7 @@ itinerary:
       - name: "Manas Restobar"
         location: "Manas Resto Lounge, Satara"
         comment: "Excellent mutton thali and soul-warming paya soup. A hidden gem on the highway"
-    additional_considerations: "Start early (4:00 - 5:00 AM) to avoid heavy traffic on major highways. Carry cash for toll booths as some don't accept cards. Check weather conditions especially during monsoon season and keep emergency contact numbers handy for roadside assistance. Additionally there are car wash places in Hinjewadi/Wakad if you are looking for one"
+    additional_considerations: "Start early (4:00 - 5:00 AM) to avoid heavy traffic on major highways"
 
   - day: 2
     title: "From Pune with Love, to Mumbai in the Rain"
@@ -51,7 +51,7 @@ itinerary:
     description: "We started the day in Pune after a much-needed night’s rest. The weather was cool and overcast—perfect for a slow morning. After breakfast at our hotel, we took a short drive around some older parts of the city reminiscing about our time in the city. It was mostly about soaking in the quiet before before meeting extended family in the city. Before leaving town, we stopped for a quick car wash in Hinjewadi and costed us only INR 250. After the long drive from Bangalore the previous day, the car needed a refresh. The drive from Pune to Mumbai was mostly straightforward, except for the expected traffic snarl at the toll plazas. One of them took nearly 45 minutes to cross, which slowed us down quite a bit. As we approached Mumbai, pre-monsoon rain kicked in. Visibility dropped a bit, and traffic got heavier, especially around the outskirts. The roads were manageable, but progress was slow. By early evening, we reached our stop. The plan was to do a 2 day halt in the city and spend time with family. Dinner was simple and homemade, and everyone was tired from the day. We unpacked, got the kids settled, and wrapped up the day quietly. It wasn’t a very long driving day, but it had its share of delays and transitions"
     highlights:
       - "✅ Got an external car wash with a car-wash service - Paid INR 250"
-      - "✅ Met extended family"
+      - "✅ Stayed with family and had quality time"
       - "✅ Drove down to Mumbai"
       - "❌ Traffic woes at Mumbai Pune expressway toll-gate"
       - "❌ Crazy rains and thunderstorm enroute and in Mumbai"
@@ -77,7 +77,7 @@ itinerary:
       - name: "Kalyani Tiffin Room"
         location: "Kalyani Tiffin room, Kalyani Nagar Pune"
         comment: "Good south Indian breakfast with filter coffee"
-    additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old) at Taj Vivanta. Extra bed costed approx INR 1000 plus GST. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around"
+    additional_considerations: "We were 2 Adults and 2 kids in the room (both of them <12 years old) at Taj Vivanta. Extra bed costed approx INR 1000 plus GST. It is worth knowing that price of extra mattress vs extra bed in the room can differ. Extra mattress is more value for money and also leaves more space to move around. Additionally there are car wash places in Hinjewadi/Wakad if you are looking for one"
 
   - day: 3 & 4
     title: "Rain Songs and Quiet Days in Mumbai"
@@ -85,6 +85,7 @@ itinerary:
     featured_image: "/assets/images/leh/day3-mumbai-rains.jpg"
     description: "Not every day on a road trip needs to be packed with a planned itinerary. We spent two slow, quiet days in Mumbai, tucked away in the comfort of a relative’s home while the city braced for a rain red alert. The monsoon had arrived early, and Mumbai was being Mumbai in rains. For us, not used to Mumbai’s electric mood swings, it was a little unnerving. Even the kids, who started off thrilled by the stormy soundtrack, ended anxious at the loudest cracks of thunder. But inside the house, things were warm and grounding. Lego sets, catch up with family, laughter and chai. Outside, the streets turned into rivers. Thankfully our plan included a brief stay with family in Mumbai and that planned break provided needed buffer with weather uncertainity in Mumbai"
     highlights:
+      - "✅ Stayed with family and had quality time"
       - "❌ Heavy rainafall which was very scary"
     photos:
       - image: "/assets/images/leh/day3-mumbai-rains.jpg"
@@ -174,7 +175,7 @@ itinerary:
     title: "Smooth Roads, a Sensor Scare & a Silent Engine"
     date: "30 May 2025"
     featured_image: "/assets/images/leh/day7-dhabalogy-main.jpg"
-    description: "We were up early, refreshed and ready to leave Ahmedabad behind. The sky was just beginning to yawn when we packed up and hit the road toward Jaipur. The drive started smooth—open highways, decent weather, and a sense of momentum. Around the four-hour mark, our stomachs voted unanimously for a break, so we pulled into a place called Dhabalogy. Now this wasn’t your usual roadside dhaba, it had a quirky name, and food that actually delivered. The bathrooms? Let’s just say the boys’ loo had.. personality. Back in the car, the plot twist arrived. A warning on the dashboard: Check DEF system. Followed closely by, “Engine will not restart after 400 km.” This was worrying. We called the nearest service center (Jaipur) who advised, “the best course of action is to get it checked at Jaipur serbice center. And if we don't switch off the engine then it will not shut off while the car is running”. Turns out the DEF wasn’t really empty; the sensor had simply gone rogue. But still—no chances taken. We stayed on the move. By the time we rolled into Jaipur, our first stop wasn’t a hotel, it was the service center. Car handed off for diagnostics, we hailed a cab and headed to hotel. The hotel felt like a safe zone and a welcome contrast to the DEF drama. A light dinner followed, more out of habit than hunger. Then we sank into our beds, grateful for everything—the smooth parts, the tasty detours, and even the surprise curveball. Because that’s the thing about road trips: every day writes its own little thriller. And Day 7 definitely kept us on our toes."
+    description: "We were up early, refreshed and ready to leave Ahmedabad behind. The sky was just beginning to yawn when we packed up and hit the road toward Jaipur. The drive started smooth—open highways, decent weather, and a sense of momentum. Around the four-hour mark, our stomachs voted unanimously for a break, so we pulled into a place called Dhabalogy. Now this wasn’t your usual roadside dhaba, it had a quirky name, and food that actually delivered. The bathrooms? Let’s just say the boys’ loo had.. personality. Back in the car, the plot twist arrived. A warning on the dashboard: Check DEF system. Followed closely by, “Engine will not restart after 400 km.” This was worrying. We called the nearest service center (Jaipur) who advised, “the best course of action is to get it checked at Jaipur service center. And if we don't switch off the engine then it will not shut off while the car is running”. Turns out the DEF wasn’t really empty; the sensor had simply gone rogue. But still—no chances taken. We stayed on the move. By the time we rolled into Jaipur, our first stop wasn’t a hotel, it was the service center. Car handed off for diagnostics, we hailed a cab and headed to hotel. The hotel felt like a safe zone and a welcome contrast to the DEF drama. A light dinner followed, more out of habit than hunger. Then we sank into our beds, grateful for everything—the smooth parts, the tasty detours, and even the surprise curveball. Because that’s the thing about road trips: every day writes its own little thriller. And Day 7 definitely kept us on our toes."
     highlights:
       - "✅ Good highways to drive in Rajasthan"
       - "✅ Good food and restaurant near Nathdwara between Udaipur and Jaipur"
@@ -184,7 +185,7 @@ itinerary:
       - image: "/assets/images/leh/day7-arsh-raavan.jpg"
         caption: "Arsh trying Ravan headgear"
       - image: "/assets/images/leh/day7-sara-raavan.jpg"
-        caption: "Sara trying Ravan headgear"
+        caption: "Kids trying Ravan headgear at Dabhalody"
       - image: "/assets/images/leh/day7-gandhinagar-thermal-pp.jpg"
         caption: "Gandhinagar Thermal Power plant as we exit Ahemdabad"
       - image: "/assets/images/leh/day7-dabhalogy-bathroom.jpg"
@@ -193,8 +194,8 @@ itinerary:
         caption: "The DEF error that took us by surprise"
       - image: "/assets/images/leh/day7-car-error.jpg"
         caption: "Car warning that it won't start after 400 kms"
-      - image: "/assets/images/leh/day7-carservicecenter.jpg"
-        caption: "Dropping car for the service in Jaipur at the end of the day"
+      - image: "/assets/images/leh/day7-jaipur-cardrop.jpg"
+        caption: "Dropping Jeep at Service center for a DEF error review"
     accommodation:
       name: "Fairfield by Mariott, Bani Park, Jaipur" 
       location: "Fairfield by Mariott, Bani Park, Jaipur"
@@ -204,19 +205,19 @@ itinerary:
       - name: "Dhabalogy"
         location: "Dhabalogy, Nathdwara Rajasthan"
         comment: "Great food options, including local food. Fantastic ambience. Can also check out old car collection and graffiti inside the restaurant"
-    additional_considerations: "The highways are fantastic in Rajasthan. However there is often speed checking. Watch out speed limits"
+    additional_considerations: "The highways are fantastic in Rajasthan. However there is often speed checking. Watch out speed limits. A new ring road around Jaipur help us beat city traffic while entering the city. We took that from Sitapura industrial area. Also Good thing about shopping in Jaipur textoriums are that you dont have to worry about the extra luggage you just added to your bags, they will courier it for you"
 
   - day: 8
     title: "Lazy Mornings, Street Food & Lively Bazaars in Jaipur"
     date: "31 May 2025"
     featured_image: "/assets/images/leh/day8-jaipur-ferriswheel.jpg"
-    description: "We woke up at 10 AM gloriously rested. No alarms, no agendas, just a slow, soft start to the day. Our Jaipur friends had pulled out all the stops with a homemade local breakfast, and we happily leaned into it—fluffy poha, hot parathas, and chai, all served with warmth and chatter that made the morning fly by. Farewells were warm and unhurried, the kind that linger just a bit longer than planned. With goodbyes said, we headed out for a quick errand, picking up the car to continue our journey. We retreated to our hotel room to cool off and recharge. Jaipur’s heat doesn’t kid around, and the air-conditioned silence was a welcome pause. By late afternoon, another set of friends swept us into the whirl of Jaipur’s old city. The Pink City delivered its usual magic—narrow lanes bursting with color and life. We strolled past bright fabrics, glittering bangles, rows of jootis, and tempting food joints on Link road and Bapu bazaar. We sampled some of the savory and sweet snacks and they didn't disappoint. As twilight crept in and shutters started coming down, we said goodbye again. Back at the hotel, we dumped our haul, stretched out, and let the day sink in. Day 8 wasn’t about ticking boxes. It was about people, place, and just enough chaos to keep it real. The good kind of tired followed us into bed."
+    description: "We woke up at 10 AM gloriously rested. No alarms, no agendas, just a slow, soft start to the day. Our Jaipur friends had pulled out all the stops with a homemade local breakfast, and we happily leaned into with chai, all served with warmth and chatter that made the morning fly by. Farewells were warm and unhurried, the kind that linger just a bit longer than planned. With goodbyes said, we headed out for a quick errand, picking up the car to continue our journey. We retreated to our hotel room to cool off and recharge. Jaipur’s heat doesn’t kid around, and the air-conditioned silence was a welcome pause. By late afternoon, another set of friends swept us into the whirl of Jaipur’s old city. The Pink City delivered its usual magic—narrow lanes bursting with color and life. We strolled past bright fabrics, glittering bangles, rows of jootis, and tempting food joints on Link road, Bapu bazaar and Chaura rasta. We sampled some of the savory and sweet snacks and they didn't disappoint. As twilight crept in and shutters started coming down, we said goodbye again. Back at the hotel, we dumped our haul, stretched out, and let the day sink in. Day 8 wasn’t about ticking boxes. It was about people, place, and just enough chaos to keep it real. The good kind of tired followed us into bed."
     highlights:
       - "✅ Lassi, Pani-puri, Ice-cream and Sugarcane juice in Bapu Bazar & Chaura Rasta"
       - "✅ Shopping for Clothes, Bedsheets and other personal/gifting items"
     photos:
-      - image: "/assets/images/leh/day8-jaipur-cardrop.jpg"
-        caption: "Dropping Jeep at Service center for a DEF error review"
+      - image: "/assets/images/leh/day8-jaipur-hotelroom.jpg"
+        caption: "Hotel room, a bit compact for 4"
       - image: "/assets/images/leh/day8-jaipur-panipuri.jpg"
         caption: "Relishing roadside Pani Puri in Bapu Bazaar"
       - image: "/assets/images/leh/day8-jaipur-alberthall.jpg"
@@ -233,7 +234,7 @@ itinerary:
       - name: "Roadside Pani puri, next to Laxmi Chat Bhandar"
         location: "Laxmi Chat Bhandar, Link Road, Jaipur"
         comment: "Delicious Pani Puri and chat"
-    additional_considerations: "A new ring road around Jaipur help us beat city traffic while entering the city. We took that from Sitapura industrial area. Also Good thing about shopping in Jaipur textoriums are that you dont have to worry about the extra luggage you just added to your bags, they will courier it for you"
+    additional_considerations: "If you are shopping in Jaipur, shops are often very comfortable shipping stuff directly back to your home for additional yet reasonable charges. Would recommend asking them to do so instead of you lugging it around. Ask on counter and figure the details out"
 
   - day: 9
     title: "Detours, Dhabas & the Road to Chandigarh"
