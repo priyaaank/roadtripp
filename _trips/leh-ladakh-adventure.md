@@ -370,7 +370,7 @@ itinerary:
       - "✅ Slow day, leisurely stroll and beautilful views" 
       - "✅ Many car washes around city. Done in INR 400"
       - "❌ Don’t blindly trust Google Maps! On our way back from the Stupa, it took us through some really narrow roads that clearly weren’t meant for cars."
-      - "❌ Even if it’s cold outside, avoid setting the AC to a temperature higher than the outside just to feel warm and cozy in a hotel room — you might wake up with a lingering headache and a bit of nausea."
+      - "❌ Using AC as a heater excessively generated dry and hot air. This dehydrates you through the night and you wake up with an headache. Keep temperature comfortable but not excessively warm as well"
     photos:
       - image: "/assets/images/leh/day12-car-unclean.jpg"
         caption: "Getting the car the deserved cleaning after a long drive"
