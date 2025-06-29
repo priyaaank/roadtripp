@@ -242,10 +242,10 @@ itinerary:
     featured_image: "/assets/images/leh/day9-chandigarh-oldpaldabha.jpg"
     description: "We kicked off the day bright and early—bags packed. With Chandigarh on the map and a Noida halt on the cards, we rolled out for another day of highways, and detours. Roughly four to five hours in, we reached Noida to meet extended family. A few hours went by in the comfort of chatter, chai, and catch-up. By late afternoon, it was time to hug it out and get moving again. As dusk crept in, we reached Zirakpur on Chandigarh’s edge and checked into Radisson, our halt for the night. Dinner? Classic Punjabi soul food at the ever-reliable Pal Dhaba. Two kinds of chicken (because restraint is overrated), fresh rotis straight off the tandoor, and flavors that hit all the nostalgic notes. We wrapped things up with a detour to a softy joint nearby. The verdict? Meh. More melt than magic. Back at the hotel, the day caught up with us. and we were all snoozing soon."
     highlights:
-      - "✅ Food was great "
-      - "✅ had a great time, meeting family"
-      - "❌ Stop at The great Khali Dabha was underwhelming. Food was not great, nor was chai"
-      - "❌ Breakfast at Radisson was a bit disappointing. This turned out to be better during return journey"
+      - "✅ Homemade lunch in middle of a roadtrip and a good break"
+      - "✅ Got a chance to catch up family"
+      - "✅ Highway from Jaipur to Noida"
+      - "❌ Stop at The great Khali Dabha on the way was underwhelming. Food was not great, nor was chai"
     photos:
       - image: "/assets/images/leh/day9-chandigarh-greatkhalidabha.jpg"
         caption: "Sampling unimpressive food at the Great Khali Dabha"
@@ -270,7 +270,7 @@ itinerary:
       - name: "Ram Chaat Bhandar and other food joints"
         location: "Ram Chaat Bhandar (Ambala wale), Chandigarh"
         comment: "The whole block is foodie heaven and lot of options available"
-    additional_considerations: "Chandigarh is very well planned as a city. Fairly decent drivers, ample parking and lot of foodie joints. Prefer hotel in Chandigarh rather than Zirakpur"
+    additional_considerations: "There is a better highway from Jaipur to Chandigarh however we took the route via Noida for personal reasons. Lookup a faster route if you are heading to Chandigarh directly. Chandigarh is very well planned as a city. Fairly decent drivers, ample parking and lot of foodie joints. Prefer hotel in Chandigarh rather than Zirakpur"
 
   - day: 10
     title: "Chandigarh to Jispa - Into the Heart of the Himalayas – With a Worry Tucked In"
@@ -281,6 +281,7 @@ itinerary:
       - "✅ Location is very serene facing mountains and a river"
       - "✅ Drive was beautiful. Temprature dropped significantly requiring electric blankets and hoodies"
       - "✅ Met other fellow travellers who were visiting Jispa on a short trip from Mumbai"
+      - "❌ Breakfast at Radisson was a bit disappointing. This turned out to be better during return journey"
       - "❌ Day ending with a DEF error in the car"
       - "❌ Daughter down with gastroenteritis causing nausea and stomach cramps"
     photos:
