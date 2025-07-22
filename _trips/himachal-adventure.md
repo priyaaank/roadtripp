@@ -27,6 +27,172 @@ itinerary:
       rating: 2
       review: "Misleading pictures and misrepresented location by saying that it is near airport. This is in Mahipalpur and not in Aerocity. Budget hotel and lack of hygiene in the bathrooms. Suspicious linen in the room. That being said the rooms themselves were decently large and we did not have to pay for the extra bed. Food, as expected, was bit underwhelming. Do not recommend"
     additional_considerations: "Even if you are looking to stay, look for a hotel in Aerocity and verify location"
+  - day: 2
+    title: "Winding into the Hills - A Golden Welcome in Kasauli"
+    date: "4 May 2025"
+    featured_image: "/assets/images/himachal/day2-sunset2.jpg"
+    description: "We started at around 7 am from our Hotel. Had a quick breakfast and started our road journey. The first halt was at 10 am at Amrik Sukhdev."
+    highlights: 
+      - "✅ A smooth drive to Kasauli with temperature dipping down consistently"
+      - "✅ A fantastic food fare at Amrik Sukhdev"
+      - "✅ A Beautiful sunset in the evening"
+      - "❌ Wildfires in Kasauli introducing uncertainity in Gilbert trail trek"
+    photos:
+      - image: "/assets/images/himachal/day2-amriksukhdevparatha.jpg"
+        caption: "Our first stop on the way Amrik Sukhdev. And their fantastic butter rich tandoori parathas"
+      - image: "/assets/images/himachal/day2-gulabichai.jpg"
+        caption: "Amrik Sukhdev, gulabi chai! Looks more beautiful than it tasted. Maybe we are more traditional when it comes to Chai"
+      - image: "/assets/images/himachal/day2-board.jpg"
+        caption: "Entering Himachal after several hours on the road"
+      - image: "/assets/images/himachal/day2-trektomarket.jpg"
+        caption: "Trekking to the market in Kasauli"
+      - image: "/assets/images/himachal/day2-wildfire.jpg"
+        caption: "Glimpse of ongoing wildfire in Kasauli on the day we reached"
+      - image: "/assets/images/himachal/day2-signage1.jpg"
+        caption: "The Kasauli market is painted with these gems!"
+      - image: "/assets/images/himachal/day2-signage2.jpg"
+        caption: "The Kasauli market is painted with these gems!"
+      - image: "/assets/images/himachal/day2-gilberttrail.jpg"
+        caption: "Evening trek to watch sunset"
+      - image: "/assets/images/himachal/day2-sunset3.jpg"
+        caption: "The amazing sunset views"
+      - image: "/assets/images/himachal/day2-sunset2.jpg"
+        caption: "The amazing sunset views"
+      - image: "/assets/images/himachal/day2-sunset1.jpg"
+        caption: "The amazing sunset views"
+    accommodation:
+      name: "Kasauli Exotica"
+      location: "Kasauli Exotica, Kasauli"
+      rating: 3
+      review: "A small budget hotel with a beautiful location. 15 minutes walk to to the Kasauli Market. A bit of a climb. The rooms were small, food was ok the view was great! The service and value for money made it worth the stay. If you are looking for a value for money stay"
+    places_to_eat:
+      - name: "Amrik Sukhdev"
+        location: "Amrik Sukhdev, Grand Trunk Road"
+        comment: "Famous for their Tandoori Butter Paratha with a much wider selection of fresh fantastic food"
+      - name: "Dochi Pizza"
+        location: "Dochi - Mall Road, Kasauli"
+        comment: "Overcrowded Pizza joint. The reviews were great, we didn't have patience to wait and eat. Went next door and the restaurant was fantastic too! Especially dal tadka!"
+      - name: "Zaika"
+        location: "Dochi - Mall Road, Kasauli"
+        comment: "Next to Dochi pizza. The Indian food was great! Especially dal tadka!"
+    additional_considerations: "Be prepared for a walk across the Market which was on a tarred road uphill and downhill"
+  # - day: 3
+  #   title: "Day 3 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 4
+  #   title: "Day 4 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 5
+  #   title: "Day 5 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 6
+  #   title: "Day 6 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 7
+  #   title: "Day 7 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 8
+  #   title: "Day 8 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 9
+  #   title: "Day 9 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 10
+  #   title: "Day 10 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 11
+  #   title: "Day 11 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 12
+  #   title: "Day 12 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 13
+  #   title: "Day 13 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 14
+  #   title: "Day 14 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
+  # - day: 15
+  #   title: "Day 15 Placeholder"
+  #   date: ""
+  #   featured_image: ""
+  #   description: ""
+  #   highlights: []
+  #   photos: []
+  #   accommodation: {}
+  #   additional_considerations: ""
 
 excerpt: "A soulful 15-day road trip through Himachal’s diverse landscapes and charming villages, serene valleys, and misty mountains—each turn revealing a quieter, more beautiful side of the Himalayas"
 
