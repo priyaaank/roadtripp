@@ -46,7 +46,7 @@ itinerary:
 
   - day: 2
     title: "From Pune with Love, to Mumbai in the Rain"
-    date: "25 May 2023"
+    date: "25 May 2025"
     featured_image: "/assets/images/leh/day2-pune-desert.jpg"
     description: "We started the day in Pune after a much-needed night’s rest. The weather was cool and overcast—perfect for a slow morning. After breakfast at our hotel, we took a short drive around some older parts of the city reminiscing about our time in the city. It was mostly about soaking in the quiet before before meeting extended family in the city. Before leaving town, we stopped for a quick car wash in Hinjewadi and costed us only INR 250. After the long drive from Bangalore the previous day, the car needed a refresh. The drive from Pune to Mumbai was mostly straightforward, except for the expected traffic snarl at the toll plazas. One of them took nearly 45 minutes to cross, which slowed us down quite a bit. As we approached Mumbai, pre-monsoon rain kicked in. Visibility dropped a bit, and traffic got heavier, especially around the outskirts. The roads were manageable, but progress was slow. By early evening, we reached our stop. The plan was to do a 2 day halt in the city and spend time with family. Dinner was simple and homemade, and everyone was tired from the day. We unpacked, got the kids settled, and wrapped up the day quietly. It wasn’t a very long driving day, but it had its share of delays and transitions"
     highlights:
