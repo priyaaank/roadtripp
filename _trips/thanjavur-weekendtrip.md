@@ -1,5 +1,5 @@
 ---
-title: "Weekend trip - Thanjavur & Kumbakonam"
+title: "Road trip - Thanjavur & Kumbakonam"
 date: 15 August 2025
 duration: "3 Days"
 location: "Tamil Nadu, India"
