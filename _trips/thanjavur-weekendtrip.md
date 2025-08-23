@@ -49,7 +49,59 @@ itinerary:
         location: "Sri Mangalambika Vilas Coffee Hotel (Since 1914), Kumbakonam"
         comment: "Famous for their Adai Aviyal, Filter coffee and other local delicacies"
     additional_considerations: "Start early (4:00 - 5:00 AM) to avoid heavy traffic while exiting bangalore especially since road construction is going on (Was under construction at the time of this writing in August 2025)"
-
+  - day: 2
+    title: "Temples, Legends & Living Craft"
+    date: "16 Aug 2025"
+    featured_image: "/assets/images/thanjavur/day2-main-natraja.jpg"
+    description: "We began early, leaving the hotel at 6 am, determined to cover two of the Chola dynasty’s greatest gifts to architecture. 
+    <br/><br/><b>Gangaikonda Cholapuram – The Son’s Masterpiece</b><br/>Our first stop was Brihadisvara Temple at Gangaikonda Cholapuram, built by Rajendra I. History says he wanted to outdo his father, the mighty Rajaraja Chola, who had created the grand temple at Thanjavur. Rajendra’s version, though slightly shorter, is celebrated for its elegance and intricate detailing. The sculpted walls tell stories of gods, warriors, and cosmic legends — each stone almost whispering the ambition of a son to match and surpass his father’s legacy. It is also believed that Rajendra brought water from the sacred Ganga after his northern conquests and poured it into the temple’s tank, earning the place its name, “Gangaikonda Cholapuram” — the city of the Chola who brought the Ganga. <br/><br/><b>Brihadisvara Temple, Thanjavur – The Father’s Icon</b><br/> From there, we rushed to Brihadisvara Temple in Thanjavur, just in time before the gates closed at 12:30 pm. This temple, commissioned by Rajaraja Chola I, is the grander of the two in scale and design. Locals believe the towering vimana (gopuram) is so ingeniously built that its shadow never falls on the ground — a feat that continues to puzzle visitors. Inside, one of the most endearing rituals is the simple act of whispering into the ears of the giant stone Nandi that faces the sanctum. Devotees believe that if Nandi hears your wish, he carries it straight to Lord Shiva. Watching people lean close, murmuring their hopes into stone, was as captivating as the temple’s architecture itself. There are also whispers of secret passages and hidden chambers beneath the temple, some said to store royal treasures or military stockpiles. Though sealed long ago, these legends add a layer of mystery, reminding you that what you see may only be a part of what these temples hold. <br/><br/><b>Lunch & Local Crafts</b><br/> By afternoon, hunger pulled us to Sree Ariya Bhavan in Thanjavur. The thali, though leaning touristy, was still satisfying, a wholesome spread of curries, rice, and sweets. Afterward, we browsed Thanjavur’s famed dancing dolls and brassware, before heading to a small brass factory. Here, artisans demonstrated the centuries-old process of casting idols; making molds, pouring molten metal, cooling, and chiseling the final form. Watching fire, earth, and human skill combine to create sacred icons was humbling. A living craft that still thrives in these temple towns. Evening in Kumbakonam We returned to the resort for a short rest, before heading into Kumbakonam for dinner at Anand Bhavan. The food was simple, not memorable, but after a day spent tracing history, myth, and craft, it hardly mattered."
+    highlights:
+      - "✅ The stories and the architecture associated to the temples"
+      - "✅ Thanjavur dolls and brass idol making tour"
+      - "❌ Crowd at Brihadeshwara Temple - Thanjavur"
+    photos:
+      - image: "/assets/images/thanjavur/braheeshwara-cholagangaikota.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-cholagangaikota2.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-cholagangaikota3.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-cholagangaikota4.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-cholagangaikota-nandi.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-thanjavur.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-thanjavur2.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-thanjavur3.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/braheeshwara-thanjavur4.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/food-thali.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/museum.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/flower-widepot.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/mould.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/moulding-model.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/out-of-mould.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/bronze-statues.jpg"
+        caption: ""
+    accommodation:
+      name: "Indeco"
+      location: "Indeco, Swamimalai"
+      rating: 4
+      review: "A unique blend between traditional and modern. Equipped with history, essential comforts and yet taking an approach of more traditional setting by evolving villages into a modern day resort generating local employment and livlihood on multiple fronts"
+    places_to_eat:
+      - name: "Sree Ariya Bhavan (Authentic Veg - Since 1964)"
+        location: "Sree Ariya Bhavan (Authentic Veg - Since 1964) Near Junction, Thanjavur"
+        comment: "A good thali for tourist along with mix of local cuisines. The coconut based sweet dish and the corriander soup were fantastic among other delicacies. It can be tried, and it is not too far away from the Thanjavur temple. A quick 10 minutes auto ride should get you there. We recommend this as the pit stop for lunch before you continue exploring"
+    additional_considerations: "While Brihadeshwara temple in gangaikonda cholapuram remains open through the day, the Brihadeshwara temple in Thanjavur closes at 12:30 pm and reopens in evening. Plan your temple visit accordingly. The Thanjavur temple is also lot more crowded and it is suggested you do it earlier to beat the crowd"
 
 ---
 
