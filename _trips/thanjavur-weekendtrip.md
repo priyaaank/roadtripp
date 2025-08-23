@@ -99,9 +99,55 @@ itinerary:
       review: "A unique blend between traditional and modern. Equipped with history, essential comforts and yet taking an approach of more traditional setting by evolving villages into a modern day resort generating local employment and livlihood on multiple fronts"
     places_to_eat:
       - name: "Sree Ariya Bhavan (Authentic Veg - Since 1964)"
-        location: "Sree Ariya Bhavan (Authentic Veg - Since 1964) Near Junction, Thanjavur"
+        location: "Sree Ariya Bhavan (Authentic Veg - Since 1964) Near Junction, Plot 2981 Gandhiji road, Thanjavur"
         comment: "A good thali for tourist along with mix of local cuisines. The coconut based sweet dish and the corriander soup were fantastic among other delicacies. It can be tried, and it is not too far away from the Thanjavur temple. A quick 10 minutes auto ride should get you there. We recommend this as the pit stop for lunch before you continue exploring"
     additional_considerations: "While Brihadeshwara temple in gangaikonda cholapuram remains open through the day, the Brihadeshwara temple in Thanjavur closes at 12:30 pm and reopens in evening. Plan your temple visit accordingly. The Thanjavur temple is also lot more crowded and it is suggested you do it earlier to beat the crowd"
+  - day: 3
+    title: "Temples, Tales & The Journey Home"
+    date: "17 Aug 2025"
+    featured_image: "/assets/images/thanjavur/day3-adiyogi.jpg"
+    description: "We began our final day a little later than usual, setting out around 9:30 am. Our first stop was the stunning <b>Airavatesvara Temple</b> at Darasuram, a true gem of Chola architecture. Built over nearly three decades — first the main structure, then years of intricate carvings — the temple feels like a storybook in stone.<br/><br/>The complex has <b>108 exquisitely carved pillars</b>, each telling a tale. Some depict the wedding of Shiva and Parvati, while eight unique ones feature mystical male and female beasts. Curiously, only one beast has an unlooped tail, found near the exit — a subtle detail that perhaps signified the path out of the temple.<br/><br/> The craftsmanship here is extraordinary. Many statues are carved in black stone, allowing for incredible detailing, right down to the fingernails. The guides say that if you close your eyes and run your fingers over them, the nails feel astonishingly real. The temple also carries traces of the everyday life of its builders — like small circles etched into the floor where oil lamps were once placed, their reflection in water puddles used to create light without overheating the lamps.<br/><br/> Behind the temple is one of its most striking sculptures — a panel showing <b>Shiva settling the famous debate between Brahma and Vishnu</b>. As legend goes, Brahma and Vishnu once argued over who was supreme. To test them, Shiva transformed into a boundless pillar of light and asked each to find its beginning or end. Vishnu, as a boar, burrowed deep into the earth but found no end; he returned humbled, admitting defeat. Brahma, as a swan, claimed he had reached the top, offering a flower as false proof. Shiva, angered by the lie, cursed Brahma so he would have few temples in his name — indeed, the only major one today is at Pushkar. Vishnu, rewarded for his honesty, continues to be worshipped far and wide. Standing before this carving, the story felt alive, etched not just in stone but in time.<br/><br/>The temple also hides one of the earliest examples of an <b>optical illusion</b> in art: a carving that appears to be both a bull and an elephant, depending on how you look at it. A small reminder of how Chola artisans blended devotion with playful genius.<br/><br/>From there, we moved on to a lesser-known temple, modest in appearance but with a tale that reaches back to the <b>Mahabharata</b>. It is said that here, on Krishna’s request, Ganesha tied the bowstring of Arjuna’s bow before the great war. The temple tank is shaped like a bow, and outside the main shrine stands a smaller stone carving of Ganesha tying the string. Though the temple is poorly maintained and under shabby renovation, the mythology wrapped around it gave the place an unpolished but memorable charm.<br/><br/>By early afternoon, it was time to turn back. We chose the Salem route for a smoother drive, though the stretch from Krishnagiri onward tested our patience with traffic jams. After nearly 8–9 hours on the road, we finally reached Bangalore around 8 pm, tired but carrying with us three days’ worth of temples, stories, and memories that stitched the Chola dynasty’s grandeur into our own little journey."
+    highlights:
+      - "✅ The stories, carvings at Airavatesvara temple"
+      - "✅ The historic story and temple with Ganesh stringing & bending a bow"
+      - "❌ Traffic post Krishnagiri and near Bengaluru"
+    photos:
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple1.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple2.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple3.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple4.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple5.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple6.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple7.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple8.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple9.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-airateshwara-temple10.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-lunch-pit-spot.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-old-artifacts.jpg"
+        caption: ""
+      - image: "/assets/images/thanjavur/day3-temple-tank.jpg"
+        caption: ""
+    accommodation:
+      name: "Indeco"
+      location: "Indeco, Swamimalai"
+      rating: 4
+      review: "A unique blend between traditional and modern. Equipped with history, essential comforts and yet taking an approach of more traditional setting by evolving villages into a modern day resort generating local employment and livlihood on multiple fronts"
+    places_to_eat:
+      - name: ""
+        location: "Adyar Ananda Bhavan - A2B, Thulakanoor village Attur, Salem Tamil Nadu"
+        comment: "A pit stop near Salem with A2B and bunch of other options for food. Food all around was just average. But if you are looking for choices this might be an option"
+    additional_considerations: "Get a guide at Airavatesvara temple to hear interesting stories. It costed us INR 400 for an hour or so. It was totally worth it"
 
 ---
 
