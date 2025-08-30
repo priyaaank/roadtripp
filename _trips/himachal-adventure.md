@@ -10,7 +10,7 @@ itinerary:
     title: "Hopping over to the North India - Bengaluru to New Delhi"
     date: "3 May 2024"
     featured_image: "/assets/images/himachal/day1-flight.jpg"
-    description: "We kicked off our adventure on a Friday, flying from Bengaluru to Delhi. The plan was simple: land in Delhi at night, stay overnight, pick up our rental car, and hit the road early the next morning. We left for the airport around 2:30 pm, carrying a fair bit of luggage, including a child seat to make the long road trip more comfortable for our younger one. Thankfully, IndiGo allowed it as an extra item without any hassle. The flight was smooth. We kept the kids fed and entertained, and landed in Delhi around 11:00 pm. Our hotel, however, was a disappointment. The listing had made it seem like it was in Aerocity, but it turned out to be in Mahipalpur, in a dingy part of town. Still, since it was just a night halt, we let it slide. We settled in, ordered some forgettable food, and got ready to call it a night. Meanwhile, I headed out to pick up our rental car from RBTS. We had originally booked a Hyundai Exter but were given a Suzuki Fronx instead, same segment and also automatic, so no complaints. Given the late hour, I appreciated that someone was available for the handover. The car was fairly new, with about 22,000 km on the odometer. Apart from a few minor quirks, everything looked good. The RBTS team was helpful when I had some questions. I got back to the hotel, and we all went to bed, ready to begin our road trip bright and early the next morning between 6–7 am"
+    description: "We kicked off our adventure on a Friday, flying from Bengaluru to Delhi. The plan was simple: land in Delhi at night, stay overnight, pick up our rental car, and hit the road early the next morning. We left for the airport around 2:30 pm, carrying a fair bit of luggage, including a child seat to make the long road trip more comfortable for our younger one. Thankfully, IndiGo allowed it as an extra item without any hassle. The flight was smooth. We kept the kids fed and entertained, and landed in Delhi around 11:00 pm. Our hotel, however, was a disappointment. The listing had made it seem like it was in Aerocity, but it turned out to be in Mahipalpur, in a dingy part of town. Still, since it was just a night halt, we let it slide. We settled in, ordered some forgettable food, and got ready to call it a night. Meanwhile, I headed out to pick up our rental car from RBTS. We had originally booked a Hyundai Exter but were given a Suzuki Fronx instead, same segment and also automatic, so no complaints. Given the late hour, I appreciated that someone was available for the handover. The car was fairly new, with about 22,000 km on the odometer. Apart from a few minor quirks, everything looked good. The RBTS team was helpful when I had some questions. I got back to the hotel, and we all went to bed, ready to begin our road trip bright and early the next morning between 6–7 am<br/><br/>BTW, We would highly recommend <a href='https://www.rbtsselfdrive.com/' target='_new'>RBTS self drive</a> car rental service. They have new cars and a wide variety of range. The support and service is fantastic. "
     highlights:
       - "✅ Rains and pleasant weather"
       - "✅ Seamless car pickup with RBTS"
@@ -26,12 +26,12 @@ itinerary:
       location: Hotel Almati Inn by R S Global
       rating: 2
       review: "Misleading pictures and misrepresented location by saying that it is near airport. This is in Mahipalpur and not in Aerocity. Budget hotel and lack of hygiene in the bathrooms. Suspicious linen in the room. That being said the rooms themselves were decently large and we did not have to pay for the extra bed. Food, as expected, was bit underwhelming. Do not recommend"
-    additional_considerations: "Even if you are looking to stay, look for a hotel in Aerocity and verify location"
+    additional_considerations: "We would highly recommend RBTS self drive car rental service. They have new cars and a wide variety of range. The support and service is fantastic. Even if you are looking to stay, look for a hotel in Aerocity and verify location"
   - day: 2
     title: "Winding into the Hills - A Golden Welcome in Kasauli"
     date: "4 May 2025"
     featured_image: "/assets/images/himachal/day2-sunset2.jpg"
-    description: "We started at around 7 am from our Hotel. Had a quick breakfast and started our road journey. The first halt was at 10 am at Amrik Sukhdev."
+    description: "We kicked off Day 2 bright and early, leaving the hotel around 7 am. After sorting out a few small car niggles, we hit the highway with empty stomachs and eager faces. A late breakfast stop at the iconic Amrik Sukhdev in Murthal was just what we needed—hot tandoor chai and their famous tandoori parathas were so good that we couldn’t stop at just one. Let’s just say the carb-load was real! 🍵🥘 From there, the drive was smooth and scenic, about seven hours in total with breaks. The route took us past Panipat, Ambala, and Zirakpur near Chandigarh before the landscape began to change. After crossing Parwanoo, the wide highways gave way to gentle curves and pine-scented air—the first signs that we were truly in the hills. We even spotted rivers along the way, making the drive all the more enjoyable. By around 3:45 pm, we rolled into Kasauli. After checking into our hotel and settling in, we took a leisurely stroll through the town and into the cantonment area. Due to a forest fire in the nearby jungles, the treks were closed, but that didn’t stop us from catching a gorgeous sunset over the hills. The day wrapped up with a comforting dinner and an early night, our tired bodies happy to finally be in the mountains."
     highlights: 
       - "✅ A smooth drive to Kasauli with temperature dipping down consistently"
       - "✅ A fantastic food fare at Amrik Sukhdev"
@@ -75,7 +75,7 @@ itinerary:
       - name: "Zaika"
         location: "Dochi - Mall Road, Kasauli"
         comment: "Next to Dochi pizza. The Indian food was great! Especially dal tadka!"
-    additional_considerations: "Be prepared for a walk across the Market which was on a tarred road uphill and downhill"
+    additional_considerations: "Be prepared for a walk across the Market which was on a tarred road uphill and downhill. Evenings in Kasauli can get chilly, so a light jacket is handy. Forest fires can sometimes close off treks—have a backup plan like a town walk or sunset spot"
   - day: 3
     title: "Day 3: Cantonment Tales, Korean Flavours & a Sunset Walk"
     date: "5 May 2024"
@@ -108,6 +108,10 @@ itinerary:
       location: "Kasauli Exotica, Kasauli"
       rating: 3
       review: "A small budget hotel with a beautiful location. 15 minutes walk to to the Kasauli Market. A bit of a climb. The rooms were small, food was ok the view was great! The service and value for money made it worth the stay. If you are looking for a value for money stay"
+    places_to_eat:
+      - name: "Taste Of Tibet"
+        location: "Taste Of Tibet, Near Christ Church, Kasauli"
+        comment: "Great Korean and Tibetian food. Will recommend Bibimbap & Thupka"
     additional_considerations: "Subathu is best explored on foot, so keep it light and short if travelling with kids. Gilbert Trail isn’t stroller-friendly—it’s narrow and uneven, so younger kids will need a handholding walk. Carry a light jacket and a torch for the trail if you plan to stay till sunset—the path gets dark quickly once the sun dips."
   - day: 4
     title: "Day 4: Yaks, Hidden Cafés & the Thrill of Hatu Peak"
