@@ -76,15 +76,39 @@ itinerary:
         location: "Dochi - Mall Road, Kasauli"
         comment: "Next to Dochi pizza. The Indian food was great! Especially dal tadka!"
     additional_considerations: "Be prepared for a walk across the Market which was on a tarred road uphill and downhill"
-  # - day: 3
-  #   title: "Day 3 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
+  - day: 3
+    title: "Day 3: Cantonment Tales, Korean Flavours & a Sunset Walk"
+    date: "5 May 2024"
+    featured_image: "/assets/images/himachal/day3-main.jpg"
+    description: "Our Day 3 began with a short drive from Kasauli to <b>Subathu</b>, a quiet little cantonment town just about an hour away. Subathu has quite a history—during the <b>Anglo-Nepalese War</b> in the early 1800s, it played a key role, and today it is home to the <b>1st and 4th Gorkha Rifles</b> of the Indian Army. We strolled around the cantonment, soaking in the calm streets and military vibe, before heading back to Kasauli. </br></br> Back in town, we stopped by the <b>Church of England</b> near Mall Road, a reminder of the colonial past tucked into the hills. For lunch, we switched gears and tried something unexpected—a Korean restaurant! The bibimbap was colourful, authentic, and surprisingly comforting, a nice change from the usual hill food. </br></br> By early evening, it was time for our much-awaited walk along the <b>Gilbert Trail</b>. This narrow 2 km stretch winds along the hillside and is known for its lovely views. True to its reputation, the trail rewarded us with a spectacular <b>sunset over the valleys</b>, the kind you pause to remember. As the light faded, we traced our steps back, reading the names of martyrs on the memorial boards along the cantonment road—a quiet, reflective end to the walk. </br> </br> Dinner was a simple affair that night, as our tired legs were eager for rest. We tucked ourselves in, ready to recharge for the adventures waiting on Day 4"
+    highlights: 
+      - "✅ Gilbert trail - A beautiful short trek with splendid sunset views"
+      - "✅ The Korean lunch - Near the church"
+    photos:
+      - image: "/assets/images/himachal/day3-subathu-crane.jpg"
+        caption: "Snapshotting outsleves with an idle crane on the roadside"
+      - image: "/assets/images/himachal/day3-church-sundial.jpg"
+        caption: "An old installation of the sundial at the Church of England"
+      - image: "/assets/images/himachal/day3-church.jpg"
+        caption: "Church of England - Near Mall road Kasauli"
+      - image: "/assets/images/himachal/day3-korean-menu.jpg"
+        caption: "The Korean menu for lunch"
+      - image: "/assets/images/himachal/day3-bibimbap.jpg"
+        caption: "The authentic looking delicious Bibimbap"
+      - image: "/assets/images/himachal/day3-wildfire.jpg"
+        caption: "The wildfire in the mountains that were moving around"
+      - image: "/assets/images/himachal/day3-tek.jpg"
+        caption: "Gilbert trail trek"
+      - image: "/assets/images/himachal/day3-trek3.jpg"
+        caption: "Gilbert trail trek"
+      - image: "/assets/images/himachal/day3-sunset.jpg"
+        caption: "The beautiful sunset from the Gilbert trail"
+    accommodation:
+      name: "Kasauli Exotica"
+      location: "Kasauli Exotica, Kasauli"
+      rating: 3
+      review: "A small budget hotel with a beautiful location. 15 minutes walk to to the Kasauli Market. A bit of a climb. The rooms were small, food was ok the view was great! The service and value for money made it worth the stay. If you are looking for a value for money stay"
+    additional_considerations: "Subathu is best explored on foot, so keep it light and short if travelling with kids. Gilbert Trail isn’t stroller-friendly—it’s narrow and uneven, so younger kids will need a handholding walk. Carry a light jacket and a torch for the trail if you plan to stay till sunset—the path gets dark quickly once the sun dips."
   # - day: 4
   #   title: "Day 4 Placeholder"
   #   date: ""
