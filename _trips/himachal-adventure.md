@@ -109,15 +109,49 @@ itinerary:
       rating: 3
       review: "A small budget hotel with a beautiful location. 15 minutes walk to to the Kasauli Market. A bit of a climb. The rooms were small, food was ok the view was great! The service and value for money made it worth the stay. If you are looking for a value for money stay"
     additional_considerations: "Subathu is best explored on foot, so keep it light and short if travelling with kids. Gilbert Trail isn’t stroller-friendly—it’s narrow and uneven, so younger kids will need a handholding walk. Carry a light jacket and a torch for the trail if you plan to stay till sunset—the path gets dark quickly once the sun dips."
-  # - day: 4
-  #   title: "Day 4 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
+  - day: 4
+    title: "Day 4: Yaks, Hidden Cafés & the Thrill of Hatu Peak"
+    date: "6 May 2025"
+    featured_image: "/assets/images/himachal/day4-main.jpg"
+    description: "We started Day 4 on a relaxed note, leaving Kasauli around 10 am. The plan was simple—an easy 4–5 hour drive with a stop at Hatu Peak before reaching Thanedar. About two hours into the journey, we pulled over at a tea point where locals had brought along yaks for photos and colourful costumes for kids. Naturally, our little ones were excited to try both, and we happily joined in. It turned into an impromptu roadside photoshoot with tea in hand, against the backdrop of the scenic drive. The road through Shimla (<i>we have been to Shimla before and since we felt it was too commercial for us, it was not part of our itinerary</i>) and Kufri kept us entertained with its sweeping views. Just before Kufri, we made a quick photo stop before continuing on. For lunch, we stumbled upon a gem—Khadu Café near Nanni village in Matiana. With its rustic charm, local flavours, and freshly cooked food, this was easily one of the best food finds of our entire trip. The highlights? Sweet and savoury sattu, pahadi aloo, kadhi chawal, rajma chawal, and a soul-warming lemon-ginger-honey tea. Everything was authentic and bursting with flavour—we’d go back just for this! Post-lunch, we drove towards Hatu Peak. At the base, locals advised us to hire a driver for the narrow, steep climb with its deep gorges on either side. But we decided to take it on ourselves. They weren’t wrong—the single-lane mountain road was tricky and thrilling, with only one tight spot where another vehicle had to help us pass. Still, with some prior mountain driving experience, we managed fine and reached the top in about 45 minutes. The peak welcomed us with chilly winds, stunning views, and the serene Hatu Mata Temple. Just as we soaked it all in, the clouds rolled over and light rain began, adding to the magic. The descent took around an hour, and with a sense of accomplishment, we continued our drive. By 5 pm, we reached Banjara Resort in Thanedar, set amidst beautiful apple and orange orchards. The weather was cool, so sweaters and sweatshirts came out. The rooms were cozy with electric blankets—a small luxury that felt just right for the evening chill. After exploring the property and watching the sunset right from our room, we enjoyed a simple but fresh dinner at the resort’s restaurant. Tired yet content, we ended the day snuggled up in our warm beds."
+    highlights:
+      - "✅ Drive to and from Hatu Peak"
+      - "✅ Food at Kadhu Cafe - Rajma Chawal, Kadi Chawal and Sattu"
+      - "✅ Sunset at Banjara Orchards, Thanedar"
+      - "❌ Traffic as we passed through Shimla, since we started late"
+    photos:
+      - image: "/assets/images/himachal/day4-yak.jpg"
+        caption: "Kids posing with poor yaks who are often exploited for such touristy things"
+      - image: "/assets/images/himachal/day4-costumes.jpg"
+        caption: "Excited to try local costumes. As you can see, the son wants what the sister gets. Nothing less, nothing more"
+      - image: "/assets/images/himachal/day4-restaurant.jpg"
+        caption: "Khadu Cafe - A fantastic setting and a view"
+      - image: "/assets/images/himachal/day4-sattu.jpg"
+        caption: "The amazing sweet and savory sattu"
+      - image: "/assets/images/himachal/day4-kadichawal.jpg"
+        caption: "Pahadi aalo with Rajma, Kadi and Chawal. Just yum!"
+      - image: "/assets/images/himachal/day4-lemontea.jpg"
+        caption: "A fantastic and authentic Honey, Lemon and Ginger tea. Super refreshing"
+      - image: "/assets/images/himachal/day4-hatupeak.jpg"
+        caption: "The Hatu Peak at 11,000 ft"
+      - image: "/assets/images/himachal/day4-hatupeaK2.jpg"
+        caption: "Posing with the beautiful views in the backdrop"
+      - image: "/assets/images/himachal/day4-hatuamata.jpg"
+        caption: "The unique hatu mata temple made from local wood and uncommon structure"
+      - image: "/assets/images/himachal/day4-sunset.jpg"
+        caption: "Sunset from the Stay at the Thanedar property"
+      - image: "/assets/images/himachal/day4-thanedarrestaurant.jpg"
+        caption: "View from the property restaurant"
+    accommodation:
+      name: "Banjara Orchard Retreat, Thanedar"
+      location: "Banjara Orchard Retreat, Thanedar"
+      rating: 4
+      review: "A quiet and peaceful stay with cottages and rooms on ground and first floors. Lot of open spaces, great service, and decent availability of the food. Worth for a stay for a day as a mid-stop for a longer journey. Alternatively, they may be able to arrange exploration and treks nearby if the goal is to stay longer and just relax in the lap of nature. They have an huge Orange Orchard to explore. Overall, value for money and great service. Highly recommended"
+    places_to_eat:
+      - name: "Khadu Cafe"
+        location: "Khadu Cafe, Nanni village, Himachal Pradesh"
+        comment: "Amazing local delicacies. Especially Sattu, Kadi and Rajama Chawal"
+    additional_considerations: "The Hatu Peak drive is not for first-time mountain drivers. If you’re not confident, it’s better to hire a local driver for the climb. Carry warm clothes—the weather at the top and in Thanedar can get chilly, even in summer. The roads are good and drive is generally relaxing. You can plan a halt at Shimla if it makes sense for you"
   # - day: 5
   #   title: "Day 5 Placeholder"
   #   date: ""
