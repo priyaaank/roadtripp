@@ -159,7 +159,7 @@ itinerary:
   - day: 5
     title: "Lakes, Cherries & the Road to Jibhi"
     date: "7 May 2025"
-    featured_image: "/assets/images/himachal/day4-main.jpg"
+    featured_image: "/assets/images/himachal/day5-main.jpg"
     description: "Day 5 turned out to be a feast for the eyes. We began with a slow morning stroll around our stay in Thanedar, exploring its step farming and fruit orchards before setting out at 9:30 am. Our first stop was the beautiful Tani Jubbar Lake, just a short drive away. Nestled among tall fir trees, the lake shimmered under the morning sun. A gentle walk around its shaded banks, with the crisp air and soft warmth of the sun, felt like the perfect start to the day.<br/> <br/>Soon, we were back on the road towards Jibhi, our destination for the night. A road accident caused a long jam, but it turned into a happy accident for us—we spotted roadside cherry trees heavy with fruit, and the kind owner let us pluck a few. They were easily the freshest and sweetest cherries we’ve ever tasted 🍒. By the time traffic cleared 30–45 minutes later, we were back to winding through mountain roads.<br/> <br/>Not long after, the Sutlej River appeared near Rhena and stayed with us for much of the journey. At one spot, we pulled over to dip our feet into its icy-cold waters ❄️—a small but blissful break. For lunch, we stopped at a cozy café called Rustic Shoja. The food was hearty and tasty, and though service was on the slower side, we didn’t mind—it had a relaxed vibe with board games to keep us entertained, and Jibhi was just half an hour away.<br/> <br/>Before checking into our stay, we made a quick stop at the Jibhi Waterfall. Tucked inside a green pocket, the waterfall was small but charming, surrounded by peaceful forest. The kids were thrilled to buy quirky roadside caps—one shaped like a mushroom head! From there, we drove to our stay, Misty Wild Homes, located just outside Jibhi. Getting there was an adventure in itself—crossing a shallow river bed and a rocky path over a low bridge. The property had simple rooms and basic amenities, but the setting made up for it. Dinner was an easy Maggie night 🍜, followed by hot baths to fight the evening chill. We tucked in early, tired but happy after a day filled with lakes, rivers, cherries, and mountain views."
     highlights:
       - "✅ Feet dippig in Sutlej and the beautiful drive along the river"
@@ -183,8 +183,6 @@ itinerary:
         caption: "Taking a impromptu break on the banks of Sutlej"
       - image: "/assets/images/himachal/day5-lunch-stop.jpg"
         caption: "The Rustic Shoja restaurant we picked for lunch"
-      - image: "/assets/images/himachal/day5-lush-green-mountains.jpg"
-        caption: "Greenry as seen from The rustic Shoja as our midway stops"
       - image: "/assets/images/himachal/day5-lush-green-2.jpg"
         caption: "Love the fact that all mountains are covered in lush green trees"
       - image: "/assets/images/himachal/day5-jibhi-waterfall.jpg"
