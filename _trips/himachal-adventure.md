@@ -259,15 +259,35 @@ itinerary:
         location: "Trishla Resorts, Pekhri, Himachal Pradesh 175123"
         comment: "A lot of restaurants and resorts are lined up next to the Tirthan river however we stopped here. Nothing outstanding except the location and friendly staff. I am sure there are equally good or better options in this area. However you can pause and enjoy the beauty around"
     additional_considerations: "Start early for Serolsar Lake—you’ll avoid the crowds and enjoy the peace. Carry water and light snacks—the shacks along the trail are not always open. The detour to the Himalayan viewpoint is steep—worth it if kids have the energy. The Tirthan Valley riverbank is perfect for an evening tea stop—carry a shawl or jacket, the chill sets in quickly. Total trek is about 10 km round trip, so plan breaks for younger kids and wear good walking shoes"
-  # - day: 7
-  #   title: "Day 7 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
+  - day: 7
+    title: "Meadows, Rivers & Arrival in Manali"
+    date: "9 May 2025"
+    featured_image: "/assets/images/himachal/day7-main.jpg"
+    description: "We began Day 7 around 9 am with a homely breakfast at our Jibhi stay. The couple who ran the kitchen whipped up hot parathas, bread and butter, all cooked on a traditional coal heater that doubled as a stove. The food was simple but lip-smacking, and sitting on the kitchen floor while they served us felt like an authentic mountain experience.<br/><br/>Our plan for the day was to reach Manali, with a detour to Shangarh Meadow. The road up was under heavy construction, making the climb a bit bumpy and slow. But when we finally reached, the meadow was worth it—green, open, and paired with perfect weather. A small temple stood there, though it was closed when we arrived. With makeshift toilets available near the parking (keys obtained in exchange for a packet of biscuits from the shop outside!), and the peaceful surroundings, it felt like a good mid-way break. After about 90 minutes of soaking it all in, we continued our journey.<br/><br/>The drive onwards was every bit as scenic as the rest of Himachal. We traced the Tirthan and Beas rivers, stopping at Kullu to watch the rafting action on the gushing waters. A roadside meal followed—not extraordinary in taste, but served with stunning views that made it worthwhile. From Kullu, the climb to Manali began, and by 6 pm, we rolled into town.<br/><br/>As expected, a bit of traffic greeted us on entry, but the real surprise was the drop in temperature. The view from our hotel was a treat too—the first time we saw snow-capped peaks looming so close. We stayed at Montana Blues Resort by Snow City, a value stay with spacious, clean rooms, mountain views, and a cozy vibe, tucked slightly inside the city. That evening, the hotel hosted a bonfire, which felt perfect in the chilly air. Dinner was light, and the humble khichdi stood out in its comfort. With travel, detours, and meadows behind us, we happily called it a night in Manali"
+    highlights:
+      - "✅ River views along the way. Water with changing colors that keeps you motivated on the roadtrip"
+      - "✅ Shangarh meadow paired with the weather that wasn't too sunny"
+      - "✅ Ice capped mountain views in Manali were beautiful"
+      - "❌ The road to climb up to the Shangarh meadow"
+    photos:
+      - image: "/assets/images/himachal/day7-kullu-river.jpg"
+        caption: "The pause at Kullu to admire the river and rafting views"
+      - image: "/assets/images/himachal/day7-meadow2.jpg"
+        caption: "The views at Shangarh meadow"
+      - image: "/assets/images/himachal/day7-meadow3.jpg"
+        caption: "The views at Shangarh meadow"
+      - image: "/assets/images/himachal/day7-meadow.jpg"
+        caption: "The views of viewers at Shangarh meadow"
+      - image: "/assets/images/himachal/day7-mountains.jpg"
+        caption: "Views of the mountain from the hotel"
+      - image: "/assets/images/himachal/day7-waterfall.jpg"
+        caption: "A waterfall that we chanced upon along the way, near a hyrdroelectic power plant"
+    accommodation:
+      name: "Montana Blues Resort by Snow City"
+      location: "Montana Blues Resort by Snow City, Manali"
+      rating: 4
+      review: "The hotel was a budget hotel that was relatively new, nicely done, organized, clean and with big rooms. The views from the rooms were nice and overlooking mountains. The restaurant was small but had fresh and good food. We had tandoori chicken and khichdi and it was both nice and fresh. The service was uneventful. We fell sick in the hotel during our trip because of something we ate outside and they offered they have a doctor on call if we need. Overall will recommend"
+    additional_considerations: "Sangharh Meadow is lovely but the road can be rough—keep extra time in hand. Carry snacks and water, as facilities around the meadow are limited.Temperatures in Manali dip suddenly—keep jackets handy even if the day starts warm"
   # - day: 8
   #   title: "Day 8 Placeholder"
   #   date: ""
