@@ -294,10 +294,11 @@ itinerary:
     featured_image: "/assets/images/himachal/day8-main.jpg"
     description: "The day began on a high note with breathtaking mountain views from our hotel’s restaurant. Excited for our first real encounter with snow, we planned a trip to Sissu. None of us had ever experienced snow up close, so spirits were high as we set out. Along the way, we realized snow isn’t all fun without the right gear—boots and snow clothes were a must to avoid getting drenched in slush.<br/><br/>On the drive, we stumbled upon a zipline setup. Safety standards looked questionable at best, but we decided to take a leap of faith. Suspended over the valley, the view was thrilling, and thankfully, we landed safely, hearts racing but smiling.<br/><br/>Soon, the road took us to the Atal Tunnel, an engineering marvel stretching over 10 km. Just before the tunnel, the area was buzzing with touristy adventure sports—yak rides, quad bikes, and crowds everywhere. Overwhelmed, we didn’t stop and drove straight through. The tunnel itself was impressive—well built, well managed—and once out, the landscapes opened up into spectacular views. We stopped briefly near a water body for photos, but parking chaos after the tunnel made things tricky.<br/><br/>At Sissu, our snow experience was far from picture-perfect. The area was packed with tourists, the sun was blazing, and the snow was mostly muddy and slushy. Within minutes, we were wet, uncomfortable, and even a little sunburnt from the glare. Disappointed but wiser, we turned back and stopped at a riverside restaurant near the Beas River for lunch. The food was good, but long waits and high prices were reminders of peak-season crowds.<br/><br/>In the afternoon, we trekked to Jogini Waterfall. The approach was narrow, and the trek itself was steeper than expected. Lined with small shops (some openly selling hash brownies and cannabis edibles), it had its quirks. The waterfall, though underwhelming, did offer a refreshing spray and nice valley views. Sadly, litter and crowds dulled the charm. On the way back, we stopped at a small temple and hot springs, but again, it was overly crowded.<br/><br/>Back at the hotel, I managed to sneak out and get the car washed for ₹500 while the family enjoyed a bonfire. We regrouped for dinner, warmed ourselves around the fire, and called it a night. Day 8 had been long, tiring, and a bit messy, but it left us with stories and lessons—sometimes snow looks better from afar!"
     highlights:
-      - "✅ River views along the way. Water with changing colors that keeps you motivated on the roadtrip"
-      - "✅ Shangarh meadow paired with the weather that wasn't too sunny"
-      - "✅ Ice capped mountain views in Manali were beautiful"
-      - "❌ The road to climb up to the Shangarh meadow"
+      - "✅ The zipline and the breakfast"
+      - "✅ The marvelous drive through Atal Tunnel and the pictureseque landscape right after. Pause and click pictures at a good spot"
+      - "❌ The overall snow experience. It was quite a let down. Slush and poor quality gear made it sub-optimal"
+      - "❌ Sunburnt with harsh sun and reflecting snow"
+      - "❌ Overly crowded Manali. Made everything less enjoyable, especially with constant littering and hustle. Felt rushed everywhere"
     photos:
       - image: "/assets/images/himachal/day8-breakfastview.jpg"
         caption: "The view from the restaurant of the hotel during breakfast"
@@ -328,7 +329,11 @@ itinerary:
       location: "Montana Blues Resort by Snow City, Manali"
       rating: 4
       review: "The hotel was a budget hotel that was relatively new, nicely done, organized, clean and with big rooms. The views from the rooms were nice and overlooking mountains. The restaurant was small but had fresh and good food. We had tandoori chicken and khichdi and it was both nice and fresh. The service was uneventful. We fell sick in the hotel during our trip because of something we ate outside and they offered they have a doctor on call if we need. Overall will recommend"
-    additional_considerations: "Sangharh Meadow is lovely but the road can be rough—keep extra time in hand. Carry snacks and water, as facilities around the meadow are limited.Temperatures in Manali dip suddenly—keep jackets handy even if the day starts warm"
+    places_to_eat:
+      - name: "Cafe 1947"
+        location: "Cafe 1947, Manali"
+        comment: "Food was good. The view from the outside seating was fantastic, however the seating with the view had a minimum bill requirement. The place was overcrowded and the service was slow and a bit cold. Overall for nice views and food can be visited but be ready to wait longer"
+    additional_considerations: "Snow trips in Sissu need proper gear—rent boots and snow clothes in Manali before heading out. Crowds and slushy snow can be disappointing—manage expectations, especially with kids.  Jogini Waterfall trek is steep and not stroller/kid-friendly—plan accordingly. Carry and apply enough sunscreen and sunglasses—the sun on snow can be harsher than you think"
   # - day: 9
   #   title: "Day 9 Placeholder"
   #   date: ""
