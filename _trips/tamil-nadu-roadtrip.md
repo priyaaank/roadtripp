@@ -246,7 +246,7 @@ itinerary:
   - day: 7
     title: "The Long Drive Home"
     featured_image: "/assets/images/tamil-nadu/day7-drive.jpg"
-    description: "The final day of our trip was all about the journey back from Tranquebar to Bangalore. We packed up and were ready by 8:30 am, finished breakfast by 9:15, and hit the road shortly after. The drive was smooth and uneventful—about eight hours in total. With clear roads and light traffic, especially on the stretch through Salem, we made good time.<br/><br/>Since breakfast had been heavy, we skipped lunch until later in the day, finally stopping at Saravana Bhavan in Krishnagiri for a quick meal. By 4:30 pm, we were back home—tired but content.<br/><br/>The rest of the evening was spent unpacking, unwinding, and doing what every traveler does at the end of a good vacation—reluctantly admitting it’s over. This was our second big trip of 2025, and as we sat at home reminiscing about the beaches, forts, and Chettinad mansions, we couldn’t help but already start dreaming about where 2026 might take us next."
+    description: "The final day of our trip was all about the journey back from Tranquebar to Bangalore. We packed up and were ready by 8:30 am, finished breakfast by 9:15, and hit the road shortly after. The drive was smooth and uneventful—about eight hours in total. With clear roads and light traffic, especially on the stretch through Salem, we made good time.<br/><br/>Since breakfast had been heavy, we skipped lunch until later in the day, finally stopping at Hotel Saravana Bhavan Classic in Bayanapalli for a quick meal. By 4:30 pm, we were back home—tired but content.<br/><br/>The rest of the evening was spent unpacking, unwinding, and doing what every traveler does at the end of a good vacation—reluctantly admitting it’s over. This was our second big trip of 2025, and as we sat at home reminiscing about the beaches, forts, and Chettinad mansions, we couldn’t help but already start dreaming about where 2026 might take us next."
     date: "1 Oct 2025"
     highlights:
       - "✅ A smooth no traffic jam drive from Tranquebar to Home!"
@@ -258,6 +258,10 @@ itinerary:
         caption: "Waiting for the lunch to come in Sarvana bhavan"
       - image: "/assets/images/tamil-nadu/day7-history.jpg"
         caption: "Reviewing the history of Tranquebar on the way back from the leaflet we picked from Museum"
+    places_to_eat:
+      - name: "Hotel Saravana Bhavan Classic, Bayanapalli"
+        location: "Hotel Saravana Bhavan Classic, Bayanapalli"
+        comment: "The food for fresh and tasty. The toilets were extremely bad and we dared not use them. Service was quick. Would recommend an alternate place only because if you are stopping here you may also want clean toilets which this place could not offer"
     accommodation:
       name: "Bunglow by the beach, Tranquebar"
       location: "Bunglow by the beach, Tranquebar"
