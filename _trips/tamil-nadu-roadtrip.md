@@ -270,7 +270,7 @@ itinerary:
     additional_considerations: "Start early from Tranquebar to avoid afternoon traffic near Salem. The Salem route is in good condition—plan short breaks to keep the drive easy. Carry snacks and water, as food options are limited until you reach Krishnagiri. Saravana Bhavan at Krishnagiri is a reliable stop for clean washrooms and fresh South Indian food"
 ---
 
-Our 10-day road trip along the Konkan coast took us from Mangaluru and Udupi to Padubidri, Gokarna, and finally all the way to Goa. The drive was full of moments where rivers quietly met the Arabian Sea, opening up to calm and endless views of the water. We found some of the cleanest and most untouched beaches in the country, dipped our feet in the sea whenever we got the chance, and happily indulged in local food and fresh seafood all through the journey
+A week-long road trip along Tamil Nadu’s eastern coast — from the sacred shores of Rameshwaram to the heritage lanes of Chettinad and the serene beaches of Tharangambadi. A journey filled with history, culture, architecture, and coastal charm — perfect for slow travel, cultural immersion, good food, and timeless stories
 
 ## Travel details
 
