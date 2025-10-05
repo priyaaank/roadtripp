@@ -211,6 +211,40 @@ itinerary:
       rating: 4
       review: "Bungalow by the Beach is a charming heritage property managed by Neemrana Hotels, located right opposite the historic Dansborg Fort and overlooking the sea. The rooms are spacious, breezy, and thoughtfully decorated with vintage furniture and bright colors that reflect the coastal vibe. The food is limited but freshly prepared, though service can be on the slower side, which feels fitting for the relaxed pace of the town. The staff are warm and helpful.If you’re looking for luxury in the conventional sense, this may not be it—but if you love heritage stays with soul, character, and ocean views, this place is perfect"
     additional_considerations: "The Neemrana Bungalow by the Beach is a heritage property, so expect slower service but a more authentic, old-world experience. There are not many other options to stay except a few more properties. Evenings are the best time to explore Tranquebar—the beachside fort area turns lively with locals and food stalls. Carry light cottons and sun protection; afternoons can get quite hot. Roadside roasted cashews between Chettinad and Tharangambadi are a must-try (and make for great travel snacks). The fort and nearby museum close early in the evening, so plan sightseeing accordingly if you intend to visit inside."
+  - day: 6
+    title: "Dolphins, History, and a Perfect Goodbye"
+    featured_image: "/assets/images/tamil-nadu/day6-main.jpg"
+    description: "Our last day of the trip began early as we woke up around 5:45 am to catch the sunrise from the terrace. We could imagine how stunning it would’ve been to watch the sun rise over the sea—if only the clouds hadn’t decided to join us that morning. After waiting a bit, we gave up, went back to sleep, and started the day a little later on a more relaxed note without much of a plan—just some sightseeing around Tharangambadi before heading home the next day. We started around 9:30 am and made our way to the Danish Fort, right on the beach. The fort was under renovation, but parts of it were open to visitors. Inside, a small museum displayed artifacts and cultural pieces from the Danish period—maps, coins, and trade items that gave a glimpse of how life might have been here centuries ago.<br/><br/>Next, we visited the Governor’s House, which was also being restored, and then walked to the Commander’s House and Maritime Museum. These had a few rooms with posters, photographs, and old items from the colonial days. It wasn’t a long tour, but it was interesting enough to keep the kids engaged for a while. By the time we finished, the sun had started to get harsh, so we decided to go for a drive.<br/><br/>The drive led us to a stretch of road that extended right into the sea—a peaceful dead end with endless blue on all sides. We paused there for a bit, enjoying the view and the sea breeze before heading back into town.<br/><br/>We explored the small streets of Tranquebar by car, picked up some fresh fruits from local vendors, and looked for a new lunch spot for a change of menu. We found another nearby hotel and decided to walk there—it’s easy to do since the town is tiny and everything is close by. Lunch was simple and decent, though nothing memorable.<br/><br/>After returning to our bungalow, we rested for a bit before stepping out in the evening for some beach time—and it turned out to be the highlight of the day. As we stood by the shore, we noticed a large pod of dolphins swimming past, leaping in and out of the waves. There must have been at least 30 to 40 of them, gliding close to the surface and chasing fish. It was a magical sight—one of those moments that catches you completely by surprise. Watching them play in their natural setting felt like the perfect farewell gift from the sea.<br/><br/>After the excitement settled, we took a dip in the swimming pool and spent some more time splashing around as the sun went down. Later that evening, dinner was served on the veranda, in a quiet and beautifully arranged setup. The food was lovely, but more than that, it was the calm and the sound of the waves that made it special.<br/><br/>As we wrapped up the evening and headed to bed, it felt like the trip had come full circle—six days filled with new sights, stories, and a deeper sense of connection with Tamil Nadu’s coast. The next day would be a long drive back to Bangalore, but that night, we fell asleep with the sound of the sea and the memory of dolphins still fresh in our minds."
+    date: "30 Oct 2025"
+    highlights:
+      - "✅ Watching Dolphins pass by the beach fishing and frolicking"
+      - "✅ Learning and reading up the history of Danish trading setup in India"
+    photos:
+      - image: "/assets/images/tamil-nadu/day6-bunglowbythebeach.jpg"
+        caption: "The bunglow by the beach that we stayed in"
+      - image: "/assets/images/tamil-nadu/day6-village.jpg"
+        caption: "Tharangamwadi village with beautiful houses"
+      - image: "/assets/images/tamil-nadu/day6-dansborg.jpg"
+        caption: "The Dansborg fort under rennovation"
+      - image: "/assets/images/tamil-nadu/day6-beach.jpg"
+        caption: "A view of the beach from the Dansborg"
+      - image: "/assets/images/tamil-nadu/day6-chess.jpg"
+        caption: "A antique chess seen at the maritime museum in Tranquebar"
+      - image: "/assets/images/tamil-nadu/day6-roomframes.jpg"
+        caption: "More frames of Danish personas in the property"
+      - image: "/assets/images/tamil-nadu/day6-dolphins.png"
+        caption: "A rare occassion where we saw dolphins passing by the beach in large numbers and catching fishes"
+      - image: "/assets/images/tamil-nadu/day6-dinner.jpg"
+        caption: "Freshly prepared pasta for the kids in the dinner"
+      - image: "/assets/images/tamil-nadu/day6-dinnerbalcony.jpg"
+        caption: "An open veranda in the property where they arranged a private dinner for us to enjoy"
+      
+    accommodation:
+      name: "Bunglow by the beach, Tranquebar"
+      location: "Bunglow by the beach, Tranquebar"
+      rating: 4
+      review: "Bungalow by the Beach is a charming heritage property managed by Neemrana Hotels, located right opposite the historic Dansborg Fort and overlooking the sea. The rooms are spacious, breezy, and thoughtfully decorated with vintage furniture and bright colors that reflect the coastal vibe. The food is limited but freshly prepared, though service can be on the slower side, which feels fitting for the relaxed pace of the town. The staff are warm and helpful.If you’re looking for luxury in the conventional sense, this may not be it—but if you love heritage stays with soul, character, and ocean views, this place is perfect"
+    additional_considerations: "The Danish Fort and museums close by afternoon, so it’s best to visit in the morning before it gets too hot. The town is small—perfect for walking, but carry caps and water since there’s limited shade. Don’t miss an evening at the beach near the fort; if you’re lucky, you might spot dolphins too. Dining options are limited in Tharangambadi, so plan ahead or call hotels to confirm if they’re open for walk-ins. The road into the sea makes for a great photo stop—just be cautious of tides and loose sand near the end."
 ---
 
 Our 10-day road trip along the Konkan coast took us from Mangaluru and Udupi to Padubidri, Gokarna, and finally all the way to Goa. The drive was full of moments where rivers quietly met the Arabian Sea, opening up to calm and endless views of the water. We found some of the cleanest and most untouched beaches in the country, dipped our feet in the sea whenever we got the chance, and happily indulged in local food and fresh seafood all through the journey
