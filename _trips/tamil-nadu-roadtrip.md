@@ -181,7 +181,36 @@ itinerary:
         location: "The Bangala, Karaikudi"
         comment: "The Bangala is known as the first Chettinad heritage home turned into a hotel, and its food completely lives up to the reputation. The set lunch menu is an absolute treat—served in traditional style, featuring a variety of local Chettinad dishes that balance spice, flavor, and freshness perfectly. Every item felt thoughtfully prepared, and the service was warm and unhurried. The meal ended up being so hearty that we walked out sleepy and satisfied. A definite must-visit for anyone exploring Karaikudi!"
     additional_considerations: "Early morning is the best time for village walks—it’s cooler and quieter. Most Chettinad craft workshops (like cotton weaving or tile-making) welcome visitors, but check timings in advance. Athangudi tiles are heavy and fragile—carry them only if you’re driving. The Bangala’s lunch is a must-try; make reservations ahead, especially on weekends. Karaikudi antique market is a great stop even if you don’t plan to shop—it’s like an open museum of old-world charm."
-
+  - day: 5
+    title: "From Heritage to the Coast: Chettinad to Tharangambadi"
+    date: "29 Oct 2025"
+    featured_image: "/assets/images/tamil-nadu/day5-roomintranquebar.jpg"
+    description: "Day 5 began at an easy pace since our next stop, Tharangambadi (also known as Tranquebar), was just about a 3.5-hour drive from Chettinad. We lingered over the extensive breakfast buffet at our villa one last time before hitting the road around 9:30 am.<br><br/>The drive was smooth and uneventful, except for one delightful discovery—roadside cashew sellers! Rows of stalls with freshly roasted cashews tempted us, and of course, we couldn’t resist picking up a few packets. They were crisp, flavorful, and made for the perfect travel snack.<br><br/>By 1:30 pm, we arrived in Tharangambadi, a quiet seaside town with a fascinating history. This was once a Danish colony, established in 1620 when the King of Tanjore, Raghunatha Nayak, leased the land to Danish Admiral Ove Gjedde. While the British, Dutch, and French were expanding trade elsewhere, the Danes chose this serene corner of the Coromandel Coast to set up their port. The king granted them 32 square kilometers along with nearby villages, and soon after, they built the Dansborg Fort, which still stands strong facing the sea.<br><br/>Our stay was at the Bungalow by the Beach, right opposite the fort. This charming heritage property, restored by Neemrana Hotels, perfectly captures the old-world Danish feel. The building carries the grace of age—spiral staircases, high ceilings, vintage portraits, and walls painted in warm, sunny colors. Each room is named after a Danish ship, which in turn took its name from a royal princess. The sea-facing view and the salty breeze made it instantly relaxing.<br><br/>We ordered lunch, which took a while since everything was freshly prepared, but it was worth the wait. On that day, there were only two families staying at the property, so the service was slow but personal and friendly.<br><br/>The rest of the day was pure relaxation. We spent the afternoon lounging in our airy rooms and later walked down to the beach right across the fort. The kids had a great time playing in the sand and running along the water’s edge. As evening fell, the area around the fort came alive—local families gathered, food stalls opened up, and the air was filled with laughter and the smell of fried snacks.<br><br/>The afternoon heat gave way to a cool coastal breeze, and the whole place took on a festive yet peaceful vibe. We watched the sunset by the sea, grabbed a simple dinner back at the bungalow, and called it an early night. It was the kind of day that feels slow and perfect—the sea, the breeze, and the quiet charm of an old town full of stories."
+    highlights:
+      - "✅ Rustic rooms at the Bunglow by the beach in Tranquebar"
+      - "✅ Enjoying the Sea at Tharangamwadi / Tranquebar"
+      - "✅ Roasted cashews from the roadside on the way to Tranquebar"
+    photos:
+      - image: "/assets/images/tamil-nadu/day5-breakfast.jpg"
+        caption: "The last buffet breakfast at the Chidambaram vilas"
+      - image: "/assets/images/tamil-nadu/day5-fishcurry.jpg"
+        caption: "Fishcurry ordered at the Bunglow by the beach"
+      - image: "/assets/images/tamil-nadu/day5-orderingfood.jpg"
+        caption: "Laziness setting in while ordering the food"
+      - image: "/assets/images/tamil-nadu/day5-roomintranquebar.jpg"
+        caption: "Our rustic room with an extra bed to sleep comfortably"
+      - image: "/assets/images/tamil-nadu/day5-roompaintings.jpg"
+        caption: "Painting in the room depicting Danish personas"
+      - image: "/assets/images/tamil-nadu/day5-roompaintings2.jpg"
+        caption: "Painting in the room depicting Danish personas"
+      - image: "/assets/images/tamil-nadu/day5-seaplay.jpg"
+        caption: "Playing at the sea in evening, in a cool evening"
+    accommodation:
+      name: "Bunglow by the beach, Tranquebar"
+      location: "Bunglow by the beach, Tranquebar"
+      rating: 4
+      review: "Bungalow by the Beach is a charming heritage property managed by Neemrana Hotels, located right opposite the historic Dansborg Fort and overlooking the sea. The rooms are spacious, breezy, and thoughtfully decorated with vintage furniture and bright colors that reflect the coastal vibe. The food is limited but freshly prepared, though service can be on the slower side, which feels fitting for the relaxed pace of the town. The staff are warm and helpful.If you’re looking for luxury in the conventional sense, this may not be it—but if you love heritage stays with soul, character, and ocean views, this place is perfect"
+    additional_considerations: "The Neemrana Bungalow by the Beach is a heritage property, so expect slower service but a more authentic, old-world experience. There are not many other options to stay except a few more properties. Evenings are the best time to explore Tranquebar—the beachside fort area turns lively with locals and food stalls. Carry light cottons and sun protection; afternoons can get quite hot. Roadside roasted cashews between Chettinad and Tharangambadi are a must-try (and make for great travel snacks). The fort and nearby museum close early in the evening, so plan sightseeing accordingly if you intend to visit inside."
 ---
 
 Our 10-day road trip along the Konkan coast took us from Mangaluru and Udupi to Padubidri, Gokarna, and finally all the way to Goa. The drive was full of moments where rivers quietly met the Arabian Sea, opening up to calm and endless views of the water. We found some of the cleanest and most untouched beaches in the country, dipped our feet in the sea whenever we got the chance, and happily indulged in local food and fresh seafood all through the journey
