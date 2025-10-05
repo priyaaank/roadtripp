@@ -133,12 +133,54 @@ itinerary:
       name: "Chidambaram Vilas"
       location: "Chidambaram Vilas, Pudukkottai"
       rating: 5
-      review: "A heritage property owned by Chettiar business family. A perfect blend of old and new. Every creature comfort with nostalgia and history that speaks with every room, wall in the property. Fantastic visit for the property itself. A beautiful and placid swimming pool, amazing local fare in terms of food, a village walk, traditional art lessons like grarland making and experience chettinad cuisines. A must visit and an absolute treat. Several other Vilas exist like this and while all of them have their unique charm, Chridambaram Vikas is one of the most post and sprawling ones. Ample parking if you are driving down there"
+      review: "A heritage property owned by a Chettiar business family, this place beautifully blends the old with the new. It offers every modern comfort while surrounding you with nostalgia and history—each wall and room seems to tell a story. The property itself is worth a visit, with a serene swimming pool, delicious local cuisine, and thoughtful experiences like village walks, traditional art lessons such as garland-making, and authentic Chettinad cooking sessions. It’s a must-visit and an absolute delight. There are several other heritage villas in the region, each with its own charm, but Chidambaram Vilas stands out as one of the most elegant and expansive. There’s also ample parking if you’re driving there."
     places_to_eat:
       - name: "Lotus Chettinad"
         location: "Lotus Chettinad, Kanadukathan Town"
-        comment: "A similar Vila as Chidambaram Vila however since we did not opt to stay here, we drove down for a lunch and it did not disappoint. Among different things that we had the fish curry with steam rice was a show stealer. The taste of tamarind in fish curry was outworldly! Totally recommend this place for a meal"
+        comment: "A property similar to Chidambaram Vilas, we didn’t stay here but decided to visit for lunch—and it was absolutely worth it. Among all the dishes we tried, the fish curry with steamed rice stood out as the clear winner. The tangy tamarind flavor in the curry was simply outstanding! Highly recommend this place if you’re looking for a great meal in the area"
     additional_considerations: "Phones and cameras aren’t allowed inside Dr. A.P.J. Abdul Kalam Memorial, so keep valuables safely in your car or hotel. Plan to reach Chettinad before dark, as the village roads can be confusing at night. Book heritage walks or cooking sessions at properties like Chidambaram Vilas in advance, the availability of the property is difficult. Chettinad cuisine is rich and spicy—check spice levels before ordering, especially for kids. Carry some cash, since many local spots and guides may not accept cards."
+  - day: 4
+    title: "Walking Through History in Chettinad"
+    date: "28 Oct 2025"
+    featured_image: "/assets/images/tamil-nadu/day4-main.jpg"
+    description: "Day 4 began with a village walk around Pudukkottai, giving us a glimpse into how time has shaped Chettinad and its people. Our guide shared stories of how the Chettiyars, once a powerful business community, migrated abroad during World War II when their trade was affected. Many of their grand ancestral homes—called vilas—are now owned by expats or caught up in family disputes.<br><br/>The villages were built in a grid layout, designed for easy surveillance in older times. With their flourishing businesses, these families often stored huge sums of cash at home, so the men would sleep inside to guard the wealth. Schools, hospitals, and libraries were often co-funded by the Chettiyars and the government—though the land still belongs to the Chettiyar families today.<br><br/>Every house in Chettinad is a show of grandeur and global influence. Marble came from Italy, glass from Belgium, and idols from across Southeast Asia. You can even spot design elements inspired by Burma, Indonesia, and Malaysia—countries where many Chettiyars once ran businesses.<br><br/>After the walk and a hearty breakfast back at our villa, we set out to explore local crafts. Our first stop was a cotton weaving unit, where we saw how the famous Chettinad cotton is made. The intricate weaving, the rhythm of the looms, and the soft texture of the fabric were fascinating to watch. Of course, a bit of saree shopping followed!<br><br/>Next, we visited a small factory that made Athangudi tiles, known for being handcrafted, eco-friendly, and brightly colored. Watching the process was mesmerizing—workers carefully poured colored liquid into stencils, topped it with sand and cement, and left it to dry. Each tile was made by hand, though we couldn’t help noticing how tough the conditions were, with no safety gear in sight. The finished tiles, though, looked absolutely stunning—each one unique.<br><br/>Our next stop was the Athangudi Palace, another grand Chettinad home that’s open to visitors. The architecture and antique-filled corridors felt like stepping back in time. While it was impressive, we still found Chidambaram Vilas more captivating in its charm and upkeep.<br><br/>By lunchtime, we were at The Bangala in Karaikudi, the first heritage property in the region to open for tourists. It’s less ornate than the other vilas but has earned its fame for its food—and rightly so. Their set lunch menu was incredible, a feast of authentic Chettinad flavors that left us both full and sleepy.<br><br/>After lunch, we walked through the Karaikudi antique market, a treasure trove of vintage furniture, brass items, and old collectibles. We didn’t buy much, except for one memorable find—a stone grinder (silbatta) made from local stone that weighed at least 15–20 kilos!<br><br/>By late afternoon, we returned to our villa for a nap. Evening followed the same comforting rhythm—tea and snacks, a swim, and a round of photos. Dinner was light and quick; after a day full of walking, driving, and exploring, we were ready to call it a night."
+    highlights:
+      - "✅ Local artisan visit to cotton weaving and tile making"
+      - "✅ Vila tours for different vilas in the region"
+      - "✅ Mouthwatering lunch at The Bangala"
+    photos:
+      - image: "/assets/images/tamil-nadu/day4-villagetour.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-burmaidols.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-garlandmaking.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-veranda.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-anthaguditiles.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-cottonweaving.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-cottomsarees.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-cottonreels.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-thebangala.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-thebanglameals.jpg"
+        caption: ""
+      - image: "/assets/images/tamil-nadu/day4-spiralstaircase.jpg"
+        caption: ""
+    accommodation:
+      name: "Chidambaram Vilas"
+      location: "Chidambaram Vilas, Pudukkottai"
+      rating: 5
+      review: "A heritage property owned by a Chettiar business family, this place beautifully blends the old with the new. It offers every modern comfort while surrounding you with nostalgia and history—each wall and room seems to tell a story. The property itself is worth a visit, with a serene swimming pool, delicious local cuisine, and thoughtful experiences like village walks, traditional art lessons such as garland-making, and authentic Chettinad cooking sessions. It’s a must-visit and an absolute delight. There are several other heritage villas in the region, each with its own charm, but Chidambaram Vilas stands out as one of the most elegant and expansive. There’s also ample parking if you’re driving there."
+    places_to_eat:
+      - name: "The Bangala"
+        location: "The Bangala, Karaikudi"
+        comment: "The Bangala is known as the first Chettinad heritage home turned into a hotel, and its food completely lives up to the reputation. The set lunch menu is an absolute treat—served in traditional style, featuring a variety of local Chettinad dishes that balance spice, flavor, and freshness perfectly. Every item felt thoughtfully prepared, and the service was warm and unhurried. The meal ended up being so hearty that we walked out sleepy and satisfied. A definite must-visit for anyone exploring Karaikudi!"
+    additional_considerations: "Early morning is the best time for village walks—it’s cooler and quieter. Most Chettinad craft workshops (like cotton weaving or tile-making) welcome visitors, but check timings in advance. Athangudi tiles are heavy and fragile—carry them only if you’re driving. The Bangala’s lunch is a must-try; make reservations ahead, especially on weekends. Karaikudi antique market is a great stop even if you don’t plan to shop—it’s like an open museum of old-world charm."
 
 ---
 
