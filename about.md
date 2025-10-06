@@ -10,13 +10,13 @@ permalink: /about/
     <div class="family-photo">
       <img src="{{ '/assets/images/us.jpg' | relative_url }}" alt="Our Family - RoadTripp Adventures">
     </div>
-    <p class="lead">Welcome to our family travel blog. Here we capture everything that we want to remember about our trips as they become a distant memory in the past. And while we hope people see the world from our experiences as well as with their own, knowing what we learnt.</p>
+    <p class="lead">Welcome to our family travel blog. Here we capture everything that we want to remember about our trips as they become a distant memory in the past. While the blog is primarily for us, we also hope people see the world from our experiences as well as with their own, knowing what we learnt</p>
   </div>
   
   <div class="about-content">
     <div class="about-section">
       <h2>Our Family</h2>
-      <p>We're a family of four who believes that the best way to see the world is from the road. With two kids who love adventure and parents who cherish quality time away from the daily hustle, road trips have become our favorite way to explore, learn, and create lasting memories together.</p>
+      <p>We're a family of four who believes that the best way to see the world is from the road. Two kids who love a sense of adventure and parents who cherish quality time away from the daily hustle, road trips have become our favorite way to explore, learn, and create lasting memories together</p>
       
       <p>A zeal that started as weekend getaways or short trips has evolved into epic multi-day adventures that have taken us to some of the most incredible places in the country. From national parks to hidden gems, quirky roadside attractions to breathtaking natural wonders, we're always dreaming about our next adventure.</p>
     </div>
