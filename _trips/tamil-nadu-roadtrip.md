@@ -4,7 +4,7 @@ date: 25 September 2025
 duration: "7 Days"
 location: "Rameshwaram & Chettinad, Tamil Nadu"
 featured_image: "/assets/images/tamil-nadu/tamil-nadu-main.jpg"
-summary: "A 7-day road trip covering Rameshwaram, Chettinad & Mayiladuthurai. A trip focused on exploring the unexplored coastal cities and world famoud food of Chettinad"
+summary: "A 7-day road trip covering Rameshwaram, Chettinad & Tharangambadi. A trip focused on exploring few of the south-eastern coastal cities and world famoud food of Chettinad"
 excerpt: "Our Rameshwaram, Chettinad and Tanquebar road trip was 7 days of coastal beauty and a taste bud extravaganza"
 itinerary:
   - day: 1
@@ -270,7 +270,7 @@ itinerary:
     additional_considerations: "Start early from Tranquebar to avoid afternoon traffic near Salem. The Salem route is in good condition—plan short breaks to keep the drive easy. Carry snacks and water, as food options are limited until you reach Krishnagiri. Saravana Bhavan at Krishnagiri is a reliable stop for clean washrooms and fresh South Indian food"
 ---
 
-A week-long road trip along Tamil Nadu’s eastern coast — from the sacred shores of Rameshwaram to the heritage lanes of Chettinad and the serene beaches of Tharangambadi. A journey filled with history, culture, architecture, and coastal charm — perfect for slow travel, cultural immersion, good food, and timeless stories
+A week-long road trip along Tamil Nadu’s eastern coast, from the sacred shores of Rameshwaram to the heritage lanes of Chettinad and the serene beaches of Tharangambadi. A journey filled with history, culture, architecture, and coastal charm — perfect for slow travel, cultural immersion, good food, and timeless stories
 
 ## Travel details
 
