@@ -438,6 +438,13 @@ itinerary:
           location: "Karuna Retreat Home - Entire house (Rakkar)"
           rating: 4
           review: "Tenzin our host for the airbnb property was fantastic. He made a short visit to see if we were all settled in, also stocked the kitchen with basic groceries prior to our arrival. Kitchen had all basic neccessities and enough basics to make a meal. There was a functoning washing machine, access to fresh and additional linen and crisp and clear instructions on the rules as well as where everything was. The house itself was quiant, old, simple but very comfortable with a fantastic view. Highly recommend booking this property via Airbnb here <a href='https://www.airbnb.co.in/rooms/858385431045844866' target='_blank'>Karuna Retreat Home - Entire house (Rakkar)</a>"
+    places_to_eat:
+      - name: "The Netwok"
+        location: "The Netwok, Mcleodganj"
+        comment: "A well done restraurant that is located with a nice view in the heart of the market in Mcleodganj. It offered local cuisines, Tibetan food, Korean food and some other nice delicacies. The service was a bit slow however the food was pretty decent"
+      - name: "Willow Tree Restaurant"
+        location: "Willow Tree Restaurant, Sidhbari, Himachal"
+        comment: "Decent food. They do deliveries to nearby areas. The dal is great and the quality of food is simple and tasty. We did only take aways and did not eat at the restaurant. So do not know about the service."
     additional_considerations: "The Dharamshala Skyway is a must-do. Safe, scenic, and perfect for kids. Try a round trip if short on time. The Mandala Treasure is great for souvenirs — ask for Mr. Raj, who explains the origin and sound of each singing bowl patiently. Get into the town early, if you are driving down, so as to find a comfortable parking spot and then explore on foot or in autos"
 
   #- day: 12
