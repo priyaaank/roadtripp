@@ -393,16 +393,54 @@ itinerary:
           rating: 4
           review: "Tenzin our host for the airbnb property was fantastic. He made a short visit to see if we were all settled in, also stocked the kitchen with basic groceries prior to our arrival. Kitchen had all basic neccessities and enough basics to make a meal. There was a functoning washing machine, access to fresh and additional linen and crisp and clear instructions on the rules as well as where everything was. The house itself was quiant, old, simple but very comfortable with a fantastic view. Highly recommend booking this property via Airbnb here <a href='https://www.airbnb.co.in/rooms/858385431045844866' target='_blank'>Karuna Retreat Home - Entire house (Rakkar)</a>"
     additional_considerations: "If anyone falls sick in Manali, Lady Willingdon Hospital is a reliable local option — simple but well-staffed. During a long journey plan at least one stop at an Airbnb with basic amenities like a washing machine and kitchen. It can be a great way to recycle clothes and reduce the overall lugguage for the trip"
-  # - day: 11
-  #   title: "Day 11 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
-  # - day: 12
+  
+  - day: 13
+    title: "Monasteries, Market Finds & a Slow Day in Dharamshala"
+    date: "13 May 2024"
+    featured_image: "/assets/images/himachal/day13-main.jpg"
+    description: "After the previous day’s long drive and illnesses, we promised ourselves an easy, restful day. Day 13 in Dharamshala began slow — no alarms, no rush. The plan was simple: explore McLeod Ganj, visit a few monasteries, do some light shopping, and just enjoy being out again.<br/><br/>We drove down to McLeod Ganj and luckily found parking near the main market — a small win in itself. Our first stop was brunch at a quiet café called The Netwok. At 10 am, we were the only ones there, but it had a lovely vibe — bright interiors, a small souvenir section, and views of the sleepy town waking up. We ordered a few Tibetan dishes, and the food turned out to be surprisingly delicious — comforting and flavourful, exactly what we needed to start the day.<br/><br/>Next, we made our way to the Dharamshala Skyway, a modern, well-managed ropeway that connects Dharamshala and McLeod Ganj. The ride offered stunning views of the valley and the snow-dusted Dhauladhar peaks — peaceful and exhilarating at once. We chose to do a round trip instead of going all the way down, just to enjoy the view from above.<br/><br/>Back on Mall Road, we wandered into The Mandala Treasure, a shop filled with beautiful Tibetan artifacts, brassware, and singing bowls. Mr. Raj, who ran the store, was kind and patient — he let us try several bowls until we found one that resonated perfectly. We picked a couple of brass pieces too, all reasonably priced and still as shiny in our home today as they were that afternoon.<br/><br/>From there, we headed to the Namgyal Monastery, which was buzzing with monks — a ceremony was underway, and the air was filled with rhythmic chants. We quietly walked through the complex, spun the prayer wheels, and soaked in the spiritual calm before easing our way back to the main market.<br/><br/>Our next stop was the St. John in the Wilderness Church, set amidst a dense forest of deodar trees. Built in 1852, it’s one of Dharamshala’s oldest churches and remarkably, one of the few structures that survived the devastating 1905 earthquake that killed over 19,000 people. Though the church was closed when we visited, we explored its moss-covered gravestones and quiet surroundings. Opposite the church was a small park where the kids had fun balancing on makeshift rope bridges and planks — a simple joy that brought big smiles.<br/><br/>By late afternoon, hunger caught up with us, and we found a tiny eatery called View Café Jogiwara. The menu was limited — just Maggi and lemon-ginger tea, but the view and the warmth made it perfect. We lingered there, sipping tea while the chill crept into the air.<br/><br/>As the day drew to an end, we drove back to our stay and stopped briefly by a nearby stream. We walked down to the water’s edge — the flow was strong, the water icy cold. The kids wanted to dip their feet, but the evening chill kept us cautious. Back at our Airbnb, we ordered freshly prepared dinner from a local home kitchen nearby — warm, simple food that felt just right to wrap up the day.<br/><br/>It wasn’t a day of adventure, but it was a day of calm — of good food, gentle walks, and rediscovering rhythm after a tiring stretch of travel."
+    highlights:
+      - "✅ The ropeway ride. We recommend taking in a round trip"
+      - "✅ Brass item shopping from the Mandala Treasure"
+      - "✅ The food at the Netwok was nice. We enjoyed the local cuisine"
+      - "❌ Driving through the narrow lanes of Dharamshala was not worth it. Should have parked a bit ourside and taken an auto. Parking was available at designated spots"
+    photos: 
+      - image: "/assets/images/himachal/day13-brunch.jpg"
+        caption: "Brunch place, us being the only customer ordering food"
+      - image: "/assets/images/himachal/day13-localfood.jpg"
+        caption: "Local food that we had for breakfast/lunch"
+      - image: "/assets/images/himachal/day13-skywaygate.jpg"
+        caption: "The entry to the Skyway"
+      - image: "/assets/images/himachal/day13-ropeway.jpg"
+        caption: "The cable cars going round"
+      - image: "/assets/images/himachal/day13-insidecablecar.jpg"
+        caption: "Taking the view in, inside the cablecar"
+      - image: "/assets/images/himachal/day13-mandala.jpg"
+        caption: "The contact details for the mandala shop to buy souverniers and brass items"
+      - image: "/assets/images/himachal/day13-church.jpg"
+        caption: "The St. John in the Wilderness Church"
+      - image: "/assets/images/himachal/day13-churchtower.jpg"
+        caption: "Areas around church"
+      - image: "/assets/images/himachal/day13-graves.jpg"
+        caption: "Graves around the church for missonaries who died here"
+      - image: "/assets/images/himachal/day13-park.jpg"
+        caption: "Park opposite to the church for kids to enjoy"
+      - image: "/assets/images/himachal/day13-park1.jpg"
+        caption: "Park opposite to the church for kids to enjoy"
+      - image: "/assets/images/himachal/day13-view.jpg"
+        caption: "The view from the small lunch joint"
+      - image: "/assets/images/himachal/day13-stream.jpg"
+        caption: "The stream near to where our AirBnb was"
+      - image: "/assets/images/himachal/day13-stay.jpg"
+        caption: "A creative picture at our Airbnb"
+    accommodation:
+          name: "Karuna Retreat Home - Entire house (Rakkar)"
+          location: "Karuna Retreat Home - Entire house (Rakkar)"
+          rating: 4
+          review: "Tenzin our host for the airbnb property was fantastic. He made a short visit to see if we were all settled in, also stocked the kitchen with basic groceries prior to our arrival. Kitchen had all basic neccessities and enough basics to make a meal. There was a functoning washing machine, access to fresh and additional linen and crisp and clear instructions on the rules as well as where everything was. The house itself was quiant, old, simple but very comfortable with a fantastic view. Highly recommend booking this property via Airbnb here <a href='https://www.airbnb.co.in/rooms/858385431045844866' target='_blank'>Karuna Retreat Home - Entire house (Rakkar)</a>"
+    additional_considerations: "The Dharamshala Skyway is a must-do. Safe, scenic, and perfect for kids. Try a round trip if short on time. The Mandala Treasure is great for souvenirs — ask for Mr. Raj, who explains the origin and sound of each singing bowl patiently. Get into the town early, if you are driving down, so as to find a comfortable parking spot and then explore on foot or in autos"
+
+  #- day: 12
   #   title: "Day 12 Placeholder"
   #   date: ""
   #   featured_image: ""
