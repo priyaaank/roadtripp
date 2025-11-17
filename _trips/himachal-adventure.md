@@ -446,6 +446,47 @@ itinerary:
         location: "Willow Tree Restaurant, Sidhbari, Himachal"
         comment: "Decent food. They do deliveries to nearby areas. The dal is great and the quality of food is simple and tasty. We did only take aways and did not eat at the restaurant. So do not know about the service."
     additional_considerations: "The Dharamshala Skyway is a must-do. Safe, scenic, and perfect for kids. Try a round trip if short on time. The Mandala Treasure is great for souvenirs — ask for Mr. Raj, who explains the origin and sound of each singing bowl patiently. Get into the town early, if you are driving down, so as to find a comfortable parking spot and then explore on foot or in autos"
+  - day: 14
+    title: "Waterfalls, Viewpoints & the Perfect Pizza in Dharamshala"
+    date: "14 May 2024"
+    featured_image: "/assets/images/himachal/day14-triundtrek.jpg"
+    description: "Day 14 began where we left off the previous evening — by the stream near our stay. The water had looked too cold then, but under the warm morning sun, it felt inviting. We carried our morning tea cups down, collected some flat stones for colouring later, and dipped our feet into the crystal-clear water. The kids splashed around, giggling as the cold water hit their toes — simple, pure mountain joy.<br/><br/>After a refreshing start, we set out for the Bhagsu Nag Waterfall, one of Dharamshala’s most popular spots. We had originally planned to do the Triund trek, but locals gently advised against it given the kids’ age — probably a wise call. The Bhagsu waterfall has two sections: a smaller cascade midway and the larger one at the top. The upper one was beautiful but crowded beyond comfort, so we quickly descended back to the lower fall. That turned out to be a blessing — quieter, calmer, and easier for the kids to enjoy. We spent some time there, dipping our feet again, taking in the sound of gushing water, until more people trickled in and it was time to move on.<br/><br/>By now, our stomachs were rumbling, so we hopped into the car and drove to Naddi Viewpoint. The weather was perfect — blue skies, clean air, and a postcard view of the Dhauladhar range. We stumbled upon a tiny pizza café there, and to our surprise, it served one of the best pizzas of the entire trip — thin crust, loaded with cheese and veggies, and paired perfectly with the mountain air. After lunch, we took a short stroll around the viewpoint, clicked a few pictures, and headed back home for some downtime.<br/><br/>The evening was easy and cozy. We lazed around in the attic of our Airbnb, watching TV and unwinding after a day of mini adventures. As the night set in, we stepped out for dinner at a nearby café called Café Encontro, recommended by our hosts — and it turned out to be a great choice. The ginger honey tea with a cinnamon stick was soul-warming, the momos and cheesecake were spot-on, and the quiet setting made it the perfect end to the day.<br/><br/>We returned home full and happy, ready to pack for the journey ahead. It had been a day of little joys — from streams and waterfalls to warm pizza and cinnamon tea — the kind that make slow travel truly special."
+    highlights:
+      - "✅ Beautiful time in the pristine waters of the stream in Rakkar"
+      - "✅ Pizza at Naddi view point"
+      - "✅ Food at Café Encontro near Rakkar. It is a good hidden spot"
+      - "❌ Underwhelming and overcrowded Bhagsu Nag waterfall"
+      - "❌ Chose not to do Triund trek. Not recommended with kids"
+    photos: 
+      - image: "/assets/images/himachal/day14-stream.jpg"
+        caption: "The stream in Rakkar and us making the best of it"
+      - image: "/assets/images/himachal/day14-waterfall.jpg"
+        caption: "Enjoying a peacful sitout at the smaller waterfall between the two"
+      - image: "/assets/images/himachal/day14-waterfalltrek.jpg"
+        caption: "Trek down from the waterfall"
+      - image: "/assets/images/himachal/day14-pizza.jpg"
+        caption: "Pizza at the Naddi viewpoint"
+      - image: "/assets/images/himachal/day14-naddiviewpoint.jpg"
+        caption: "The Naddi view point view"
+      - image: "/assets/images/himachal/day14-triundtrek.jpg"
+        caption: "Triund trek from Naddi view point"
+      - image: "/assets/images/himachal/day14-attic.jpg"
+        caption: "Movie time in the Attic"
+      - image: "/assets/images/himachal/day14-lemonghoneygingertea.jpg"
+        caption: "Lemon Ginger Honey tea in Cafe Encontro"
+    accommodation:
+          name: "Karuna Retreat Home - Entire house (Rakkar)"
+          location: "Karuna Retreat Home - Entire house (Rakkar)"
+          rating: 4
+          review: "Tenzin our host for the airbnb property was fantastic. He made a short visit to see if we were all settled in, also stocked the kitchen with basic groceries prior to our arrival. Kitchen had all basic neccessities and enough basics to make a meal. There was a functoning washing machine, access to fresh and additional linen and crisp and clear instructions on the rules as well as where everything was. The house itself was quiant, old, simple but very comfortable with a fantastic view. Highly recommend booking this property via Airbnb here <a href='https://www.airbnb.co.in/rooms/858385431045844866' target='_blank'>Karuna Retreat Home - Entire house (Rakkar)</a>"
+    places_to_eat:
+      - name: "Cafe Encontro"
+        location: "Cafe Encontro Dharamshala"
+        comment: "Fantastic ambience and great food. There’s no lift, so be prepared to climb a few stairs — not ideal for the elderly. The cheesecake was freshly made the day we visited, and the lemon-ginger-honey tea was absolutely out of this world"
+      - name: "Pizza place near Naddi taxi stand"
+        location: "Naddi taxi stand"
+        comment: "Small joint near taxi stand. Limited menu. Recommend the pizza"
+    additional_considerations: "Reach Bhagsu Nag Waterfall early. There are multiple paid parking areas, but the later you arrive, the harder it becomes to navigate. Some parking spots are quite tight, so arriving before the crowds makes things easier. Choose the lower waterfall for families. The top section gets crowded quickly and can be slippery. The lower fall is calmer, safer, and easier for kids to enjoy. Wear good footwear. The path has uneven stones and can get wet or slippery, especially near the falls. Carry water and light snacks. Shops are available but can be crowded during peak hours. Avoid peak afternoons. The combination of crowds, narrow paths, and bright sun can make the experience less pleasant. Plan a relaxed stop at Naddi Viewpoint. Pair your Bhagsu visit with a trip to Naddi for great views and good cafés — perfect for a laid-back lunch."
 
   #- day: 12
   #   title: "Day 12 Placeholder"
