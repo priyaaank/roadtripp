@@ -1,5 +1,5 @@
 ---
-title: "Road trip - Chettinad Trails & Coastal Tales"
+title: "Road trip - Chettinad & Coastal Tales"
 date: 25 September 2025
 duration: "7 Days"
 location: "Rameshwaram & Chettinad, Tamil Nadu"
