@@ -3,6 +3,13 @@ title: "RoadTripp Adventures"
 description: "Documenting our family trips. Mostly to revisit these memories when we are older and forgetful. But also to share with those who may find information helpful"
 author: "Roadtripp.in"
 email: priyaaank@gmail.com
+lang: en
+
+# Search engine verification — paste the content="..." value from each tool
+# Google Search Console: https://search.google.com/search-console
+google_site_verification: ""
+# Bing Webmaster Tools: https://www.bing.com/webmasters
+bing_site_verification: ""
 
 # GitHub Pages / Production settings
 url: "https://roadtripp.in" # Your custom domain

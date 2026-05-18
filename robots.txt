@@ -1,0 +1,12 @@
+---
+# This front matter ensures Jekyll processes this file with Liquid
+---
+User-agent: *
+Allow: /
+
+# Block Jekyll build artifacts and dev files
+Disallow: /vendor/
+Disallow: /.bundle/
+Disallow: /demo.html
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

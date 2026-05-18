@@ -3,7 +3,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  
+
+  <!-- Indexing directives (apply to all pages) -->
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="googlebot" content="index, follow, max-image-preview:large">
+
+  <!-- Search engine ownership verification -->
+  {%- if site.google_site_verification and site.google_site_verification != "" -%}
+  <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+  {%- endif -%}
+  {%- if site.bing_site_verification and site.bing_site_verification != "" -%}
+  <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
+  {%- endif -%}
+
+  {%- assign social_image = page.featured_image | default: page.image | default: '/assets/images/social-share.jpg' -%}
+
   <!-- Social Media Meta Tags -->
   {% if page.layout == 'trip' %}
   <!-- Open Graph / Facebook -->
@@ -11,67 +25,44 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ page.summary }}">
-  <meta property="og:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta property="og:image" content="{{ social_image | absolute_url }}">
+  <meta property="og:image:secure_url" content="{{ social_image | absolute_url }}">
+  <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ page.title }} - Road trip adventure from {{ page.location }}">
   <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:updated_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   <meta property="article:author" content="{{ site.author }}">
-  
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.summary }}">
-  <meta name="twitter:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
+  <meta name="twitter:image" content="{{ social_image | absolute_url }}">
   <meta name="twitter:image:alt" content="{{ page.title }} - Road trip adventure">
-  
-  <!-- LinkedIn -->
-  <meta property="og:image" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:locale" content="en_US">
-  
-  <!-- Instagram / Pinterest -->
-  <meta property="og:rich_attachment" content="true">
-  <meta name="pinterest-rich-pin" content="true">
-  
-  <!-- WhatsApp Essential Meta Tags -->
-  <meta property="og:image:secure_url" content="{{ '/assets/images/leh.jpg' | absolute_url }}">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:alt" content="{{ page.title }} - Road trip adventure from {{ page.location }}">
-  <meta property="og:updated_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
-  
-  <!-- Telegram -->
-  <meta name="telegram:channel" content="@roadtripp">
-  
-  <!-- Additional platforms -->
-  <meta property="fb:app_id" content="">
   <meta name="twitter:site" content="@roadtripp">
   <meta name="twitter:creator" content="@roadtripp">
-  
+
   <!-- Additional Meta Tags -->
   <meta name="description" content="{{ page.summary }}">
-  <meta name="keywords" content="road trip, travel, India, Leh, Ladakh, adventure, photography, travel blog, {{ page.location }}, {{ page.duration }}">
+  <meta name="keywords" content="road trip, travel, India, adventure, photography, travel blog, {{ page.location }}, {{ page.duration }}">
   <meta name="author" content="{{ site.author }}">
-  <meta name="robots" content="index, follow">
-  <meta name="googlebot" content="index, follow">
-  
-  <!-- Mobile App Links -->
-  <meta property="al:ios:app_name" content="RoadTripp Adventures">
-  <meta property="al:android:app_name" content="RoadTripp Adventures">
-  <meta property="al:web:url" content="{{ page.url | absolute_url }}">
-  
+
   <!-- Schema.org for Google -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": ["BlogPosting", "TravelAction"],
+    "@type": "BlogPosting",
     "headline": "{{ page.title }}",
     "name": "{{ page.title }}",
     "description": "{{ page.summary }}",
     "image": {
       "@type": "ImageObject",
-      "url": "{{ '/assets/images/leh.jpg' | absolute_url }}",
+      "url": "{{ social_image | absolute_url }}",
       "width": 1200,
       "height": 630
     },
@@ -79,7 +70,6 @@
     "mainEntityOfPage": "{{ page.url | absolute_url }}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-    "duration": "{{ page.duration }}",
     "location": {
       "@type": "Place",
       "name": "{{ page.location }}",
@@ -96,14 +86,36 @@
     "publisher": {
       "@type": "Organization",
       "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ '/assets/images/leh.jpg' | absolute_url }}"
+        "url": "{{ '/assets/images/favicon.png' | absolute_url }}"
       }
     },
-    "keywords": "road trip, travel, India, Leh, Ladakh, adventure, photography",
-    "genre": "Travel",
-    "wordCount": "{{ page.content | strip_html | number_of_words }}"
+    "keywords": "road trip, travel, India, {{ page.location }}, adventure, photography",
+    "genre": "Travel"
+  }
+  </script>
+  {% endif %}
+
+  {% if page.url == '/' %}
+  <!-- Homepage Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "description": "{{ site.description }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/assets/images/favicon.png' | absolute_url }}"
+      }
+    }
   }
   </script>
   {% endif %}
@@ -111,7 +123,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {% if page.layout == 'trip' %}
   <!-- Preload social sharing image for faster WhatsApp preview -->
-  <link rel="preload" as="image" href="{{ '/assets/images/leh.jpg' | absolute_url }}" crossorigin="anonymous">
+  <link rel="preload" as="image" href="{{ social_image | absolute_url }}" crossorigin="anonymous">
   {% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
