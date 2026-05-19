@@ -49,6 +49,55 @@ Day 1 done. Bhutan officially begins tomorrow."
       rating: 3
       review: "The rooms are spacious and clean, the front desk efficient, and just about every guide in town knows where it is. Sitting directly opposite the immigration building, it's as convenient as it gets for a border-night stay. The restaurant keeps it simple — fresh, home-style cooking that hits the spot after a long travel day. A solid no-fuss base."
     additional_considerations: "Be watchful of pickpockets in Jaigaon. Save SDF by doing stamping on Day 2 early morning at 9 am to beat crowd. Shopping is most economical in Phuentsholing, if you are returning from the same place, check the things in other cities and buy on your way back. Wine/Liquor is cheaper on small shops with limited variety"
+  - day: 2
+    title: "Onwards & Upwards - Phuentsholing to Thimpu"
+    date: "10 May 2026"
+    featured_image: "/assets/images/bhutan/day2-main.jpg"
+    description: "Day 2 was a travel day in the best sense — long, unhurried, and full of the kind of stops that don't appear on any itinerary but end up being the ones you remember. After a quick breakfast at the hotel, we walked across to the immigration building to complete the entry formalities started the night before. No luggage scanning this time, just a passport stamp. Fifteen minutes, and we were officially, fully in Bhutan. We made one more stop at Zangtopelri Lhakhang — the small temple we'd briefly visited the previous evening — now transformed in the morning light, its entrance framed by flowering bushes and a canopy of colour. By 9:30am we were in the van and climbing.<br/><br/>
+The road to Thimphu gains elevation quickly and you feel it in the air almost immediately. The West Bengal plains shrank behind us, the valleys deepened ahead, and somewhere along a high vantage point we stopped just to look back — towns, rivers, and the flat Indian landscape dissolving into haze far below. Somewhere in that view lies Gelephu, Bhutan's ambitious new Mindfulness City, a planned urban experiment blending modernist infrastructure with Buddhist values, expected to be operational by 2027.<br/><br/>
+The more compelling stop was Sangye Migyur Ling Lhakhang — a replica of a tower built by one of Buddhism's most extraordinary and unlikely figures, Jetsun Milarepa. His story is not what you'd expect from a revered saint. Born in the 11th century, he lost his family's property to a scheming aunt and uncle after his father's death. Consumed by rage, he turned to dark arts, calling down hailstorms that killed dozens. He was, for a time, genuinely feared. What followed was one of Buddhism's great redemption arcs — his teacher Marpa ordered him to build a stone tower with bare hands, then demolish it, then build it again. Three times. Until detachment stopped being a concept and became something lived. We climbed all nine stories of the lhakhang, each floor a little cooler, the surrounding valleys a little wider. By the top, the mountains filled every window.<br/><br/>
+Lunch was at Lhamu Restaurant & Bar — generous, delicious, and uncompromisingly spicy. The momos were the clear favourite, arriving hot and disappearing faster. Shortly after, the road offered Ri La Gshang Chuu Waterfall without announcement — water spraying clean off the hillside onto the roadside, the kind of sight that earns an immediate stop.<br/><br/>
+By mid-afternoon we reached the New Tanalung Bridge, built by the Border Roads Organisation under Project Dantak. The construction story is worth knowing: both ends sat above a deep gorge with no accessible approach, so a 140-metre suspended footbridge was first strung across just to ferry workers and materials to the far side. What you drive across in seconds took years of patience to build.
+The final stop was Chhuzom — the confluence of the Paro and Thimphu rivers, considered sacred in Bhutan, marked by three chortens in Bhutanese, Tibetan, and Nepali architectural styles. We took the Thimphu fork from here and arrived at Access Suites as the light softened — a well-designed, fairly new hotel with rooms that earned their views and a layout that worked well for two families. The evening needed nothing more than peach wine, a deck of cards, and an unhurried dinner. Outside, Thimphu settled into its quiet mountain night. A good day on the road."
+    highlights:
+      - "✅ The smooth immigration process"
+      - "✅ Our guide Rinjin and Driver Chaage were splendid, accomodative and knowledgeable"
+      - "✅ Views from Sangye Migyur Ling Lhakhang"
+      - "✅ Momos at Lhamu Restaurant"
+      - "✅ Comfortable Toyota Hiace van and beautiful views all throughout the journey"
+      - "✅ Amazing hotel stay at Thimpu"
+      - "❌ Vegeterians in the group found dinner options a bit limited"
+    photos:
+      - image: "/assets/images/bhutan/day2-hotel-gamega.jpg"
+        caption: "Leaving the hotel Ga Me Ga behind"
+      - image: "/assets/images/bhutan/day2-milerepa-lakhang.jpg"
+        caption: "The 9 story tower that reminds of the tail of Jetsun Milarepa"
+      - image: "/assets/images/bhutan/day2-milerepa-lakhang-two.jpg"
+        caption: "The extended Sangye Migyur Ling Lhakhang with a huge statue of Milarepa"
+      - image: "/assets/images/bhutan/day2-milerepa-views-more.jpg"
+        caption: "Extended valley views and the mist in the areas surrounding the temple"
+      - image: "/assets/images/bhutan/day2-pitstop.jpg"
+        caption: "The lunch pitstop"
+      - image: "/assets/images/bhutan/day2-chuu-waterfall.jpg"
+        caption: "Chuu waterfall, spraying down cool water droplets"
+      - image: "/assets/images/bhutan/day2-confluence.jpg"
+        caption: "Confluence of River Thimpu and River Paro"
+      - image: "/assets/images/bhutan/day2-roadstops.jpg"
+        caption: "Right behind our van, before we head out to Thimpu"
+      - image: "/assets/images/bhutan/day2-access-suites.jpg"
+        caption: "Our room at the Access suites, one of the nicer stays that we had"
+      - image: "/assets/images/bhutan/day2-peach-wine.jpg"
+        caption: "The sweet peach wine, one of the popular local produce, that everyone seems to love"
+    places_to_eat:
+      - name: "Lhamu Restaurant & Bar"
+        location: "Lhamu Restaurant, Gedu Bhutan"
+        comment: "The food was ok. It was a bit spicy for all of us, as the local cuisine in Bhutan generally is. The Momos were delicious and we had those with Thupka and Noodles. Thupka was nice and hot, a perfect pairing for the weather"
+    accommodation:
+      name: "Access Suites"
+      location: Access Suites Thimpu
+      rating: 4
+      review: "Access Suites is a well-designed, aesthetically considered hotel with mountain views that reward an early morning. Booking two rooms got us a generous suite arrangement — a shared kitchen and sitting area connecting both rooms — which turned out to be the best possible setup for two families wanting some together time without being on top of each other. The restaurant is on the ground floor and competently run, though the menu skews heavily toward Western palates. For a hotel in Thimphu, that felt like a missed opportunity — you want ema datshi and red rice, not pasta. Vegetarians had a particularly thin time at breakfast; dinner offered more to work with. Worth keeping in mind if local food is a priority — which in Bhutan, it should be."
+    additional_considerations: "Expect temperatures to drop in Thimpu in comparision to Phuentsholing"
 
 ---
 
