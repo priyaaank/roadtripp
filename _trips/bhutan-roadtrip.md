@@ -103,7 +103,7 @@ The final stop was Chhuzom — the confluence of the Paro and Thimphu rivers, co
       review: "Access Suites is a well-designed, aesthetically considered hotel with mountain views that reward an early morning. Booking two rooms got us a generous suite arrangement — a shared kitchen and sitting area connecting both rooms — which turned out to be the best possible setup for two families wanting some together time without being on top of each other. The restaurant is on the ground floor and competently run, though the menu skews heavily toward Western palates. For a hotel in Thimphu, that felt like a missed opportunity — you want ema datshi and red rice, not pasta. Vegetarians had a particularly thin time at breakfast; dinner offered more to work with. Worth keeping in mind if local food is a priority — which in Bhutan, it should be."
     additional_considerations: "Expect temperatures to drop in Thimpu in comparision to Phuentsholing"
   - day: 3
-    title: "Onwards & Upwards - A Day In Thimpu"
+    title: "Thimphu, Unhurried"
     date: "11 May 2026"
     featured_image: "/assets/images/bhutan/day3-main.jpg"
     description: "Thimphu rewards those who wander it slowly, and Day 3 was exactly that — a full day in the capital, moving from the sacred to the civic, with good food and unexpected discoveries in between.<br/><br/>
