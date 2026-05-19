@@ -88,6 +88,10 @@ The final stop was Chhuzom — the confluence of the Paro and Thimphu rivers, co
         caption: "Our room at the Access suites, one of the nicer stays that we had"
       - image: "/assets/images/bhutan/day2-peach-wine.jpg"
         caption: "The sweet peach wine, one of the popular local produce, that everyone seems to love"
+      - image: "/assets/images/bhutan/day2-accesssuites-cherries.jpg"
+        caption: "Small cherry plants in the parking area of the hotel"
+      - image: "/assets/images/bhutan/day2-accesssuites-oranges.jpg"
+        caption: "Small orange plants in the parking area of the hotel"
     places_to_eat:
       - name: "Lhamu Restaurant & Bar"
         location: "Lhamu Restaurant, Gedu Bhutan"
@@ -98,6 +102,66 @@ The final stop was Chhuzom — the confluence of the Paro and Thimphu rivers, co
       rating: 4
       review: "Access Suites is a well-designed, aesthetically considered hotel with mountain views that reward an early morning. Booking two rooms got us a generous suite arrangement — a shared kitchen and sitting area connecting both rooms — which turned out to be the best possible setup for two families wanting some together time without being on top of each other. The restaurant is on the ground floor and competently run, though the menu skews heavily toward Western palates. For a hotel in Thimphu, that felt like a missed opportunity — you want ema datshi and red rice, not pasta. Vegetarians had a particularly thin time at breakfast; dinner offered more to work with. Worth keeping in mind if local food is a priority — which in Bhutan, it should be."
     additional_considerations: "Expect temperatures to drop in Thimpu in comparision to Phuentsholing"
+  - day: 3
+    title: "Onwards & Upwards - A Day In Thimpu"
+    date: "11 May 2026"
+    featured_image: "/assets/images/bhutan/day3-main.jpg"
+    description: "Thimphu rewards those who wander it slowly, and Day 3 was exactly that — a full day in the capital, moving from the sacred to the civic, with good food and unexpected discoveries in between.<br/><br/>
+We started at Buddha Dordenma, the colossal gilded statue visible from virtually every corner of Thimphu — including our hotel window. Up close, it earns its presence. Standing 51.5 metres tall, it is one of the largest Buddha statues in the world, but the story behind it runs deeper than its scale. An ancient prophecy foretold that a statue of Shakyamuni Buddha built on these hills would radiate blessings across all sentient beings. Inside its vast bronze form sit over a hundred thousand individually consecrated smaller statues. The interior walls are painted with extraordinary precision — Jataka tales, past Buddhas, and visions of Maitreya yet to come. The morning sun, the valley below, the painted walls telling stories thousands of years old. Quietly overwhelming.<br/><br/>
+From the sublime to the wonderfully absurd: the Takin Preserve. Bhutan's national animal looks assembled by committee — part gnu, part goat, part bear, with a moose's nose for good measure. The myth explains it perfectly. The Divine Madman Drukpa Kunley, challenged to perform a miracle, ate an entire cow and goat, then fixed the goat's head onto the cow's bones. The creature stood up and walked away. The takin was born. The hillside enclosure is as much about the surrounding forest as the animals — a gradual, green, soul-restoring walk.<br/><br/>
+Lunch was at Zombala — small, bustling, overrun with locals, which is always the right sign. The momos, bathup, and thukpa were exceptional.<br/><br/>
+The post office visit sounds unremarkable until you're there. Bhutan's postal service will photograph you, render it as a personalised postage stamp, and press it onto an envelope ready to mail anywhere in the world. We left carrying little pieces of ourselves, officially franked.<br/><br/>
+Nearby, a traditional handmade paper factory practices Bhutan's ancient Deshо papermaking tradition — Daphne bark harvested, boiled, beaten into pulp, spread by hand onto wooden frames to dry. The paper has been used for centuries to print Buddhist scriptures. Next door, a studio of thangka painters, weavers, and wood carvers worked in focused silence. We asked about one particularly beautiful thangka. USD 16,000, offered without apology. Looking at the microscopic brushstrokes and months of visible labour, it was hard to argue.<br/><br/>
+Evening brought us to the National Memorial Chorten, built in 1974 by the Queen Mother in memory of Bhutan's third king — the father of modern Bhutan — who died at just 44. Built not as a tomb but as a place for ordinary Bhutanese to pray, its grounds draw elderly residents each evening, circumambulating slowly with prayer wheels and quiet devotion. Open, serene, unhurried.
+One last stop: Thimphu's famous hand-directed traffic junction. Bhutan trialled traffic lights here once and removed them within days — too cold, too impersonal. The white-gloved officer remains, unhurried and precise. We did street photography, spotted whiskey and rum ice cream nearby, and somehow didn't try it. A lingering regret.
+The day ended at the Department of Local Governance — an imposing building housing political bodies, religious institutions, and royal administration under one roof. Bhutan's governance deliberately interweaves civic authority, Buddhist tradition, and monarchy into a single philosophy. We reflected briefly on how differently a country can choose to organise itself, then headed back for dinner.<br/><br/>
+Thimphu had given us a full day."
+    highlights:
+      - "✅ A lot of visiting points were close by in the city, so we could cover them quickly"
+      - "✅ Postage stamp was a fantastic find and idea. Kids loved it"
+    photos:
+      - image: "/assets/images/bhutan/day3-buddha-deoderma.jpg"
+        caption: "Buddha Dordenma — 51.5 metres of gilded calm overlooking the Thimphu valley"
+      - image: "/assets/images/bhutan/day3-takin.jpg"
+        caption: "The Takin — Bhutan's national animal, looking as improbable in person as the myth suggests"
+      - image: "/assets/images/bhutan/day3-post-office.jpg"
+        caption: "Bhutan Post Office — where your face becomes an official postage stamp"
+      - image: "/assets/images/bhutan/day3-paper-making.jpg"
+        caption: "Deshо paper making — Daphne bark beaten, spread, and dried by hand into sheets"
+      - image: "/assets/images/bhutan/day3-live-painting.jpg"
+        caption: "The Thangka Painting Shop"
+      - image: "/assets/images/bhutan/day3-live-painting-art.jpg"
+        caption: "Up close with the precision of traditional thangka work"
+      - image: "/assets/images/bhutan/day3-live-painting-gallery.jpg"
+        caption: "The studio gallery, lined with display of various art materials"
+      - image: "/assets/images/bhutan/day3-masks.jpg"
+        caption: "Hand-carved ceremonial mask, colorful and history rich"
+      - image: "/assets/images/bhutan/day3-masks-art-gallery.jpg"
+        caption: "A wall of masks at the art gallery — the range of expression is striking"
+      - image: "/assets/images/bhutan/day3-museum.jpg"
+        caption: "The arts village installation of one of the most popular story in Bhutanese culture"
+      - image: "/assets/images/bhutan/day3-phallus.jpg"
+        caption: "The phallus motif — a nod to the Divine Madman Drukpa Kunley, found across Bhutanese homes and walls"
+      - image: "/assets/images/bhutan/day3-memorial-chortan.jpg"
+        caption: "National Memorial Chorten — built in 1974 in memory of Bhutan's third king"
+      - image: "/assets/images/bhutan/day3-police-junction.jpg"
+        caption: "Thimphu's famous hand-directed traffic junction — the city tried lights once and walked them back within days"
+      - image: "/assets/images/bhutan/day3-ministry-homeaffairs.jpg"
+        caption: "The Ministry of Home Affairs — civic architecture in distinctly Bhutanese form"
+      - image: "/assets/images/bhutan/day3-supreme-court.jpg"
+        caption: "The Department of Local Governance of Bhutan"
+      - image: "/assets/images/bhutan/day3-supreme-court-grounds.jpg"
+        caption: "Walking the Department of Local Governance grounds, quiet and well kept"
+    places_to_eat:
+      - name: "Zombala"
+        location: "Zombala Restaurant, Dondrub Lam Thimphu"
+        comment: "Small, bustling and packed with locals — always a good sign. The momos, bathup and thukpa were exceptional. The kind of place you'd come back to on a return trip."
+    accommodation:
+      name: "Access Suites"
+      location: Access Suites Thimpu
+      rating: 4
+      review: "Access Suites is a well-designed, aesthetically considered hotel with mountain views that reward an early morning. Booking two rooms got us a generous suite arrangement — a shared kitchen and sitting area connecting both rooms — which turned out to be the best possible setup for two families wanting some together time without being on top of each other. The restaurant is on the ground floor and competently run, though the menu skews heavily toward Western palates. For a hotel in Thimphu, that felt like a missed opportunity — you want ema datshi and red rice, not pasta. Vegetarians had a particularly thin time at breakfast; dinner offered more to work with. Worth keeping in mind if local food is a priority — which in Bhutan, it should be."
+    additional_considerations: "Thimphu rewards a slow pace — pack the day with sites but leave room to wander. Stamps are a fantastic personalized gift for close ones and costs Nu 500 for 12 copies."
 
 ---
 
