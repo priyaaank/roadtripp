@@ -162,6 +162,65 @@ Thimphu had given us a full day."
       rating: 4
       review: "Access Suites is a well-designed, aesthetically considered hotel with mountain views that reward an early morning. Booking two rooms got us a generous suite arrangement — a shared kitchen and sitting area connecting both rooms — which turned out to be the best possible setup for two families wanting some together time without being on top of each other. The restaurant is on the ground floor and competently run, though the menu skews heavily toward Western palates. For a hotel in Thimphu, that felt like a missed opportunity — you want ema datshi and red rice, not pasta. Vegetarians had a particularly thin time at breakfast; dinner offered more to work with. Worth keeping in mind if local food is a priority — which in Bhutan, it should be."
     additional_considerations: "Thimphu rewards a slow pace — pack the day with sites but leave room to wander. Stamps are a fantastic personalized gift for close ones and costs Nu 500 for 12 copies."
+  - day: 4
+    title: "Exploring Punakha"
+    date: "12 May 2026"
+    featured_image: "/assets/images/bhutan/day4-main.jpg"
+    description: "The drive from Thimphu to Punakha begins with Dochula Pass — and Dochula makes an entrance. At 3,100 metres, 108 chortens fan out across the hillside in concentric rings, built by the Queen Mother Ashi Dorji Wangmo Wangchuck in honour of Bhutanese soldiers killed during a 2003 military operation against Indian insurgents sheltering in Bhutan's southern forests. On clear days, the eastern Himalayan range sprawls across the horizon behind them — a view that makes the short stop feel almost unfair. We spent 30 minutes there, had coffee at the small café, and left reluctantly.<br/><br/>
+Punakha Dzong appeared by 11am, framed by lavender jacaranda trees and the confluence of the Pho Chhu and Mo Chhu rivers at its feet. Built in 1637 by Zhabdrung Ngawang Namgyal — the monk-warrior who unified Bhutan — it served as the country's capital and seat of government for centuries. The cantilever bridge leading to its entrance has been swept away by floods multiple times and rebuilt each time with quiet determination. Inside, courtyards open into courtyards, and a temple sits at its heart draped in gold and silence.
+Lunch nearby was forgettable — Punakha is small and options are limited. Plan accordingly.<br/><br/>
+The afternoon redeemed itself entirely with the Khamsum Yulley Namgyal Chorten trek — an easy hour's climb through forest to a hilltop temple with views that justify every step. Windy at the top, peacefully empty, worth it.
+Then the Mo Chhu river rafting. Eight kilometres, one dramatic early splash, and six people spending the rest of the ride shivering cheerfully. Mostly placid water, beautiful birds, and mountains watching from every direction.
+We ended the day at DharmaSiddhi — excellent rooms, exceptional dinner, and the deep sleep that a day like this earns."
+    highlights:
+      - "✅ Stay at DharmaSiddhi was an absolute pleasure"
+      - "✅ The Namgyal Chorten trek was refreshing and a great group activity"
+      - "✅ Rafting was fun and could be done by kids as well, which made it more inclusive, even though there are no rapids"
+      - "❌ Lunch at Urd Restaurant opposite to Punakha Dzong was pretty underwhelming and the service was not great"
+    photos:
+      - image: "/assets/images/bhutan/day4-banyantree.jpg"
+        caption: "The Banyan tree at Namgyal Chorten courtyard"
+      
+      - image: "/assets/images/bhutan/day4-dochula-pass.jpg"
+        caption: "Dochula pass being all mysterious"
+      - image: "/assets/images/bhutan/day4-palace.jpg"
+        caption: "Punakha Dzong, the amazing views"
+      - image: "/assets/images/bhutan/day4-punakha-dzong-inside.jpg"
+        caption: "Inside the courtyard of Punakha Dzong"
+      - image: "/assets/images/bhutan/day4-punakha-dzong-lavendartrees.jpg"
+        caption: "Dzong in the backdrop of lavender trees"
+      - image: "/assets/images/bhutan/day4-punakha-dzong-nightview.jpg"
+        caption: "Beautiful view of Punakha Dzong in the night from our hotel"
+      - image: "/assets/images/bhutan/day4-punakha-dzong-river.jpg"
+        caption: "Beautiful view of Punakha Dzong"
+      - image: "/assets/images/bhutan/day4-khumsum-yullay-namgyal-chorten-gate.jpg"
+        caption: "The exit gate of the chorten"
+      - image: "/assets/images/bhutan/day4-khumsum-yullay-namgyal-chorten.jpg"
+        caption: "The Khumsum Yullay Namgyal Chorten at the end of the trek"
+      - image: "/assets/images/bhutan/day4-namgyal-chorten-trek.jpg"
+        caption: "Going up the Chorten Trek"
+      - image: "/assets/images/bhutan/day4-namgyal-chorten-board.jpg"
+        caption: "The board outside Chorten at the top of the trek"
+      - image: "/assets/images/bhutan/day4-valley-and-river.jpg"
+        caption: "View of the valley and the river from the top of Namgyal Chorten"
+      - image: "/assets/images/bhutan/day4-punakha-rafting.jpg"
+        caption: "Our rafting adventure in Punakha on Mo Chhu"
+      - image: "/assets/images/bhutan/day4-riverviews.jpg"
+        caption: "River views from our raft"
+      - image: "/assets/images/bhutan/day4-dharma-siddhi-treelight.jpg"
+        caption: "A beautiful tree light setup at the place we were staying"
+      - image: "/assets/images/bhutan/day4-dharma-siddhi.jpg"
+        caption: "Our hotel rooms at Dharma Siddhi, comfortable and classy"
+    places_to_eat:
+      - name: "DharmaSiddhi"
+        location: "DharmaSiddhi, Punakha"
+        comment: "While not a restaurant, the place is run by mostly women and the kitchen was small home kitchen. The food, if you ever get a chance, was outstanding. It was fresh, delicious and a good blend of most popular dishes as well as local blend. We thoroughly enjoyed"
+    accommodation:
+      name: "Dharma Siddhi"
+      location: Dharma Siddhi, Punakha
+      rating: 5
+      review: "Darma Siddhi is a very tastefully designed Airbnb style stay. Mostly run by women, the place has amazing views, multiple options for dining location, and a limited but very delicious spread for breakfast and dinner. The rooms were perfect for people with kids. The rooms are large, bright, beautifully decorated with local artefacts. There is a common area to hang out if you are a large party. Finally, the hosts are extremly welcoming and accomodating. It was definitely the best stay during the whole trip. Cannot recomment it enough"
+    additional_considerations: "Consider Rafting and trekking. Rafting get busy in evenings, so consider doing it before the trek. Trek is an easy trek with some nice views of the small streams flowing by and valley views from the top of the Chorten. Figure out lunch place in advance, not many options in Punakha"
 
 ---
 
