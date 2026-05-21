@@ -221,6 +221,47 @@ We ended the day at DharmaSiddhi — excellent rooms, exceptional dinner, and th
       rating: 5
       review: "Darma Siddhi is a very tastefully designed Airbnb style stay. Mostly run by women, the place has amazing views, multiple options for dining location, and a limited but very delicious spread for breakfast and dinner. The rooms were perfect for people with kids. The rooms are large, bright, beautifully decorated with local artefacts. There is a common area to hang out if you are a large party. Finally, the hosts are extremly welcoming and accomodating. It was definitely the best stay during the whole trip. Cannot recomment it enough"
     additional_considerations: "Consider Rafting and trekking. Rafting get busy in evenings, so consider doing it before the trek. Trek is an easy trek with some nice views of the small streams flowing by and valley views from the top of the Chorten. Figure out lunch place in advance, not many options in Punakha"
+  - day: 5
+    title: "Gangstey Monastry & Trek through Phobjikha Valley"
+    date: "13 May 2026"
+    featured_image: "/assets/images/bhutan/day5-main.jpg"
+    description: ""
+    highlights:
+      - "✅ The beautiful nature trail and walk in Phobjikha valley"
+      - "✅ Ornate exterior walls of Gangstey Monastry"
+      - "✅ Incidental deals on yak wool items along Phobjikha valley trek in the village"
+      - "❌ Last 60 minutes of road to Gangstey monatry was extremely bad and slowed us down"
+    photos:
+      - image: "/assets/images/bhutan/day5-teki-zampa-bridge.jpg"
+        caption: "Teki Zampa bridge - a quiet pause on the road up"
+      - image: "/assets/images/bhutan/day5-khandu-hotel-nugding-pitstop.jpg"
+        caption: "Khandu Hotel in Nubding — the customary pitstop on the way to Phobjikha"
+      - image: "/assets/images/bhutan/day5-gangtey-monastry-road.jpg"
+        caption: "The final road up to Gangtey monastery — showing vibrant colors"
+      - image: "/assets/images/bhutan/day5-gangtey-monastry-courtyard.jpg"
+        caption: "Gangtey monastery courtyard, unhurried and open to the sky"
+      - image: "/assets/images/bhutan/day5-gangtey-monastry-cornerone.jpg"
+        caption: "Ornate woodwork along the monastery walls"
+      - image: "/assets/images/bhutan/day5-gangtey-monastry-cornertwo.jpg"
+        caption: "Another corner of Gangtey — every surface carved or painted"
+      - image: "/assets/images/bhutan/day5-black-crane.jpg"
+        caption: "The black-necked crane — Phobjikha's celebrated winter visitor"
+      - image: "/assets/images/bhutan/day5-phobjikha-valley-views.png"
+        caption: "Phobjikha valley pastures till the horizon"
+      - image: "/assets/images/bhutan/day5-phobjikha-valley-trek.jpg"
+        caption: "The path through the Phobjikha valley"
+      - image: "/assets/images/bhutan/day5-phobjikha-valley-river.jpg"
+        caption: "The little river threading through Phobjikha"
+      - image: "/assets/images/bhutan/day5-phobjikha-valley-house.jpg"
+        caption: "A traditional Bhutanese home tucked into the valley"
+      - image: "/assets/images/bhutan/day5-phobjikha-valley-village.jpg"
+        caption: "The village along the trail — where the yak wool deals appeared"
+    accommodation:
+      name: "Dharma Siddhi"
+      location: Dharma Siddhi, Punakha
+      rating: 5
+      review: "Darma Siddhi is a very tastefully designed Airbnb style stay. Mostly run by women, the place has amazing views, multiple options for dining location, and a limited but very delicious spread for breakfast and dinner. The rooms were perfect for people with kids. The rooms are large, bright, beautifully decorated with local artefacts. There is a common area to hang out if you are a large party. Finally, the hosts are extremly welcoming and accomodating. It was definitely the best stay during the whole trip. Cannot recomment it enough"
+    additional_considerations: ""
 
 ---
 
