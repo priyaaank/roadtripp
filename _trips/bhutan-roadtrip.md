@@ -222,7 +222,7 @@ We ended the day at DharmaSiddhi — excellent rooms, exceptional dinner, and th
       review: "Darma Siddhi is a very tastefully designed Airbnb style stay. Mostly run by women, the place has amazing views, multiple options for dining location, and a limited but very delicious spread for breakfast and dinner. The rooms were perfect for people with kids. The rooms are large, bright, beautifully decorated with local artefacts. There is a common area to hang out if you are a large party. Finally, the hosts are extremly welcoming and accomodating. It was definitely the best stay during the whole trip. Cannot recomment it enough"
     additional_considerations: "Consider Rafting and trekking. Rafting get busy in evenings, so consider doing it before the trek. Trek is an easy trek with some nice views of the small streams flowing by and valley views from the top of the Chorten. Figure out lunch place in advance, not many options in Punakha"
   - day: 5
-    title: "Gangstey Monastry & Trek through Phobjikha Valley"
+    title: "Gangtey Monastry & Trek through Phobjikha Valley"
     date: "13 May 2026"
     featured_image: "/assets/images/bhutan/day5-main.jpg"
     description: "Day 5 began well - a 7:30am start, a delicious breakfast at DharmaSiddhi, and morning views that made leaving harder than it should have been. We were headed to Gangtey Monastery and the Phobjikha Valley, one of Bhutan's most celebrated landscapes.<br/><br/>
@@ -235,9 +235,9 @@ The drive back had its own rewards. A quick stop at Teki Zampa bridge offered lo
 DharmaSiddhi, dinner, and then the deep, immediate sleep of people who had thoroughly used their day."
     highlights:
       - "✅ The beautiful nature trail and walk in Phobjikha valley"
-      - "✅ Ornate exterior walls of Gangstey Monastry"
+      - "✅ Ornate exterior walls of Gangtey Monastry"
       - "✅ Incidental deals on yak wool items along Phobjikha valley trek in the village"
-      - "❌ Last 60 minutes of road to Gangstey monatry was extremely bad and slowed us down"
+      - "❌ Last 60 minutes of road to Gangtey monatry was extremely bad and slowed us down"
     photos:
       - image: "/assets/images/bhutan/day5-teki-zampa-bridge.jpg"
         caption: "Teki Zampa bridge - a quiet pause on the road up"
