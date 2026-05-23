@@ -268,7 +268,75 @@ DharmaSiddhi, dinner, and then the deep, immediate sleep of people who had thoro
       location: Dharma Siddhi, Punakha
       rating: 5
       review: "Darma Siddhi is a very tastefully designed Airbnb style stay. Mostly run by women, the place has amazing views, multiple options for dining location, and a limited but very delicious spread for breakfast and dinner. The rooms were perfect for people with kids. The rooms are large, bright, beautifully decorated with local artefacts. There is a common area to hang out if you are a large party. Finally, the hosts are extremly welcoming and accomodating. It was definitely the best stay during the whole trip. Cannot recomment it enough"
-    additional_considerations: ""
+    additional_considerations: "Phobjikha valley was a beautiful trail. If you are into bird watching then Black necked crane center would be something you would enjoy, otherwise you can skip. The documentary is not worth staying for unless you are passionate about birds and Black necked crane in general"
+  - day: 6
+    title: "Arriving at Paro"
+    date: "14 May 2026"
+    featured_image: "/assets/images/bhutan/day6-main.jpg"
+    description: "DharmaSiddhi sent us off well — another generous breakfast, this time with a some of us commandeering the tables overlooking the sprawling view of the valley. By 8:40am we were on the road, with one piece of unfinished Punakha business to attend to first.<br/><br/>
+The suspension bridge had somehow escaped us until now. The longest in Bhutan, it sways gently over the Mo Chhu river with prayer flags strung along its length snapping in the morning breeze. We walked it end to end, and as if on cue, a helicopter carved through the valley overhead. Some moments arrange themselves.<br/><br/>
+The drive back to Paro retraced our earlier route through Dochula Pass — another stop, another look at those 108 chortens against the mountain skyline, another reminder that this view doesn't get old.<br/><br/>
+On the outskirts of Paro, we stopped at Tachog Lhakhang and its ancient iron chain bridge — one of the most remarkable structures in Bhutan. Built in the 15th century by Thangtong Gyalpo, a legendary engineer-saint who constructed over 58 iron chain bridges across the Himalayas to connect remote communities, it is a testament to both engineering ingenuity and spiritual devotion. Thangtong Gyalpo, known as the Iron Bridge Builder, is said to have financed his bridges by founding the Lhamo performing arts tradition — essentially inventing Bhutanese opera as a fundraising mechanism. The chains of the original bridge, hand-forged and centuries old, still hang at the site. Standing beside them, the distance between the 15th century and the present collapses considerably.<br/><br/>
+Lunch was at Mountain Café in Paro market — a popular tourist institution that requires patience, a good guide, or ideally both. Our guide Rinzin produced a table from nowhere, which elevated him considerably in our estimation. Fed and restored, we wandered to a sand mandala art centre nearby — some of us watching the painstaking construction of intricate sand art, others tentatively trying their own hand at it with predictably humbling results.<br/><br/>
+A short stroll brought us to the riverbank beside Rinpung Dzong, where the kids got dressed in traditional Bhutanese clothes and clicked pictures with the dzong as backdrop. Simple, joyful, the kind of afternoon that travels well in memory.
+Then the main event: the Paro airport vantage point. Watching a flight land at Paro is genuinely spectacular — pilots navigate entirely by sight through a narrow mountain valley, banking steeply between peaks before dropping onto one of the world's most technically demanding runways. We filmed it. It deserved to be filmed.<br/><br/>
+The rest of the evening was ours. We browsed the Paro market without agenda — the farmers market for fresh fruit, local storybooks for the kids, street-side carrom games drawing small crowds of locals. We ended at Brioche Café next to Mountain Café for ice creams and desserts that were fresh, well-made, and gone too quickly.<br/><br/>
+Ananda Resort received us at day's end — adequate rooms, some late-night noise through thin walls, and a lobby that didn't quite welcome. But Tiger's Nest was in the morning, and that knowledge is its own sedative. We were asleep before we knew it."
+    highlights:
+      - "✅ Airplane spotting from vantage point at Paro Airport"
+      - "✅ Sand Mandala - viewing and trying it on your at Sand Mandala centers"
+      - "✅ Visit to Paro farmer's market, the produce seemed very fresh. We got a bunch of fruits for Tiger Nest trek and they were delicious!"
+      - "❌ Stay at Ananda Resort did not match the prior experience at prior accomodations"
+    photos:
+      - image: "/assets/images/bhutan/day6-breakfast-with-view.jpg"
+        caption: "Breakfast with a sprawling view of valley and some unique birds"
+      - image: "/assets/images/bhutan/day6-suspension-bridge.jpg"
+        caption: "The longest suspension bridge in Bhutan"
+      - image: "/assets/images/bhutan/day6-helicopter-carry.jpg"
+        caption: "An opportunate moment to view a helicopter carrying something"
+      - image: "/assets/images/bhutan/day6-dochula-pass-klin.jpg"
+        caption: "Dochula pass and a klin like structure"
+      - image: "/assets/images/bhutan/day6-dochula-pass-view.jpg"
+        caption: "Dochula pass and the 108 chortens view"
+      - image: "/assets/images/bhutan/day6-chain-bridge.jpg"
+        caption: "The old chain bridge as constructed by Thangtong Gyalpo"
+      - image: "/assets/images/bhutan/day6-flag-bridge.jpg"
+        caption: "The new bridge next to the old chain bridge for a walkover"
+      - image: "/assets/images/bhutan/day6-airplane-takeoff.png"
+        caption: "Watching a flight take off from Paro airport"
+      - image: "/assets/images/bhutan/day6-paro-market.jpg"
+        caption: "Arrival at the central Paro market"
+      - image: "/assets/images/bhutan/day6-sand-mandala-creations.jpg"
+        caption: "Our attempts at creations at Sand mandala center"
+      - image: "/assets/images/bhutan/day6-sandmandala-contact.jpg"
+        caption: "Contact details for Sand Mandala Center"
+      - image: "/assets/images/bhutan/day6-sand-mandala.jpg"
+        caption: "An intricate sand mandala"
+      - image: "/assets/images/bhutan/day6-paro-street-games.jpg"
+        caption: "Saw people play carrom in an unhurried way on street sides"
+      - image: "/assets/images/bhutan/day6-farmersmarket-more.jpg"
+        caption: "Farmers market with fresh produce. Located near paro market"
+      - image: "/assets/images/bhutan/day6-farmetsmarket.jpg"
+        caption: "Farmers market with fresh produce. Located near paro market"
+      - image: "/assets/images/bhutan/day6-cafe-brioche.jpg"
+        caption: "Cafe brioche on the central street"
+      - image: "/assets/images/bhutan/day6-cafe-brioche-ice-creams.jpg"
+        caption: "Ice creams at cafe brioche"
+      - image: "/assets/images/bhutan/day6-random-door.jpg"
+        caption: "A random door on the periphery of Rinpung Dzong"
+    places_to_eat:
+      - name: "Mountain Cafe"
+        location: "Mountain Cafe, Paro"
+        comment: "Mountain Café in Paro is popular enough that finding a table during tourist season requires either patience or luck. It runs two separate kitchens, pure veg and non-veg, across the street. And the menu casts a wide net: familiar, crowd-pleasing dishes aimed squarely at the international traveller rather than the curious local-food seeker. The bakery does brisk business. Food is decent, service is unhurried, prices are on the higher side. Go in knowing what it is - a reliable comfort stop, not a culinary adventure."
+      - name: "Brioche Cafe"
+        location: "Brioche Cafe, Paro"
+        comment: "Brioche Café sits right next to Mountain Café and is worth a stop in its own right. A proper bakery with fresh, well-made desserts and ice creams that punched well above what we expected. Simple, good, and highly recommended if you have any room left after lunch."
+    accommodation:
+      name: "Ananda Resorts"
+      location: Ananda Resorts, Paro
+      rating: 2
+      review: "Ananda Resort is a budget package-tour property and feels like one. Rooms are adequate but unremarkable, facilities are basic, and noise travels freely between rooms and common areas when larger groups are in residence. The lobbies carry a persistent smell that doesn't help first impressions. The hot stone bath - a traditional Bhutanese experience worth seeking out elsewhere — didn't inspire confidence here on either quality or hygiene grounds; skip it and find a better establishment for that. Breakfast was sparse: toast, butter, jam, and little else. There are better options at similar price points. Only consider it if the budget leaves no flexibility."
+    additional_considerations: "Paro airport is one of the most dramatic landing strips in the world - pilots navigate by sight through a narrow mountain valley, and watching aircraft descend from the right vantage point is genuinely thrilling. Check flight timings on a tracker. The Paro market is worth an unhurried browse. Souvenirs are plentiful and the craftsmanship at the better shops is noticeably finer than what you'll find at the border. There is a place near Dzong in Paro market, which allows you to try local costumes to take pictures (Gho for men and Kira for women)"
 
 ---
 
