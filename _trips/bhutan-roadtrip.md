@@ -341,7 +341,16 @@ Ananda Resort received us at day's end — adequate rooms, some late-night noise
     title: "Climbing our mountain, Tiger Nest Trail at Paro"
     date: "15 May 2026"
     featured_image: "/assets/images/bhutan/day7-main.jpg"
-    description: ""
+    description: "Some days have one purpose. Day 7 was about Tiger's Nest, and everything else arranged itself around that fact. We left at 6am sharp, arriving at the trailhead as the valley was still shaking off the night. Trek and monastery entry costs Nu 500 per person — pay this at the base before starting. Horses are available for Nu 1500 per person, a one-way ride to the midpoint café. We put the kids on horseback and watched them disappear up the trail while the adults followed on foot.<br/><br/>
+The path earns its reputation. Steep, occasionally muddy, and well-trafficked by both horses and hikers, it demands steady legs and a willingness to stop and breathe. Which, conveniently, also gives you excuses to turn around and look at the valley falling away below — a view that improves with every hundred metres gained. We munched on snacks along the way, took breaks without guilt, and reached the midpoint café a little over 90 minutes after starting.<br/><br/>
+The café sits at roughly the halfway point and is the only place on the trail with restrooms and food. Plan around it — there are no bins or facilities anywhere else on the route. We rested 20 minutes, ate more than was strictly necessary, and pushed on.
+Forty-five minutes later, Tiger's Nest appeared.<br/><br/>
+Paro Taktsang clings to a sheer granite cliff face at 3,120 metres as if gravity is simply a suggestion it has chosen to ignore. The monastery was built around the cave where Guru Rinpoche — Bhutan's patron saint — is said to have meditated for three months in the 8th century, having flown here on the back of a tigress from Tibet. The tigress was Yeshe Tsogyal, his consort, transformed for the journey. He came to subdue the demons of the Paro valley and consecrate the land for Buddhism. Standing before it, the story feels entirely plausible.<br/><br/>
+Beyond the primary cave temple, several smaller temples are tucked into the rock face, each connected by steep staircases and narrow passages. The wishing stone draws quiet queues. The restrooms were crowded and functional — clean water and soap, which after that climb felt like genuine luxury.<br/><br/>
+We spent 30 minutes at the top before beginning the descent. The final approach to the monastery involves a steep downhill staircase followed by an equally steep climb back up — legs that felt capable on the way in will have opinions on the way out. Allow 30 minutes for the stairs alone, and another 40-45 minutes to reach the base from there. We had started climbing at 6:30am and were back at the van by 12:30pm — a satisfying six-hour round trip.<br/><br/>
+A few practical notes worth keeping: tickets are not issued after 11am, so an early start is not optional. Horses cover only the upward journey to the midpoint — the return is on foot regardless. And the trail will humble you, so eat before you go.<br/><br/>
+Lunch at Sonam Trophel restaurant in Paro market was everything post-trek lunch should be — unhurried, restorative, and deeply appreciated. We then visited the National Museum, a worthwhile walkthrough of Bhutanese heritage and culture that our tired legs and wandering attention didn't fully deserve. As we emerged, a flight was banking into Paro airport below — not the prime vantage point, but the timing was perfect enough to stop us all mid-step. Bhutan has a way of doing that.<br/><br/>
+The evening was quiet by design. Back at the hotel, I tried the hot stone bath — a traditional Bhutanese therapeutic practice where river stones are heated in fire and lowered into a wooden tub, slowly releasing minerals into the water. Others booked theirs for the following morning at Zanta Spa. Dinner, then an early night. Tomorrow, the road home begins."
     highlights:
       - "✅ Everyone, including kids climbed Tiger Nest too and fro. Great feeling and trek! Views along the way were amazing"
       - "✅ Finished trek much sooner than planned"
@@ -374,7 +383,7 @@ Ananda Resort received us at day's end — adequate rooms, some late-night noise
       location: Ananda Resorts, Paro
       rating: 2
       review: "Ananda Resort is a budget package-tour property and feels like one. Rooms are adequate but unremarkable, facilities are basic, and noise travels freely between rooms and common areas when larger groups are in residence. The lobbies carry a persistent smell that doesn't help first impressions. The hot stone bath - a traditional Bhutanese experience worth seeking out elsewhere — didn't inspire confidence here on either quality or hygiene grounds; skip it and find a better establishment for that. Breakfast was sparse: toast, butter, jam, and little else. There are better options at similar price points. Only consider it if the budget leaves no flexibility."
-    additional_considerations: ""
+    additional_considerations: "Start trek as early as you can. Plan for restroom breaks, food and managing generated grabage during the trek. Plan for a downtime. Zanta Spa for hot stone bath comes highly recommended with amazing views during the bath"
 
 
 ---
