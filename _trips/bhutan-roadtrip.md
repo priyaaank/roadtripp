@@ -384,6 +384,83 @@ The evening was quiet by design. Back at the hotel, I tried the hot stone bath �
       rating: 2
       review: "Ananda Resort is a budget package-tour property and feels like one. Rooms are adequate but unremarkable, facilities are basic, and noise travels freely between rooms and common areas when larger groups are in residence. The lobbies carry a persistent smell that doesn't help first impressions. The hot stone bath - a traditional Bhutanese experience worth seeking out elsewhere — didn't inspire confidence here on either quality or hygiene grounds; skip it and find a better establishment for that. Breakfast was sparse: toast, butter, jam, and little else. There are better options at similar price points. Only consider it if the budget leaves no flexibility."
     additional_considerations: "Start trek as early as you can. Plan for restroom breaks, food and managing generated grabage during the trek. Plan for a downtime. Zanta Spa for hot stone bath comes highly recommended with amazing views during the bath"
+  - day: 8
+    title: "The Road Back - Paro to Phuentsholing"
+    date: "16 May 2026"
+    featured_image: "/assets/images/bhutan/day8-main.jpg"
+    description: "The last full day in Bhutan began without urgency. Bags loaded by 8:10am, and then a leisurely detour to Zanta Spa before hitting the road — everyone had booked their hot stone bath for the morning, and no one was in a hurry to skip it.<br/><br/>
+The hot stone bath is one of Bhutan's oldest therapeutic traditions. River stones are heated in fire for hours, then lowered into a wooden tub through a small opening, slowly releasing heat and minerals — particularly iron — into the water. The Bhutanese have used it for centuries to treat joint pain, improve circulation, and recover from physical exertion. After Tiger's Nest the previous day, it was less a luxury and more a medical necessity. The verdict from everyone who soaked was unanimous: exceptional.<br/><br/>
+I waited in the lobby and read. Bhutan rewards this kind of idle curiosity — culture, governance, religion, economy, all woven so tightly together that pulling on any one thread unravels something fascinating. I fell down a rabbit hole on Bhutanese treks and emerged with the Snowman Trek firmly on my bucket list. Considered one of the most difficult treks in the world, it crosses 11 high mountain passes above 4,500 metres through Bhutan's remote north, taking up to 25 days to complete. Very few who attempt it finish. That, naturally, is the point.<br/><br/>
+Three stops punctuated the long drive back to Phuentsholing. The first was the Paro airport viewpoint once more — this time to watch a flight take off, banking steeply between peaks and climbing hard into thin air. We couldn't help ourselves. The second was the Paro-Thimphu river confluence at Chhuzom, seen now from the opposite bank — the same sacred meeting of waters, a different angle, equally beautiful. The third was Dam View Restaurant for lunch, a reliable stop with views that justify the name.<br/><br/>
+A final detour to Teki Zampa Bridge revealed a waterfall threading down a boulder slope above the road and continuing into the valley below. In peak monsoon it would be a spectacle — even in its quieter state it earned a stop and a long look.<br/><br/>
+We rolled into Phuentsholing at 4:45pm. First order of business: the immigration office, to get the exit stamp on our passports before the following day — the same SDF-saving manoeuvre we had used on arrival, now applied in reverse. One less day of fees, two minutes of paperwork. After that we said goodbyes to our amazing Driver Chaage and guide Rinzin, who were amazing companion, hosts and co-travellers through our journey!<br/><br/>
+The evening was loose and unhurried — some shopping, a wander, and a discovery: Takin wine, a mixed berry variety at 16% alcohol, named after Bhutan's improbable national animal. Too sweet for most palates at the table, but deceptively potent. A small pour was enough to confirm both facts.<br/><br/>
+Dinner, then bed. One travel day left, and the strange, slightly melancholy feeling of a trip that has given generously and is now gently winding down."
+    highlights:
+      - "✅ The Zanta spa stood out with amazing, service, food and views along with hot stone bath. Value for money"
+      - "✅ Views along the way and evening shopping in Phuentsholing"
+      - "❌ No great food options along the way"
+    photos:
+      - image: "/assets/images/bhutan/day8-departing.jpg"
+        caption: "Packing for the journey ahead"
+      - image: "/assets/images/bhutan/day8-flowerpot.jpg"
+        caption: "Flowers in full bloom before we started our journey"
+      - image: "/assets/images/bhutan/day8-zanta-spa.jpg"
+        caption: "Zanta Spa"
+      - image: "/assets/images/bhutan/day8-gate.jpg"
+        caption: "The gate at the Chhuzom Bridge"
+      - image: "/assets/images/bhutan/day8-last-view-runway.jpg"
+        caption: "Paro airport runway view"
+      - image: "/assets/images/bhutan/day8-lunch-dam-view.jpg"
+        caption: "Menu at hotel Dam View"
+      - image: "/assets/images/bhutan/day8-milestone.jpg"
+        caption: "The milestone at the Confluence at Chhuzom Bridge"
+      - image: "/assets/images/bhutan/day8-river.jpg"
+        caption: "River after confluence"
+      - image: "/assets/images/bhutan/day8-waterfall.jpg"
+        caption: "The Teki Zampa Bridge waterfall "
+      - image: "/assets/images/bhutan/day8-road-down.jpg"
+        caption: "Views and winding road down along the trip"
+      - image: "/assets/images/bhutan/day8-takin.jpg"
+        caption: "The mixed berry local wine - Takin"
+    places_to_eat:
+      - name: "Dam View Hotel"
+        location: "Dam View Restaurant, Chukkha Bhutan"
+        comment: "The food was fresh and the menu surprisingly eclectic — dosa and curd rice sitting alongside the usual options. Service was brusque and forgettable. A functional stop, nothing more."
+    accommodation:
+      name: "Hotel GaMeGa"
+      location: Hotel GaMeGa Phuntsholing
+      rating: 3
+      review: "The rooms are spacious and clean, the front desk efficient, and just about every guide in town knows where it is. Sitting directly opposite the immigration building, it's as convenient as it gets for a border-night stay. The restaurant keeps it simple — fresh, home-style cooking that hits the spot after a long travel day. A solid no-fuss base."
+    additional_considerations: "Ride to Phuentsholing took around 7 hours with stops. Phuentsholing is the most economical place to buy souvenirs, liquor, and bulk shopping before heading back across the border. Plan the evening for it."
+  - day: 9
+    title: "Border Crossing and the Flight Home - Phuentsholing to Bengaluru"
+    date: "17 May 2026"
+    featured_image: "/assets/images/bhutan/day9-teesta-river-bridge.png"
+    description: "The last day asked little of us, which felt appropriate. A 5pm flight and a four-to-five hour drive meant a relaxed morning — no alarms, no urgency, just the quiet business of zipping up bags and saying goodbye to a country that had been generous with us.<br/><br/>
+The border crossing was on foot. Getting the van through the Phuentsholing checkpoint involves queues long enough to miss flights, so we walked across, loaded our bags on the Bhutan side, and climbed back into the Force Urbania once everyone was through. The immigration formalities — exit stamp already sorted the previous evening — took minutes.
+Lunch was at Food Deck, which we will not dwell on. Lackluster food, slower service, and a reminder that KB Restaurant remains the correct answer for any meal between Bagdogra and Jaigaon. Don't be persuaded otherwise.<br/><br/>
+On the outskirts of Bagdogra, we mounted a determined search for good paan — the kind of send-off a trip like this deserves. The city did not cooperate. Every shop produced the same dry, uninspired version. We gave up with dignity and arrived at the airport an hour ahead of schedule, which would have been a triumph had the airport not been completely overwhelmed. Every seat taken, every corner claimed, the lounge full and unhelpfully selective about which cards it accepted. We found a patch of floor, arranged ourselves around the luggage, and waited.<br/><br/>
+The flight was delayed by two hours. In the grand scheme of a nine-day trip through one of the most beautiful countries on earth, this felt like a reasonable final tax. We boarded at 7pm, landed close to midnight, and walked through the front door at 12am — tired in the best possible way, bags full of yak wool and peach wine and sand mandala attempts, heads still somewhere in the valleys.<br/><br/>
+Bhutan gives you a lot. It asks for your pace, your assumptions, and your sense of what a country is supposed to be. It returns all three, recalibrated. Home is always where you do the dirty laundry — but for a few days, somewhere in those mountains, the laundry didn't matter at all."
+    highlights:
+      - "✅ Finally back home at the end of the day"
+      - "✅ Quick process at immigration"
+      - "❌ Air India Express flight delayed by 2 hours"
+      - "❌ Overcrowded airport at Bagdogra, no place to sit"
+      - "❌ Lounge, a limited fare, did not accept all the usual cards that work all over otherwise"
+    photos:
+      - image: "/assets/images/bhutan/day9-tea-field-workers.png"
+        caption: "Field workers in tea gardens in west bengal"
+      - image: "/assets/images/bhutan/day9-teesta-river-bridge.png"
+        caption: "The bridge on the Teesta river and the train alongside"
+      - image: "/assets/images/bhutan/day9-teesta-river-bridge.png"
+        caption: "The bridge on the Teesta river and the train alongside"
+    places_to_eat:
+      - name: "The Food Deck"
+        location: "The Food Deck, Fatapukur, West Bengal"
+        comment: "Underwhelming on both food and service. If you're stopping between Bagdogra and Jaigaon, KB Restaurant is the better call — don't let anyone talk you out of it"
+    additional_considerations: "It takes around 5 hours to reach airport in Bagdogra from Jaigaon. Cross immigration building on foot with lugguage, if you get the van across border, the waiting times are long. If you reach airport too early, it can be crowded with limited space to sit. Few eating options at airport, all quite expensive"
 
 
 ---
