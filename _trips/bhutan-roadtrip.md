@@ -337,22 +337,180 @@ Ananda Resort received us at day's end — adequate rooms, some late-night noise
       rating: 2
       review: "Ananda Resort is a budget package-tour property and feels like one. Rooms are adequate but unremarkable, facilities are basic, and noise travels freely between rooms and common areas when larger groups are in residence. The lobbies carry a persistent smell that doesn't help first impressions. The hot stone bath - a traditional Bhutanese experience worth seeking out elsewhere — didn't inspire confidence here on either quality or hygiene grounds; skip it and find a better establishment for that. Breakfast was sparse: toast, butter, jam, and little else. There are better options at similar price points. Only consider it if the budget leaves no flexibility."
     additional_considerations: "Paro airport is one of the most dramatic landing strips in the world - pilots navigate by sight through a narrow mountain valley, and watching aircraft descend from the right vantage point is genuinely thrilling. Check flight timings on a tracker. The Paro market is worth an unhurried browse. Souvenirs are plentiful and the craftsmanship at the better shops is noticeably finer than what you'll find at the border. There is a place near Dzong in Paro market, which allows you to try local costumes to take pictures (Gho for men and Kira for women)"
+  - day: 7
+    title: "Climbing our mountain, Tiger Nest Trail at Paro"
+    date: "15 May 2026"
+    featured_image: "/assets/images/bhutan/day7-main.jpg"
+    description: ""
+    highlights:
+      - "✅ Everyone, including kids climbed Tiger Nest too and fro. Great feeling and trek! Views along the way were amazing"
+      - "✅ Finished trek much sooner than planned"
+      - "❌ The hot stone water bath at Anand resort was underwhelming in experience, setup and hygiene"
+    photos:
+      - image: "/assets/images/bhutan/day7-trek-start.jpg"
+        caption: "Kids ready on horse backs, with the Tiger Nest in sight right at the top of the mountain"
+      - image: "/assets/images/bhutan/day7-trekview.jpg"
+        caption: "Pine forest opening up to the valley as the climb begins"
+      - image: "/assets/images/bhutan/day7-taking-break.jpg"
+        caption: "A well-earned break midway up the trail"
+      - image: "/assets/images/bhutan/day7-tiger-nest.jpg"
+        caption: "Tiger's Nest Monastery — clinging to the cliff face, exactly as the photos promise"
+      - image: "/assets/images/bhutan/day7-tiger-nest-mural.jpg"
+        caption: "Midpoint cafe in the trek. No food, water and restrooms until the monatry after this"
+      - image: "/assets/images/bhutan/day7-lunch-sonam.jpg"
+        caption: "Lunch at Sonam Trophel — local pork dishes and north indian veg food"
+      - image: "/assets/images/bhutan/day7-museum-building.jpg"
+        caption: "The Ta Dzong building — Bhutan's National Museum building perched above Paro"
+      - image: "/assets/images/bhutan/day7-museum.jpg"
+        caption: "Inside the museum — masks, thangkas, and centuries of Bhutanese heritage"
+      - image: "/assets/images/bhutan/day7-views.jpg"
+        caption: "Valley views of Paro from museum"
+    places_to_eat:
+      - name: "Sonam Trophel Restaurant"
+        location: "Sonam Trophel Restaurant, Paro"
+        comment: "Sonam Trophel is the kind of place you find precisely when you need it — a proper post-trek refuelling stop in the heart of Paro that takes its local food seriously. The pork dishes were decent. The kitchen will gladly do North Indian comfort food alongside (chapati, dal, aloo) without it feeling like an afterthought. The liquor list is unusually good for a small Paro restaurant — local ara, Bhutanese whiskies, and a couple of decent reds. Prices are reasonable, especially given the location and the portions. The only weak link is the dessert menu, which is fine but unremarkable — skip it and walk over to Brioche for ice cream instead. Service is friendly and unhurried, the dining room is small and fills up quickly during lunch, so a guide-arranged table helps. Recommended without hesitation, especially as a Tiger's Nest descent reward."
+    accommodation:
+      name: "Ananda Resorts"
+      location: Ananda Resorts, Paro
+      rating: 2
+      review: "Ananda Resort is a budget package-tour property and feels like one. Rooms are adequate but unremarkable, facilities are basic, and noise travels freely between rooms and common areas when larger groups are in residence. The lobbies carry a persistent smell that doesn't help first impressions. The hot stone bath - a traditional Bhutanese experience worth seeking out elsewhere — didn't inspire confidence here on either quality or hygiene grounds; skip it and find a better establishment for that. Breakfast was sparse: toast, butter, jam, and little else. There are better options at similar price points. Only consider it if the budget leaves no flexibility."
+    additional_considerations: ""
+
 
 ---
 
 Bhutan earns you slowly. From Phuentsholing's quiet border crossing to Tiger's Nest's dizzying heights, this kingdom operates on a different frequency. Roads wind through improbably green valleys, monasteries cling to cliffsides, and prayer flags mark every pass. The mythology is alive here - not folklore for tourists, but a living operating system. The people are unhurried and genuinely warm. The food is simple and honest. Phobjikha's wetlands, Punakha's riverside dzong, Paro's ancient streets — each place asks the same thing of you: slow down. We did. Bhutan rewarded us generously. Thats how we felt as we navigated the beautiful terrain that was preserved beautifully in time gone by
 
+## History & General Information
+
+Bhutan sits in the eastern Himalayas, wedged between China to the north and India on its other three sides. Roughly 38,000 sq km, about the size of Switzerland, with a population just under 800,000. The capital is Thimphu. Most people live in valleys between 1,200 and 3,000 metres. The high peaks remain uninhabited and, by law, unclimbed; Gangkhar Puensum at 7,570 m is the world's highest unclimbed mountain.
+
+The country was unified in the early 17th century by Zhabdrung Ngawang Namgyal, a Tibetan Buddhist lama who fled sectarian conflict in Tibet and built a system of dzongs (fortress-monasteries) that doubled as administrative centres. That dual purpose, religious and civic, still defines Bhutan today. Power is distributed across three pillars: an elected government, the religious establishment headed by the Je Khenpo, and the monarchy.
+
+The monarchy is younger than people assume. The Wangchuck dynasty began in 1907 with Ugyen Wangchuck, the first hereditary king. The country transitioned to constitutional monarchy in 2008, at the insistence of the fourth king himself rather than from popular pressure. It is one of the very few countries where the monarchy voluntarily ushered in elected government rather than being pressured into it. The current king, Jigme Khesar Namgyel Wangchuck, is the fifth in the line. The royal family is genuinely revered. The king's photograph hangs in virtually every home and establishment, less as state-mandated decoration and more as expression of authentic affection.
+
+Religion is Vajrayana Buddhism, distinct in lineage and practice from the Tibetan tradition next door. Around 80% of Bhutanese identify as Buddhist, with Drukpa Kagyu and Nyingma the dominant schools. Buddhism is woven into daily life in a way that feels less like observance and more like an operating system. Prayer flags on every ridge, chortens at every crossroads, water-powered prayer wheels in every stream.
+
+Bhutan is famous for Gross National Happiness, often dismissed as a tourism slogan but actually a measurable framework. It tracks nine domains, including psychological wellbeing, ecological diversity, cultural resilience, and good governance. Policy decisions are tested against it. It is why Bhutan is the only carbon-negative country in the world, why over 70% forest cover is mandated by the constitution, and why hunting, fishing, and deforestation are prohibited. The contradiction worth noting: Bhutan remains a predominantly meat-eating culture, with almost all meat imported from India.
+
+**Economy and the current balancing act**
+The largest export earners are hydroelectric power (mostly sold to India), ferroalloys, and carbon credits. Tourism is growing but still a smaller slice of GDP than most assume. Youth unemployment is the most pressing domestic challenge, and emigration to Australia and the Gulf is rising. Gelephu Mindfulness City, in the southern lowlands and targeted to be operational by 2027, is a deliberate bet on attracting outside capital and talent while staying philosophically aligned with the country's Buddhist values. The broader tension across the country is the same one its planners openly discuss: a population pulled toward modern conveniences while the state works to preserve traditional values, language, and culture. The small population helps, but it is a live question.
+
+Bhutan is also one of the hardest countries in the world to immigrate to. Citizenship is effectively closed to outsiders. Even children of mixed parentage (one Bhutanese, one foreign) are not automatically eligible. The country is closed to outsiders apart from tightly regulated tourism, which is itself capped indirectly through the SDF.
+
+**Other distinctions worth knowing**
+- Television and internet were legalised only in 1999, among the last countries in the world to do so.
+- There are no traffic lights anywhere in the country. Thimphu tried them once and removed them within days.
+- Archery is the national sport, taken with a seriousness that is hard to overstate.
+- Dzongkha is the official language, but English is widely spoken and is the medium of instruction in schools.
+- The national dress (Gho for men, Kira for women) is mandatory at government offices, schools, and formal events.
+
+## Trip Route
+
+🚗 Bagdogra → Phuentsholing → Thimphu → Punakha → Phobjikha → Paro → Phuentsholing → Bagdogra
+
 ## Planning
 
-Bhutan makes tourism deliberately expensive — and that's the point. The philosophy is quality over quantity: fewer visitors, better experience, less strain on the land. It works. You won't find overcrowded trails or souvenir-hawking at temple gates. A licensed guide is mandatory at all times, and public transport is limited, so hired local vehicles are the norm. Neither feels like an inconvenience — the guides are genuinely knowledgeable, and the drives are half the experience anyway. The practical upshot: book through a local agency. It simplifies logistics considerably and the cost difference rarely justifies going it alone.
+Bhutan makes tourism deliberately expensive, and that is the point. The philosophy is quality over quantity: fewer visitors, better experience, less strain on the land. It works. You will not find overcrowded trails or souvenir hawking at temple gates.
+
+**Best time to go**
+- **March to May (spring):** clear skies, rhododendrons in bloom, comfortable temperatures. The most popular window.
+- **September to November (autumn):** excellent visibility for Himalayan views, festivals across the country, dry weather.
+- **June to August (monsoon):** green and dramatic, but landslides on mountain roads are common and Tiger's Nest can be cloud-locked for days.
+- **December to February:** cold but quiet, snow at higher passes, and Phobjikha's black-necked cranes are in residence.
+
+**Permits and entry**
+- Indian, Bangladeshi and Maldivian citizens enter on passport or voter ID. No visa needed in advance.
+- All other nationalities need a visa, arranged by a licensed Bhutanese tour operator before arrival.
+- Sustainable Development Fee (SDF) applies daily: Nu 1,500 per Indian adult per day, USD 100 per non-Indian adult per day. Children under 5 are exempt, ages 6 to 12 pay half.
+- Indians are exempt from SDF for the first 24 hours. Cross on Day 1, get stamped on Day 2 morning, do the reverse on the way out. Saves two SDF days per person.
+
+**Booking**
+- A licensed guide is mandatory for almost all travel, and public transport between cities is limited. The practical default is to book through a local Bhutanese agency. They handle SDF payment, permits, hotel bookings, vehicles, and guide assignment in one place. International operators add a meaningful margin for the same service, so reach out to Bhutan-based agencies directly.
+
+**Getting in**
+- **By air:** Paro is the only international airport, served by Druk Air and Bhutan Airlines from Delhi, Kolkata, Bagdogra, Bangkok, Singapore and Kathmandu. The landing is famously dramatic, with pilots banking through a narrow mountain valley.
+- **By road:** Bagdogra is the nearest major Indian airport, roughly 4 hours by road to Phuentsholing. A common pattern is to enter overland through Phuentsholing and fly out from Paro, which lets you cover ground without backtracking.
+
+**Connectivity**
+- A local SIM (TashiCell or B-Mobile) is essential. International roaming is expensive and patchy. Pick one up in Phuentsholing on Day 1.
+- Hotel wifi is fine for messaging, marginal for video calls.
+
+**Packing essentials**
+- Layers. Mornings are cold, afternoons warm, evenings cold again.
+- Proper walking shoes. The Tiger's Nest climb is not optional-footwear territory.
+- Long trousers and covered shoulders for dzong visits.
+- A light rain shell, useful in any season.
+- Power bank. Charging points on the road are inconsistent.
 
 ## Things To Know
 
+**Money**
+- Bhutanese Ngultrum (Nu) is pegged 1:1 with the Indian Rupee.
+- Indian Rupees in denominations of 100 and below are accepted everywhere. The 500 note is widely accepted.
+- ATMs exist in cities, but international cards are unreliable, particularly outside the major towns. Carry cash.
+- UPI now works at many Thimphu and Paro establishments, a useful backup for Indian travellers. But sometimes has a 1.5% transaction charge unlike India.
 
+**Cultural conduct**
+- Remove shoes and hats before entering temples and dzongs.
+- Photography is allowed outside temples and chortens but never inside the central sanctum. Ask if in doubt.
+- Dress modestly at religious sites: long trousers, covered shoulders, no shorts.
+- Do not point your feet at altars or religious images.
+- Walk clockwise around chortens, stupas, prayer wheels, and temple buildings. Anticlockwise is considered disrespectful.
 
-## Driving route 
+**Guides and drivers**
+- A licensed guide is mandatory for all sightseeing.
+- Tipping is not part of the culture but is appreciated. Nu 300 to 400 per day each for guide and driver, handed over at the end of the trip, works as a thank-you without setting an awkward precedent.
+- Guides are well-trained and genuinely knowledgeable. Ask questions; the depth of answers will surprise you.
 
-🚗 Bagdogra → Phuentsholing → Thimphu → Punakha → Paro → Phuentsholing → Bagdogra
+**Health and altitude**
+- Most of the touristed circuit sits between 1,200 and 3,100 metres. Mild altitude effects are possible at Dochula Pass and above. Hydrate, take it slow, avoid heavy alcohol on the first night at higher elevations.
+- Carry basic medication. Pharmacies in smaller towns have limited stock.
+- Stick to bottled or filtered water. Hotels usually provide both.
 
-## Note
-We are still populating our experience from this trip. You will see details pop here over time
+**Alcohol and tobacco**
+- Local alcohol (ara, peach wine, K5 whisky) is cheap and surprisingly good. Zumzin, Takin and Druk beer specially.
+- Tobacco was banned for nearly a decade and is still heavily restricted. Bringing in more than 200 cigarettes attracts heavy duty. Smoking in public places is illegal.
+- Tuesdays are dry days nationally. No liquor is sold at shops or bars. Plan accordingly.
+
+**Other useful notes**
+- Public restrooms are common and clean, but usually charge a small fee (Nu 5 to 10). Carry change.
+- Bhutan is famously clean, but garbage bins outside towns are rare. Carry a small bag for your own waste and dispose at the day's end.
+- Roads are winding. Short distances on the map double in driving time.
+- Shopping is cheapest in Phuentsholing. If you exit through the same border, scout in Thimphu and Paro and buy on the way back.
+- The Gho and Kira can be tried on at small shops near Paro Dzong and photographed against the dzong as backdrop. Worth doing, especially with kids.
+- A tshechu (religious festival) overlapping with your visit is a bonus worth planning around. Dates shift each year on the lunar calendar.
+
+## Expenses
+
+Budgeting for Bhutan is more predictable than most destinations because so much is pre-fixed: SDF, guide, driver, vehicle, hotels. The variability sits in food, shopping, and optional activities. Numbers below are based on our 2026 trip for two families travelling on a mid-range package.
+
+**Daily fixed costs**
+- **SDF (Indian):** Nu 1,500 per adult per day.
+- **Guide fees:** Possibly, Nu 1,500 to 2,500 per day, split across the group.
+- **Driver and vehicle:** Possibly, Nu 4,000 to 8,000 per day for a comfortable van (Toyota Hiace seats 8 to 10), split across the group.
+- **Hotels:** Nu 3,000 to 6,000 per night for 3-star, Nu 8,000 to 15,000 per night for 4-star. Luxury properties (Aman, Six Senses, COMO Uma) run USD 1,500+ per night.
+
+**Food**
+- Hotel breakfasts are usually included.
+- Lunch and dinner at decent restaurants: Nu 400 to 800 per person.
+- Bhutanese cuisine is meat and chilli heavy. Vegetarians manage but options narrow noticeably outside Thimphu and Paro.
+
+**Activities and entry fees**
+- Monument and museum entry: Nu 300 to 500 per adult, half for children. Across a 9-day itinerary, expect Nu 4,000 to 5,000 per person in entry fees.
+- Mo Chhu river rafting (Punakha): Nu 2,500 to 3,500 per person.
+- Tiger's Nest horse to the midway cafe: Nu 1,000 to 1,500 (one way only, horses do not return down).
+- Hot stone bath, done well: Nu 1,500 to 2,500.
+
+**Shopping**
+- Yak wool products (shawls, stoles, woollens): Nu 800 to 4,000 depending on size and quality. Best deals appear in the villages around Phobjikha.
+- Hand-painted thangkas: Nu 5,000 for small souvenir pieces, into the lakhs for studio-quality work.
+- Handmade Desho paper goods: Nu 500 to 2,000.
+- Personalised postage stamps: Nu 500 for a sheet of 12. The best small gift you can carry home.
+- Liquor: peach wine Nu 300 to 500 a bottle, K5 whisky Nu 800 to 1,200. Shop in Phuentsholing for the best prices.
+
+**Tips**
+- Guide and driver: Nu 300 to 400 per day each, handed over at the end of the trip. For a 9-day trip with one guide and one driver shared by two families, plan for around Nu 3,000 to 5,000 per family.
+
+**Indicative total**
+For a 9-day trip in 2026, two Indian adults on a mid-range package booked through a local Bhutanese agency: roughly **Nu 1,80,000 to 2,50,000 per person**, all in (excluding flights to Bagdogra or Paro). The figure scales down meaningfully for groups of four or more sharing vehicles and guides.
