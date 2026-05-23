@@ -450,10 +450,10 @@ Bhutan gives you a lot. It asks for your pace, your assumptions, and your sense 
       - "❌ Overcrowded airport at Bagdogra, no place to sit"
       - "❌ Lounge, a limited fare, did not accept all the usual cards that work all over otherwise"
     photos:
+      - image: "/assets/images/bhutan/day9-guide-rinzin.png"
+        caption: "Saying goodbye to our guide Rinzin"
       - image: "/assets/images/bhutan/day9-tea-field-workers.png"
         caption: "Field workers in tea gardens in west bengal"
-      - image: "/assets/images/bhutan/day9-teesta-river-bridge.png"
-        caption: "The bridge on the Teesta river and the train alongside"
       - image: "/assets/images/bhutan/day9-teesta-river-bridge.png"
         caption: "The bridge on the Teesta river and the train alongside"
     places_to_eat:
