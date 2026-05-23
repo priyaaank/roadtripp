@@ -467,6 +467,10 @@ Bhutan gives you a lot. It asks for your pace, your assumptions, and your sense 
 
 Bhutan earns you slowly. From Phuentsholing's quiet border crossing to Tiger's Nest's dizzying heights, this kingdom operates on a different frequency. Roads wind through improbably green valleys, monasteries cling to cliffsides, and prayer flags mark every pass. The mythology is alive here - not folklore for tourists, but a living operating system. The people are unhurried and genuinely warm. The food is simple and honest. Phobjikha's wetlands, Punakha's riverside dzong, Paro's ancient streets — each place asks the same thing of you: slow down. We did. Bhutan rewarded us generously. Thats how we felt as we navigated the beautiful terrain that was preserved beautifully in time gone by
 
+**Route Taken**
+
+🚗 Bagdogra → Phuentsholing → Thimphu → Punakha → Phobjikha → Paro → Phuentsholing → Bagdogra
+
 ## History & General Information
 
 Bhutan sits in the eastern Himalayas, wedged between China to the north and India on its other three sides. Roughly 38,000 sq km, about the size of Switzerland, with a population just under 800,000. The capital is Thimphu. Most people live in valleys between 1,200 and 3,000 metres. The high peaks remain uninhabited and, by law, unclimbed; Gangkhar Puensum at 7,570 m is the world's highest unclimbed mountain.
@@ -490,10 +494,6 @@ Bhutan is also one of the hardest countries in the world to immigrate to. Citize
 - Archery is the national sport, taken with a seriousness that is hard to overstate.
 - Dzongkha is the official language, but English is widely spoken and is the medium of instruction in schools.
 - The national dress (Gho for men, Kira for women) is mandatory at government offices, schools, and formal events.
-
-## Trip Route
-
-🚗 Bagdogra → Phuentsholing → Thimphu → Punakha → Phobjikha → Paro → Phuentsholing → Bagdogra
 
 ## Planning
 

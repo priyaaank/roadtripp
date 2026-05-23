@@ -80,6 +80,13 @@
 @media (max-width: 768px) {
   .site-header {
     .site-nav {
+      .nav-brand {
+        .site-title {
+          font-size: 1.25rem;
+          white-space: nowrap;
+        }
+      }
+
       .nav-menu {
         display: none;
         position: absolute;

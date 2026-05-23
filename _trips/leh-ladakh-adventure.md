@@ -818,6 +818,10 @@ itinerary:
 
 Our incredible 22 days road trip was more than just a journey across cities. It was a voyage through India’s wildly changing moods. From the sun-baked highways of Bangalore, to the sticky monsoon rains of Mumbai, the dry heat of Ahmedabad, the golden dust of Jaipur, and the cool breeze of Chandigarh. Each stop brought its own weather, its own vibe. But nothing quite prepared us for what came next: the thinning air and winding climbs of Jispa, the snow-kissed peaks of Leh, the shimmering blues of Pangong Tso, the high deserts of Nubra, and finally, the lush, pine-framed beauty of Srinagar. With every turn of the road, we felt the altitude shift, the temperature dance, and our hearts race with both awe and breathlessness. It was a test of wheels, willpower, and wonder—and we wouldn't have it any other way.
 
+**Driving route** 
+
+🚗 Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > PangongTso > Nubra > Srinagar > Chandigargh > Bangalore
+
 ## Planning resources
 
 <a href="https://docs.google.com/spreadsheets/d/1fql6Rz5rNlmB9kRUjXZZ7X3h2O-5RzCZuob3NLgymto/edit?gid=639703312#gid=639703312" target="new">Leh Trip - Planning Sheet</a>
@@ -831,8 +835,6 @@ We used a google sheet for our Trip planning and hotel booking tracking. This al
 **Total driving time** 136 hours approximately
 
 **Total fuel consumed** 400 litres of diesel costing around INR 35,000
-
-**Driving route** Bengaluru > Pune > Mumbai > Ahmedabad > Jaipur > Chandigarh > Jispa > Leh > PangongTso > Nubra > Srinagar > Chandigargh > Bangalore
 
 <img src="../../assets/images/route.jpg" alt="Description" style="width: 40%; margin: 1rem 0;">
 
