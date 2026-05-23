@@ -214,6 +214,29 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Initialize lightbox on page load
     initLightbox();
+
+    // Collapsible sections in trip overview (default collapsed)
+    const tripOverview = document.querySelector('.trip-overview');
+    if (tripOverview) {
+        const headings = Array.from(tripOverview.querySelectorAll(':scope > h2'));
+        headings.forEach(h2 => {
+            const details = document.createElement('details');
+            details.className = 'trip-section-collapsible';
+
+            const summary = document.createElement('summary');
+            summary.innerHTML = h2.innerHTML;
+            details.appendChild(summary);
+
+            let sibling = h2.nextElementSibling;
+            while (sibling && sibling.tagName !== 'H2') {
+                const next = sibling.nextElementSibling;
+                details.appendChild(sibling);
+                sibling = next;
+            }
+
+            h2.parentNode.replaceChild(details, h2);
+        });
+    }
     
     // Photo Carousel functionality
     const carousels = document.querySelectorAll('[data-carousel]');
