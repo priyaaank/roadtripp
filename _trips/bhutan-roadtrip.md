@@ -575,7 +575,7 @@ Budgeting for Bhutan is more predictable than most destinations because so much 
 - **SDF (Indian):** Nu 1,500 per adult per day.
 - **Guide fees:** Possibly, Nu 1,500 to 2,500 per day, split across the group.
 - **Driver and vehicle:** Possibly, Nu 4,000 to 8,000 per day for a comfortable van (Toyota Hiace seats 8 to 10), split across the group.
-- **Hotels:** Nu 3,000 to 6,000 per night for 3-star, Nu 8,000 to 15,000 per night for 4-star. Luxury properties (Aman, Six Senses, COMO Uma) run USD 1,500+ per night.
+- **Hotels:** Nu 3,000 to 6,000 per night for 3-star, Nu 8,000 to 15,000 per night for 4-star. Luxury properties run USD 1,500+ per night.
 
 **Food**
 - Hotel breakfasts are usually included.
