@@ -534,24 +534,61 @@ itinerary:
         comment: "Fantastic hidden gem with amazing food and bakes. We tried Pasta, Steak and cheesecake and were pleasently surprised to find the taste outstanding. Highly recommend."
     additional_considerations: "At Khajjiar, make sure to negotiate the horse ride — we bargained and paid ₹200. The paragliding, priced at ₹1000+, didn’t feel worth it. The meadow views and the drive up to Kalatop were fantastic, but the road is narrow and tricky. If you’re not a confident or seasoned hill driver, it’s better not to drive to Kalatop yourself."
 
-  #- day: 12
-  #   title: "Day 12 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
-  # - day: 13
-  #   title: "Day 13 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
+  - day: 16
+    title: "Sunrise Trails, Mountain Views & Boating at Chamera"
+    date: "16 May 2024"
+    featured_image: "/assets/images/himachal/day16-main.jpg"
+    description: "Day 16 started early, with alarms ringing and sleepy eyes quickly replaced by excitement for the Dainkund trek. After a quick breakfast, we were out by 8:00 am, ready to tackle one of Dalhousie’s most scenic walks. Thankfully, the trek was fairly easy — a mix of cemented path and muddy trail, clearly marked and manageable even with kids. The climb felt a little steep at the beginning, but soon settled into a comfortable walk surrounded by tall fir trees, cool mountain air, and endless Himalayan views.<br/><br/>The reward at the end was the Pholani Mata Temple, which we reached by 9:26 am, after plenty of photo breaks and pauses to simply admire the landscape. The temple is dedicated to Pholani Mata, a local deity deeply respected by villagers in the region. Local stories say she is believed to protect the surrounding forests and mountain communities. Many pilgrims visit seeking blessings for safety and prosperity. The temple itself sits quietly atop the ridge, adding a peaceful charm to the trek.<br/><br/>Dainkund, often called the “Singing Hill,” also carries its own folklore. It gets the name from the sound the wind makes as it rushes through the trees and mountain gaps — almost like nature softly humming. On clear days, the point offers sweeping views of valleys and snow-covered peaks, including a stunning glimpse of Kailash Parbat, standing majestically in the distance. We lingered there for a bit, enjoying the cool breeze and taking in the views before beginning our descent.<br/><br/>An hour later, we were back at the car and soon returned to the hotel before heading to what had become our favourite food stop of the trip — Café Bushehri. By now, it had turned into our comfort spot, and lunch there was every bit as satisfying as before.<br/><br/>The second half of the day was reserved for Chamera Lake, about an hour away. We reached the boating point around 4:30 pm and opted for a speed boat ride. It was definitely on the expensive side, but it was also the quickest available option — and unexpectedly, one of the most fun experiences of the day. Twenty minutes of zooming through calm waters surrounded by hills left everyone smiling and windswept.<br/><br/>By 6:30 pm, we were back in Dalhousie near MG Road, strolling through the lively streets, nibbling on snacks, and doing a bit of last-minute shopping. Thankfully, we found parking easily enough in the designated areas. With tired legs from the trek and a full day behind us, we called it an early night. The next morning would mark the beginning of our drive back toward Amritsar, and rest felt well deserved."
+    highlights:
+      - "✅ Trek was easy and a lot of fun with splendid views. Kids enjoyed it as much as we did"
+      - "✅ Lunch at Cafe Busheri did not disappoint"
+      - "✅ Speedboat ride was thrilling and we recommend"
+    photos:
+      - image: "/assets/images/himachal/day16-dainkund-hiking.jpg"
+        caption: "Starting the trek at Dainkund"
+      - image: "/assets/images/himachal/day16-dainkund-hiking-himalayas-view.jpg"
+        caption: "The majestic Himalayas at the distance, humbling us"
+      - image: "/assets/images/himachal/day16-dainkund-buffalo.jpg"
+        caption: "Flanked by a herd of Buffalos during the trek"
+      - image: "/assets/images/himachal/day16-dainkund-hiking-walk.jpg"
+        caption: "Soaking in the path on the trek"
+      - image: "/assets/images/himachal/day16-dainkund-hiking-break.jpg"
+        caption: "Taking a break to catch our breath and take some pictures"
+      - image: "/assets/images/himachal/day16-dainkund-trek-path.jpg"
+        caption: "The path winding down for the trek"
+      - image: "/assets/images/himachal/day16-dainkund-temple.jpg"
+        caption: "The Phulori mata temple at the end of the trek"
+      - image: "/assets/images/himachal/day16-dainkund-hiking-moment.jpg"
+        caption: "Exploring and enjoying the view from a vantage point"
+      - image: "/assets/images/himachal/day16-cafe-busheri-lunch.jpg"
+        caption: "The lunch at Cafe Busheri"
+      - image: "/assets/images/himachal/day16-cafe-busheri.jpg"
+        caption: "A last picture before we leave"
+      - image: "/assets/images/himachal/day16-speedboating-selfie.jpg"
+        caption: "All of us in the frame at Chamera lake"
+      - image: "/assets/images/himachal/day16-speedboating-view.jpg"
+        caption: "One more at the speedboating point on Chamera lake"
+      - image: "/assets/images/himachal/day16-speedboating.jpg"
+        caption: "Speedboating fun!"
+    accommodation:
+          name: "Serenya Homestay"
+          location: "Serenya Homestay, Dalhousie"
+          rating: 3
+          review: "A large bungalow converted into a small-room accommodation. The service was excellent and the staff very accommodating. The rooms were spacious and nicely done, though the balcony opening directly toward the parking area and road offered limited privacy. Overall, it was good value for money. They even packed breakfast for us on request. Parking can be a bit tricky, but the staff is always ready to help with it."
+    places_to_eat:
+      - name: "Cafe Bushehri & The Bakery"
+        location: "Cafe Bushehri & The Bakery, Phukri"
+        comment: "Fantastic hidden gem with amazing food and bakes. We tried Pasta, Steak and cheesecake and were pleasently surprised to find the taste outstanding. Highly recommend."
+    additional_considerations: "Dainkund trek is beginner-friendly and suitable for kids, but start early to avoid crowds and stronger afternoon sun. Carry a light jacket — it can get windy and chilly near Pholani Mata Temple. Don’t miss the Kailash Parbat view from the top on a clear day. Chamera speed boating is fun but pricey — ask for rates before committing and negotiate if possible. MG Road in Dalhousie is ideal for an easy evening stroll and souvenir shopping."
+  - day: 17
+    title: ""
+    date: "17 May 2024"
+    featured_image: ""
+    description: ""
+    highlights: []
+    photos: []
+    accommodation: {}
+    additional_considerations: ""
   # - day: 14
   #   title: "Day 14 Placeholder"
   #   date: ""
