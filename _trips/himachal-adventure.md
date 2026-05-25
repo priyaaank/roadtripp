@@ -621,15 +621,29 @@ itinerary:
         location: "Anil Ji Chaat Wale, Jaggi City Center, Ambala"
         comment: "We replaced dinner with Anil Ji's chaat and we did not regret. The aaloo tikki and everyting else was mouth watering and left us desiring for more."
     additional_considerations: "Reach the Golden Temple either early morning or late evening to avoid peak heat. Carry socks if travelling in summer — the floor gets extremely hot. Head covering is compulsory, but scarves are available near the entrance if you forget. Skip driving within Amritsar city during peak hours — autos and rickshaws are easier. Giani Lassi is a must in summer — thick, refreshing, and worth the stop. If you are transiting to Delhi, stay on highway to beat city traffic"
-  # - day: 14
-  #   title: "Day 14 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
+  - day: 18
+    title: "The Long Ride Home & Goodbye to the Mountains"
+    date: "18 May 2026"
+    featured_image: "/assets/images/himachal/day18-main.jpg"
+    description: "The final day of our Himachal adventure was all about transit, goodbyes, and making our way back home. No sightseeing, no treks, no scenic detours — just long roads and a slowly sinking feeling that the trip was coming to an end.<br/><br/>We started early at 7:30 am from Ambala, hoping to beat traffic and make it to Delhi comfortably. The drive was smooth for the most part, and by around 2 pm, we reached Delhi to return our rental car. Before the drop, we stopped for a quick lunch at a nearby Haldiram’s. The food wasn’t particularly memorable, but after hours on the road, it did its job and kept hunger at bay.<br/><br/>The car return process with RBTS turned out to be refreshingly simple. Within about 20 minutes, the formalities were done, and we were good to go. Looking back, our experience with them through the trip had been genuinely excellent — from the quality of the car to the pricing, process, and support, everything had been smooth and reliable. For a road trip of this scale, that peace of mind mattered a lot.<br/><br/>From there, it was taxi to airport, luggage shuffle, and finally settling into the airport lounge for a much-needed pause. By 6:40 pm, we were boarding our flight back home, carrying tired bodies, a thousand photos, and far too many memories.<br/><br/>When we finally reached home around 12:30 am, there was a strange mix of emotions — sadness that the trip had ended, relief that the long journey was finally over, and that quiet comfort of being back in familiar surroundings.<br/><br/>The mountains had given us everything — beautiful drives, snowy disappointments, warm food, small mishaps, sickness, laughter, waterfalls, monasteries, meadows, and moments we’ll probably talk about for years. And just like that, after days on the road, it was time for the most comforting destination of all — home sweet home."
+    highlights:
+      - "✅ The fantastic self-drive car provided by RBTS folks"
+      - "✅ A memorable trip and finally back to home sweet home"
+      - "❌ The heat & pollution in Delhi made us miss Himachal even more"
+    photos:
+      - image: "/assets/images/himachal/day18-end-of-trip.jpg"
+        caption: "2500 kms and 18 days later finaly trip comes to an end"
+      - image: "/assets/images/himachal/day18-unloading-car.jpg"
+        caption: "Unloading the packed car into a taxi"
+      - image: "/assets/images/himachal/day18-returning-car.jpg"
+        caption: "Returning the car to the RBTS folks"
+      - image: "/assets/images/himachal/day18-boarding-flight.jpg"
+        caption: "Boarding the flight back home"
+      - image: "/assets/images/himachal/day18-taxi-home.jpg"
+        caption: "Reaching home finally right after midnight"
+      - image: "/assets/images/himachal/day18-reached-home.png"
+        caption: "All of us and our lugguage at the doorstep"
+    additional_considerations: "For long self-drive holidays, choosing a good rental partner matters more than expected — a reliable car and responsive support can make or break the trip. Keep the last day light with no major plans — road fatigue catches up quickly. And finally: always leave a little unscheduled time in the itinerary. Some of the best travel memories come from unexpected pauses."
 
 excerpt: "A soulful 15-day road trip through Himachal’s diverse landscapes and charming villages, serene valleys, and misty mountains—each turn revealing a quieter, more beautiful side of the Himalayas"
 
@@ -637,14 +651,5 @@ excerpt: "A soulful 15-day road trip through Himachal’s diverse landscapes and
 
 A 15-day road trip through Himachal Pradesh, winding through pine-scented forests, apple orchards, and snow-kissed mountains. From the bohemian charm of Kasol and the quiet orchards of Thanedar to the bustling lanes of Manali and the colonial echoes of Dalhousie, each stop brought its own flavor. We wandered through Tibetan monasteries in McLeodganj, soaked in the serenity of Jibhi, and breathed in the crisp air of Tirthan Valley. A journey of winding roads, cozy homestays, and endless chai breaks—Himachal unfolded like a slow, soulful melody.
 
-## Planning resources
-
-We used a google sheet for our Trip planning and hotel booking tracking. This also helped us project the total cost of the trip. A public version of the sheet will be available for anyone to reference.
-
-## Driving route 
-
+**Driving route**
 🚗 Delhi -> Kasauli -> Thanedar -> Jibhi -> Manali -> Dharamshala/McLeodganj -> Dalhousie -> Chandigarh -> Ambala -> Delhi
-
-## Note
-We are still populating our experience from this trip. You will see details pop here over time
-
