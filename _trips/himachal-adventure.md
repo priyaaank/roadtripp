@@ -581,25 +581,48 @@ itinerary:
         comment: "Fantastic hidden gem with amazing food and bakes. We tried Pasta, Steak and cheesecake and were pleasently surprised to find the taste outstanding. Highly recommend."
     additional_considerations: "Dainkund trek is beginner-friendly and suitable for kids, but start early to avoid crowds and stronger afternoon sun. Carry a light jacket — it can get windy and chilly near Pholani Mata Temple. Don’t miss the Kailash Parbat view from the top on a clear day. Chamera speed boating is fun but pricey — ask for rates before committing and negotiate if possible. MG Road in Dalhousie is ideal for an easy evening stroll and souvenir shopping."
   - day: 17
-    title: ""
+    title: "Golden Temple, Lassi Stops & The Long Road to Ambala"
     date: "17 May 2024"
-    featured_image: ""
-    description: ""
-    highlights: []
-    photos: []
-    accommodation: {}
-    additional_considerations: ""
+    featured_image: "/assets/images/himachal/day17-main.png"
+    description: "Day 17 was one of those classic road-trip days — long drive, iconic stops, a little chaos, and plenty of food. We were leaving Dalhousie for Ambala, with a planned detour through Amritsar before wrapping up the journey for the night. The final destination the next day would be Delhi, so this was our last proper stop of the trip.<br/><br/>We started around 8:30 am and reached Amritsar by 12:30 pm. Our first mission, however, turned out to be finding parking near the Golden Temple — easier said than done. After circling around nearly three times in peak traffic, we finally spotted a parking area, carefully noted the location (a wise move in hindsight), and began walking toward the temple.<br/><br/>One thing to remember — head covering is mandatory for everyone, and during peak summer, the heat can be brutal. The marble floors were scorching under the afternoon sun, and though the temple had perforated mats laid out, they offered only partial relief for our already tired feet. But the moment we stepped inside, all complaints melted away.<br/><br/>The Golden Temple was simply breathtaking — calm, spiritual, and glowing in the sunlight. The shimmering gold reflected beautifully in the surrounding water, while hymns floated softly through the complex. What stood out equally was the langar, the community kitchen that feeds thousands every day regardless of religion or background. Sitting cross-legged among strangers and sharing a simple meal felt deeply humbling. And somehow, the dal tasted better than most restaurant meals we had eaten on the trip — warm, comforting, and unforgettable.<br/><br/>With full stomachs and hotter temperatures, we switched to local transport to avoid the city traffic. A rickshaw ride took us to the famous Giani Tea Stall & Lassi Shop, where the thick, chilled lassi was exactly what we needed to fight the heat. Coming from Bangalore, our kids had never experienced such intense summer temperatures, and honestly, neither had we in a long while. We stocked up on water, shared a few extra bottles with our helpful rickshaw driver and others nearby, and tried our best to stay hydrated.<br/><br/>Our next stop was Kesar Da Dhaba, tucked inside a narrow alley. Our auto driver turned out to be an absolute gem — he parked nearby and walked us through the maze of lanes himself to make sure we found it. Though the heat had completely killed our appetite by then, the few dishes we managed to try were rich, comforting, and delicious. It was easy to see why the place is such a local favourite.<br/><br/>Before leaving Amritsar, we picked up some local savouries and snacks from roadside shops and began the drive toward Ambala. The plan was straightforward — until a farmers’ protest and highway traffic jam changed everything. Forced to take muddy village detours, the drive became slower and slightly nerve-wracking. At times, the narrow roads and unfamiliar surroundings didn’t feel particularly safe, but the steady flow of vehicles around us offered some reassurance.<br/><br/>By around 7:30 pm, we finally checked into Regenta City Vilas Palace, Ambala, tired but relieved. The hotel turned out to be a pleasant surprise — comfortable, convenient, and great value for money, especially being close to the highway for an easy exit next morning.<br/><br/>Of course, we couldn’t end the day without food. A quick outing took us to Anil Ji Chaat Wale, where the chaat absolutely lived up to the hype. Tangy, spicy, crunchy — exactly what was needed after a long day on the road. The city itself, though, left us slightly cautious after spotting a surprising number of people casually drinking and driving on the roads.<br/><br/>With an early departure and a flight waiting the next day, we didn’t stay up long. One by one, exhaustion won, and before we knew it, the room was filled with the sound of deep sleep — the kind only long road trips can earn."
+    highlights:
+      - "✅ Langar at Golden Temple"
+      - "✅ Food extravaganza in Amritsar"
+      - "❌ Extreme heat, temprature and traffic in Amritsar reduced our spirits and hunger"
+      - "❌ Highway closure and detours through village to reach Ambala was nerve wrecking"
+    photos:
+      - image: "/assets/images/himachal/day17-golden-temple.jpg"
+        caption: "The view of golden temple, the ground was fire. Smiles hiding the shearing heat under the toes!"
+      - image: "/assets/images/himachal/day17-near-golden-temple.jpg"
+        caption: "Getting ready for the temple"
+      - image: "/assets/images/himachal/day17-riskhaw-ride.jpg"
+        caption: "The rickshaw to beat the intense sun breathing fire on us"
+      - image: "/assets/images/himachal/day17-roadside-lassi.jpg"
+        caption: "The roadside lassi full of malai and ice. Nothing better to beat the heat"
+      - image: "/assets/images/himachal/day17-kesar-dabha-thali.jpg"
+        caption: "The amazing and rich thaali at the Kesar dabha. The paratha were out of this world!"
+      - image: "/assets/images/himachal/day17-aniljis.jpg"
+        caption: "Anil Ji Chaat waale, we tried based on online reviews, and turned out amazing"
+      - image: "/assets/images/himachal/day17-chaat.jpg"
+        caption: "Joy beyond bounds when she find a chaat that clicks"
+    accommodation:
+      name: "Regenta City Vilas Palace"
+      location: "Regenta City Vilas Palace, Ambala"
+      rating: 3
+      review: "The hotel is built for local weddings. The rooms feel posh and comfortable. The service is mediocre. It is located right on the highway and is a great location if you are passing by. The food is unimpressive however the breakfast starts at 7:30 so that allows you to leave on time beating the traffic. Overall it was a relatively better stay"
+    places_to_eat:
+      - name: "Kesar Da Dabha"
+        location: "Kesar Da Dhaba, Chowk Passain, Amritsar"
+        comment: "The Non Veg thali was out of the world! You could smell ghee through and through. Unfortunately, with langar food at temple, lassi top ups and extreme heat the hunger had vanished. We ate limited food but whatever we tried, left us floored. Highly recommended"
+      - name: "Giani Punjabi Lassi"
+        location: "Giani Punjabi Lassi, Golden Temple Out Road, Amritsar"
+        comment: "Chillded lassi with extra malai top up. Highly recommend a big glass. Was perfect pairing with heat."
+      - name: "Anil Ji Chaat Wale"
+        location: "Anil Ji Chaat Wale, Jaggi City Center, Ambala"
+        comment: "We replaced dinner with Anil Ji's chaat and we did not regret. The aaloo tikki and everyting else was mouth watering and left us desiring for more."
+    additional_considerations: "Reach the Golden Temple either early morning or late evening to avoid peak heat. Carry socks if travelling in summer — the floor gets extremely hot. Head covering is compulsory, but scarves are available near the entrance if you forget. Skip driving within Amritsar city during peak hours — autos and rickshaws are easier. Giani Lassi is a must in summer — thick, refreshing, and worth the stop. If you are transiting to Delhi, stay on highway to beat city traffic"
   # - day: 14
   #   title: "Day 14 Placeholder"
-  #   date: ""
-  #   featured_image: ""
-  #   description: ""
-  #   highlights: []
-  #   photos: []
-  #   accommodation: {}
-  #   additional_considerations: ""
-  # - day: 15
-  #   title: "Day 15 Placeholder"
   #   date: ""
   #   featured_image: ""
   #   description: ""
