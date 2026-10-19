@@ -9,7 +9,7 @@ itinerary:
   - day: 1
     title: "The Long Drive South - Bangalore to Varkala"
     date: "8 Oct 2026"
-    featured_image: "/assets/images/kerala-varkala-valparai/day1-main.jpg"
+    featured_image: "/assets/images/kerala-varkala-valparai/day1-main.png"
     description: "Day 1 was all about the drive. The plan was simple: knock out the longest stretch on the first day, then spend the next three days doing nothing at all in Varkala. We left Bangalore at 5:30 am, and leaving on a weekday meant the city fell behind us quickly. The route was NH44 all the way down to Nagercoil, then north along the coast on NH66.<br/><br/>
 We reached Salem around 8:30 am and stopped for breakfast at Sri Sarvana Bhavan's Aasai Dosai, a place someone had recommended. It was packed with locals and the service was quick, but the food did not live up to the hype. We had dosa, vada, idli and coffee, and it was all just average. We wrapped up in 20 minutes, and in hindsight we could have picked a better spot.<br/><br/>
 Lunch was at Hari's Restaurant, just after Thirumangalam. The thali was good, the service was friendly and it was worth every rupee. NH44 was in excellent shape from Bangalore to Nagercoil, and the stretch near Madurai and Nagercoil had rows of windmills, shiny new giants next to the older, smaller ones. Kids and adults alike will want to stop and stare.<br/><br/>
@@ -50,13 +50,13 @@ Dinner was at the Sarwaa cafe itself, with the sea breeze for company. The menu 
         comment: "A good lunch stop on the drive. The thali was tasty, the service was good and it was worth the price. Recommended."
       - name: "Cafe Sarwaa"
         location: "Cafe Sarwaa, Varkala"
-        comment: "The cafe attached to Nidra by Sarwaa. The sea breeze and the view make dinner here special. The menu is limited, but everything we ordered tasted great, and the non-alcoholic coolers were refreshing. The only miss was seafood, which was not great."
+        comment: "The cafe attached to Nidra by Sarwaa. It has a brilliant view of the sea and the horizon, and a cool breeze, which make the spot special. The menu is limited, but everything we ordered tasted great, and the non-alcoholic coolers were refreshing. The only miss was seafood, which was not great. Service varies with the crowd. During packed hours, they may allow only a single order per table, so that guests do not block the spots with a view with delayed orders. That seemed fairly reasonable."
     accommodation:
       name: "Nidra by Sarwaa"
       location: "Nidra by Sarwaa, Varkala"
       rating: 3
-      review: "Sarwaa is best known as a cafe, but it also has a few cottages on the South Cliff overlooking the sea. Our cottage was tastefully designed and very comfortable, with a porch that has a private sea view and a relaxing seating area. After a 12 hour drive, it was exactly what we needed, and a perfect base for a relaxing holiday. I wouldn't recommend other stay options at Cafe Sarwaa if you don't opt for cottage or it is not available since, overall the place is more of a cafe than a hotel. The path to the cafe is a bit muddy that gets slushy in rains. Car parking available although the place gets crowded from morning to evening during season. To access the beach you have to take a long and steep staircase from the cliff, so while the view is great, the beach is not accessible without effort."
-    additional_considerations: "Start early to beat Bangalore traffic. The shortest route on the map from Bangalore to Varkala might be same time however more tiring due to lower average speed. The route we took via Nagercoil was good and less tiring. Plan for the Nagercoil to Varkala stretch to take much longer than the 110 km suggests, because of detours, road work and slow villages, so try to cross it before dark"
+      review: "Sarwaa is best known as a cafe, but it also has a few cottages on the South Cliff overlooking the sea. Our cottage was tastefully designed and very comfortable, with a porch that has a private sea view and a relaxing seating area. After a 12 hour drive, it was exactly what we needed. I would only recommend staying here if you can get a cottage, as the other rooms are not worth it. Overall, the place is more of a cafe than a hotel. The path to the cafe gets muddy and slushy in the rain. Car parking is available, but the place is crowded from morning to evening in season. The beach is reached by a long, steep staircase down the cliff, so the view is great, but the beach takes some effort to get to."
+    additional_considerations: "Start early to beat the Bangalore traffic. The shortest route on the map from Bangalore to Varkala may take about the same time, but it is more tiring because of the lower average speed. The route we took via Nagercoil was good and less tiring. Plan for the Nagercoil to Varkala stretch to take much longer than the 110 km suggests, because of detours, road work and slow villages, so try to cross it before dark."
   - day: 2
     title: "Beach, Backwaters & a Mangrove Sunset"
     date: "9 Oct 2026"
@@ -77,9 +77,9 @@ With the sunset still in our eyes, we drove back to the hotel, ordered dinner to
       - "❌ Rough water and storm warnings kept us out of the sea"
     photos:
       - image: "/assets/images/kerala-varkala-valparai/day2-beach-view.jpg"
-        caption: "The view from the beach, with a clear horizon"
+        caption: "The view from the beach, with waves lashing in the background"
       - image: "/assets/images/kerala-varkala-valparai/day2-beach.jpg"
-        caption: "The steep beach below the cliff"
+        caption: "More beach clicks, all smiles"
       - image: "/assets/images/kerala-varkala-valparai/day2-boating.jpg"
         caption: "Out on the water on our country boat"
       - image: "/assets/images/kerala-varkala-valparai/day2-breakfast-egg.jpg"
@@ -87,33 +87,30 @@ With the sunset still in our eyes, we drove back to the hotel, ordered dinner to
       - image: "/assets/images/kerala-varkala-valparai/day2-breakfast.jpg"
         caption: "Breakfast at Cafe Sarwaa, fresh and well presented"
       - image: "/assets/images/kerala-varkala-valparai/day2-breakfast3.jpg"
-        caption: "More from the breakfast table"
+        caption: "The odd duck among us ordering quesadilla for breakfast"
       - image: "/assets/images/kerala-varkala-valparai/day2-cottage-view.jpg"
         caption: "The view from our cottage"
       - image: "/assets/images/kerala-varkala-valparai/day2-elephant-pose.jpg"
         caption: "The elephant at Kaveri Elephant Park"
       - image: "/assets/images/kerala-varkala-valparai/day2-elephant.jpg"
-        caption: "Kaveri Elephant Park's only elephant"
+        caption: "Taking more pictures at Kaveri Elephant Park's elephant"
       - image: "/assets/images/kerala-varkala-valparai/day2-mangrove-ride.jpg"
         caption: "Gliding through the mangroves"
       - image: "/assets/images/kerala-varkala-valparai/day2-mangrove-view-boating.jpg"
-        caption: "Mangrove tunnels from the boat"
+        caption: "Mangrove view location of pick up. Ample car park"
       - image: "/assets/images/kerala-varkala-valparai/day2-mangrove.jpg"
-        caption: "Red mangroves with their aerial roots"
+        caption: "Tunnel of Red mangroves with their aerial roots"
       - image: "/assets/images/kerala-varkala-valparai/day2-mangroveview-viewpoint.jpg"
         caption: "The mangrove backwaters from the viewpoint"
     places_to_eat:
-      - name: "Cafe Sarwaa"
-        location: "South Cliff, Varkala, Kerala"
-        comment: "Breakfast here was the highlight of the morning. The cafe opens at 8 am, so go early to get a table. Every dish was fresh, delicious and nicely presented."
       - name: "Holy Mackerel Seafood Restaurant"
-        location: "Varkala, Kerala"
-        comment: "A small, no-frills local mess, not an upscale restaurant. We had the meals, fried mackerel and masala prawns with thick rice. The seafood was fresh and tasty, and it is a good place for an honest local lunch."
+        location: "Holy Mackerel Seafood Restaurant, Varkala"
+        comment: "A small, no-frills local mess, not an upscale restaurant. We had the meals, fried mackerel and masala prawns with thick rice. The seafood was fresh and tasty, and it is a good place for an honest local lunch. Do not expect a wide menu or a lot of variety. The seafood was reasonably priced, and there is a decent amount of seating."
     accommodation:
       name: "Nidra by Sarwaa"
-      location: "South Cliff, Varkala, Kerala"
-      rating: 4
-      review: "Day 2 was a full day at the cottage: a morning walk down to the beach, breakfast at the cafe next door, and an easy room-service dinner at the end. The cottage's sea view and the steps down to the beach make it a very convenient base."
+      location: "Nidra by Sarwaa, Varkala"
+      rating: 3
+      review: "Sarwaa is best known as a cafe, but it also has a few cottages on the South Cliff overlooking the sea. Our cottage was tastefully designed and very comfortable, with a porch that has a private sea view and a relaxing seating area. I would only recommend staying here if you can get a cottage, as the other rooms are not worth it. Overall, the place is more of a cafe than a hotel. The path to the cafe gets muddy and slushy in the rain. Car parking is available, but the place is crowded from morning to evening in season. The beach is reached by a long, steep staircase down the cliff, so the view is great, but the beach takes some effort to get to."
     additional_considerations: "Go to the beach early, as the sun gets harsh quickly and the water is rough, especially with storm warnings. For the mangrove boat ride, the 6 am slot is probably the best, and 4:30 pm is a good choice for sunset. A country boat for 4 cost around INR 1800 with Mangrove View. Skip Kaveri Elephant Park unless you have kids who want an elephant ride."
   - day: 3
     title: "Beaches, a Lighthouse & a Rainy Cliff Walk"
@@ -179,16 +176,16 @@ For dinner we walked down to the market along the cliff again and ate at Cafe de
         caption: "Waffles at Cafe Inda"
     places_to_eat:
       - name: "Cafe Inda"
-        location: "Varkala, Kerala [confirm]"
+        location: "Cafe Inda, Varkala"
         comment: "Picked based on reviews, and it delivered. The breakfast was scrumptious, with waffles, pancakes and more, and we highly recommend it. Streets nearby are narrow and parking is limited, so be careful if driving."
       - name: "Cafe del Mar"
-        location: "North Cliff, Varkala, Kerala"
-        comment: "A cliff-side restaurant with a multicuisine menu. The food was okay. We had pizza for the kids and local seafood for ourselves. Good for a cliff-side dinner, though not a standout."
+        location: "Cafe del Mar, Varkala"
+        comment: "A cliff-side restaurant with a multicuisine menu. The food was okay. We had pizza for the kids and local seafood for ourselves. Good for a cliff-side dinner, though not a standout. It may offer nice views during the day."
     accommodation:
       name: "Nidra by Sarwaa"
-      location: "South Cliff, Varkala, Kerala"
-      rating: 4
-      review: "Our third night at the cottage, and it was the perfect place to hide from the afternoon heat. We ended the day on the porch with a sunset and kombuchas, and went to sleep to the sound of waves crashing below the cliff. The Prana by Sarwaa spa is on the same property."
+      location: "Nidra by Sarwaa, Varkala"
+      rating: 3
+      review: "Sarwaa is best known as a cafe, but it also has a few cottages on the South Cliff overlooking the sea. Our cottage was tastefully designed and very comfortable, with a porch that has a private sea view and a relaxing seating area. I would only recommend staying here if you can get a cottage, as the other rooms are not worth it. Overall, the place is more of a cafe than a hotel. The path to the cafe gets muddy and slushy in the rain. Car parking is available, but the place is crowded from morning to evening in season. The beach is reached by a long, steep staircase down the cliff, so the view is great, but the beach takes some effort to get to."
     additional_considerations: "Start the beach hopping early, as it gets very hot after late morning. Cafe Inda is on a narrow street with limited parking. The lighthouse opens at 3 pm and gets crowded by 4 pm, so go right at opening. Carry a raincoat or umbrella for the North Cliff market walk. Avoid the dead puffer fish on the shore."
   - day: 4
     title: "Surf Lessons & a Lakeside Evening - Varkala to Ashtamudi"
@@ -205,18 +202,6 @@ We explored the property for a while and then went to dinner. The hotel buffet h
       - "✅ Impeccable car wash and interior cleaning by the hotel staff"
       - "❌ Para gliding operators seemed to focus on efficiency over safety, so we skipped it"
     photos:
-      - image: "/assets/images/kerala-varkala-valparai/day4-crows-boat-full.jpg"
-        caption: "A crow joins us on the ferry"
-      - image: "/assets/images/kerala-varkala-valparai/day4-crows-boat.jpg"
-        caption: "Crows on the ferry"
-      - image: "/assets/images/kerala-varkala-valparai/day4-egret-boat.jpg"
-        caption: "An egret on the ferry"
-      - image: "/assets/images/kerala-varkala-valparai/day4-evening-boat.jpg"
-        caption: "The evening ferry ride on Ashtamudi Lake"
-      - image: "/assets/images/kerala-varkala-valparai/day4-hotel-views.jpg"
-        caption: "Lake views from the hotel"
-      - image: "/assets/images/kerala-varkala-valparai/day4-hotel.jpg"
-        caption: "The Leela Ashtamudi, a Raviz Hotel"
       - image: "/assets/images/kerala-varkala-valparai/day4-surfing-instructor.jpg"
         caption: "Appu from Moana Surfing Club, our instructor"
       - image: "/assets/images/kerala-varkala-valparai/day4-surfing-prep.jpg"
@@ -225,17 +210,29 @@ We explored the property for a while and then went to dinner. The hotel buffet h
         caption: "The kids try surfing"
       - image: "/assets/images/kerala-varkala-valparai/day4-surfing2.jpg"
         caption: "Another try on the board"
+      - image: "/assets/images/kerala-varkala-valparai/day4-hotel.jpg"
+        caption: "The Leela Ashtamudi, a Raviz Hotel"
+      - image: "/assets/images/kerala-varkala-valparai/day4-hotel-views.jpg"
+        caption: "Eye catching property views as we wait for ferry to board"
       - image: "/assets/images/kerala-varkala-valparai/day4-view.jpg"
         caption: "The view of the lake from the hotel"
+      - image: "/assets/images/kerala-varkala-valparai/day4-crows-boat-full.jpg"
+        caption: "A crow joins us on the ferry"
+      - image: "/assets/images/kerala-varkala-valparai/day4-crows-boat.jpg"
+        caption: "Crows on the ferry"
+      - image: "/assets/images/kerala-varkala-valparai/day4-egret-boat.jpg"
+        caption: "An egret on the ferry"
+      - image: "/assets/images/kerala-varkala-valparai/day4-evening-boat.jpg"
+        caption: "The evening ferry ride on Ashtamudi Lake"
     places_to_eat:
-      - name: "The Leela Ashtamudi - Buffet Dinner"
-        location: "The Leela Ashtamudi, A Raviz Hotel, Kollam, Kerala"
-        comment: "The hotel buffet had some great local dishes, and it was a good way to end the day. Our deal included breakfast and one major meal, and taking a deal like this is a great idea, since there are limited options nearby."
+      - name: "Keraleeyam"
+        location: "The Leela Ashtamudi, A Raviz Hotel, Ashtamudi"
+        comment: "The Keraleeyam restaurant buffet had some great local dishes, and it was a good way to end the day. The buffet was not the most extensive, but it had a great blend of local, North Indian and continental dishes, and a good selection of desserts."
     accommodation:
       name: "The Leela Ashtamudi - A Raviz Hotel"
-      location: "Ashtamudi Lake, Kollam, Kerala"
-      rating: 4
-      review: "A beautiful lakeside property with great views. We got a good deal that included breakfast and one major meal, and made the most of it. The complimentary evening ferry ride on the lake is a lovely touch, and the staff were very accommodating."
+      location: "The Leela Ashtamudi, A Raviz Hotel"
+      rating: 5
+      review: "A beautiful lakeside property with fantastic views and a few things to do on site, including the complimentary evening ferry ride on the lake. The property is generally quite expensive to book, but we got a good deal that included breakfast and one major meal, and made the most of it. The staff were very accommodating. Revathi and Sanjita at the front desk and Joel at the restaurant hosted us well and handled a lot of our requests."
     additional_considerations: "I got my car cleaned by the valet staff. They were quite accommodating and charged INR 500 for an outside and inside cleaning job, which restored the hygiene after several beach rides. The ferry at the hotel is complimentary, and if you are hesitant to go out, taking a deal with one major meal is a great idea at the hotel."
   - day: 5
     title: "Sambranikodi Island & Munroe Island Backwaters"
@@ -252,40 +249,37 @@ There were options for kayaking, motor boats and more, but we stuck with a count
       - "❌ Munroe island is a bit far from the hotel, about an hour, so you need to arrange transport"
       - "❌ The ferry did not stop at Sambranikodi island, so we could not walk in the shallows"
     photos:
+      - image: "/assets/images/kerala-varkala-valparai/day5-island.jpg"
+        caption: "Sambranikodi island from the ferry"
       - image: "/assets/images/kerala-varkala-valparai/day5-boat.jpg"
-        caption: "Our country boat at Munroe island"
+        caption: "Morning ferry views of other fishing boats"
+      - image: "/assets/images/kerala-varkala-valparai/day5-meen-rest.jpg"
+        caption: "Meen by Chef Pillai"
+      - image: "/assets/images/kerala-varkala-valparai/day5-lunch.jpg"
+        caption: "Fish Nirvana and Kerala parotta at Meen"
+      - image: "/assets/images/kerala-varkala-valparai/day5-drinks.jpg"
+        caption: "Refreshing drinks at Meen by Chef Pillai"
       - image: "/assets/images/kerala-varkala-valparai/day5-boating.jpg"
         caption: "Gliding through the Munroe island canals"
       - image: "/assets/images/kerala-varkala-valparai/day5-boating2.jpg"
-        caption: "Ducking under a low bridge"
-      - image: "/assets/images/kerala-varkala-valparai/day5-drinks.jpg"
-        caption: "Refreshing drinks at Meen by Chef Pillai"
-      - image: "/assets/images/kerala-varkala-valparai/day5-island.jpg"
-        caption: "Sambranikodi island from the ferry"
-      - image: "/assets/images/kerala-varkala-valparai/day5-lunch.jpg"
-        caption: "Fish Nirvana and Kerala parotta at Meen"
-      - image: "/assets/images/kerala-varkala-valparai/day5-mainone.jpg"
-        caption: "Sunset over the Ashtamudi backwaters"
-      - image: "/assets/images/kerala-varkala-valparai/day5-meen-rest.jpg"
-        caption: "Meen by Chef Pillai"
+        caption: "The Mangrove bridge"
+      - image: "/assets/images/kerala-varkala-valparai/day5-tree-climb.jpg"
+        caption: "Climbing the mangrove trees"
       - image: "/assets/images/kerala-varkala-valparai/day5-rowing-full.jpg"
         caption: "Rowing along the Munroe island canals"
       - image: "/assets/images/kerala-varkala-valparai/day5-rowing.jpg"
-        caption: "Rowing through the village backwaters"
-      - image: "/assets/images/kerala-varkala-valparai/day5-tree-climb.jpg"
-        caption: "Climbing the mangrove trees"
+        caption: "Rowing through the backwaters"
+      - image: "/assets/images/kerala-varkala-valparai/day5-mainone.jpg"
+        caption: "Returning to our drop off point after the sunset, navigating town canals"
     places_to_eat:
       - name: "Meen by Chef Pillai"
-        location: "Kollam, Kerala [confirm]"
-        comment: "The signature dish, Fish Nirvana, was fantastic. It is a coconut milk fish curry with no spice, so it is perfect for kids, and it goes well with Kerala parotta. We also recommend the prawn starters and the drinks. Highly recommended."
-      - name: "The Leela Ashtamudi - Dinner"
-        location: "The Leela Ashtamudi, A Raviz Hotel, Kollam, Kerala"
-        comment: "A filling dinner at the hotel to end the day."
+        location: "Meen by Chef Pillai, Ashtamudi"
+        comment: "The signature dish, Fish Nirvana, was fantastic. It is a coconut milk fish curry with no spice, so it is perfect for kids, and it goes well with Kerala parotta. We also recommend the prawn starters and the drinks. Highly recommended if you want to try some fine dining seafood."
     accommodation:
       name: "The Leela Ashtamudi - A Raviz Hotel"
-      location: "Ashtamudi Lake, Kollam, Kerala"
-      rating: 4
-      review: "Our second night at the lakeside property. We spent the morning on the hotel ferry to Sambranikodi island and the rest of the day out exploring. It's a comfortable base for Munroe island, though the island is about an hour away."
+      location: "The Leela Ashtamudi, A Raviz Hotel"
+      rating: 5
+      review: "A beautiful lakeside property with fantastic views and a few things to do on site, including the complimentary evening ferry ride on the lake. The property is generally quite expensive to book, but we got a good deal that included breakfast and one major meal, and made the most of it. The staff were very accommodating. Revathi and Sanjita at the front desk and Joel at the restaurant hosted us well and handled a lot of our requests."
     additional_considerations: "Munroe island is about an hour from the hotel, so arrange a car or autorickshaw. The country boat ride is 2.5 hours and ends with sunset, so start in the afternoon. Duck low when going under bridges. The hotel ferry to Sambranikodi island does not necessarily stop there. Try the Fish Nirvana at Meen, especially if you have kids who prefer less spice."
   - day: 6
     title: "Ghats, Waterfalls & the Sinnadorai Bungalows - Ashtamudi to Valparai"
@@ -306,26 +300,23 @@ Our package included all meals at Sinnadorai, and we recommend that, as there is
       - "❌ We did not book the TN e-pass in advance, which caused a major hassle at the border"
       - "❌ The last 5 km inside Sinnadorai were rough and took 25 minutes each way"
     photos:
+      - image: "/assets/images/kerala-varkala-valparai/day6-waterfall.jpg"
+        caption: "Charpa waterfall with very little water"
+      - image: "/assets/images/kerala-varkala-valparai/day6-reservoir.jpg"
+        caption: "A reservoir along the ghat road"
       - image: "/assets/images/kerala-varkala-valparai/day6-bunglow-porch.jpg"
         caption: "The porch of our bungalow at Sinnadorai"
-      - image: "/assets/images/kerala-varkala-valparai/day6-reservoir.jpg"
-        caption: "A dry reservoir along the ghat road"
       - image: "/assets/images/kerala-varkala-valparai/day6-room.jpg"
         caption: "Our room at Sinnadorai Bungalows"
-      - image: "/assets/images/kerala-varkala-valparai/day6-waterfall.jpg"
-        caption: "Athirapalli waterfall with very little water"
     places_to_eat:
-      - name: "Sinnadorai Bungalows - Meals"
-        location: "Sinnadorai Bungalows, Valparai, Tamil Nadu"
-        comment: "Our package included all meals at the property, and we recommend taking it, as there is nothing to eat nearby. The dinner was fresh, local and fantastic."
-      - name: "Lunch in Kochi"
-        location: "Kochi, Kerala"
-        comment: "We missed this, and we wish we had not. Kochi is the last place on the route with decent restaurants, so plan a lunch stop here."
+      - name: "Sinnadorai Bungalows"
+        location: "Sinna Dorai's Upper Paralai Bungalow, Valparai"
+        comment: "Our package included all meals at the property, and we recommend taking it, as there is nothing to eat nearby. All meals are freshly prepared and mix of local, south indian and sometimes continental cuisines. Each meal had 3 courses and they were mostly delicious. There are no alternate nearby options."
     accommodation:
       name: "Sinnadorai Bungalows"
-      location: "Valparai, Tamil Nadu"
+      location: "Sinna Dorai's Upper Paralai Bungalow, Valparai"
       rating: 4
-      review: "Fantastic bungalows left behind by the British, on a sprawling tea estate. The setting is stunning and very quiet, and the food is fresh and local. Leopards are known to roam the property, so be careful after dark. Valparai town is 8 km away, and the last 5 km are bad roads."
+      review: "Fantastic bungalows left behind by the British, on a sprawling tea estate. The setting is stunning and very quiet, with open views of valleys, tea estates and mountains. The cottages are large and comfortable, with all the modern amenities you need, and there are fantastic spaces to sit out in the open and relax. The drive to the property is a bit tricky, on broken roads, but it offers views of local wildlife and birds for nature enthusiasts. There are natural streams nearby that you can enjoy as well. The staff is very welcoming and takes care of most needs."
     additional_considerations: "Grab lunch at Kochi, as it is the last stop with decent options. You can also pick up local chips and condiments there. Do not forget to book the TN e-pass before you head into the ghat areas, where there is no network. Keep a downloaded copy of the confirmation on your phone, and keep it under 250 KB. Book a package with meals at Sinnadorai, as there is nothing to eat nearby. Leopards roam the property, so avoid walking out after dark."
   - day: 7
     title: "Birds, Tea Trails & a Quiet Sunset - A Slow Day in Valparai"
@@ -360,21 +351,14 @@ We then visited Sinnadorai's second property in the same plantation, called Roti
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory.jpg"
         caption: "Inside Parry's Tea Factory"
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory2.jpg"
-        caption: "The tea-making process, step by step"
+        caption: "Tea factory, constructed in old architectural style"
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory3.jpg"
-        caption: "Tea ready for sorting and tasting"
-    places_to_eat:
-      - name: "Sinnadorai Bungalows - Meals"
-        location: "Sinnadorai Bungalows, Valparai, Tamil Nadu"
-        comment: "Breakfast and dinner at the bungalow were fresh, local and delicious again. Meals are included in the package, and there is nothing else to eat nearby."
-      - name: "Rotikadai (Sinnadorai)"
-        location: "Sinnadorai plantation, Valparai, Tamil Nadu"
-        comment: "Sinnadorai's second property in the same plantation. We had our evening tea there and watched the sunset. A whistling thrush had a nest nearby."
+        caption: "Tea ready for drying and separation"
     accommodation:
       name: "Sinnadorai Bungalows"
-      location: "Valparai, Tamil Nadu"
+      location: "Sinna Dorai's Upper Paralai Bungalow, Valparai"
       rating: 4
-      review: "A slow, restful day at the bungalow, with a lazy afternoon, beautiful sunsets from the cottage and a delicious dinner from the kitchen. The perfect place to switch off."
+      review: "Fantastic bungalows left behind by the British, on a sprawling tea estate. The setting is stunning and very quiet, with open views of valleys, tea estates and mountains. The cottages are large and comfortable, with all the modern amenities you need, and there are fantastic spaces to sit out in the open and relax. The drive to the property is a bit tricky, on broken roads, but it offers views of local wildlife and birds for nature enthusiasts. There are natural streams nearby that you can enjoy as well. The staff is very welcoming and takes care of most needs."
     additional_considerations: "Start early at 6 am if you want to look for birds and wildlife near Sholayar Dam, as the Malabar hornbill is not guaranteed. Parry's Tea Factory is open to visitors, and the visit is worth it. Spices are available in Valparai town, 8 km from the property."
   - day: 8
     title: "The Road Home - Valparai to Bangalore"
@@ -405,36 +389,28 @@ Traffic and rain made the last stretch into Bangalore slow, and we reached home 
         caption: "Monkey Falls, nearly dry"
     places_to_eat:
       - name: "Sri Saravana Bhavan"
-        location: "Near Sankagiri toll gate, Salem - Coimbatore highway, Tamil Nadu"
-        comment: "A highway stop after Salem. We could not say we loved it. Everything was too spicy for adults and kids, and the meals might have been a better choice. Salem and Coimbatore both have better options."
-      - name: "Breakfast at Sinnadorai Bungalows"
-        location: "Sinnadorai Bungalows, Valparai, Tamil Nadu"
-        comment: "A last fresh, local breakfast at the bungalow before the long drive."
-    accommodation:
-      name: "Sinnadorai Bungalows"
-      location: "Valparai, Tamil Nadu"
-      rating: 4
-      review: "We checked out in the morning after a final breakfast. We spent the rest of the day on the road home."
+        location: "Sri Saravana Bhavan, Near Sankagiri toll gate"
+        comment: "A highway stop after Salem. We could not say we loved it. Everything was too spicy for adults and kids, and the meals might have been a better choice. Salem and Coimbatore both have better options. If you choose to stop here, maybe try the local meals thali."
     additional_considerations: "Allow a full day for the drive, around 8 hours without traffic, and expect delays near Hosur. The route via Pollachi, Coimbatore and Salem has good roads. Skip Monkey Falls in the dry season. Eat at Salem or Coimbatore, which have better options than the highway stops, or order meals instead of a la carte."
 ---
 
 Eight days, three very different slow-travel stops, and one very long road in between. We drove from Bangalore all the way down NH44 to Varkala, spent three days on its cliffs and beaches, moved on to the backwaters of Ashtamudi and Munroe island, then climbed through the Western Ghats to a British-era tea estate bungalow in Valparai. The drives were long, but each stop was the kind of place where you put the phone down, sit on the porch and do very little. We chased sunsets from boats and balconies, tried surfing, ate a lot of fish, and learned about the TN e-pass the hard way. Here is how it went, with everything we would do again and a few things we would skip.
 
-**Route Taken**
+## Route Taken
 
-Bangalore to Varkala - Recommended  
+**Bangalore to Varkala - Recommended**  
 🚗 Bengaluru → Salem → Madurai → Nagercoil → Varkala → Ashtamudi → Kochi → Athirapalli → Valparai → Pollachi → Coimbatore → Salem → Bengaluru
 
 
-Ashtamudi to Valparai - NH66 largely under construction  
+**Ashtamudi to Valparai - NH66 largely under construction**  
 🚗 NH66 from Ashtamudi to Kochi → NH 544 Kochi to Angamaly → SH 21/354 from Angamaly to Valparai
 
 
-Valparai to Bangalore - Recommended 
+**Valparai to Bangalore - Recommended**  
 🚗 Valparai → Pollachi → Coimbatore → Avinashi → Perundurai → Salem → Dharmapuri → Rayakottai → Hosur → Bangalore
 
-**Trip Stats**
+## Trip Stats
 
-Total distance driven - Approx 1800 kms  
-Driving time - Approx 44 hours  
-Amount spent on diesel - Approx 1400 with 3/4 tank remaining at the end  
+**Total distance driven** - Approx 1800 kms  
+**Driving time** - Approx 44 hours (accounting for traffic jams, ghat roads and some patches under construction)  
+**Amount spent on diesel** - Approx INR 14,000 with 3/4 tank remaining at the end  
