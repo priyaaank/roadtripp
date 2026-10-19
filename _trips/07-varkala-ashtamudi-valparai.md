@@ -422,4 +422,19 @@ Eight days, three very different slow-travel stops, and one very long road in be
 
 **Route Taken**
 
+Bangalore to Varkala - Recommended  
 🚗 Bengaluru → Salem → Madurai → Nagercoil → Varkala → Ashtamudi → Kochi → Athirapalli → Valparai → Pollachi → Coimbatore → Salem → Bengaluru
+
+
+Ashtamudi to Valparai - NH66 largely under construction  
+🚗 NH66 from Ashtamudi to Kochi → NH 544 Kochi to Angamaly → SH 21/354 from Angamaly to Valparai
+
+
+Valparai to Bangalore - Recommended 
+🚗 Valparai → Pollachi → Coimbatore → Avinashi → Perundurai → Salem → Dharmapuri → Rayakottai → Hosur → Bangalore
+
+**Trip Stats**
+
+Total distance driven - Approx 1800 kms  
+Driving time - Approx 44 hours  
+Amount spent on diesel - Approx 1400 with 3/4 tank remaining at the end  
