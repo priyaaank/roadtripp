@@ -4,7 +4,7 @@ date: 2026-10-09
 duration: "8 Days"
 location: "Varkala, Ashtamudi & Valparai"
 featured_image: "/assets/images/kerala-varkala-valparai/day5-mainone.jpg"
-summary: ""
+summary: "An 8-day road trip from Bangalore down to the Kerala coast and back through the Western Ghats. Cliff-side beaches and surf lessons in Varkala, mangrove boat rides and a lakeside stay at Ashtamudi, and a quiet tea-estate bungalow in Valparai."
 itinerary:
   - day: 1
     title: "The Long Drive South - Bangalore to Varkala"
@@ -328,88 +328,98 @@ Our package included all meals at Sinnadorai, and we recommend that, as there is
       review: "Fantastic bungalows left behind by the British, on a sprawling tea estate. The setting is stunning and very quiet, and the food is fresh and local. Leopards are known to roam the property, so be careful after dark. Valparai town is 8 km away, and the last 5 km are bad roads."
     additional_considerations: "Grab lunch at Kochi, as it is the last stop with decent options. You can also pick up local chips and condiments there. Do not forget to book the TN e-pass before you head into the ghat areas, where there is no network. Keep a downloaded copy of the confirmation on your phone, and keep it under 250 KB. Book a package with meals at Sinnadorai, as there is nothing to eat nearby. Leopards roam the property, so avoid walking out after dark."
   - day: 7
-    title: ""
+    title: "Birds, Tea Trails & a Quiet Sunset - A Slow Day in Valparai"
     date: "14 Oct 2026"
     featured_image: "/assets/images/kerala-varkala-valparai/day7-main.jpg"
-    description: ""
+    description: "Day 7 was our last day of pure relaxation. Valparai is known for Malabar hornbill sightings at this time of year, so we were up at 6 am and headed to Sholayar Dam to try our luck. The hornbill did not show up, and we had no specific spot beyond the general tip to try Sholayar Dam. We did see several other unusual birds on the way, and some good sightings of the lion-tailed macaque, another endangered species. We soaked up the morning sky and the sounds of the forest, and then returned for breakfast, another fresh and delicious spread.<br/><br/>
+Next on the plan was a short picnic by a stream. We dipped our feet in the gentle water between the tea estates, and the view was peaceful beyond words. After spending some time there, we drove back to the bungalow and spent the afternoon relaxing.<br/><br/>
+Later we visited Parry's Tea Factory, which is open to visitors. Kids and adults alike learned how tea is made from scratch, from withering and drying to rolling and sorting into five grades. We did a bit of tea tasting and thanked our hosts. After that we headed into Valparai town to buy some spices.<br/><br/>
+We then visited Sinnadorai's second property in the same plantation, called Rotikadai, where we were lucky to spot a whistling thrush's nest. We had our evening tea there, watched the sunset, and returned to the cottage. After a still, quiet sunset and an early dinner, we settled in for some reading and got ready for the long drive back to Bangalore."
     highlights:
-      - "✅ "
-      - "✅ "
-      - "✅ "
-      - "✅ "
-      - "❌ "
-      - "❌ "
+      - "✅ Bird sightings near Sholayar Dam, and the lion-tailed macaque"
+      - "✅ A lazy afternoon at a stream in the middle of the tea estates"
+      - "✅ Learning how tea is made at Parry's Tea Factory, with a tasting"
+      - "✅ Beautiful sunsets, and evening tea at Rotikadai"
+      - "✅ Delicious dinner from the bungalow kitchen"
+      - "❌ We could not find a spot to see the Malabar hornbill"
     photos:
       - image: "/assets/images/kerala-varkala-valparai/day7-breakfast.jpg"
-        caption: "Breakfast"
+        caption: "A fresh breakfast at Sinnadorai"
       - image: "/assets/images/kerala-varkala-valparai/day7-hetrochromia.jpg"
-        caption: "Hetrochromia"
+        caption: "A pair of eyes with heterochromia"
       - image: "/assets/images/kerala-varkala-valparai/day7-indian-gaur-skull.jpg"
-        caption: "Indian gaur skull"
+        caption: "The skull of an Indian gaur"
       - image: "/assets/images/kerala-varkala-valparai/day7-ltm.jpg"
-        caption: "Ltm"
+        caption: "A lion-tailed macaque, an endangered species"
       - image: "/assets/images/kerala-varkala-valparai/day7-peacock.jpg"
-        caption: "Peacock"
+        caption: "A peacock on our morning drive"
       - image: "/assets/images/kerala-varkala-valparai/day7-stream-sitting.jpg"
-        caption: "Stream sitting"
+        caption: "Sitting by the stream between the tea estates"
       - image: "/assets/images/kerala-varkala-valparai/day7-stream.jpg"
-        caption: "Stream"
+        caption: "The stream, with tea estates all around"
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory.jpg"
-        caption: "Tea factory"
+        caption: "Inside Parry's Tea Factory"
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory2.jpg"
-        caption: "Tea factory2"
+        caption: "The tea-making process, step by step"
       - image: "/assets/images/kerala-varkala-valparai/day7-tea-factory3.jpg"
-        caption: "Tea factory3"
+        caption: "Tea ready for sorting and tasting"
     places_to_eat:
-      - name: ""
-        location: ""
-        comment: ""
+      - name: "Sinnadorai Bungalows - Meals"
+        location: "Sinnadorai Bungalows, Valparai, Tamil Nadu"
+        comment: "Breakfast and dinner at the bungalow were fresh, local and delicious again. Meals are included in the package, and there is nothing else to eat nearby."
+      - name: "Rotikadai (Sinnadorai)"
+        location: "Sinnadorai plantation, Valparai, Tamil Nadu"
+        comment: "Sinnadorai's second property in the same plantation. We had our evening tea there and watched the sunset. A whistling thrush had a nest nearby."
     accommodation:
-      name: ""
-      location: ""
+      name: "Sinnadorai Bungalows"
+      location: "Valparai, Tamil Nadu"
       rating: 4
-      review: ""
-    additional_considerations: ""
+      review: "A slow, restful day at the bungalow, with a lazy afternoon, beautiful sunsets from the cottage and a delicious dinner from the kitchen. The perfect place to switch off."
+    additional_considerations: "Start early at 6 am if you want to look for birds and wildlife near Sholayar Dam, as the Malabar hornbill is not guaranteed. Parry's Tea Factory is open to visitors, and the visit is worth it. Spices are available in Valparai town, 8 km from the property."
   - day: 8
-    title: ""
+    title: "The Road Home - Valparai to Bangalore"
     date: "15 Oct 2026"
     featured_image: "/assets/images/kerala-varkala-valparai/day8-main.jpg"
-    description: ""
+    description: "Day 8 was the drive home from Valparai to Bangalore. It was expected to take 8 hours, and we made good time for most of it, but the Bangalore traffic after Hosur ate up every minute we had saved.<br/><br/>
+The route down to Pollachi runs through the ghats, with 40 hairpin bends. The weather was nice and the views were lovely. The reservoir at the end looked nearly empty, another sign of the weak rains. After the ghats we stopped briefly at Monkey Falls. There was nothing spectacular to see, probably because of the lack of rain, and it can be skipped.<br/><br/>
+We then joined NH83 and NH544, which were in good shape all the way. Our route was Valparai, Pollachi, Coimbatore, Avinashi, Perundurai, Salem, Dharmapuri, Rayakottai, Hosur and Bangalore. Traffic on NH544 was noticeably lighter than on NH44 after Dharmapuri. There were good food options at Salem and Coimbatore, but we chose to stop after Salem at Sri Saravana Bhavan near the Sankagiri toll gate. We cannot say we loved it. Everything was too spicy for adults and kids alike, and we should have gone for the meals instead.<br/><br/>
+Traffic and rain made the last stretch into Bangalore slow, and we reached home at 7 pm after a long day. All that was left was to look back on the week gone by."
     highlights:
-      - "✅ "
-      - "✅ "
-      - "✅ "
-      - "✅ "
-      - "❌ "
-      - "❌ "
+      - "✅ Smooth roads on NH83, NH544 and NH44"
+      - "✅ The ghat drive down to Pollachi, with 40 hairpin bends"
+      - "❌ Traffic jam and rain entering Bangalore after Hosur"
+      - "❌ Food at Sri Saravana Bhavan near the Sankagiri toll was too spicy"
+      - "❌ Monkey Falls was not much to see in the dry season"
     photos:
       - image: "/assets/images/kerala-varkala-valparai/day8-breakfast.jpg"
-        caption: "Breakfast"
+        caption: "One last breakfast at Sinnadorai"
       - image: "/assets/images/kerala-varkala-valparai/day8-games.jpg"
-        caption: "Games"
+        caption: "A game before we hit the road"
       - image: "/assets/images/kerala-varkala-valparai/day8-morning-bunglow.jpg"
-        caption: "Morning bunglow"
+        caption: "Morning at the bungalow"
       - image: "/assets/images/kerala-varkala-valparai/day8-morning-tea.jpg"
-        caption: "Morning tea"
+        caption: "A last morning tea"
       - image: "/assets/images/kerala-varkala-valparai/day8-morning.jpg"
-        caption: "Morning"
+        caption: "A misty morning in the tea estate"
       - image: "/assets/images/kerala-varkala-valparai/day8-waterfall.jpg"
-        caption: "Waterfall"
+        caption: "Monkey Falls, nearly dry"
     places_to_eat:
-      - name: ""
-        location: ""
-        comment: ""
+      - name: "Sri Saravana Bhavan"
+        location: "Near Sankagiri toll gate, Salem - Coimbatore highway, Tamil Nadu"
+        comment: "A highway stop after Salem. We could not say we loved it. Everything was too spicy for adults and kids, and the meals might have been a better choice. Salem and Coimbatore both have better options."
+      - name: "Breakfast at Sinnadorai Bungalows"
+        location: "Sinnadorai Bungalows, Valparai, Tamil Nadu"
+        comment: "A last fresh, local breakfast at the bungalow before the long drive."
     accommodation:
-      name: ""
-      location: ""
+      name: "Sinnadorai Bungalows"
+      location: "Valparai, Tamil Nadu"
       rating: 4
-      review: ""
-    additional_considerations: ""
-
+      review: "We checked out in the morning after a final breakfast. We spent the rest of the day on the road home."
+    additional_considerations: "Allow a full day for the drive, around 8 hours without traffic, and expect delays near Hosur. The route via Pollachi, Coimbatore and Salem has good roads. Skip Monkey Falls in the dry season. Eat at Salem or Coimbatore, which have better options than the highway stops, or order meals instead of a la carte."
 ---
 
-TO BE FILLED
+Eight days, three very different slow-travel stops, and one very long road in between. We drove from Bangalore all the way down NH44 to Varkala, spent three days on its cliffs and beaches, moved on to the backwaters of Ashtamudi and Munroe island, then climbed through the Western Ghats to a British-era tea estate bungalow in Valparai. The drives were long, but each stop was the kind of place where you put the phone down, sit on the porch and do very little. We chased sunsets from boats and balconies, tried surfing, ate a lot of fish, and learned about the TN e-pass the hard way. Here is how it went, with everything we would do again and a few things we would skip.
 
 **Route Taken**
 
-🚗 Bengalury → Salem → Madurai → Nagercoil → Varkala → Ashtamudi → Valparai → Bengaluru
+🚗 Bengaluru → Salem → Madurai → Nagercoil → Varkala → Ashtamudi → Kochi → Athirapalli → Valparai → Pollachi → Coimbatore → Salem → Bengaluru
