@@ -397,7 +397,7 @@ Eight days, three very different slow-travel stops, and one very long road in be
 ## Route Taken
 
 **Bangalore to Varkala - Recommended**  
-🚗 Bengaluru → Salem → Madurai → Nagercoil → Varkala → Ashtamudi → Kochi → Athirapalli → Valparai → Pollachi → Coimbatore → Salem → Bengaluru
+🚗 Bengaluru → Salem → Madurai → Nagercoil → Varkala
 
 
 **Ashtamudi to Valparai - NH66 largely under construction**  
