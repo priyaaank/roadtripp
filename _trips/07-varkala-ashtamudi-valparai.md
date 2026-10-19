@@ -11,7 +11,7 @@ itinerary:
     date: "8 Oct 2026"
     featured_image: "/assets/images/kerala-varkala-valparai/day1-main.png"
     description: "Day 1 was all about the drive. The plan was simple: knock out the longest stretch on the first day, then spend the next three days doing nothing at all in Varkala. We left Bangalore at 5:30 am, and leaving on a weekday meant the city fell behind us quickly. The route was NH44 all the way down to Nagercoil, then north along the coast on NH66.<br/><br/>
-We reached Salem around 8:30 am and stopped for breakfast at Sri Sarvana Bhavan's Aasai Dosai, a place someone had recommended. It was packed with locals and the service was quick, but the food did not live up to the hype. We had dosa, vada, idli and coffee, and it was all just average. We wrapped up in 20 minutes, and in hindsight we could have picked a better spot.<br/><br/>
+We reached Salem around 8:30 am and stopped for breakfast at Sri Sarvana Bhavan's Aasai Dosai. It was packed with locals and the service was quick, but the food was ok but wouldn't call it outstanding. We had dosa, vada, idli and coffee, and it was all a good start for a breakfast. We wrapped up in 20 minutes, and were back on our way.<br/><br/>
 Lunch was at Hari's Restaurant, just after Thirumangalam. The thali was good, the service was friendly and it was worth every rupee. NH44 was in excellent shape from Bangalore to Nagercoil, and the stretch near Madurai and Nagercoil had rows of windmills, shiny new giants next to the older, smaller ones. Kids and adults alike will want to stop and stare.<br/><br/>
 The trouble started at Nagercoil. A series of detours ate into our time, and by the time we joined NH66 the sun was already going down. Varkala was only 110 km away, yet the map said 3 hours. It was easy to see why: road patches under construction, then village after village where we could not cross 30 kmph. The road runs along the coast, but between the houses and the fading light we never saw the sea once.<br/><br/>
 It was fully dark and raining when we reached Varkala, after nearly 12 hours on the road. All of that was forgotten the moment we walked into our cottage at Nidra by Sarwaa. Sarwaa is better known as a cafe, but it also has a handful of cottages on the South Cliff overlooking the sea. Ours was tastefully designed and very comfortable, with a porch that has its own view of the sea and a spot to sit back and relax.<br/><br/>
@@ -21,7 +21,7 @@ Dinner was at the Sarwaa cafe itself, with the sea breeze for company. The menu 
       - "✅ Gliding roads on NH44"
       - "✅ Cottages at Nidra by Cafe Sarwaa"
       - "✅ Food at Cafe Sarwaa"
-      - "❌ Breakfast at Aasai Dosai in Salem was mediocre"
+      - "❌ Breakfast at Aasai Dosai in Salem was ok-ok"
       - "❌ The road from Nagercoil to Varkala"
       - "❌ Absence of sea food at Cafe Sarwaa"
     photos:
@@ -31,8 +31,6 @@ Dinner was at the Sarwaa cafe itself, with the sea breeze for company. The menu 
         caption: "Heading out of Bangalore at 5:30 am"
       - image: "/assets/images/kerala-varkala-valparai/day1-drive.jpg"
         caption: "NH44, smooth all the way to Nagercoil"
-      - image: "/assets/images/kerala-varkala-valparai/day1-lunch-place.jpg"
-        caption: "Hari's Restaurant, just after Thirumangalam"
       - image: "/assets/images/kerala-varkala-valparai/day1-lunch.jpg"
         caption: "A thali that was worth the price"
       - image: "/assets/images/kerala-varkala-valparai/day1-sarwaa-room.jpg"
@@ -61,9 +59,9 @@ Dinner was at the Sarwaa cafe itself, with the sea breeze for company. The menu 
     title: "Beach, Backwaters & a Mangrove Sunset"
     date: "9 Oct 2026"
     featured_image: "/assets/images/kerala-varkala-valparai/day2-main.jpg"
-    description: "Day 2 was meant to be slow: a bit of beach, good food and no rush. We started at the beach, which is reached by a set of steps that run down beside the Sarwaa cafe. The beach drops off steeply right from the shoreline and the water was rough. With storm warnings out, we stayed out of the water and just enjoyed the view. The horizon was clear, but the sun was already harsh and unforgiving. An earlier start would have made it far more pleasant to sit there. After 45 minutes, we gave up and headed to the cafe for breakfast.<br/><br/>
+    description: "Day 2 was meant to be slow: a bit of beach, good food and no rush. We started at the beach, which is reached by a set of steps that run down beside the Sarwaa cafe. The beach drops off steeply right from the shoreline and the water was rough. Although we did spot a jelly fish that came with an incoming wave and then was swept away again into the sea. With storm warnings out, we stayed out of the water and just enjoyed the view. The horizon was clear, but the sun was already harsh and unforgiving. An earlier start would have made it far more pleasant to sit there. After 45 minutes, we gave up and headed to the cafe for breakfast.<br/><br/>
 The cafe opens at 8 am, and we were among the first to grab a table. Every dish was fresh, delicious and beautifully presented, a great way to start the day.<br/><br/>
-We had heard that a mangrove boat ride is a must in Varkala, so after breakfast we drove out to check the setup and book a slot. There are three: 6 am, 2:30 pm and 4:30 pm. 6 am would probably be the best but felt too early, and 2:30 pm would be hot, so we booked a country boat for 4:30 pm. There are plenty of operators to choose from. We booked with Mangrove View and paid around INR 1800 for a boat for 4 people.<br/><br/>
+We had heard that a mangrove boat ride is a must in Varkala, so after breakfast we drove out to check the setup and book a slot. There are three: 6 am, 2:30 pm and 4:30 pm. 6 am would probably be the best but felt too early, and 2:30 pm would be hot, so we booked a country boat for 4:30 pm. There are plenty of operators to choose from. We booked with Mangrove View (Vishnu on +919567990550) and paid around INR 2500 for a boat for 4 people.<br/><br/>
 With the slot booked, we went to Kaveri Elephant Park. It has a single elephant offering rides, and not much else. It was underwhelming and we would not recommend it, unless you have kids who would love an elephant ride. To its credit, the elephant was not in shackles and there was no seat mounted on its back, which is kinder to the animal but also makes the ride a bit riskier.<br/><br/>
 By then we were hungry and determined to have a local lunch with seafood. We found it at Holy Mackerel, a hole-in-the-wall place that is more of a small mess than a restaurant. We had the meals, fried mackerel and masala prawns with thick rice. Everything was fresh and tasty. If you want something upscale, this is not the place, but if you want honest local seafood, it is.<br/><br/>
 After a good lunch, we went back for a short afternoon nap, and at 3:30 pm sharp we left to meet our boat. The ride lasted 1.5 hours. We glided through natural tunnels formed by red mangroves, with their roots hanging down from above. We hopped off into the shallow water for a quick dip, and then watched a lovely sunset before heading back to the starting point.<br/><br/>
@@ -111,13 +109,13 @@ With the sunset still in our eyes, we drove back to the hotel, ordered dinner to
       location: "Nidra by Sarwaa, Varkala"
       rating: 3
       review: "Sarwaa is best known as a cafe, but it also has a few cottages on the South Cliff overlooking the sea. Our cottage was tastefully designed and very comfortable, with a porch that has a private sea view and a relaxing seating area. I would only recommend staying here if you can get a cottage, as the other rooms are not worth it. Overall, the place is more of a cafe than a hotel. The path to the cafe gets muddy and slushy in the rain. Car parking is available, but the place is crowded from morning to evening in season. The beach is reached by a long, steep staircase down the cliff, so the view is great, but the beach takes some effort to get to."
-    additional_considerations: "Go to the beach early, as the sun gets harsh quickly and the water is rough, especially with storm warnings. For the mangrove boat ride, the 6 am slot is probably the best, and 4:30 pm is a good choice for sunset. A country boat for 4 cost around INR 1800 with Mangrove View. Skip Kaveri Elephant Park unless you have kids who want an elephant ride."
+    additional_considerations: "Go to the beach early, as the sun gets harsh quickly and the water is rough, especially with storm warnings. For the mangrove boat ride, the 6 am slot is probably the best, and 4:30 pm is a good choice for sunset. A country boat for 4 cost around INR 1800 with Mangrove View. Skip Kaveri Elephant Park unless you have kids who want an elephant ride. Contact details for Mangrove View - Vishnu is +919567990550"
   - day: 3
     title: "Beaches, a Lighthouse & a Rainy Cliff Walk"
     date: "10 Oct 2026"
     featured_image: "/assets/images/kerala-varkala-valparai/day3-main-full.jpg"
     description: "With a relaxed Day 2 behind us, we were recharged and ready to explore more beaches. We were out by 6:30 am and headed first to Black Sand Beach, where early-morning surfing lessons were already underway. It was crowded, but the waves were nice, and the water felt approachable because the beach flattens out after the initial steep slope.<br/><br/>
-From there we visited Edava and Kappil beaches. On Kappil, the shore was littered with dead puffer fish. The fishermen warned us to stay well clear, as they are poisonous. After a short walk the beach turned lovely, and we spent a while playing in the water.<br/><br/>
+From there we visited Edava beach. On Edava beach, the shore was littered with dead puffer fish. The fishermen warned us to stay well clear, as they are poisonous. After a short walk the beach turned lovely, and we spent a while playing in the water.<br/><br/>
 By then it was time for breakfast, and based on the reviews we picked Cafe Inda. The food looked and tasted scrumptious, and we highly recommend it. After lingering for an hour, we set out for a walk along the cliff to the local market on the North Cliff. The sun was at its fiercest by then, so we cut the walk short and promised to come back in the evening.<br/><br/>
 The afternoon heat made it a good time to stay in. The smart ones among us visited the Prana by Sarwaa spa. The massage cost INR 2500, and they called it authentic and fantastic. The rest of us had a light lunch in the room and spent a lazy afternoon listening to the waves crash right below the cliff.<br/><br/>
 Later we drove to Anjuthengu Lighthouse, next to Anjuthengu Fort. The fort has little to see, but the lighthouse is great, one of the narrowest we have been in. It opens at 3 pm, and we arrived around 3:30 pm to find ourselves the only visitors. By 4 pm the crowd had arrived, and so many people on the narrow staircase and the top was too much, but we were already on our way down by then.<br/><br/>
@@ -177,7 +175,7 @@ For dinner we walked down to the market along the cliff again and ate at Cafe de
     places_to_eat:
       - name: "Cafe Inda"
         location: "Cafe Inda, Varkala"
-        comment: "Picked based on reviews, and it delivered. The breakfast was scrumptious, with waffles, pancakes and more, and we highly recommend it. Streets nearby are narrow and parking is limited, so be careful if driving."
+        comment: "Picked based on reviews, and it delivered. The breakfast was scrumptious and we highly recommend it. Streets nearby are narrow and parking is limited, so be careful if driving."
       - name: "Cafe del Mar"
         location: "Cafe del Mar, Varkala"
         comment: "A cliff-side restaurant with a multicuisine menu. The food was okay. We had pizza for the kids and local seafood for ourselves. Good for a cliff-side dinner, though not a standout. It may offer nice views during the day."
@@ -240,7 +238,7 @@ We explored the property for a while and then went to dinner. The hotel buffet h
     featured_image: "/assets/images/kerala-varkala-valparai/day5-main.jpg"
     description: "Day 5 started with a quick breakfast by 8:30 am, and then we boarded the 9:30 am hotel ferry to Sambranikodi island. The water around the island is shallow, and you can usually get down and walk around, but our boat did not stop. We went around the island and came back. After spending some more time at the property, we stepped out for lunch at Meen by Chef Pillai.<br/><br/>
 The food, especially the signature dish Fish Nirvana, was fantastic. It is a fish curry made with coconut milk and no spice, which made it perfect for the kids, and paired with Kerala parotta it was a hearty lunch. We also recommend the prawn starters and the drinks.<br/><br/>
-After a heavy lunch, we went back to the room to book a boat ride around Munroe island. It was a 2.5 hour ride that ended with sunset. It starts by winding through the backwater canals of Munroe island's villages, a very different scene from the mangrove backwaters. We kept ducking under low bridges until the canals opened out onto the wider Ashtamudi Lake again.<br/><br/>
+After a heavy lunch, we went back to the room to book a boat ride around Munroe island. It was a 2.5 hour ride that ended with sunset. We paid INR 1500 for the boat ride (can contact Vishnu at +918075037016). It starts by winding through the backwater canals of Munroe island's villages, a very different scene from the mangrove backwaters. We kept ducking under low bridges until the canals opened out onto the wider Ashtamudi Lake again.<br/><br/>
 There were options for kayaking, motor boats and more, but we stuck with a country boat once again. Along the way you can climb the densely packed mangrove trees, step down into the water, take a coconut water break and watch a beautiful sunset. It was dark by the time our boat crept back to the town. We drove an hour back to the hotel, got ready for the night, and had another filling dinner. The next day was a long drive to Valparai, so we needed the rest."
     highlights:
       - "✅ Country boat ride through the Munroe island villages, ending at the mangroves and sunset"
@@ -280,7 +278,7 @@ There were options for kayaking, motor boats and more, but we stuck with a count
       location: "The Leela Ashtamudi, A Raviz Hotel"
       rating: 5
       review: "A beautiful lakeside property with fantastic views and a few things to do on site, including the complimentary evening ferry ride on the lake. The property is generally quite expensive to book, but we got a good deal that included breakfast and one major meal, and made the most of it. The staff were very accommodating. Revathi and Sanjita at the front desk and Joel at the restaurant hosted us well and handled a lot of our requests."
-    additional_considerations: "Munroe island is about an hour from the hotel, so arrange a car or autorickshaw. The country boat ride is 2.5 hours and ends with sunset, so start in the afternoon. Duck low when going under bridges. The hotel ferry to Sambranikodi island does not necessarily stop there. Try the Fish Nirvana at Meen, especially if you have kids who prefer less spice."
+    additional_considerations: "Munroe island is about an hour from the hotel, so arrange a car or autorickshaw. The country boat ride is 2.5 hours and ends with sunset, so start in the afternoon. Duck low when going under bridges. The hotel ferry to Sambranikodi island does not necessarily stop there. Try the Fish Nirvana at Meen, especially if you have kids who prefer less spice. Thonikkaran Mundro Boating - Vishnu on +918075037016"
   - day: 6
     title: "Ghats, Waterfalls & the Sinnadorai Bungalows - Ashtamudi to Valparai"
     date: "13 Oct 2026"
@@ -325,12 +323,12 @@ Our package included all meals at Sinnadorai, and we recommend that, as there is
     description: "Day 7 was our last day of pure relaxation. Valparai is known for Malabar hornbill sightings at this time of year, so we were up at 6 am and headed to Sholayar Dam to try our luck. The hornbill did not show up, and we had no specific spot beyond the general tip to try Sholayar Dam. We did see several other unusual birds on the way, and some good sightings of the lion-tailed macaque, another endangered species. We soaked up the morning sky and the sounds of the forest, and then returned for breakfast, another fresh and delicious spread.<br/><br/>
 Next on the plan was a short picnic by a stream. We dipped our feet in the gentle water between the tea estates, and the view was peaceful beyond words. After spending some time there, we drove back to the bungalow and spent the afternoon relaxing.<br/><br/>
 Later we visited Parry's Tea Factory, which is open to visitors. Kids and adults alike learned how tea is made from scratch, from withering and drying to rolling and sorting into five grades. We did a bit of tea tasting and thanked our hosts. After that we headed into Valparai town to buy some spices.<br/><br/>
-We then visited Sinnadorai's second property in the same plantation, called Rotikadai, where we were lucky to spot a whistling thrush's nest. We had our evening tea there, watched the sunset, and returned to the cottage. After a still, quiet sunset and an early dinner, we settled in for some reading and got ready for the long drive back to Bangalore."
+We then visited Sinnadorai's second property in the same plantation, called Rotti-kadai, where we were lucky to spot a whistling thrush's nest. We had our evening tea there, watched the sunset, and returned to the cottage. After a still, quiet sunset and an early dinner, we settled in for some reading and got ready for the long drive back to Bangalore."
     highlights:
       - "✅ Bird sightings near Sholayar Dam, and the lion-tailed macaque"
       - "✅ A lazy afternoon at a stream in the middle of the tea estates"
       - "✅ Learning how tea is made at Parry's Tea Factory, with a tasting"
-      - "✅ Beautiful sunsets, and evening tea at Rotikadai"
+      - "✅ Beautiful sunsets, and evening tea at Rotti-kadai"
       - "✅ Delicious dinner from the bungalow kitchen"
       - "❌ We could not find a spot to see the Malabar hornbill"
     photos:
