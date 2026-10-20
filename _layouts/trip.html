@@ -15,6 +15,12 @@ layout: default
         <span class="trip-location">{{ page.location }}</span>
       </div>
       <p class="trip-summary">{{ page.summary }}</p>
+      {%- assign trip_slug = page.path | remove: "_trips/" | remove: ".md" -%}
+      {%- for mapped in site.data.trip_map.trips -%}
+        {%- if mapped.trip == trip_slug and mapped.hidden != true -%}
+      <a class="btn trip-map-link" href="{{ '/map/' | relative_url }}?trip={{ trip_slug }}">🗺️ View route on map</a>
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </header>
 

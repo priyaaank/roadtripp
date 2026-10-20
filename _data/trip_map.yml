@@ -1,0 +1,694 @@
+# ---------------------------------------------------------------------------
+# Map view configuration (home page -> "Map" tab)
+#
+# Add one entry under `trips:` per trip. Nothing else needs to change.
+#
+#   trip:    file name of the trip in _trips/, without ".md"
+#            (e.g. 07-varkala-ashtamudi-valparai). Used for the title/link.
+#   color:   colour of the routes and pins for this trip (any CSS colour)
+#   hidden:  true to keep the entry in this file but not show it on the map
+#   routes:  one or more road segments. Each has a name and `waypoints`,
+#            a list of [latitude, longitude] pairs in driving order.
+#              snap: true   -> the line follows real roads (uses the public
+#                              OSRM demo server, falls back to a straight
+#                              line if it is unreachable)
+#              snap: false  -> straight lines between waypoints; use this for
+#                              flights, ferries or when you list dense points
+#              dashed: true -> draw the segment dashed (good for flights)
+#              color:       optional, overrides the trip colour for a segment
+#   pins:    places visited
+#              name, coords: [lat, lng]
+#              type:  stay | food | sight | stop | start  (picks the icon)
+#              day:   optional, shown in the popup
+#              note:  optional, one line shown in the popup
+#
+# Tip: to get coordinates, right-click a place in Google Maps and click the
+# numbers at the top of the menu. Coordinates below are approximate.
+# ---------------------------------------------------------------------------
+
+settings:
+  center: [20.5, 78.9]   # initial view when the map opens (India)
+  zoom: 5
+  # Tiles come from OpenStreetMap. Swap the URL for another provider if needed.
+  tile_url: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+  tile_attribution: "&copy; OpenStreetMap contributors"
+
+trips:
+  - trip: 07-varkala-ashtamudi-valparai
+    color: "#2E8B57"
+    routes:
+      - name: "Day 1 - Bengaluru to Varkala"
+        snap: true
+        waypoints:
+          - [12.9716, 77.5946]   # Bengaluru
+          - [11.6643, 78.1460]   # Salem
+          - [9.8230, 77.9890]    # Thirumangalam
+          - [8.1833, 77.4119]    # Nagercoil
+          - [8.7290, 76.7012]    # Varkala, South Cliff
+      - name: "Day 4 - Varkala to Ashtamudi"
+        snap: true
+        waypoints:
+          - [8.7290, 76.7012]
+          - [8.9030, 76.5850]    # Leela Ashtamudi
+      - name: "Day 6 - Ashtamudi to Valparai via Kochi"
+        snap: true
+        waypoints:
+          - [8.9030, 76.5850]
+          - [9.9312, 76.2673]    # Kochi
+          - [10.2851, 76.5698]   # Athirapalli
+          - [10.3270, 76.9510]   # Valparai
+      - name: "Day 8 - Valparai to Bengaluru"
+        snap: true
+        waypoints:
+          - [10.3270, 76.9510]
+          - [10.6609, 77.0048]   # Pollachi
+          - [11.0168, 76.9558]   # Coimbatore
+          - [11.6643, 78.1460]   # Salem
+          - [12.7409, 77.8253]   # Hosur
+          - [12.9716, 77.5946]
+    pins:
+      - name: "Bengaluru"
+        coords: [12.9716, 77.5946]
+        type: start
+        day: 1
+        note: "Left at 5:30 am"
+      - name: "Sri Sarvana Bhavan's Aasai Dosai, Salem"
+        coords: [11.6643, 78.1460]
+        type: food
+        day: 1
+        note: "Breakfast stop. Mediocre"
+      - name: "Hari's Restaurant, Thirumangalam"
+        coords: [9.8230, 77.9890]
+        type: food
+        day: 1
+        note: "Good thali, worth the price"
+      - name: "Nidra by Sarwaa, Varkala"
+        coords: [8.7290, 76.7012]
+        type: stay
+        day: 1
+        note: "Cliff-top cottages with sea views (Days 1-4)"
+      - name: "Anjuthengu Lighthouse"
+        coords: [8.6668, 76.7620]
+        type: sight
+        day: 3
+        note: "A narrow lighthouse. Go at 3 pm when it opens"
+      - name: "Cafe del Mar, North Cliff"
+        coords: [8.7380, 76.7025]
+        type: food
+        day: 3
+        note: "Okay food, cliff-side dinner"
+      - name: "The Leela Ashtamudi - A Raviz Hotel"
+        coords: [8.9030, 76.5850]
+        type: stay
+        day: 4
+        note: "Lakeside stay (Days 4-5)"
+      - name: "Munroe Island"
+        coords: [9.0040, 76.6110]
+        type: sight
+        day: 5
+        note: "Country boat ride through village canals at sunset"
+      - name: "Athirapalli Falls"
+        coords: [10.2851, 76.5698]
+        type: stop
+        day: 6
+        note: "Very little water in the dry season"
+      - name: "Sinnadorai Bungalows, Valparai"
+        coords: [10.3270, 76.9510]
+        type: stay
+        day: 6
+        note: "British-era bungalows in a tea estate (Days 6-8)"
+      - name: "Monkey Falls"
+        coords: [10.4900, 76.9810]
+        type: stop
+        day: 8
+        note: "Not much to see in the dry season"
+
+  - trip: 03-leh-ladakh-adventure
+    color: "#E67E22"
+    routes:
+      - name: "Day 1 - Bengaluru to Pune"
+        snap: true
+        waypoints:
+          - [12.9716, 77.5946]
+          - [17.6805, 74.0183]   # Satara
+          - [18.5912, 73.7380]   # Hinjawadi, Pune
+      - name: "Day 2 - Pune to Mumbai"
+        snap: true
+        waypoints:
+          - [18.5912, 73.7380]
+          - [19.0330, 73.0297]   # Navi Mumbai
+      - name: "Day 5 - Mumbai to Ahmedabad"
+        snap: true
+        waypoints:
+          - [19.0330, 73.0297]
+          - [23.0225, 72.5714]   # Ahmedabad
+      - name: "Day 7 - Ahmedabad to Jaipur"
+        snap: true
+        waypoints:
+          - [23.0225, 72.5714]
+          - [24.9400, 73.8100]   # Nathdwara
+          - [26.9366, 75.7956]   # Jaipur
+      - name: "Day 9 - Jaipur to Chandigarh"
+        snap: true
+        waypoints:
+          - [26.9366, 75.7956]
+          - [30.6492, 76.8190]   # Zirakpur, Chandigarh
+      - name: "Day 10 - Chandigarh to Jispa via Manali"
+        snap: true
+        waypoints:
+          - [30.6492, 76.8190]
+          - [32.2396, 77.1887]   # Manali
+          - [32.6384, 77.1820]   # Jispa
+      - name: "Day 11 - Jispa to Leh"
+        snap: true
+        waypoints:
+          - [32.6384, 77.1820]
+          - [32.9100, 77.5800]   # Sarchu
+          - [34.1526, 77.5771]   # Leh
+      - name: "Day 14 - Leh to Pangong Tso"
+        snap: true
+        waypoints:
+          - [34.1526, 77.5771]
+          - [33.7600, 78.6550]   # Pangong Tso
+      - name: "Day 15 - Pangong Tso to Nubra via Shyok"
+        snap: true
+        waypoints:
+          - [33.7600, 78.6550]
+          - [34.0000, 78.0900]   # Durbuk
+          - [34.5780, 77.4560]   # Hunder, Nubra
+      - name: "Day 17 - Nubra to Srinagar via Khardung La"
+        snap: true
+        waypoints:
+          - [34.5780, 77.4560]
+          - [34.2780, 77.6040]   # Khardung La
+          - [34.1526, 77.5771]   # Leh
+          - [34.3180, 76.8800]   # Khalsi
+          - [34.5539, 76.1349]   # Kargil
+          - [34.0837, 74.7973]   # Srinagar
+      - name: "Day 19 - Srinagar to Gulmarg and back"
+        snap: true
+        waypoints:
+          - [34.0837, 74.7973]
+          - [34.0484, 74.3805]
+          - [34.0837, 74.7973]
+      - name: "Day 21 - Srinagar to Chandigarh"
+        snap: true
+        waypoints:
+          - [34.0837, 74.7973]
+          - [32.9260, 75.1420]   # Udhampur
+          - [30.6492, 76.8190]
+      - name: "Day 22 - Flight home (the car was shipped)"
+        snap: false
+        dashed: true
+        color: "#7f8c8d"
+        waypoints:
+          - [30.6492, 76.8190]
+          - [12.9716, 77.5946]
+    pins:
+      - name: "Bengaluru"
+        coords: [12.9716, 77.5946]
+        type: start
+        day: 1
+        note: "Where it all began"
+      - name: "Manas Resto Lounge, Satara"
+        coords: [17.6805, 74.0183]
+        type: food
+        day: 1
+      - name: "Taj Vivanta, Hinjawadi, Pune"
+        coords: [18.5912, 73.7380]
+        type: stay
+        day: 1
+      - name: "Navi Mumbai"
+        coords: [19.0330, 73.0297]
+        type: stay
+        day: 2
+        note: "Stayed with family (Days 2-5)"
+      - name: "Renaissance Ahmedabad Hotel"
+        coords: [23.0225, 72.5714]
+        type: stay
+        day: 5
+        note: "Days 5-6"
+      - name: "Swati Snacks, Ahmedabad"
+        coords: [23.0287, 72.5640]
+        type: food
+        day: 6
+      - name: "Dhabalogy, Nathdwara"
+        coords: [24.9400, 73.8100]
+        type: food
+        day: 7
+      - name: "Fairfield by Marriott, Bani Park, Jaipur"
+        coords: [26.9366, 75.7956]
+        type: stay
+        day: 7
+        note: "Days 7-8"
+      - name: "Lassiwala, Jaipur"
+        coords: [26.9130, 75.8050]
+        type: food
+        day: 8
+      - name: "Radisson Hotel, Zirakpur, Chandigarh"
+        coords: [30.6492, 76.8190]
+        type: stay
+        day: 9
+        note: "Also the stay on Day 21"
+      - name: "Gemoor Khar Banjara, Jispa"
+        coords: [32.6384, 77.1820]
+        type: stay
+        day: 10
+      - name: "The Bodhi Tree, Leh"
+        coords: [34.1620, 77.5850]
+        type: stay
+        day: 11
+        note: "Days 11-13"
+      - name: "Desert Blue Pangong Camps"
+        coords: [33.7600, 78.6550]
+        type: stay
+        day: 14
+      - name: "Lchang Nang Retreat, Nubra"
+        coords: [34.5780, 77.4560]
+        type: stay
+        day: 15
+        note: "Days 15-16"
+      - name: "Diskit ATV ride"
+        coords: [34.5460, 77.5600]
+        type: sight
+        day: 15
+      - name: "Khardung La"
+        coords: [34.2780, 77.6040]
+        type: stop
+        day: 17
+      - name: "Samyas Garden Restaurant, Khalsi"
+        coords: [34.3180, 76.8800]
+        type: food
+        day: 17
+      - name: "Four Points by Sheraton, Srinagar"
+        coords: [34.0990, 74.8830]
+        type: stay
+        day: 17
+        note: "Days 17-20"
+      - name: "Ahdoo's, Residency Road, Srinagar"
+        coords: [34.0780, 74.8030]
+        type: food
+        day: 18
+      - name: "Gulmarg"
+        coords: [34.0484, 74.3805]
+        type: sight
+        day: 19
+        note: "Gondola ride"
+      - name: "Sonmarg"
+        coords: [34.3030, 75.2930]
+        type: sight
+        day: 20
+        note: "Riverbanks and a last Ahdoo's feast"
+      - name: "Sector 34 street food, Chandigarh"
+        coords: [30.7210, 76.7640]
+        type: food
+        day: 21
+
+  - trip: 01-konkan-coastaltrip
+    color: "#3498DB"
+    routes:
+      - name: "Bengaluru to Mangaluru"
+        snap: true
+        waypoints:
+          - [12.9716, 77.5946]
+          - [13.2000, 76.1800]   # Hassan side
+          - [12.9141, 74.8560]   # Mangaluru
+      - name: "Mangaluru to Goa along the coast"
+        snap: true
+        waypoints:
+          - [12.9141, 74.8560]
+          - [13.1400, 74.7600]   # Padubidri
+          - [13.3409, 74.7421]   # Udupi
+          - [14.0940, 74.4850]   # Murdeshwar
+          - [14.5479, 74.3188]   # Gokarna
+          - [15.4909, 73.8278]   # Goa
+      - name: "Goa to Bengaluru"
+        snap: true
+        waypoints:
+          - [15.4909, 73.8278]
+          - [12.9716, 77.5946]
+    pins:
+      - name: "Bengaluru"
+        coords: [12.9716, 77.5946]
+        type: start
+        day: 1
+        note: "Left around 11 am"
+      - name: "Taj Vivanta, Mangaluru"
+        coords: [12.9141, 74.8560]
+        type: stay
+        day: 1
+      - name: "Pabbas, Lalbagh, Mangaluru"
+        coords: [12.8900, 74.8400]
+        type: food
+        day: 1
+        note: "Ice cream reward"
+      - name: "Udupi"
+        coords: [13.3409, 74.7421]
+        type: stop
+      - name: "Murdeshwar"
+        coords: [14.0940, 74.4850]
+        type: sight
+      - name: "Gokarna"
+        coords: [14.5479, 74.3188]
+        type: sight
+      - name: "Goa"
+        coords: [15.4909, 73.8278]
+        type: sight
+
+  - trip: 02-himachal-adventure
+    color: "#8E44AD"
+    routes:
+      - name: "Flight to Delhi"
+        snap: false
+        dashed: true
+        color: "#7f8c8d"
+        waypoints:
+          - [12.9716, 77.5946]
+          - [28.5562, 77.1000]
+      - name: "Day 2 - Delhi to Kasauli"
+        snap: true
+        waypoints:
+          - [28.5562, 77.1000]
+          - [30.9010, 76.9650]
+      - name: "Day 4 - Kasauli to Thanedar via Shimla"
+        snap: true
+        waypoints:
+          - [30.9010, 76.9650]
+          - [31.1048, 77.1734]   # Shimla
+          - [31.2900, 77.5000]   # Thanedar
+      - name: "Day 5 - Thanedar to Jibhi"
+        snap: true
+        waypoints:
+          - [31.2900, 77.5000]
+          - [31.5900, 77.3600]
+      - name: "Day 7 - Jibhi to Manali"
+        snap: true
+        waypoints:
+          - [31.5900, 77.3600]
+          - [32.2396, 77.1887]
+      - name: "Day 10 - Manali to Dharamshala"
+        snap: true
+        waypoints:
+          - [32.2396, 77.1887]
+          - [32.2190, 76.3234]
+      - name: "Day 13 - Dharamshala to Dalhousie"
+        snap: true
+        waypoints:
+          - [32.2190, 76.3234]
+          - [32.5387, 75.9710]
+      - name: "Day 15 - Dalhousie to Ambala via Amritsar"
+        snap: true
+        waypoints:
+          - [32.5387, 75.9710]
+          - [31.6200, 74.8765]
+          - [30.3782, 76.7767]
+      - name: "Day 16 - Ambala to Delhi"
+        snap: true
+        waypoints:
+          - [30.3782, 76.7767]
+          - [28.5562, 77.1000]
+    pins:
+      - name: "Hotel Almati Inn, Delhi Airport"
+        coords: [28.5562, 77.1000]
+        type: stay
+        day: 1
+      - name: "Kasauli Exotica"
+        coords: [30.9010, 76.9650]
+        type: stay
+        day: 2
+        note: "Days 2-3"
+      - name: "Banjara Orchard Retreat, Thanedar"
+        coords: [31.2900, 77.5000]
+        type: stay
+        day: 4
+      - name: "Hatu Peak"
+        coords: [31.2330, 77.4510]
+        type: sight
+        day: 4
+      - name: "The Misty Wilds Home, Jibhi"
+        coords: [31.5900, 77.3600]
+        type: stay
+        day: 5
+        note: "Days 5-6"
+      - name: "Serolsar Lake"
+        coords: [31.5520, 77.3870]
+        type: sight
+        day: 6
+        note: "Trek to the emerald lake"
+      - name: "Montana Blues Resort, Manali"
+        coords: [32.2396, 77.1887]
+        type: stay
+        day: 7
+        note: "Days 7-9"
+      - name: "McLeodganj and Dharamshala"
+        coords: [32.2426, 76.3213]
+        type: sight
+        day: 10
+        note: "Days 10-12"
+      - name: "Dalhousie"
+        coords: [32.5387, 75.9710]
+        type: sight
+        day: 13
+        note: "Days 13-14"
+      - name: "Chamera Lake"
+        coords: [32.6000, 76.0100]
+        type: sight
+        day: 14
+        note: "Boating"
+      - name: "Golden Temple, Amritsar"
+        coords: [31.6200, 74.8765]
+        type: sight
+        day: 15
+      - name: "Regenta City Vilas Palace, Ambala"
+        coords: [30.3782, 76.7767]
+        type: stay
+        day: 15
+
+  - trip: 04-thanjavur-weekendtrip
+    color: "#B7950B"
+    routes:
+      - name: "Onward - Bengaluru to Swamimalai"
+        snap: true
+        waypoints:
+          - [12.9716, 77.5946]
+          - [12.5186, 78.2137]   # Krishnagiri
+          - [12.2253, 79.0747]   # Tiruvannamalai
+          - [11.5200, 79.3300]   # Virudhachalam
+          - [10.9590, 79.3300]   # Swamimalai
+      - name: "Day 2 - Swamimalai to Thanjavur"
+        snap: true
+        waypoints:
+          - [10.9590, 79.3300]
+          - [10.7828, 79.1318]
+          - [10.9590, 79.3300]
+      - name: "Return - Swamimalai to Bengaluru"
+        snap: true
+        waypoints:
+          - [10.9590, 79.3300]
+          - [11.5900, 78.5990]   # Attur
+          - [11.6643, 78.1460]   # Salem
+          - [12.1270, 78.1580]   # Dharmapuri
+          - [12.5186, 78.2137]   # Krishnagiri
+          - [12.9716, 77.5946]
+    pins:
+      - name: "Murugan Idli, Krishnagiri"
+        coords: [12.5186, 78.2137]
+        type: food
+        day: 1
+      - name: "Indeco, Swamimalai"
+        coords: [10.9590, 79.3300]
+        type: stay
+        day: 1
+        note: "Our base for all 3 nights"
+      - name: "Mangalambika Vilas, Kumbakonam"
+        coords: [10.9617, 79.3881]
+        type: food
+        day: 1
+      - name: "Brihadeeswara Temple, Thanjavur"
+        coords: [10.7828, 79.1318]
+        type: sight
+        day: 2
+      - name: "Airavatesvara Temple, Darasuram"
+        coords: [10.9473, 79.3569]
+        type: sight
+        day: 3
+      - name: "Adyar Ananda Bhavan, Attur"
+        coords: [11.5900, 78.5990]
+        type: food
+        day: 3
+
+  - trip: 05-tamil-nadu-roadtrip
+    color: "#16A085"
+    routes:
+      - name: "Day 1 - Bengaluru to Rameshwaram via Madurai"
+        snap: true
+        waypoints:
+          - [12.9716, 77.5946]
+          - [12.5186, 78.2137]   # Krishnagiri
+          - [9.9252, 78.1198]    # Madurai
+          - [9.2876, 79.3129]    # Rameshwaram
+      - name: "Day 2 - Rameshwaram to Dhanushkodi and back"
+        snap: true
+        waypoints:
+          - [9.2876, 79.3129]
+          - [9.1490, 79.4260]
+          - [9.2876, 79.3129]
+      - name: "Day 3 - Rameshwaram to Chettinad"
+        snap: true
+        waypoints:
+          - [9.2876, 79.3129]
+          - [10.0860, 78.8040]
+      - name: "Day 5 - Chettinad to Tharangambadi"
+        snap: true
+        waypoints:
+          - [10.0860, 78.8040]
+          - [11.0270, 79.8553]
+      - name: "Day 7 - Tharangambadi to Bengaluru"
+        snap: true
+        waypoints:
+          - [11.0270, 79.8553]
+          - [11.6643, 78.1460]   # Salem
+          - [12.5186, 78.2137]   # Krishnagiri
+          - [12.9716, 77.5946]
+    pins:
+      - name: "New Sri Ram Mess, Madurai"
+        coords: [9.9252, 78.1198]
+        type: food
+        day: 1
+      - name: "Pamban Bridge"
+        coords: [9.2809, 79.2127]
+        type: sight
+        day: 1
+        note: "Views of the old and new bridges"
+      - name: "Boomerank, Rameshwaram"
+        coords: [9.2876, 79.3129]
+        type: stay
+        day: 1
+        note: "Days 1-2"
+      - name: "Dhanushkodi"
+        coords: [9.1490, 79.4260]
+        type: sight
+        day: 2
+      - name: "Chidambaram Vilas, Chettinad"
+        coords: [10.0860, 78.8040]
+        type: stay
+        day: 3
+        note: "Days 3-4"
+      - name: "Lotus Chettinad, Kanadukathan"
+        coords: [10.0583, 78.7611]
+        type: food
+        day: 3
+      - name: "The Bangala, Karaikudi"
+        coords: [10.0766, 78.7800]
+        type: food
+        day: 4
+      - name: "Bungalow by the beach, Tranquebar"
+        coords: [11.0270, 79.8553]
+        type: stay
+        day: 5
+        note: "Days 5-7"
+
+  - trip: 06-bhutan-roadtrip
+    color: "#C0392B"
+    routes:
+      - name: "Flight to Bagdogra"
+        snap: false
+        dashed: true
+        color: "#7f8c8d"
+        waypoints:
+          - [12.9716, 77.5946]
+          - [26.6812, 88.3286]
+      - name: "Day 1 - Bagdogra to Phuentsholing"
+        snap: true
+        waypoints:
+          - [26.6812, 88.3286]
+          - [26.7271, 88.3953]   # Siliguri
+          - [26.8560, 89.3830]
+      - name: "Day 2 - Phuentsholing to Thimphu"
+        snap: true
+        waypoints:
+          - [26.8560, 89.3830]
+          - [27.4728, 89.6390]
+      - name: "Day 4 - Thimphu to Punakha via Dochula"
+        snap: true
+        waypoints:
+          - [27.4728, 89.6390]
+          - [27.4960, 89.7530]
+          - [27.5858, 89.8600]
+      - name: "Day 5 - Punakha to Gangtey"
+        snap: true
+        waypoints:
+          - [27.5858, 89.8600]
+          - [27.4670, 90.1740]
+      - name: "Day 6 - Gangtey to Paro"
+        snap: true
+        waypoints:
+          - [27.4670, 90.1740]
+          - [27.4960, 89.7530]
+          - [27.4305, 89.4130]
+      - name: "Day 8 - Paro to Phuentsholing"
+        snap: true
+        waypoints:
+          - [27.4305, 89.4130]
+          - [27.4728, 89.6390]
+          - [26.8560, 89.3830]
+      - name: "Day 9 - Phuentsholing to Bagdogra"
+        snap: true
+        waypoints:
+          - [26.8560, 89.3830]
+          - [26.6812, 88.3286]
+      - name: "Flight home"
+        snap: false
+        dashed: true
+        color: "#7f8c8d"
+        waypoints:
+          - [26.6812, 88.3286]
+          - [12.9716, 77.5946]
+    pins:
+      - name: "KB Restaurant, Siliguri"
+        coords: [26.7271, 88.3953]
+        type: food
+        day: 1
+      - name: "Hotel GaMeGa, Phuentsholing"
+        coords: [26.8560, 89.3830]
+        type: stay
+        day: 1
+        note: "Also Day 8"
+      - name: "Lhamu Restaurant, Gedu"
+        coords: [26.9500, 89.4900]
+        type: food
+        day: 2
+        note: "Momos"
+      - name: "Access Suites, Thimphu"
+        coords: [27.4728, 89.6390]
+        type: stay
+        day: 2
+        note: "Days 2-3"
+      - name: "Dochula Pass"
+        coords: [27.4960, 89.7530]
+        type: stop
+        day: 4
+        note: "108 chortens"
+      - name: "Dharma Siddhi, Punakha"
+        coords: [27.5858, 89.8600]
+        type: stay
+        day: 4
+        note: "Days 4-5"
+      - name: "Gangtey and Phobjikha Valley"
+        coords: [27.4670, 90.1740]
+        type: sight
+        day: 5
+        note: "Monastery and valley trek"
+      - name: "Ananda Resorts, Paro"
+        coords: [27.4305, 89.4130]
+        type: stay
+        day: 6
+        note: "Days 6-7"
+      - name: "Tiger's Nest (Paro Taktsang)"
+        coords: [27.4917, 89.3633]
+        type: sight
+        day: 7
+      - name: "Dam View Restaurant, Chukha"
+        coords: [27.0650, 89.5300]
+        type: food
+        day: 8

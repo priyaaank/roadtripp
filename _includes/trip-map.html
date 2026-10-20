@@ -1,0 +1,36 @@
+{%- comment -%}
+  Full-page map. Data comes from _data/trip_map.yml; see that file for how to configure it.
+{%- endcomment -%}
+<div id="trip-map" class="trip-map-canvas" role="region" aria-label="Map"></div>
+
+<aside class="trip-map-panel" id="trip-map-panel" aria-label="Trips">
+  <div class="trip-map-panel-head">
+    <h2>Our trips</h2>
+    <button type="button" id="trip-map-toggle" aria-expanded="true">Hide</button>
+  </div>
+  <div class="trip-map-actions">
+    <button type="button" id="trip-map-all">Select all</button>
+    <button type="button" id="trip-map-none">Clear</button>
+  </div>
+  <ul class="trip-map-list" id="trip-map-list"></ul>
+</aside>
+
+<script type="application/json" id="trip-map-data">
+{
+  "settings": {{ site.data.trip_map.settings | jsonify }},
+  "trips": {{ site.data.trip_map.trips | jsonify }},
+  "meta": {
+    {%- for doc in site.trips -%}
+    {{ doc.relative_path | remove: "_trips/" | remove: ".md" | jsonify }}: {
+      "title": {{ doc.title | jsonify }},
+      "url": {{ doc.url | relative_url | jsonify }},
+      "image": {{ doc.featured_image | relative_url | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  }
+}
+</script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="{{ '/assets/js/trip-map.js' | relative_url }}"></script>
