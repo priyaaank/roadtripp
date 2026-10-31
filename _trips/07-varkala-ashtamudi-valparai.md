@@ -298,6 +298,8 @@ Our package included all meals at Sinnadorai, and we recommend that, as there is
       - "❌ We did not book the TN e-pass in advance, which caused a major hassle at the border"
       - "❌ The last 5 km inside Sinnadorai were rough and took 25 minutes each way"
     photos:
+      - image: "/assets/images/kerala-varkala-valparai/day6-main.jpg"
+        caption: "Beautiful hues marking the end of the day"
       - image: "/assets/images/kerala-varkala-valparai/day6-waterfall.jpg"
         caption: "Charpa waterfall with very little water"
       - image: "/assets/images/kerala-varkala-valparai/day6-reservoir.jpg"
